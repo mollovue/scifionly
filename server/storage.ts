@@ -175,6 +175,9 @@ export interface IStorage {
   autocompletePeople(query: string, limit: number): Array<{ id: number; name: string; profile_path: string | null; known_for_department: string | null }>;
   autocompleteKeywords(query: string, limit: number): Array<{ id: number; name: string }>;
   getStats(): Stats;
+  getCachedImage(mediaType: "movie" | "tv", mediaId: number, imageType: "poster" | "backdrop", size: string): { image_data: Buffer; content_type: string } | null;
+  cacheImage(mediaType: string, mediaId: number, imageType: string, size: string, tmdbPath: string | null, imageData: Buffer, contentType: string, fileSize: number): void;
+  getTmdbImagePath(mediaType: "movie" | "tv", mediaId: number, imageType: "poster" | "backdrop"): string | null;
 }
 
 // ─────────────────────────────────────────────
@@ -367,6 +370,23 @@ export class DatabaseStorage implements IStorage {
       CREATE INDEX IF NOT EXISTS idx_movie_crew_job    ON movie_crew(job);
       CREATE INDEX IF NOT EXISTS idx_tv_cast_person    ON tv_series_cast(person_id);
       CREATE INDEX IF NOT EXISTS idx_tv_crew_person    ON tv_series_crew(person_id);
+
+      -- ─── Image cache ──────────────────────────────
+      CREATE TABLE IF NOT EXISTS image_cache (
+        id          INTEGER PRIMARY KEY AUTOINCREMENT,
+        media_type  TEXT    NOT NULL,
+        media_id    INTEGER NOT NULL,
+        image_type  TEXT    NOT NULL,
+        size        TEXT    NOT NULL,
+        tmdb_path   TEXT,
+        image_data  BLOB    NOT NULL,
+        content_type TEXT   NOT NULL,
+        file_size   INTEGER NOT NULL DEFAULT 0,
+        fetched_at  TEXT    NOT NULL DEFAULT CURRENT_TIMESTAMP,
+        UNIQUE(media_type, media_id, image_type, size)
+      );
+
+      CREATE INDEX IF NOT EXISTS idx_image_cache_lookup ON image_cache(media_type, media_id, image_type, size);
 
       -- ─── FTS5 virtual tables ──────────────────────
       CREATE VIRTUAL TABLE IF NOT EXISTS movies_fts USING fts5(
@@ -1104,6 +1124,58 @@ export class DatabaseStorage implements IStorage {
       genres_count: genresCount,
       people_count: peopleCount,
     };
+  }
+
+  // ─── Image cache methods ──────────────────────────────────────────────────
+
+  getCachedImage(
+    mediaType: "movie" | "tv",
+    mediaId: number,
+    imageType: "poster" | "backdrop",
+    size: string
+  ): { image_data: Buffer; content_type: string } | null {
+    const row = sqlite
+      .prepare(
+        `SELECT image_data, content_type FROM image_cache
+         WHERE media_type = ? AND media_id = ? AND image_type = ? AND size = ?
+         LIMIT 1`
+      )
+      .get(mediaType, mediaId, imageType, size) as
+      | { image_data: Buffer; content_type: string }
+      | undefined;
+    return row ?? null;
+  }
+
+  cacheImage(
+    mediaType: string,
+    mediaId: number,
+    imageType: string,
+    size: string,
+    tmdbPath: string | null,
+    imageData: Buffer,
+    contentType: string,
+    fileSize: number
+  ): void {
+    sqlite
+      .prepare(
+        `INSERT OR REPLACE INTO image_cache
+           (media_type, media_id, image_type, size, tmdb_path, image_data, content_type, file_size, fetched_at)
+         VALUES (?, ?, ?, ?, ?, ?, ?, ?, datetime('now'))`
+      )
+      .run(mediaType, mediaId, imageType, size, tmdbPath, imageData, contentType, fileSize);
+  }
+
+  getTmdbImagePath(
+    mediaType: "movie" | "tv",
+    mediaId: number,
+    imageType: "poster" | "backdrop"
+  ): string | null {
+    const column = imageType === "poster" ? "poster_path" : "backdrop_path";
+    const table = mediaType === "movie" ? "movies" : "tv_series";
+    const row = sqlite
+      .prepare(`SELECT ${column} FROM ${table} WHERE id = ?`)
+      .get(mediaId) as Record<string, string | null> | undefined;
+    return row?.[column] ?? null;
   }
 }
 

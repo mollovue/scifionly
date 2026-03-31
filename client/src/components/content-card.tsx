@@ -56,6 +56,9 @@ export function ContentCard({
             alt={title}
             className="w-full h-full"
             fallbackType="poster"
+            mediaType={type}
+            mediaId={id}
+            imageType="poster"
           />
 
           {/* Hover overlay with overview */}

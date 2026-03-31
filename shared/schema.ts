@@ -1,4 +1,4 @@
-import { sqliteTable, text, integer, real, primaryKey } from "drizzle-orm/sqlite-core";
+import { sqliteTable, text, integer, real, primaryKey, blob } from "drizzle-orm/sqlite-core";
 import { createInsertSchema } from "drizzle-zod";
 import { z } from "zod";
 
@@ -245,6 +245,25 @@ export const syncState = sqliteTable("sync_state", {
   last_change_date: text("last_change_date"),
   updated_at: text("updated_at").default("CURRENT_TIMESTAMP"),
 });
+
+// ─────────────────────────────────────────────
+// Image cache
+// ─────────────────────────────────────────────
+
+export const imageCache = sqliteTable("image_cache", {
+  id: integer("id").primaryKey({ autoIncrement: true }),
+  media_type: text("media_type").notNull(),
+  media_id: integer("media_id").notNull(),
+  image_type: text("image_type").notNull(),
+  size: text("size").notNull(),
+  tmdb_path: text("tmdb_path"),
+  image_data: blob("image_data", { mode: "buffer" }).notNull(),
+  content_type: text("content_type").notNull(),
+  file_size: integer("file_size").notNull().default(0),
+  fetched_at: text("fetched_at").default("CURRENT_TIMESTAMP"),
+});
+
+export type ImageCache = typeof imageCache.$inferSelect;
 
 // ─────────────────────────────────────────────
 // Insert schemas and types

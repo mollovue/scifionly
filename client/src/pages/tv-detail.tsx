@@ -164,6 +164,9 @@ export default function TvDetail() {
             alt={`${show.name} backdrop`}
             className="w-full h-full"
             fallbackType="backdrop"
+            mediaType="tv"
+            mediaId={show.id}
+            imageType="backdrop"
           />
         ) : (
           <div className="w-full h-full bg-muted" />
@@ -196,6 +199,9 @@ export default function TvDetail() {
               alt={show.name}
               className="w-40 md:w-52 aspect-[2/3] rounded-xl border border-border shadow-xl"
               fallbackType="poster"
+              mediaType="tv"
+              mediaId={show.id}
+              imageType="poster"
             />
           </div>
 

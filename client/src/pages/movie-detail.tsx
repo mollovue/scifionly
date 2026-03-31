@@ -176,6 +176,9 @@ export default function MovieDetail() {
             alt={`${movie.title} backdrop`}
             className="w-full h-full"
             fallbackType="backdrop"
+            mediaType="movie"
+            mediaId={movie.id}
+            imageType="backdrop"
           />
         ) : (
           <div className="w-full h-full bg-muted" />
@@ -208,6 +211,9 @@ export default function MovieDetail() {
               alt={movie.title}
               className="w-40 md:w-52 aspect-[2/3] rounded-xl border border-border shadow-xl"
               fallbackType="poster"
+              mediaType="movie"
+              mediaId={movie.id}
+              imageType="poster"
             />
           </div>
 

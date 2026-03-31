@@ -1,6 +1,7 @@
 import type { Express, Request, Response } from "express";
 import { createServer, type Server } from "http";
 import { storage, type SearchParams } from "./storage";
+import { makeImageKey, isInFlight, fetchAndCacheImage } from "./image-fetcher";
 
 export async function registerRoutes(
   httpServer: Server,
@@ -198,6 +199,60 @@ export async function registerRoutes(
       res.json({ results });
     } catch (err) {
       console.error("Autocomplete keywords error:", err);
+      res.status(500).json({ error: "Internal server error" });
+    }
+  });
+
+  // ─── Image cache ──────────────────────────────────────────────────────────
+
+  app.get("/api/images/:mediaType/:id/:imageType", (req: Request, res: Response) => {
+    try {
+      const { mediaType, id: idStr, imageType } = req.params;
+
+      if (mediaType !== "movie" && mediaType !== "tv") {
+        return res.status(400).json({ error: "Invalid mediaType (must be 'movie' or 'tv')" });
+      }
+      if (imageType !== "poster" && imageType !== "backdrop") {
+        return res.status(400).json({ error: "Invalid imageType (must be 'poster' or 'backdrop')" });
+      }
+
+      const id = parseInt(idStr, 10);
+      if (isNaN(id)) {
+        return res.status(400).json({ error: "Invalid ID" });
+      }
+
+      const size = req.query.size
+        ? String(req.query.size)
+        : imageType === "poster"
+          ? "w342"
+          : "w780";
+
+      // Check cache
+      const cached = storage.getCachedImage(mediaType, id, imageType, size);
+      if (cached) {
+        res.set("Content-Type", cached.content_type);
+        res.set("Cache-Control", "public, max-age=86400");
+        res.set("Content-Length", String(cached.image_data.length));
+        return res.status(200).send(cached.image_data);
+      }
+
+      // Cache miss — look up TMDB path
+      const tmdbPath = storage.getTmdbImagePath(mediaType, id, imageType);
+      if (!tmdbPath) {
+        return res.status(404).json({ error: "No image path available" });
+      }
+
+      // Trigger async fetch if not already in-flight
+      const key = makeImageKey(mediaType, id, imageType, size);
+      if (!isInFlight(key)) {
+        fetchAndCacheImage(key, tmdbPath, size, (data, contentType) => {
+          storage.cacheImage(mediaType, id, imageType, size, tmdbPath, data, contentType, data.length);
+        });
+      }
+
+      return res.status(202).json({ status: "fetching" });
+    } catch (err) {
+      console.error("Image cache error:", err);
       res.status(500).json({ error: "Internal server error" });
     }
   });
