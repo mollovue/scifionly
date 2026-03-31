@@ -1,9 +1,11 @@
 node_modules/
 dist/
-data/
-*.db
-*.db-journal
-*.db-wal
+data/*.db
+data/*.db-journal
+data/*.db-wal
+data/*.db-shm
+# Seed data IS tracked (compressed SQLite snapshot for deployment)
+!data/seed/
 .env
 .env.local
 *.log

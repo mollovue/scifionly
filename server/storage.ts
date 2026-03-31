@@ -1,12 +1,66 @@
 import Database from "better-sqlite3";
 import { drizzle } from "drizzle-orm/better-sqlite3";
-import { mkdirSync } from "fs";
+import { mkdirSync, existsSync, unlinkSync, statSync } from "fs";
 import { join } from "path";
+import { execSync } from "child_process";
 
 // Ensure the data directory exists
 mkdirSync(join(process.cwd(), "data"), { recursive: true });
 
-const sqlite = new Database(join(process.cwd(), "data/scifionly.db"));
+const dbPath = join(process.cwd(), "data/scifionly.db");
+const seedPath = join(process.cwd(), "data/seed/scifionly-seed.db.gz");
+
+// ─────────────────────────────────────────────
+// Auto-load seed data if database is empty
+// ─────────────────────────────────────────────
+
+function loadSeedDataIfNeeded(): void {
+  let needsSeed = false;
+
+  if (!existsSync(dbPath)) {
+    needsSeed = true;
+  } else {
+    try {
+      const testDb = new Database(dbPath);
+      // Check if movies table exists and has data
+      const tableExists = testDb
+        .prepare("SELECT name FROM sqlite_master WHERE type='table' AND name='movies'")
+        .get();
+      if (!tableExists) {
+        needsSeed = true;
+      } else {
+        const result = testDb.prepare("SELECT COUNT(*) as c FROM movies").get() as { c: number };
+        if (result.c === 0) needsSeed = true;
+      }
+      testDb.close();
+    } catch {
+      needsSeed = true;
+    }
+  }
+
+  if (needsSeed && existsSync(seedPath)) {
+    console.log("[storage] Database is empty — loading seed data...");
+    // Remove existing DB files
+    for (const suffix of ["", "-journal", "-wal", "-shm"]) {
+      const f = dbPath + suffix;
+      if (existsSync(f)) unlinkSync(f);
+    }
+    try {
+      // Decompress seed data using gunzip
+      execSync(`gunzip -c "${seedPath}" > "${dbPath}"`, { stdio: "pipe" });
+      const dbSize = (statSync(dbPath).size / (1024 * 1024)).toFixed(1);
+      console.log(`[storage] Seed data loaded: ${dbSize} MB`);
+    } catch (err) {
+      console.error("[storage] Failed to load seed data:", err);
+    }
+  } else if (needsSeed) {
+    console.log("[storage] Database is empty and no seed data found at", seedPath);
+  }
+}
+
+loadSeedDataIfNeeded();
+
+const sqlite = new Database(dbPath);
 
 // Performance pragmas
 sqlite.pragma("journal_mode = WAL");
