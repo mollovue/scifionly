@@ -7,11 +7,23 @@ export default defineConfig({
     environment: "node",
     include: ["tests/**/*.test.ts"],
     setupFiles: ["tests/setup.ts"],
-    // Run in a single process to avoid SQLite concurrency issues
-    singleFork: true,
+    // Run sequentially to avoid SQLite concurrency issues
+    fileParallelism: false,
     // Increase timeout for DB operations
     testTimeout: 30000,
     hookTimeout: 30000,
+    coverage: {
+      enabled: true,
+      provider: "istanbul",
+      include: ["server/**/*.ts"],
+      exclude: [
+        "server/index.ts",   // Server bootstrap — not unit-testable
+        "server/vite.ts",    // Vite dev server setup — not unit-testable
+        "server/static.ts",  // Static file serving — not unit-testable
+      ],
+      reporter: ["text", "text-summary", "json-summary"],
+      reportsDirectory: "./coverage",
+    },
   },
   resolve: {
     alias: {

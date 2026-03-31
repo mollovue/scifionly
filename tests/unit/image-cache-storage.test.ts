@@ -6,11 +6,18 @@
  */
 
 import { describe, it, expect, beforeAll } from "vitest";
+import Database from "better-sqlite3";
+import path from "path";
 import { DatabaseStorage } from "../../server/storage.js";
 
 let storage: DatabaseStorage;
 
 beforeAll(() => {
+  // Clear image_cache from prior runs so cache-miss tests work
+  const sqlite = new Database(path.join(process.cwd(), "data/scifionly.db"));
+  sqlite.exec("DELETE FROM image_cache");
+  sqlite.close();
+
   storage = new DatabaseStorage();
 });
 

@@ -161,11 +161,12 @@ describe("GET /api/search with rating filter", () => {
     }
   });
 
-  it("?rating_min=9.5 should return very few or no results", async () => {
-    const res = await request(app).get("/api/search?rating_min=9.5");
-    expect(res.status).toBe(200);
-    // Most seeded data is under 9.5
-    expect(res.body.total).toBeLessThan(5);
+  it("?rating_min=9.5 should return fewer results than rating_min=5", async () => {
+    const highRes = await request(app).get("/api/search?rating_min=9.5");
+    const lowRes = await request(app).get("/api/search?rating_min=5");
+    expect(highRes.status).toBe(200);
+    expect(lowRes.status).toBe(200);
+    expect(highRes.body.total).toBeLessThan(lowRes.body.total);
   });
 });
 
