@@ -4,6 +4,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
 import '../../models/search_state.dart';
 import '../../providers/providers.dart';
+import '../../providers/sync_providers.dart';
 import '../../ui/theme/scifi_colors.dart';
 import '../components/content_card.dart';
 import '../components/browse_row.dart';
@@ -130,6 +131,7 @@ class _SearchScreenState extends ConsumerState<SearchScreen> {
   }
 
   Widget _buildHero(SciFiColors colors, AsyncValue<Map<String, int>> stats) {
+    final syncState = ref.watch(syncStateDataProvider);
     return Container(
       width: double.infinity,
       padding: EdgeInsets.only(
@@ -163,11 +165,27 @@ class _SearchScreenState extends ConsumerState<SearchScreen> {
           ),
           const SizedBox(height: 12),
           stats.when(
-            data: (data) => Row(
+            data: (data) => Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                _statChip(colors, '${data['movies']} Movies'),
-                const SizedBox(width: 8),
-                _statChip(colors, '${data['tvSeries']} TV Series'),
+                Row(
+                  children: [
+                    _statChip(colors, '${data['movies']} Movies'),
+                    const SizedBox(width: 8),
+                    _statChip(colors, '${data['tvSeries']} TV Series'),
+                  ],
+                ),
+                const SizedBox(height: 8),
+                syncState.when(
+                  data: (state) => Text(
+                    state?.lastSyncDate != null
+                        ? 'Last updated: ${state!.lastSyncDate}'
+                        : 'Never synced',
+                    style: TextStyle(color: colors.textMuted, fontSize: 12),
+                  ),
+                  loading: () => const SizedBox.shrink(),
+                  error: (_, __) => const SizedBox.shrink(),
+                ),
               ],
             ),
             loading: () => const SizedBox.shrink(),

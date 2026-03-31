@@ -409,6 +409,13 @@ class ContentRepository {
         person: person, movieCredits: movieCredits, tvCredits: tvCredits);
   }
 
+  // Sync state
+  Future<Map<String, dynamic>?> getSyncState() async {
+    final rows = await db.rawQuery('SELECT * FROM sync_state WHERE id = 1');
+    if (rows.isEmpty) return null;
+    return rows.first;
+  }
+
   // Stats
   Future<Map<String, int>> getStats() async {
     final movieCount = Sqflite.firstIntValue(

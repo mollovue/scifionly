@@ -25,7 +25,7 @@ class DatabaseHelper {
     }
     _database = await openDatabase(
       path,
-      readOnly: true,
+      readOnly: false,
       singleInstance: true,
     );
     return _database!;
@@ -51,7 +51,7 @@ class DatabaseHelper {
 
     // Validate by opening and checking tables
     try {
-      final db = await openDatabase(destPath, readOnly: true);
+      final db = await openDatabase(destPath, readOnly: false);
       final tables = await db.rawQuery(
         "SELECT name FROM sqlite_master WHERE type='table' AND name IN ('movies', 'tv_series', 'genres', 'people')",
       );
@@ -68,7 +68,7 @@ class DatabaseHelper {
 
     // Reopen
     _database =
-        await openDatabase(destPath, readOnly: true, singleInstance: true);
+        await openDatabase(destPath, readOnly: false, singleInstance: true);
     return true;
   }
 
@@ -93,7 +93,7 @@ class DatabaseHelper {
     });
     await db.close();
 
-    _database = await openDatabase(path, readOnly: true, singleInstance: true);
+    _database = await openDatabase(path, readOnly: false, singleInstance: true);
   }
 
   static Future<void> _createSchema(Database db) async {
@@ -262,6 +262,7 @@ class DatabaseHelper {
         updated_at TEXT DEFAULT CURRENT_TIMESTAMP
       )
     ''');
+    await db.rawInsert('INSERT OR IGNORE INTO sync_state(id) VALUES (1)');
     await db.execute('''
       CREATE TABLE IF NOT EXISTS image_cache (
         id INTEGER PRIMARY KEY AUTOINCREMENT,

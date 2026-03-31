@@ -1,12 +1,26 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 import 'package:scifionly/main.dart';
+import 'package:scifionly/providers/sync_providers.dart';
 
 void main() {
   group('Navigation integration', () {
+    late SharedPreferences prefs;
+
+    setUp(() async {
+      SharedPreferences.setMockInitialValues({});
+      prefs = await SharedPreferences.getInstance();
+    });
+
     testWidgets('can navigate between all tabs', (tester) async {
-      await tester.pumpWidget(const ProviderScope(child: SciFiOnlyApp()));
+      await tester.pumpWidget(ProviderScope(
+        overrides: [
+          sharedPreferencesProvider.overrideWithValue(prefs),
+        ],
+        child: const SciFiOnlyApp(),
+      ));
       await tester.pumpAndSettle();
 
       // Start on Search
@@ -29,7 +43,12 @@ void main() {
 
     testWidgets('search screen shows no database state initially',
         (tester) async {
-      await tester.pumpWidget(const ProviderScope(child: SciFiOnlyApp()));
+      await tester.pumpWidget(ProviderScope(
+        overrides: [
+          sharedPreferencesProvider.overrideWithValue(prefs),
+        ],
+        child: const SciFiOnlyApp(),
+      ));
       await tester.pumpAndSettle();
 
       // Should show the search bar
@@ -39,7 +58,12 @@ void main() {
     });
 
     testWidgets('search bar accepts input', (tester) async {
-      await tester.pumpWidget(const ProviderScope(child: SciFiOnlyApp()));
+      await tester.pumpWidget(ProviderScope(
+        overrides: [
+          sharedPreferencesProvider.overrideWithValue(prefs),
+        ],
+        child: const SciFiOnlyApp(),
+      ));
       await tester.pumpAndSettle();
 
       final searchField = find.byType(TextField);
