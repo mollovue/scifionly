@@ -1,0 +1,12 @@
+[Unit]
+Description=SciFi Only — Daily TMDB Sync Timer
+Requires=scifionly-sync.service
+
+[Timer]
+# Run daily at 09:00 UTC (after TMDB daily exports are available at ~08:00 UTC)
+OnCalendar=*-*-* 09:00:00
+Persistent=true
+RandomizedDelaySec=300
+
+[Install]
+WantedBy=timers.target

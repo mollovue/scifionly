@@ -1,0 +1,32 @@
+[Unit]
+Description=SciFi Only Web Application
+After=network.target
+
+[Service]
+Type=simple
+User=scifionly
+Group=scifionly
+WorkingDirectory=/opt/scifionly
+ExecStart=/usr/bin/node dist/index.cjs
+Restart=on-failure
+RestartSec=5
+
+# Environment
+Environment=NODE_ENV=production
+Environment=PORT=5000
+EnvironmentFile=-/opt/scifionly/.env
+
+# Security hardening
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+ReadWritePaths=/opt/scifionly/data
+PrivateTmp=yes
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=scifionly
+
+[Install]
+WantedBy=multi-user.target

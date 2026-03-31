@@ -1,0 +1,27 @@
+[Unit]
+Description=SciFi Only — Daily Incremental TMDB Sync
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=scifionly
+Group=scifionly
+WorkingDirectory=/opt/scifionly
+ExecStart=/opt/scifionly/scripts/sync.sh incremental
+TimeoutStartSec=1800
+
+# Environment
+EnvironmentFile=/opt/scifionly/.env
+
+# Security hardening
+NoNewPrivileges=yes
+ProtectSystem=strict
+ProtectHome=yes
+ReadWritePaths=/opt/scifionly/data /opt/scifionly/logs
+PrivateTmp=yes
+
+# Logging
+StandardOutput=journal
+StandardError=journal
+SyslogIdentifier=scifionly-sync
