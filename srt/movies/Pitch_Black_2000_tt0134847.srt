@@ -1,0 +1,3802 @@
+1
+00:01:28,209 --> 00:01:32,709
+They say most of your brain shuts down in cryosleep.
+
+2
+00:01:34,626 --> 00:01:37,126
+All but the primitive side...
+
+3
+00:01:39,876 --> 00:01:41,959
+...the animal side.
+
+4
+00:01:49,209 --> 00:01:51,376
+No wonder I’m still awake.
+
+5
+00:01:54,334 --> 00:01:56,918
+Transporting me with civilians.
+
+6
+00:01:58,209 --> 00:02:00,793
+Sounded like 40, 40-plus.
+
+7
+00:02:01,876 --> 00:02:03,793
+Heard an Arab voice,
+
+8
+00:02:03,918 --> 00:02:06,043
+some hoodoo holy man,
+
+9
+00:02:06,168 --> 00:02:08,751
+probably on his way to New Mecca.
+
+10
+00:02:08,876 --> 00:02:10,709
+But what route?
+
+11
+00:02:10,834 --> 00:02:12,501
+What route?
+
+12
+00:02:13,251 --> 00:02:15,084
+Smelled a woman.
+
+13
+00:02:15,209 --> 00:02:18,418
+Sweat, boots, tool belt, leather.
+
+14
+00:02:18,543 --> 00:02:20,209
+Prospector type.
+
+15
+00:02:21,084 --> 00:02:22,918
+Free settlers.
+
+16
+00:02:23,459 --> 00:02:25,876
+And they only take the back roads.
+
+17
+00:02:27,834 --> 00:02:30,709
+And here’s my real problem.
+
+18
+00:02:30,834 --> 00:02:32,918
+Mr. Johns,
+
+19
+00:02:33,043 --> 00:02:35,376
+the blue-eyed devil.
+
+20
+00:02:35,501 --> 00:02:38,751
+Planning on taking me back to slam,
+
+21
+00:02:38,876 --> 00:02:41,459
+only this time he picked a ghost lane.
+
+22
+00:02:43,626 --> 00:02:46,126
+A long time between stops.
+
+23
+00:02:48,668 --> 00:02:51,168
+A long time for something to go wrong.
+
+24
+00:03:33,876 --> 00:03:36,126
+Why did I fall on you?
+
+25
+00:03:36,251 --> 00:03:38,168
+He's dead.
+
+26
+00:03:38,293 --> 00:03:41,126
+The captain’s dead.
+
+27
+00:03:41,251 --> 00:03:43,084
+I was looking right at him.
+
+28
+00:03:43,209 --> 00:03:45,126
+The chrono shows we are 22 weeks out,
+
+29
+00:03:45,251 --> 00:03:48,168
+so... so gravity was not supposed to kick in for another 19.
+
+30
+00:03:48,293 --> 00:03:50,459
+- Why’d I fall at all? - Did you hear what I said?
+
+31
+00:03:50,584 --> 00:03:53,293
+The captain’s dead.
+
+32
+00:03:57,626 --> 00:03:58,959
+1550 millibars...
+
+33
+00:04:00,126 --> 00:04:01,876
+...dropping 20mb per minute.
+
+34
+00:04:02,001 --> 00:04:06,501
+Shit! We're hemorrhaging air. Something took a swipe at us.
+
+35
+00:04:06,626 --> 00:04:08,876
+Come on. Just tell me we're still in the shipping lane.
+
+36
+00:04:09,001 --> 00:04:11,418
+Just show me all those stars. Come on!
+
+37
+00:04:11,543 --> 00:04:12,959
+Those big, bright...
+
+38
+00:04:14,543 --> 00:04:15,584
+What?
+
+39
+00:04:27,251 --> 00:04:28,834
+This is an emergency dispatch
+
+40
+00:04:28,959 --> 00:04:31,876
+from merchant vessel Hunter Gratzner en route to the Tangier system
+
+41
+00:04:32,001 --> 00:04:34,834
+with 40 commercial passengers on board.
+
+42
+00:04:34,959 --> 00:04:36,959
+We have been knocked out of our shipping lane
+
+43
+00:04:37,084 --> 00:04:38,918
+and are currently entering the atmosphere
+
+44
+00:04:39,043 --> 00:04:42,709
+of a planetary body in this position: X-38-stroke-5,
+
+45
+00:04:42,834 --> 00:04:45,543
+Y-95-stroke-8, Z-21...
+
+46
+00:04:49,251 --> 00:04:51,334
+Fry, where the hells our comms?
+
+47
+00:05:07,584 --> 00:05:10,584
+Rate of descent beyond known limits.
+
+48
+00:05:10,709 --> 00:05:11,959
+Rate of descent beyond...
+
+49
+00:05:12,084 --> 00:05:14,043
+They trained you for this, Fry, right?
+
+50
+00:05:26,293 --> 00:05:28,626
+Deploy lower air brakes now.
+
+51
+00:05:28,751 --> 00:05:29,751
+Deploy lower air brakes...
+
+52
+00:05:29,876 --> 00:05:32,459
+Center of gravity too far aft.
+
+53
+00:05:32,584 --> 00:05:36,209
+Recommend purging ballast now.
+
+54
+00:05:40,209 --> 00:05:42,876
+What the...? Was that a purge, Fry?
+
+55
+00:05:43,001 --> 00:05:45,959
+Too heavy in the ass. I can’t get my fucking nose down.
+
+56
+00:05:53,084 --> 00:05:55,251
+Crisis program selected number 2 of this system
+
+57
+00:05:55,376 --> 00:05:56,876
+because it shows at least some oxygen.
+
+58
+00:05:57,001 --> 00:06:00,001
+Maximum terrain 220 meters over mean surface,
+
+59
+00:06:00,126 --> 00:06:03,293
+largely cinder and gypsum with some evaporite deposits.
+
+60
+00:06:07,543 --> 00:06:09,293
+Fry, what the hell are you doing?
+
+61
+00:06:10,334 --> 00:06:11,418
+I gotta drop more load.
+
+62
+00:06:22,001 --> 00:06:24,084
+Look, I tried everything else. I still got no horizon.
+
+63
+00:06:24,209 --> 00:06:26,876
+Better try everything twice, 'cause we don’t just flush out...
+
+64
+00:06:27,001 --> 00:06:29,751
+Look, if you know something I don’t, get up here and take the chair, Owens.
+
+65
+00:06:29,876 --> 00:06:31,709
+Listen, company says we are responsible
+
+66
+00:06:31,834 --> 00:06:33,626
+for every single one of those people, Fry.
+
+67
+00:06:33,751 --> 00:06:36,793
+What, we both die out of sheer fucking nobility?
+
+68
+00:06:36,918 --> 00:06:38,959
+Don’t you touch that handle, Fry!
+
+69
+00:06:52,709 --> 00:06:54,126
+I’m not gonna die for them.
+
+70
+00:06:56,334 --> 00:06:57,459
+Air-lock doors not secure.
+
+71
+00:06:57,584 --> 00:06:59,084
+Owens!
+
+72
+00:07:00,418 --> 00:07:04,251
+70 seconds, Fry. You still have 70 seconds to level this beast out.
+
+73
+00:07:04,376 --> 00:07:08,543
+Shit. Shit!
+
+74
+00:07:08,668 --> 00:07:11,543
+Air-lock doors...
+
+75
+00:07:11,668 --> 00:07:14,834
+Air-lock doors not secure. Air-lock doors...
+
+76
+00:07:19,793 --> 00:07:21,959
+What the fuck is happening up there?
+
+77
+00:08:39,001 --> 00:08:40,668
+Yeah, I-Imam?
+
+78
+00:08:40,793 --> 00:08:42,459
+Zeke?
+
+79
+00:09:44,668 --> 00:09:47,834
+Somebody’s gonna get hurt one of these days.
+
+80
+00:09:47,959 --> 00:09:49,126
+It ain’t gonna be me.
+
+81
+00:09:59,376 --> 00:10:00,876
+Here, Shazza.
+
+82
+00:10:04,418 --> 00:10:06,334
+So, I guess something went wrong.
+
+83
+00:10:07,251 --> 00:10:08,751
+Oh!
+
+84
+00:10:13,626 --> 00:10:15,126
+I’m sorry.
+
+85
+00:10:18,126 --> 00:10:20,709
+Get it out of me!
+
+86
+00:10:27,918 --> 00:10:29,668
+Don’t touch it!
+
+87
+00:10:29,793 --> 00:10:32,043
+Don’t... don’t you touch that handle!
+
+88
+00:10:32,168 --> 00:10:33,168
+Get it out of him!
+
+89
+00:10:33,293 --> 00:10:35,918
+No, no, no, it's too close to his heart.
+
+90
+00:10:37,251 --> 00:10:39,793
+There’s some Anestaphine in the med-lock in the back of the cabin.
+
+91
+00:10:42,126 --> 00:10:44,543
+Not anymore, there’s not.
+
+92
+00:10:45,376 --> 00:10:48,001
+Get out of here, everyone.
+
+93
+00:10:53,251 --> 00:10:54,751
+Get out of here.
+
+94
+00:11:22,251 --> 00:11:26,251
+<i>Allahu Akbar...</i>
+
+95
+00:11:26,376 --> 00:11:30,876
+<i>Allahu Akbar...</i>
+
+96
+00:11:38,334 --> 00:11:41,293
+That will teach me for flying coach.
+
+97
+00:11:48,543 --> 00:11:50,376
+Interesting.
+
+98
+00:12:04,334 --> 00:12:06,834
+Is anyone else having difficulties breathing?
+
+99
+00:12:06,959 --> 00:12:09,209
+Yeah, I feel one lung short.
+
+100
+00:12:09,334 --> 00:12:10,918
+All of us.
+
+101
+00:12:11,043 --> 00:12:15,876
+I feel like I just ran or something.
+
+102
+00:12:16,001 --> 00:12:18,501
+There was talk of a scouting party looking for other people,
+
+103
+00:12:18,626 --> 00:12:20,793
+but then we saw this.
+
+104
+00:12:33,668 --> 00:12:35,501
+What the bloody hell happened?
+
+105
+00:12:35,626 --> 00:12:37,459
+It could have been a meteor storm.
+
+106
+00:12:37,584 --> 00:12:39,834
+Might have been a rogue comet.
+
+107
+00:12:41,209 --> 00:12:42,209
+I don’t know.
+
+108
+00:12:42,334 --> 00:12:45,918
+Well, I, for one, am thoroughly grateful.
+
+109
+00:12:46,043 --> 00:12:47,626
+This beast wasn’t made to land like this,
+
+110
+00:12:47,751 --> 00:12:49,959
+but... I think you did well.
+
+111
+00:12:51,293 --> 00:12:53,751
+Actually, the only reason we're alive is because of her.
+
+112
+00:12:53,876 --> 00:12:56,043
+Yes, I suppose you’re right.
+
+113
+00:12:56,168 --> 00:12:57,334
+Thanks very much.
+
+114
+00:12:57,459 --> 00:12:59,793
+Yeah, thanks for saving our dicks.
+
+115
+00:12:59,918 --> 00:13:03,084
+No, really. Thanks awfully.
+
+116
+00:13:03,209 --> 00:13:04,209
+Well done.
+
+117
+00:13:07,501 --> 00:13:11,251
+He just escaped from a maximum prison.
+
+118
+00:13:12,668 --> 00:13:14,751
+So, do we just keep him locked up forever?
+
+119
+00:13:14,876 --> 00:13:17,376
+Well, that would be my choice.
+
+120
+00:13:17,501 --> 00:13:19,001
+Is he really that dangerous?
+
+121
+00:13:19,126 --> 00:13:20,459
+Only around humans.
+
+122
+00:13:20,584 --> 00:13:24,126
+The whole bloody container is upside down. It’s all Topsy-turvy.
+
+123
+00:13:29,376 --> 00:13:32,584
+Well, thank goodness it's not a total loss.
+
+124
+00:13:32,709 --> 00:13:34,751
+Booze? This is what you have to drink?
+
+125
+00:13:34,876 --> 00:13:37,126
+I’m gonna need a receipt for that, for all of these.
+
+126
+00:13:37,251 --> 00:13:39,668
+- This is my personal stuff. - Mmm-hmm.
+
+127
+00:13:40,376 --> 00:13:42,293
+I don’t suppose this will help you at all.
+
+128
+00:13:42,418 --> 00:13:45,876
+Unfortunately, it is not permitted, especially while on <i>hajj.</i>
+
+129
+00:13:46,001 --> 00:13:48,834
+You do realize there’s no water, don’t you?
+
+130
+00:13:48,959 --> 00:13:52,043
+All deserts have water. It only waits to be found.
+
+131
+00:13:52,168 --> 00:13:53,501
+I hope you’re right.
+
+132
+00:13:54,293 --> 00:13:56,668
+All the more for me then.
+
+133
+00:14:48,876 --> 00:14:50,876
+Motherfucker.
+
+134
+00:15:03,709 --> 00:15:05,209
+What the hell are these?
+
+135
+00:15:05,334 --> 00:15:07,084
+Maratha war picks from northern India.
+
+136
+00:15:07,209 --> 00:15:09,293
+- Very rare. - And this?
+
+137
+00:15:09,418 --> 00:15:12,251
+That’s a hunting blow-dart pipe from northern Papua New Guinea.
+
+138
+00:15:12,376 --> 00:15:15,459
+That’s very, very rare since the tribe is now extinct.
+
+139
+00:15:15,584 --> 00:15:18,251
+They couldn’t hunt shit with these things, would be my guess.
+
+140
+00:15:18,376 --> 00:15:19,626
+What’s the point anyway?
+
+141
+00:15:19,751 --> 00:15:21,834
+I mean, if the man is gone, he's gone. Why should he bother us?
+
+142
+00:15:21,959 --> 00:15:24,459
+Maybe to take what you got.
+
+143
+00:15:25,834 --> 00:15:28,084
+Maybe to work your nerves.
+
+144
+00:15:29,084 --> 00:15:32,126
+Or maybe to just come back and skull-fuck you in your sleep.
+
+145
+00:15:33,043 --> 00:15:35,043
+He sounds like a charmer.
+
+146
+00:15:47,376 --> 00:15:49,251
+For you.
+
+147
+00:15:49,376 --> 00:15:52,626
+Let’s just get... Here we go. Yeah.
+
+148
+00:15:53,751 --> 00:15:55,668
+- Yeah? - Yeah.
+
+149
+00:15:55,793 --> 00:15:58,793
+Imam, if we're looking for water, we should leave soon,
+
+150
+00:15:58,918 --> 00:16:02,334
+before nightfall, while it's cooler.
+
+151
+00:16:02,459 --> 00:16:03,959
+Ali.
+
+152
+00:16:07,084 --> 00:16:09,043
+Excuse me.
+
+153
+00:16:09,168 --> 00:16:10,626
+I think you should see this.
+
+154
+00:16:13,209 --> 00:16:15,209
+Three suns?
+
+155
+00:16:22,668 --> 00:16:24,001
+Bloody hell.
+
+156
+00:16:25,418 --> 00:16:28,001
+So much for your nightfall.
+
+157
+00:16:28,126 --> 00:16:30,459
+So much for my cocktail hour.
+
+158
+00:16:30,584 --> 00:16:33,334
+We take this as a good sign.
+
+159
+00:16:33,459 --> 00:16:36,459
+A path, direction from Allah.
+
+160
+00:16:36,584 --> 00:16:38,126
+Blue sun, blue water.
+
+161
+00:16:38,251 --> 00:16:40,251
+Ever wondered why I’m an atheist?
+
+162
+00:16:40,376 --> 00:16:42,876
+It’s a bit of a bad sign. That’s Riddick’s direction.
+
+163
+00:16:43,001 --> 00:16:46,251
+I thought you found his restraints over there, towards sunset.
+
+164
+00:16:46,376 --> 00:16:49,376
+Right. Which means he went towards sunrise.
+
+165
+00:16:49,501 --> 00:16:51,834
+Zeke.
+
+166
+00:16:51,959 --> 00:16:53,793
+Fully loaded clip. Safety’s on.
+
+167
+00:16:53,918 --> 00:16:55,251
+One shot if you spot him, OK?
+
+168
+00:16:55,376 --> 00:16:57,293
+- Don’t tell me you’re going, too. - Yeah.
+
+169
+00:16:57,418 --> 00:16:59,376
+What happens if Mr. Riddick spots us first?
+
+170
+00:17:01,043 --> 00:17:02,376
+There'll be no shots.
+
+171
+00:17:14,043 --> 00:17:16,793
+<i>Allahu Akbar...</i>
+
+172
+00:17:16,918 --> 00:17:19,709
+Quiet! Shh, shh, shh.
+
+173
+00:17:35,751 --> 00:17:37,626
+Seven stones to keep the devil at bay.
+
+174
+00:17:38,751 --> 00:17:40,334
+You’re on a trip to New Mecca, right?
+
+175
+00:17:41,043 --> 00:17:44,876
+Once in every lifetime, should there be a great <i>hajj.</i>
+
+176
+00:17:45,001 --> 00:17:46,168
+A great pilgrimage.
+
+177
+00:17:46,793 --> 00:17:47,876
+To get to know Allah better?
+
+178
+00:17:48,001 --> 00:17:51,334
+Yes, but to know yourself, as well.
+
+179
+00:17:53,168 --> 00:17:54,418
+Yeah.
+
+180
+00:17:54,543 --> 00:17:57,834
+We are all on the same <i>hajj</i> now.
+
+181
+00:18:14,709 --> 00:18:16,209
+Sorry.
+
+182
+00:18:18,293 --> 00:18:20,501
+So, did you see anything?
+
+183
+00:18:21,376 --> 00:18:23,126
+No Riddick.
+
+184
+00:18:24,334 --> 00:18:26,876
+Trees... trees mean water.
+
+185
+00:18:36,876 --> 00:18:38,126
+You comfy up there?
+
+186
+00:18:38,251 --> 00:18:40,418
+Yes. It’s amazing how you can do without necessities of life,
+
+187
+00:18:40,543 --> 00:18:41,959
+provided you have the little luxuries.
+
+188
+00:18:42,084 --> 00:18:44,418
+Just keep your bloody eyes open.
+
+189
+00:18:44,543 --> 00:18:47,876
+I don’t want that dog sneaking up on my bloody arse.
+
+190
+00:18:54,834 --> 00:18:56,918
+Yes, well, you dig the graves.
+
+191
+00:18:57,043 --> 00:18:58,043
+I’ll hold the fort, old boy.
+
+192
+00:18:58,168 --> 00:18:59,418
+Christ!
+
+193
+00:18:59,543 --> 00:19:02,126
+He could probably get you right here, right under the jaw
+
+194
+00:19:02,251 --> 00:19:04,084
+and you’d never even hear him coming,
+
+195
+00:19:04,209 --> 00:19:05,959
+'cause that’s how good Riddick is.
+
+196
+00:19:06,084 --> 00:19:07,751
+Tell me something, did you run away from your parents
+
+197
+00:19:07,876 --> 00:19:09,918
+or did they run away from you?
+
+198
+00:19:39,168 --> 00:19:41,751
+It’s a communal graveyard, perhaps,
+
+199
+00:19:41,876 --> 00:19:43,626
+like the elephants of Earth.
+
+200
+00:19:46,793 --> 00:19:50,793
+He asks what could have killed so many great things.
+
+201
+00:19:51,918 --> 00:19:53,793
+Is this whole planet dead?
+
+202
+00:20:54,501 --> 00:20:56,001
+Drink?
+
+203
+00:20:58,459 --> 00:21:00,709
+Probably shouldn’t do this.
+
+204
+00:21:00,834 --> 00:21:02,084
+It dehydrates you even more.
+
+205
+00:21:03,251 --> 00:21:04,668
+You’re probably right.
+
+206
+00:21:04,793 --> 00:21:06,293
+Mmm.
+
+207
+00:21:06,418 --> 00:21:09,168
+You know, you could have stayed back at the ship. Probably should've.
+
+208
+00:21:09,293 --> 00:21:10,793
+If we don’t find water, you know what happens.
+
+209
+00:21:10,918 --> 00:21:12,251
+I wanted to get away.
+
+210
+00:21:12,376 --> 00:21:14,376
+I’ve never seen a captain so ready to leave her ship.
+
+211
+00:21:16,251 --> 00:21:18,334
+I think we should keep moving.
+
+212
+00:21:18,459 --> 00:21:21,959
+What did Owens mean about not touching the handle?
+
+213
+00:21:28,543 --> 00:21:32,293
+It’s just between you and me, Carolyn. I promise.
+
+214
+00:21:36,334 --> 00:21:38,126
+I’m not your captain.
+
+215
+00:21:39,959 --> 00:21:40,959
+During the landing,
+
+216
+00:21:41,084 --> 00:21:48,209
+when... things were at their worst, Owens was at his best.
+
+217
+00:21:48,334 --> 00:21:50,501
+He's the one that stopped the docking pilot
+
+218
+00:21:50,626 --> 00:21:53,043
+from dumping the main cabin.
+
+219
+00:21:55,834 --> 00:21:56,918
+The passengers.
+
+220
+00:21:57,043 --> 00:21:59,709
+And the docking pilot being?
+
+221
+00:22:07,043 --> 00:22:10,126
+I guess I’m a little more glad to be here than I thought.
+
+222
+00:23:01,001 --> 00:23:02,751
+Hassan. Suleiman.
+
+223
+00:23:06,959 --> 00:23:07,959
+Captain.
+
+224
+00:23:31,918 --> 00:23:35,334
+Is there anyone here?
+
+225
+00:23:54,043 --> 00:23:55,293
+There was water here.
+
+226
+00:24:01,168 --> 00:24:02,668
+Lights?
+
+227
+00:24:05,043 --> 00:24:06,876
+Lights on?
+
+228
+00:24:08,293 --> 00:24:09,709
+OK.
+
+229
+00:24:30,043 --> 00:24:31,918
+They are saying God is great.
+
+230
+00:24:32,043 --> 00:24:34,293
+<i>Allahu Akbar</i>. Yes.
+
+231
+00:24:34,418 --> 00:24:35,751
+This is the source of the water.
+
+232
+00:24:41,876 --> 00:24:43,709
+No darkness.
+
+233
+00:24:45,251 --> 00:24:47,084
+No lights because no darkness.
+
+234
+00:25:03,293 --> 00:25:04,959
+Hello, Mecca!
+
+235
+00:25:33,043 --> 00:25:35,209
+Tell me that was you just now.
+
+236
+00:25:35,334 --> 00:25:37,001
+What are you going on about?
+
+237
+00:25:37,126 --> 00:25:38,543
+He's been right here helping me.
+
+238
+00:25:38,668 --> 00:25:40,918
+Back of the ship. That noise.
+
+239
+00:25:41,043 --> 00:25:42,543
+You trying to tell me that was someone...
+
+240
+00:25:42,668 --> 00:25:44,543
+...else?
+
+241
+00:26:19,126 --> 00:26:21,168
+No!
+
+242
+00:26:21,834 --> 00:26:24,168
+Oh, my God! I thought I was the only one
+
+243
+00:26:24,293 --> 00:26:25,376
+who got out of the crash alive?
+
+244
+00:26:29,126 --> 00:26:31,376
+Christ!
+
+245
+00:26:33,293 --> 00:26:34,876
+It was just somebody else.
+
+246
+00:26:35,001 --> 00:26:39,001
+It was just somebody else from the crash!
+
+247
+00:26:39,126 --> 00:26:41,959
+Crikey! I thought it was him.
+
+248
+00:26:42,084 --> 00:26:43,834
+I thought it was Riddick.
+
+249
+00:26:52,959 --> 00:26:54,543
+No juice.
+
+250
+00:26:54,668 --> 00:26:57,084
+It looks like it's been laid up for years.
+
+251
+00:26:57,209 --> 00:26:58,709
+But we might be able to adapt it to...
+
+252
+00:26:58,834 --> 00:27:00,251
+Shut up.
+
+253
+00:27:03,626 --> 00:27:05,876
+Sorry. I thought I heard something.
+
+254
+00:27:06,001 --> 00:27:09,584
+- Like what? - Gunshots.
+
+255
+00:28:11,626 --> 00:28:13,043
+Zeke!
+
+256
+00:28:36,543 --> 00:28:38,376
+Piece of shit!
+
+257
+00:28:39,376 --> 00:28:41,251
+What did you do to Zeke?
+
+258
+00:28:42,751 --> 00:28:45,418
+What did you do to him? Just kill him.
+
+259
+00:28:45,543 --> 00:28:47,543
+Just somebody goddamn kill him before he...
+
+260
+00:28:53,668 --> 00:28:55,501
+So, where’s the body?
+
+261
+00:28:58,876 --> 00:29:02,043
+Well, do you want to tell me about the sounds?
+
+262
+00:29:02,168 --> 00:29:04,418
+Look, you told Johns you heard something.
+
+263
+00:29:07,293 --> 00:29:09,543
+That’s fine.
+
+264
+00:29:09,668 --> 00:29:11,168
+You don’t wanna talk to me, that’s your choice,
+
+265
+00:29:11,293 --> 00:29:13,126
+but just so you know...
+
+266
+00:29:14,959 --> 00:29:16,459
+...there’s a debate right now as to whether
+
+267
+00:29:16,584 --> 00:29:18,834
+we should leave you here to die.
+
+268
+00:29:18,959 --> 00:29:21,376
+You mean the whispers?
+
+269
+00:29:34,543 --> 00:29:35,543
+What whispers?
+
+270
+00:29:35,668 --> 00:29:37,334
+The ones telling me to go for the sweet spot
+
+271
+00:29:37,459 --> 00:29:40,126
+just to the left of the spine.
+
+272
+00:29:40,251 --> 00:29:43,918
+4th lumbar down, the abdominal aorta.
+
+273
+00:29:44,043 --> 00:29:47,126
+It’s a metallic taste, human blood.
+
+274
+00:29:47,251 --> 00:29:48,251
+Copperish.
+
+275
+00:29:48,376 --> 00:29:50,209
+If you cut it with peppermint schnapps, it goes away...
+
+276
+00:29:50,334 --> 00:29:52,834
+Do you want to shock me with the truth now?
+
+277
+00:29:54,709 --> 00:29:57,793
+All you people are so scared of me.
+
+278
+00:29:59,584 --> 00:30:02,334
+Most days, I’d take that as a compliment.
+
+279
+00:30:03,668 --> 00:30:05,918
+But it ain’t me you gotta worry about now.
+
+280
+00:30:07,126 --> 00:30:09,293
+Show me your eyes, Riddick.
+
+281
+00:30:09,418 --> 00:30:11,959
+You’d have to come a lot closer for that.
+
+282
+00:30:27,043 --> 00:30:28,709
+Closer.
+
+283
+00:30:52,001 --> 00:30:53,751
+Where the hell can I get eyes like that?
+
+284
+00:30:54,543 --> 00:30:56,959
+- You gotta kill a few people. - OK, I can do it.
+
+285
+00:30:58,751 --> 00:31:00,334
+Then you gotta get sent to a slam,
+
+286
+00:31:00,459 --> 00:31:02,293
+where they tell you you’ll never see daylight again.
+
+287
+00:31:04,293 --> 00:31:08,126
+You dig up a doctor and you pay him 20 menthol Kools
+
+288
+00:31:08,251 --> 00:31:11,918
+to do a surgical shine job on your eyeballs.
+
+289
+00:31:12,043 --> 00:31:14,334
+So, you can see who’s sneaking up on you in the dark?
+
+290
+00:31:14,459 --> 00:31:16,168
+- Exactly. - Leave!
+
+291
+00:31:17,876 --> 00:31:19,501
+Leave.
+
+292
+00:31:24,084 --> 00:31:25,918
+Cute kid.
+
+293
+00:31:26,793 --> 00:31:29,376
+Did I kill a few people?
+
+294
+00:31:30,501 --> 00:31:31,501
+Sure.
+
+295
+00:31:32,001 --> 00:31:34,001
+Did I kill Zeke?
+
+296
+00:31:36,793 --> 00:31:38,209
+No.
+
+297
+00:31:38,334 --> 00:31:39,418
+You got the wrong killer.
+
+298
+00:31:39,543 --> 00:31:42,793
+He's not in the hole. We looked.
+
+299
+00:31:43,459 --> 00:31:45,626
+Look deeper.
+
+300
+00:31:48,418 --> 00:31:50,584
+Let me tell you what I think happened.
+
+301
+00:31:50,709 --> 00:31:53,126
+I think he went off on the guy and buried him in the hills somewhere.
+
+302
+00:31:53,251 --> 00:31:55,084
+Now he's got you believing there’s something else out there.
+
+303
+00:31:55,209 --> 00:31:57,793
+- Well, let’s just be sure. - Look, murders aside,
+
+304
+00:31:57,918 --> 00:32:00,668
+Riddick belongs in the asshole hall of fame.
+
+305
+00:32:00,793 --> 00:32:03,043
+He loves to jaw-jack and loves to make you feel afraid,
+
+306
+00:32:03,168 --> 00:32:05,334
+because that’s all he has. You’re playing right into it.
+
+307
+00:32:05,459 --> 00:32:07,293
+Why am I trying to explain this to you, Johns?
+
+308
+00:32:07,418 --> 00:32:09,584
+You’re a cop. For God’s sake, we’ve gotta find his body.
+
+309
+00:32:09,709 --> 00:32:12,126
+- Hey! I’ll go. - Look, no one is going.
+
+310
+00:32:12,251 --> 00:32:13,459
+Stay here.
+
+311
+00:32:13,584 --> 00:32:16,668
+Look, being ballsy with your life doesn’t change what came before.
+
+312
+00:32:16,793 --> 00:32:17,793
+It’s just stupid.
+
+313
+00:32:17,918 --> 00:32:20,793
+What, do you think I’m trying to prove something?
+
+314
+00:32:21,418 --> 00:32:23,251
+Well, are you?
+
+315
+00:33:47,251 --> 00:33:49,501
+They’re hollow.
+
+316
+00:35:09,876 --> 00:35:11,626
+I’m in here!
+
+317
+00:35:14,418 --> 00:35:16,459
+I’m in here. I’m inside!
+
+318
+00:35:21,501 --> 00:35:23,918
+I thought I heard something.
+
+319
+00:35:24,043 --> 00:35:26,459
+Please, can you hear me?
+
+320
+00:35:36,876 --> 00:35:38,876
+Help me.
+
+321
+00:36:03,459 --> 00:36:05,793
+Give me your goddamn hand.
+
+322
+00:36:05,918 --> 00:36:07,668
+I heard you, Fry. I heard you first.
+
+323
+00:36:07,793 --> 00:36:10,543
+- Come on. - Fry, are you OK?
+
+324
+00:36:10,668 --> 00:36:12,501
+What’s down there? What is it?
+
+325
+00:36:12,626 --> 00:36:14,459
+- Did you find Zeke? - You’re all right.
+
+326
+00:36:14,584 --> 00:36:17,293
+- Fry, are you OK? - OK.
+
+327
+00:36:17,418 --> 00:36:18,501
+Fuck!
+
+328
+00:36:18,626 --> 00:36:21,043
+That was so fucking stupid.
+
+329
+00:36:21,168 --> 00:36:23,459
+I don’t know what the fuck is in there...
+
+330
+00:36:24,501 --> 00:36:26,543
+...but whatever it is, it got Zeke and it nearly got me!
+
+331
+00:36:31,543 --> 00:36:32,876
+Get it off me!
+
+332
+00:36:33,918 --> 00:36:36,293
+Get it off me! Get it off me!
+
+333
+00:36:36,418 --> 00:36:38,626
+Watch it. Watch your head.
+
+334
+00:36:45,751 --> 00:36:50,168
+Finally found something worse than me, huh?
+
+335
+00:36:50,293 --> 00:36:52,168
+So, here’s the deal.
+
+336
+00:36:52,293 --> 00:36:56,959
+You work without chains, without bit, and without shivs.
+
+337
+00:36:57,084 --> 00:36:58,709
+You do what I say, when I say it.
+
+338
+00:36:58,834 --> 00:37:01,084
+For what?
+
+339
+00:37:01,209 --> 00:37:04,001
+The honor of going back to some asshole of a cell? Fuck you.
+
+340
+00:37:05,418 --> 00:37:09,168
+The truth is... I’m tired of chasing you.
+
+341
+00:37:13,084 --> 00:37:14,668
+Are you saying you’d cut me loose?
+
+342
+00:37:15,918 --> 00:37:17,584
+I’m thinking you could have died in the crash.
+
+343
+00:37:19,501 --> 00:37:21,834
+My recommendation: do me.
+
+344
+00:37:23,418 --> 00:37:26,834
+Don’t take the chance that I’ll get shiv-happy on your wanna-be ass.
+
+345
+00:37:26,959 --> 00:37:27,626
+OK.
+
+346
+00:37:27,751 --> 00:37:30,209
+Ghost me, motherfucker. That’s what I’d do to you.
+
+347
+00:37:40,543 --> 00:37:42,126
+I want you to remember this moment.
+
+348
+00:37:43,126 --> 00:37:45,418
+The way it could have gone and didn’t.
+
+349
+00:37:45,543 --> 00:37:46,501
+Here.
+
+350
+00:37:56,001 --> 00:37:57,668
+- Take it easy. - Fuck you!
+
+351
+00:38:01,584 --> 00:38:03,001
+Do we have a deal?
+
+352
+00:38:08,084 --> 00:38:10,584
+I want you to remember this moment.
+
+353
+00:38:25,459 --> 00:38:27,293
+- Just one? - For now.
+
+354
+00:38:37,751 --> 00:38:40,959
+So, click your fingers, and he's one of us now?
+
+355
+00:38:41,084 --> 00:38:42,584
+I didn’t say that,
+
+356
+00:38:42,709 --> 00:38:45,543
+but at least this way, I don’t have to worry about y’all
+
+357
+00:38:45,668 --> 00:38:47,834
+falling asleep and not waking up.
+
+358
+00:38:47,959 --> 00:38:49,126
+So, can I talk to him now?
+
+359
+00:38:49,251 --> 00:38:50,751
+- No. - No.
+
+360
+00:38:54,418 --> 00:38:55,918
+Blast.
+
+361
+00:39:03,793 --> 00:39:05,543
+Paris P. Ogilvie.
+
+362
+00:39:05,668 --> 00:39:08,168
+Antiquities dealer, entrepreneur.
+
+363
+00:39:09,584 --> 00:39:11,168
+Richard B. Riddick.
+
+364
+00:39:11,293 --> 00:39:14,126
+Escaped convict, murderer.
+
+365
+00:39:14,251 --> 00:39:16,084
+That’s... that’s a particularly good Shiraz.
+
+366
+00:39:16,209 --> 00:39:18,209
+Its... it's a lovely drop.
+
+367
+00:39:18,334 --> 00:39:20,751
+Its... it's very expensive.
+
+368
+00:39:20,876 --> 00:39:24,043
+By all means, please help yourself.
+
+369
+00:39:25,584 --> 00:39:27,251
+I mean, normally I can appreciate antiques.
+
+370
+00:39:27,376 --> 00:39:29,376
+But this, this is something else.
+
+371
+00:39:29,501 --> 00:39:31,168
+It will work.
+
+372
+00:39:31,293 --> 00:39:34,126
+It’s nothing we can’t repair, so long as the electrical adapts.
+
+373
+00:39:34,251 --> 00:39:36,584
+Well, it's not a star-jumper.
+
+374
+00:39:36,709 --> 00:39:38,084
+It doesn’t need to be.
+
+375
+00:39:38,209 --> 00:39:41,959
+Take a 2-seater like this back up to the Sol-Track shipping lanes.
+
+376
+00:39:42,084 --> 00:39:45,668
+Stick out her thumb, bound to get picked up.
+
+377
+00:39:45,793 --> 00:39:47,543
+Ain’t that right, captain?
+
+378
+00:39:49,751 --> 00:39:52,501
+Can I have a little help here?
+
+379
+00:39:52,626 --> 00:39:54,959
+I got it. Come on.
+
+380
+00:39:56,459 --> 00:39:58,543
+Whoa, whoa, whoa, whoa.
+
+381
+00:39:59,584 --> 00:40:01,168
+Do me a favor.
+
+382
+00:40:01,293 --> 00:40:02,709
+Check these containers out
+
+383
+00:40:02,834 --> 00:40:07,834
+and, uh... see what we can patch these wings up with.
+
+384
+00:40:07,959 --> 00:40:09,501
+All right?
+
+385
+00:40:33,043 --> 00:40:34,084
+Mine!
+
+386
+00:40:34,959 --> 00:40:36,376
+<i>Insha Allah!</i>
+
+387
+00:40:36,501 --> 00:40:39,084
+All right, all right. My turn.
+
+388
+00:40:40,209 --> 00:40:41,626
+Are you all right?
+
+389
+00:40:43,709 --> 00:40:44,959
+OK.
+
+390
+00:40:48,418 --> 00:40:50,584
+And we are getting there.
+
+391
+00:40:50,709 --> 00:40:54,543
+So... we’ve got enough power for a sys-check,
+
+392
+00:40:54,668 --> 00:40:57,501
+but well still need more cells.
+
+393
+00:40:57,626 --> 00:40:59,793
+How many are we talking about?
+
+394
+00:40:59,918 --> 00:41:03,001
+Um... let’s see, we got a 90-gig draw.
+
+395
+00:41:03,126 --> 00:41:05,709
+The other ship takes 20-gig cells.
+
+396
+00:41:05,834 --> 00:41:07,584
+So that would be five.
+
+397
+00:41:07,709 --> 00:41:10,293
+Five total to launch.
+
+398
+00:41:10,418 --> 00:41:14,751
+- 35 kilos each, huh? Fuck. - Well, that’s pretty heavy.
+
+399
+00:41:14,876 --> 00:41:16,709
+Well, you know that old sand cat out there?
+
+400
+00:41:16,834 --> 00:41:20,084
+- Mmm-hmm. - I might be able to get it going.
+
+401
+00:41:20,209 --> 00:41:25,126
+Yeah. Do it if you can, but if you need a hand...
+
+402
+00:41:25,251 --> 00:41:26,751
+Where did Riddick go?
+
+403
+00:41:35,751 --> 00:41:37,751
+Let’s go.
+
+404
+00:42:18,251 --> 00:42:20,918
+You’re missing the party.
+
+405
+00:42:21,043 --> 00:42:22,959
+Come on, boy.
+
+406
+00:42:26,418 --> 00:42:28,918
+You’re missing the party. Come on.
+
+407
+00:42:29,876 --> 00:42:31,168
+Oh, man.
+
+408
+00:42:36,751 --> 00:42:40,751
+All praises be Allah, for His many blessings to us.
+
+409
+00:42:46,418 --> 00:42:47,418
+What?
+
+410
+00:42:47,959 --> 00:42:49,459
+It’s the winner of the look-alike contest.
+
+411
+00:43:07,334 --> 00:43:09,168
+Who were these people anyway, miners?
+
+412
+00:43:09,293 --> 00:43:10,876
+I don’t know. Looks like geologists.
+
+413
+00:43:11,001 --> 00:43:13,251
+You know, an advance team, moves around from rock to rock.
+
+414
+00:43:13,376 --> 00:43:16,793
+Nice of them to leave so much stuff here.
+
+415
+00:43:16,918 --> 00:43:18,626
+Why did they leave their ship?
+
+416
+00:43:32,001 --> 00:43:33,418
+It’s not a ship, it's a skiff.
+
+417
+00:43:33,543 --> 00:43:34,876
+And it's disposable, really.
+
+418
+00:43:35,001 --> 00:43:37,251
+It’s more like an emergency life raft, right?
+
+419
+00:43:37,376 --> 00:43:40,168
+Yeah, they probably had a big drop ship take them off planet.
+
+420
+00:43:40,293 --> 00:43:42,251
+These people didn’t leave. Come on.
+
+421
+00:43:42,376 --> 00:43:45,209
+Whoever got Zeke got them.
+
+422
+00:43:45,334 --> 00:43:46,418
+They’re all dead.
+
+423
+00:43:51,209 --> 00:43:54,876
+You don’t really think they left with their clothes on the hooks,
+
+424
+00:43:55,001 --> 00:43:56,084
+photos on the shelves.
+
+425
+00:43:56,209 --> 00:43:58,376
+Maybe they had weight limits. You don’t know.
+
+426
+00:43:58,501 --> 00:44:00,501
+I know you don’t prep your emergency ship
+
+427
+00:44:00,626 --> 00:44:01,793
+unless there’s a fucking emergency.
+
+428
+00:44:01,918 --> 00:44:04,376
+- He's fucking right. - Watch your mouth.
+
+429
+00:44:04,501 --> 00:44:07,001
+He's just saying what we're all thinking.
+
+430
+00:44:10,251 --> 00:44:12,376
+So, what happened? Where are they?
+
+431
+00:44:12,501 --> 00:44:15,668
+Has anyone seen the little one? Ali?
+
+432
+00:44:15,793 --> 00:44:17,293
+Has anyone checked the coring room?
+
+433
+00:44:32,543 --> 00:44:33,918
+Ali.
+
+434
+00:44:34,043 --> 00:44:34,876
+Come on.
+
+435
+00:45:12,251 --> 00:45:13,251
+- Ali. - Slowly.
+
+436
+00:45:13,376 --> 00:45:15,126
+Jack, wait. Wait!
+
+437
+00:45:15,251 --> 00:45:16,668
+Ali.
+
+438
+00:45:16,793 --> 00:45:18,459
+Ali.
+
+439
+00:45:20,376 --> 00:45:21,876
+Ali.
+
+440
+00:45:48,834 --> 00:45:50,251
+Ali?
+
+441
+00:46:20,751 --> 00:46:22,418
+Imam?
+
+442
+00:46:23,959 --> 00:46:25,209
+Imam?
+
+443
+00:46:59,709 --> 00:47:02,126
+Other buildings weren’t secure...
+
+444
+00:47:04,793 --> 00:47:06,626
+...so, they ran here.
+
+445
+00:47:06,751 --> 00:47:08,584
+Heaviest doors.
+
+446
+00:47:08,709 --> 00:47:12,001
+Thought they’d be safe inside, but they forgot to lock the cellar.
+
+447
+00:47:23,126 --> 00:47:24,626
+Here.
+
+448
+00:47:29,084 --> 00:47:31,751
+What, it's broken?
+
+449
+00:47:31,876 --> 00:47:33,959
+No. There’s still a few hits.
+
+450
+00:47:34,084 --> 00:47:38,084
+Actually, you asshole, I’m trying to say that I’m sorry.
+
+451
+00:47:39,626 --> 00:47:43,459
+OK, let’s board this place up and get the hell out of here.
+
+452
+00:47:48,668 --> 00:47:51,501
+Whatever the fuck those things were, they seem to stick to darkness.
+
+453
+00:47:51,626 --> 00:47:53,668
+So, if we stick to daylight, we should be all right, OK?
+
+454
+00:47:53,793 --> 00:47:54,876
+Let’s go.
+
+455
+00:47:55,001 --> 00:47:57,751
+22 years ago.
+
+456
+00:47:57,876 --> 00:47:59,293
+What?
+
+457
+00:47:59,418 --> 00:48:01,584
+These coring samples are dated.
+
+458
+00:48:01,709 --> 00:48:03,459
+Last ones 22 years ago this month.
+
+459
+00:48:03,584 --> 00:48:06,751
+OK, is there something special about that, Carolyn?
+
+460
+00:48:06,876 --> 00:48:09,209
+I don’t know.
+
+461
+00:48:09,334 --> 00:48:11,418
+There could be.
+
+462
+00:48:50,126 --> 00:48:51,959
+An eclipse.
+
+463
+00:48:59,168 --> 00:49:01,001
+You’re not afraid of the dark, are you?
+
+464
+00:49:02,876 --> 00:49:04,709
+So, we gotta get the power cells.
+
+465
+00:49:04,834 --> 00:49:07,001
+Shit, I’ve still gotta check on the hull and patch the wings.
+
+466
+00:49:07,126 --> 00:49:08,126
+Wait on the power cells.
+
+467
+00:49:08,251 --> 00:49:10,501
+What? Wait for what? Until it's too dark to get back?
+
+468
+00:49:10,626 --> 00:49:12,543
+We don’t know when it'll happen. Let’s not get overexcited.
+
+469
+00:49:12,668 --> 00:49:15,418
+Just get the fucking cells here, Johns.
+
+470
+00:49:15,543 --> 00:49:17,626
+What... what is the discussion?
+
+471
+00:49:17,751 --> 00:49:19,834
+Maybe I should tell you how Riddick escaped.
+
+472
+00:49:19,959 --> 00:49:21,793
+He can pilot?
+
+473
+00:49:21,918 --> 00:49:23,418
+He hijacked a prison transport,
+
+474
+00:49:23,543 --> 00:49:26,543
+made a hell of a good run before I tracked his ass down.
+
+475
+00:49:26,668 --> 00:49:28,084
+OK, OK, maybe that’s a good thing.
+
+476
+00:49:28,209 --> 00:49:30,709
+Maybe we can use him to help us navigate or something.
+
+477
+00:49:30,834 --> 00:49:33,251
+He also figured out how to kill the pilot.
+
+478
+00:49:35,668 --> 00:49:37,084
+Look, you told me we could trust him.
+
+479
+00:49:37,209 --> 00:49:38,543
+You said that we had a deal, Johns.
+
+480
+00:49:38,668 --> 00:49:42,084
+Now, you may have noticed that chains don’t work on this guy.
+
+481
+00:49:43,334 --> 00:49:45,084
+Now the only way you people are truly safe
+
+482
+00:49:45,209 --> 00:49:47,626
+is if he believes he's going free.
+
+483
+00:49:47,751 --> 00:49:49,084
+Let’s just say he stops believing...
+
+484
+00:49:49,209 --> 00:49:51,043
+You mean if he realizes that we're going to royally fuck him over.
+
+485
+00:49:51,168 --> 00:49:52,793
+I want you to listen to me for a second.
+
+486
+00:49:52,918 --> 00:49:56,001
+If we bring the cells up at the last possible minute
+
+487
+00:49:56,126 --> 00:49:57,959
+when the wings are ready and we're ready to launch...
+
+488
+00:49:58,084 --> 00:50:01,084
+He hasn’t harmed any of us. He hasn’t even lied to us.
+
+489
+00:50:01,209 --> 00:50:03,376
+- Lets just stick to the deal, Johns. - He's a killer.
+
+490
+00:50:03,501 --> 00:50:05,501
+And the law says he has to do his bid.
+
+491
+00:50:05,626 --> 00:50:08,793
+There’s nothing I can do about that. You hear me?
+
+492
+00:50:08,918 --> 00:50:11,418
+You’re dancing on razor blades here.
+
+493
+00:50:11,543 --> 00:50:15,543
+I’m not gonna give him a chance to grab another ship
+
+494
+00:50:15,668 --> 00:50:17,834
+or slash another pilots throat.
+
+495
+00:50:18,834 --> 00:50:20,668
+Not on my watch.
+
+496
+00:50:34,001 --> 00:50:36,418
+Bad sign.
+
+497
+00:50:39,209 --> 00:50:41,793
+Shaking like that in this heat.
+
+498
+00:50:44,293 --> 00:50:46,876
+I thought I said no shivs... shivs.
+
+499
+00:50:47,001 --> 00:50:48,501
+This?
+
+500
+00:50:48,626 --> 00:50:51,626
+This is just a personal grooming appliance.
+
+501
+00:51:10,418 --> 00:51:12,709
+Thanking you.
+
+502
+00:51:15,668 --> 00:51:18,418
+Looks like we're a few shy.
+
+503
+00:51:19,043 --> 00:51:20,876
+Power cells.
+
+504
+00:51:21,501 --> 00:51:22,668
+They’re coming.
+
+505
+00:51:22,793 --> 00:51:25,834
+It’s strange, not doing a run-up on the main drive yet.
+
+506
+00:51:29,334 --> 00:51:31,001
+Unless...
+
+507
+00:51:32,418 --> 00:51:37,751
+Unless he told you the particulars of my escape.
+
+508
+00:51:39,084 --> 00:51:41,001
+I got the quick and ugly version.
+
+509
+00:51:41,126 --> 00:51:42,626
+Now you’re worried about a repeat of history.
+
+510
+00:51:42,751 --> 00:51:44,751
+It has entered our minds.
+
+511
+00:51:49,834 --> 00:51:51,668
+I asked what you thought.
+
+512
+00:51:52,876 --> 00:51:55,751
+You scare me, Riddick. That’s what you want to hear, isn’t it?
+
+513
+00:51:55,876 --> 00:51:58,376
+Now can I just get back to work?
+
+514
+00:51:58,501 --> 00:52:01,709
+I’ve been meaning to catch up with you alone,
+
+515
+00:52:01,834 --> 00:52:03,668
+unrestrained.
+
+516
+00:52:04,834 --> 00:52:06,334
+Do you think...
+
+517
+00:52:06,459 --> 00:52:10,334
+You think Johns is a do-right man?
+
+518
+00:52:10,459 --> 00:52:14,043
+You think I can trust him to cut me loose?
+
+519
+00:52:14,168 --> 00:52:16,668
+Why? What did you hear?
+
+520
+00:52:16,793 --> 00:52:23,043
+Well, guess if it were trickeration, he’d just "X" me out, huh?
+
+521
+00:52:23,168 --> 00:52:24,918
+He'd kill me.
+
+522
+00:52:26,209 --> 00:52:30,626
+Then again, I am worth twice as much alive.
+
+523
+00:52:31,751 --> 00:52:34,668
+Oh, you didn’t know that?
+
+524
+00:52:34,793 --> 00:52:38,376
+Your Johns ain’t a cop.
+
+525
+00:52:39,293 --> 00:52:42,543
+He's got that nickel-slick badge...
+
+526
+00:52:44,918 --> 00:52:47,751
+...and that blue uniform...
+
+527
+00:52:49,709 --> 00:52:52,209
+...but he's just a merc.
+
+528
+00:52:58,418 --> 00:53:01,418
+And I’m just a payday.
+
+529
+00:53:01,543 --> 00:53:04,376
+That’s why he won’t kill me, see?
+
+530
+00:53:04,501 --> 00:53:08,501
+- The creed is greed. - Don’t waste my time.
+
+531
+00:53:09,709 --> 00:53:13,584
+We're not gonna turn on each other, no matter how hard you try.
+
+532
+00:53:18,668 --> 00:53:21,584
+I don’t know truly what’s gonna happen when the lights go out, Carolyn.
+
+533
+00:53:22,543 --> 00:53:25,876
+But I do know once the dying starts,
+
+534
+00:53:26,001 --> 00:53:30,334
+this little psycho-fuck family of ours is gonna rip itself apart.
+
+535
+00:53:35,209 --> 00:53:37,626
+Ever wonder why Johns shakes like that?
+
+536
+00:53:37,751 --> 00:53:40,168
+Ask him.
+
+537
+00:53:40,293 --> 00:53:45,418
+Ask why your crew pal had to scream so painfully before he died.
+
+538
+00:54:22,376 --> 00:54:24,709
+So, who are you, really?
+
+539
+00:54:25,876 --> 00:54:27,209
+You’re not a cop, are you?
+
+540
+00:54:27,334 --> 00:54:29,001
+I never said I was a cop.
+
+541
+00:54:30,376 --> 00:54:31,626
+No, you didn’t.
+
+542
+00:54:36,251 --> 00:54:38,084
+And you never said you were a hype, either.
+
+543
+00:54:40,001 --> 00:54:44,584
+You have caffeine in the morning, I have a little morphine. So what?
+
+544
+00:54:44,709 --> 00:54:47,959
+You got two mornings every day. Wow, you were born lucky.
+
+545
+00:54:48,084 --> 00:54:49,293
+It’s not a problem unless...
+
+546
+00:54:49,418 --> 00:54:53,668
+No, it becomes a problem when you let Owens die like that.
+
+547
+00:54:54,626 --> 00:54:57,209
+We have enough drugs here to knock out a fucking mule team.
+
+548
+00:54:57,334 --> 00:54:59,334
+Owens was already dead.
+
+549
+00:54:59,459 --> 00:55:03,043
+His brain just hadn’t caught on to the facts.
+
+550
+00:55:03,168 --> 00:55:05,918
+Is there anything else I should know about you, Johns?
+
+551
+00:55:09,834 --> 00:55:11,501
+You know, I...
+
+552
+00:55:11,626 --> 00:55:13,668
+I’m letting you roll the dice on our lives.
+
+553
+00:55:13,793 --> 00:55:14,959
+It is not unreasonable...
+
+554
+00:55:20,668 --> 00:55:23,251
+Do you feel that? That’s my first run-in with Riddick.
+
+555
+00:55:24,251 --> 00:55:27,501
+He went for the sweet spot and missed.
+
+556
+00:55:27,626 --> 00:55:30,293
+They had to leave a piece of the shiv in there, Carolyn,
+
+557
+00:55:30,418 --> 00:55:34,001
+and I can feel it pressing against the cord.
+
+558
+00:55:34,126 --> 00:55:38,626
+So maybe the care and feeding of my nerve endings is my business.
+
+559
+00:55:49,001 --> 00:55:52,751
+It’s just that you could've done something, and you didn't.
+
+560
+00:55:53,793 --> 00:55:56,293
+Yeah, well, look to thine own ass first. Right, Carolyn?
+
+561
+00:55:56,418 --> 00:55:57,543
+Captain! Captain!
+
+562
+00:56:01,209 --> 00:56:03,126
+I’m not your fucking captain.
+
+563
+00:56:26,126 --> 00:56:27,709
+What are my eyes seeing?
+
+564
+00:56:33,668 --> 00:56:37,001
+If we need anything from the crash ship, I suggest we kick on.
+
+565
+00:56:37,126 --> 00:56:39,459
+That sand cats solar.
+
+566
+00:56:47,584 --> 00:56:49,001
+Where’s Riddick?
+
+567
+00:56:49,126 --> 00:56:50,709
+Leave him. He wouldn’t wait for us.
+
+568
+00:56:54,334 --> 00:56:56,168
+Thought we’d lost you.
+
+569
+00:56:56,293 --> 00:56:57,709
+Johns!
+
+570
+00:57:19,584 --> 00:57:21,084
+Whoah!
+
+571
+00:57:51,793 --> 00:57:53,209
+Hey! Where are you going?
+
+572
+00:57:53,334 --> 00:57:56,001
+I’m just gonna get a couple things. Ill only be a few minutes.
+
+573
+00:58:00,043 --> 00:58:02,209
+You wouldn’t leave without me, would you?
+
+574
+00:59:14,626 --> 00:59:16,043
+Shit.
+
+575
+00:59:48,418 --> 00:59:50,584
+How many are there?
+
+576
+00:59:58,084 --> 01:00:00,084
+Beautiful.
+
+577
+01:00:00,626 --> 01:00:02,043
+<i>Allah.</i>
+
+578
+01:00:07,209 --> 01:00:10,168
+People, just a suggestion.
+
+579
+01:00:10,293 --> 01:00:12,001
+Perhaps you should flee!
+
+580
+01:00:12,126 --> 01:00:13,709
+Let’s go!
+
+581
+01:00:13,834 --> 01:00:15,876
+Come on, run!
+
+582
+01:00:16,001 --> 01:00:17,126
+Shit!
+
+583
+01:00:23,251 --> 01:00:24,543
+Come on!
+
+584
+01:00:33,376 --> 01:00:35,209
+Get in!
+
+585
+01:00:37,668 --> 01:00:39,418
+Get down!
+
+586
+01:00:56,626 --> 01:00:58,126
+No... no.
+
+587
+01:01:01,959 --> 01:01:05,626
+Stay there! Stay down, Shazza! Just stay down.
+
+588
+01:01:05,751 --> 01:01:07,168
+Come back here!
+
+589
+01:01:12,459 --> 01:01:14,543
+Shazza, stay down!
+
+590
+01:01:41,168 --> 01:01:43,334
+Please, I really think we should go inside.
+
+591
+01:01:43,459 --> 01:01:44,793
+We have to be inside to be able to close the door.
+
+592
+01:01:44,918 --> 01:01:47,626
+Come on, let’s go! Go, go, go.
+
+593
+01:02:08,209 --> 01:02:11,251
+What is it, Riddick? What is it now?
+
+594
+01:02:11,376 --> 01:02:16,293
+Like I said, it ain’t me you gotta worry about.
+
+595
+01:02:45,418 --> 01:02:47,251
+She should've stayed down.
+
+596
+01:02:47,376 --> 01:02:49,709
+If she only would have stayed down, shed be OK.
+
+597
+01:02:49,834 --> 01:02:51,418
+She wouldn’t have died.
+
+598
+01:02:51,543 --> 01:02:54,626
+You remember the boneyard?
+
+599
+01:02:54,751 --> 01:02:56,168
+These just might be the fuckers
+
+600
+01:02:56,293 --> 01:02:58,709
+that killed every living thing on this planet.
+
+601
+01:02:58,834 --> 01:03:02,876
+What are we gonna do now?
+
+602
+01:03:03,001 --> 01:03:05,418
+Are these the only lights we have? Is this everything?
+
+603
+01:03:05,543 --> 01:03:08,126
+There’s a cutting torch on the floor here somewhere.
+
+604
+01:03:08,251 --> 01:03:09,251
+I just can’t find it.
+
+605
+01:03:09,376 --> 01:03:10,626
+Quiet, please, everyone.
+
+606
+01:03:19,418 --> 01:03:22,668
+Why do they do that, make that sound?
+
+607
+01:03:22,793 --> 01:03:28,001
+Perhaps it's the way they see with sound reflecting back...
+
+608
+01:03:37,293 --> 01:03:40,084
+Could be a breach in the hull. I don’t know.
+
+609
+01:03:42,543 --> 01:03:47,251
+Come on, Johns. You got the big gauge.
+
+610
+01:03:47,376 --> 01:03:51,418
+I’d rather piss glass. Why don’t you go fucking check?
+
+611
+01:03:51,543 --> 01:03:52,876
+I’m not staying here anymore.
+
+612
+01:03:53,001 --> 01:03:54,334
+Where you going? Hey! Hey!
+
+613
+01:03:54,459 --> 01:03:56,293
+Paris! Paris!
+
+614
+01:03:56,418 --> 01:03:58,001
+Sit him down.
+
+615
+01:03:58,918 --> 01:04:01,918
+- You don’t know what’s out there. - I know what’s in here.
+
+616
+01:04:08,584 --> 01:04:10,001
+Hurry!
+
+617
+01:04:17,084 --> 01:04:20,334
+Now we're trapped in a much smaller space. I hate this!
+
+618
+01:06:00,543 --> 01:06:05,084
+Extremely bad timing.
+
+619
+01:06:16,751 --> 01:06:18,459
+Just don’t run.
+
+620
+01:06:19,876 --> 01:06:21,834
+Riddick?
+
+621
+01:06:21,959 --> 01:06:24,751
+Don’t stop burning.
+
+622
+01:06:24,876 --> 01:06:26,293
+Take this.
+
+623
+01:06:26,418 --> 01:06:28,668
+- Take that. - OK.
+
+624
+01:06:45,334 --> 01:06:46,876
+Hassan. Where is Hassan?
+
+625
+01:07:30,709 --> 01:07:32,126
+Is it alive?
+
+626
+01:07:42,043 --> 01:07:44,001
+It’s like the light is scalding it.
+
+627
+01:07:44,126 --> 01:07:47,584
+It hurts them. Light actually hurts them.
+
+628
+01:07:55,334 --> 01:07:56,334
+Is that Hassan?
+
+629
+01:07:56,459 --> 01:07:58,959
+Well burn a candle for him later.
+
+630
+01:07:59,084 --> 01:08:00,334
+Come on, let’s get out of here.
+
+631
+01:08:02,209 --> 01:08:06,626
+So, we got one cutting torch, we got two hand lights.
+
+632
+01:08:06,751 --> 01:08:09,751
+There’s gotta be something we can rip out of the crash ship.
+
+633
+01:08:09,876 --> 01:08:11,709
+Spirits.
+
+634
+01:08:11,834 --> 01:08:14,584
+Anything over 45 proof burns rather well.
+
+635
+01:08:14,709 --> 01:08:17,209
+- How many bottles you got? - I don’t know. Maybe ten.
+
+636
+01:08:17,334 --> 01:08:21,334
+OK, Johns, you got some flares.
+
+637
+01:08:21,459 --> 01:08:25,751
+- So, maybe we’ve got enough light. - Enough for fucking what?
+
+638
+01:08:25,876 --> 01:08:28,043
+We stick to the plan.
+
+639
+01:08:28,168 --> 01:08:31,001
+We get the four cells back to the skiff,
+
+640
+01:08:31,126 --> 01:08:32,501
+we're off this rock.
+
+641
+01:08:32,626 --> 01:08:35,584
+Look, I hate to ruin a beautiful theory with an ugly fact,
+
+642
+01:08:35,709 --> 01:08:39,293
+but that sand cat is solar. It won’t run at night.
+
+643
+01:08:39,418 --> 01:08:41,584
+So, we carry the cells.
+
+644
+01:08:41,709 --> 01:08:43,709
+We drag them, whatever it takes.
+
+645
+01:08:43,834 --> 01:08:46,376
+You mean tonight, with all those things still out there?
+
+646
+01:08:46,501 --> 01:08:48,501
+All right, how long can this last?
+
+647
+01:08:49,376 --> 01:08:52,543
+A few hours? A day, tops?
+
+648
+01:08:52,668 --> 01:08:56,334
+I have the impression from the model.
+
+649
+01:08:56,459 --> 01:08:59,709
+The two planets we're moving as one,
+
+650
+01:08:59,834 --> 01:09:01,918
+and there would be a lasting darkness.
+
+651
+01:09:02,043 --> 01:09:04,876
+Mmm. These suns gotta come up sometime.
+
+652
+01:09:05,001 --> 01:09:08,668
+And if these creatures are phobic about light, then we just sit tight,
+
+653
+01:09:08,793 --> 01:09:09,793
+and we let the sun come up.
+
+654
+01:09:09,918 --> 01:09:14,751
+I’m sure somebody else said that locked inside that coring room.
+
+655
+01:09:15,709 --> 01:09:17,834
+We need to think about everybody now, especially the kid.
+
+656
+01:09:17,959 --> 01:09:20,043
+How scared will he be in the dark?
+
+657
+01:09:20,168 --> 01:09:21,251
+Don’t use him like that.
+
+658
+01:09:21,376 --> 01:09:22,959
+- Like what? - As a smoke screen.
+
+659
+01:09:23,084 --> 01:09:24,084
+You deal with your own fear.
+
+660
+01:09:24,209 --> 01:09:26,709
+Why don’t you shut your fucking mouth for two seconds?
+
+661
+01:09:26,834 --> 01:09:29,793
+and let me come up with a plan that doesn’t involve mass suicide.
+
+662
+01:09:33,251 --> 01:09:35,084
+I’m waiting.
+
+663
+01:09:36,459 --> 01:09:39,293
+- How much you weigh, Johns? - What’s it matter, Carolyn?
+
+664
+01:09:39,418 --> 01:09:41,501
+How much?
+
+665
+01:09:41,626 --> 01:09:43,376
+Around 79 kilos.
+
+666
+01:09:43,501 --> 01:09:45,418
+Cos you’re 79 kilos of gutless white meat.
+
+667
+01:09:45,543 --> 01:09:46,668
+That’s why you can’t think...
+
+668
+01:09:46,793 --> 01:09:48,459
+Is that fucking right?
+
+669
+01:09:48,584 --> 01:09:49,793
+Where are you going?
+
+670
+01:09:49,918 --> 01:09:51,626
+This solves nothing.
+
+671
+01:10:00,918 --> 01:10:02,418
+OK.
+
+672
+01:10:09,876 --> 01:10:12,293
+They’re afraid of our light.
+
+673
+01:10:12,418 --> 01:10:14,293
+That means we don’t have to be so afraid of them.
+
+674
+01:10:14,418 --> 01:10:18,626
+And you are sure you can get us there, even in the dark?
+
+675
+01:10:20,834 --> 01:10:22,834
+No, I can’t.
+
+676
+01:10:24,251 --> 01:10:25,751
+But he can.
+
+677
+01:10:46,376 --> 01:10:48,209
+Stay close.
+
+678
+01:10:58,168 --> 01:11:00,001
+OK, wait. Wait!
+
+679
+01:11:08,209 --> 01:11:10,043
+Riddick.
+
+680
+01:11:24,626 --> 01:11:26,459
+Looks clear.
+
+681
+01:11:35,668 --> 01:11:37,918
+- You said "clear". - I said it looks clear.
+
+682
+01:11:39,168 --> 01:11:41,168
+What’s it look like now?
+
+683
+01:11:45,501 --> 01:11:46,501
+Looks clear.
+
+684
+01:12:07,459 --> 01:12:09,126
+I’ll be running about ten paces ahead.
+
+685
+01:12:09,251 --> 01:12:12,001
+I want light on my back, but not my eyes.
+
+686
+01:12:12,126 --> 01:12:13,626
+And check your cuts.
+
+687
+01:12:13,751 --> 01:12:16,168
+These bad boys know our blood now.
+
+688
+01:12:30,459 --> 01:12:32,876
+Are we actually going to do this?
+
+689
+01:12:35,418 --> 01:12:38,418
+We stay together, we keep the light burning.
+
+690
+01:12:40,001 --> 01:12:43,168
+That’s all we gotta do to live through this thing.
+
+691
+01:12:54,626 --> 01:12:56,626
+Are you ready, Johns?
+
+692
+01:12:56,751 --> 01:12:58,584
+Mmm.
+
+693
+01:12:59,876 --> 01:13:02,293
+Look, we're just wasting light here.
+
+694
+01:13:04,918 --> 01:13:08,918
+You give him the cells and the ship
+
+695
+01:13:09,043 --> 01:13:12,376
+and he’ll leave you all out there to die.
+
+696
+01:13:12,501 --> 01:13:14,751
+He’ll leave all of you.
+
+697
+01:13:15,376 --> 01:13:17,376
+I don’t get it, Johns.
+
+698
+01:13:18,918 --> 01:13:20,751
+What is so goddamn valuable in your life
+
+699
+01:13:20,876 --> 01:13:22,876
+that you’re worried about losing?
+
+700
+01:13:23,001 --> 01:13:24,584
+Is there anything at all...?
+
+701
+01:13:25,668 --> 01:13:27,793
+...besides your next spike?
+
+702
+01:14:23,418 --> 01:14:25,168
+Stay close.
+
+703
+01:14:33,501 --> 01:14:34,501
+Wait.
+
+704
+01:14:36,334 --> 01:14:37,834
+Jack!
+
+705
+01:14:44,043 --> 01:14:45,626
+Be careful!
+
+706
+01:14:47,501 --> 01:14:48,918
+Jack.
+
+707
+01:14:57,584 --> 01:15:00,918
+This can’t be happening. This can’t be happening.
+
+708
+01:15:01,043 --> 01:15:02,709
+Paris, get back here!
+
+709
+01:15:13,876 --> 01:15:14,959
+Are you all right?
+
+710
+01:15:15,084 --> 01:15:17,584
+This can’t be happening. This can’t be happening.
+
+711
+01:15:32,459 --> 01:15:35,209
+I was supposed to die in France.
+
+712
+01:15:36,501 --> 01:15:38,376
+I never even saw France.
+
+713
+01:15:55,126 --> 01:15:57,543
+Well, it's good to see you’re OK.
+
+714
+01:16:07,584 --> 01:16:09,709
+Do I even wanna know?
+
+715
+01:16:29,751 --> 01:16:32,334
+Are we getting close?
+
+716
+01:16:32,459 --> 01:16:34,709
+Can we pick up the pace?
+
+717
+01:16:40,584 --> 01:16:42,334
+Wanna tell me what the hells going on?
+
+718
+01:16:42,459 --> 01:16:44,043
+We crossed our own tracks.
+
+719
+01:16:44,168 --> 01:16:45,918
+Why have we circled? Are we lost?
+
+720
+01:16:46,043 --> 01:16:47,626
+Listen.
+
+721
+01:16:47,751 --> 01:16:50,209
+- Do you even know where we are? - Listen!
+
+722
+01:16:59,126 --> 01:17:02,126
+Canyon ahead. I circled once to buy some time to think.
+
+723
+01:17:04,043 --> 01:17:05,543
+I think we should go now.
+
+724
+01:17:05,668 --> 01:17:08,001
+Oh, I don’t know about that.
+
+725
+01:17:08,126 --> 01:17:10,459
+That’s death row up there.
+
+726
+01:17:10,584 --> 01:17:12,918
+Especially with the girl bleeding.
+
+727
+01:17:13,043 --> 01:17:14,126
+What?
+
+728
+01:17:14,251 --> 01:17:16,418
+What are you talking about? She's not cut.
+
+729
+01:17:16,543 --> 01:17:18,209
+Not her.
+
+730
+01:17:20,334 --> 01:17:22,001
+Her.
+
+731
+01:17:28,876 --> 01:17:30,709
+You’ve gotta be kidding me.
+
+732
+01:17:31,543 --> 01:17:34,959
+I... I just thought it’d be better if people took me for a guy.
+
+733
+01:17:35,084 --> 01:17:36,918
+- I thought they’d leave me alone... - Jesus, Jack!
+
+734
+01:17:37,043 --> 01:17:38,876
+...instead of always messing with me.
+
+735
+01:17:43,084 --> 01:17:44,918
+I’m sorry.
+
+736
+01:17:45,043 --> 01:17:46,876
+I’m sorry, sweetheart.
+
+737
+01:17:47,001 --> 01:17:48,334
+Are you really bleeding?
+
+738
+01:17:48,459 --> 01:17:52,626
+You could've left me at the ship, Fry. That’s why I didn’t say anything sooner.
+
+739
+01:17:53,334 --> 01:17:56,501
+They’ve been nose-open for her ever since we left.
+
+740
+01:17:56,626 --> 01:17:59,626
+In case you haven’t noticed, they go off blood.
+
+741
+01:17:59,751 --> 01:18:02,918
+Look, this is not gonna work.
+
+742
+01:18:03,043 --> 01:18:05,334
+We're gonna have to go back.
+
+743
+01:18:05,459 --> 01:18:06,668
+What'd you say?
+
+744
+01:18:08,418 --> 01:18:10,751
+You’re the one who got us out here in the first place.
+
+745
+01:18:10,876 --> 01:18:12,543
+I was wrong. I admit it.
+
+746
+01:18:12,668 --> 01:18:14,793
+OK, can we just get back to the ship?
+
+747
+01:18:14,918 --> 01:18:17,793
+I don’t know, Carolyn. Nice breeze, wide-open space.
+
+748
+01:18:17,918 --> 01:18:20,001
+I’m starting to enjoy my fucking self out here.
+
+749
+01:18:20,126 --> 01:18:22,668
+What, are you high again? Just listen to yourself, Johns.
+
+750
+01:18:22,793 --> 01:18:24,959
+No, no, you’re right, Carolyn. What’s to be afraid of?
+
+751
+01:18:25,084 --> 01:18:28,418
+My life is a steaming pile of meaningless shit anyhow,
+
+752
+01:18:28,543 --> 01:18:30,543
+so, I say mush on.
+
+753
+01:18:30,668 --> 01:18:32,168
+The canyons only a couple hundred meters,
+
+754
+01:18:32,293 --> 01:18:34,126
+and after that it's skiff city.
+
+755
+01:18:34,251 --> 01:18:37,668
+So why don’t you butch up, stuff a cork in this fucking kid and let’s go.
+
+756
+01:18:37,793 --> 01:18:39,876
+She is the captain. We should listen to her.
+
+757
+01:18:40,001 --> 01:18:41,834
+Listen to her?
+
+758
+01:18:43,209 --> 01:18:45,043
+When she was so willing to sacrifice us all.
+
+759
+01:18:45,168 --> 01:18:46,834
+- What’s he talking about? - This does not help us.
+
+760
+01:18:46,959 --> 01:18:49,709
+During the crash, she tried to blow the whole passenger cabin,
+
+761
+01:18:49,834 --> 01:18:51,501
+- tried to kill us in our sleep. - Shut your mouth.
+
+762
+01:18:51,626 --> 01:18:54,501
+We are fucking disposable. We're just walking ghosts to you.
+
+763
+01:18:54,626 --> 01:18:55,959
+Shut your fucking blowhole!
+
+764
+01:18:57,043 --> 01:18:59,043
+Fine. Fine!
+
+765
+01:18:59,793 --> 01:19:01,876
+You’ve made your point.
+
+766
+01:19:02,001 --> 01:19:03,418
+We’ll all be scared.
+
+767
+01:19:03,543 --> 01:19:07,376
+Oh, Carolyn, how much do you weigh now?
+
+768
+01:19:07,501 --> 01:19:10,834
+The verdicts in. The light moves forward.
+
+769
+01:19:20,376 --> 01:19:22,459
+Ain’t all of us gonna make it.
+
+770
+01:19:22,584 --> 01:19:24,584
+Just realize that?
+
+771
+01:19:25,584 --> 01:19:27,418
+Six of us left.
+
+772
+01:19:28,834 --> 01:19:31,334
+If we can make it through the canyon and lose just one,
+
+773
+01:19:31,459 --> 01:19:33,251
+- that'd be quite a feat, huh? - Not if I’m the one.
+
+774
+01:19:33,376 --> 01:19:36,043
+What if you’re one of five?
+
+775
+01:19:40,543 --> 01:19:42,376
+I’m listening.
+
+776
+01:19:47,459 --> 01:19:48,709
+What are they doing up there?
+
+777
+01:19:48,834 --> 01:19:52,584
+They’re talking about the canyon, I suppose. How to get us through.
+
+778
+01:19:53,876 --> 01:19:56,126
+Battlefield doctors decide who lives and dies,
+
+779
+01:19:56,251 --> 01:19:57,668
+it's called triage.
+
+780
+01:19:57,793 --> 01:19:59,793
+You kept calling it murder when I did it.
+
+781
+01:19:59,918 --> 01:20:02,751
+Either way, I figure it's something you can grab onto.
+
+782
+01:20:04,751 --> 01:20:06,001
+Sacrifice play.
+
+783
+01:20:06,126 --> 01:20:09,543
+Hack up a body, leave it at the start of the canyon
+
+784
+01:20:09,668 --> 01:20:11,334
+like a bucket of bait.
+
+785
+01:20:11,459 --> 01:20:14,584
+Trawl with it. We got extra cable on the sled.
+
+786
+01:20:14,709 --> 01:20:16,876
+We drag the body 40, 50 feet behind us.
+
+787
+01:20:17,001 --> 01:20:18,084
+Nice embellishment.
+
+788
+01:20:18,209 --> 01:20:21,043
+Well, I don’t wanna feed ‘em. I just wanna keep ‘em off our scent.
+
+789
+01:20:21,168 --> 01:20:24,001
+- So, which one caught your eye? - No, no, don’t look.
+
+790
+01:20:24,126 --> 01:20:26,876
+Christ. What the hells wrong with you?
+
+791
+01:20:29,709 --> 01:20:31,543
+Imam, slow down.
+
+792
+01:20:31,668 --> 01:20:33,584
+Just a little more space between us and them.
+
+793
+01:20:35,626 --> 01:20:37,793
+All right, enough of this shit.
+
+794
+01:20:37,918 --> 01:20:39,918
+You do the girl, and I’ll keep the others off your back.
+
+795
+01:20:45,376 --> 01:20:47,459
+It’s not too big a job for you, is it?
+
+796
+01:20:50,209 --> 01:20:52,334
+I’m just wondering if we don’t need a bigger piece of bait.
+
+797
+01:20:53,751 --> 01:20:54,834
+Like who?
+
+798
+01:21:05,293 --> 01:21:07,293
+Leave the sled! Let’s move!
+
+799
+01:21:09,084 --> 01:21:10,251
+Let’s go! Let’s go!
+
+800
+01:21:47,751 --> 01:21:49,334
+One rule.
+
+801
+01:21:54,251 --> 01:21:56,084
+Stay in the light.
+
+802
+01:22:06,668 --> 01:22:07,834
+Remember that moment.
+
+803
+01:22:20,876 --> 01:22:22,959
+You should've never taken the chains off, Johns.
+
+804
+01:22:27,084 --> 01:22:28,501
+You were one brave fuck before.
+
+805
+01:22:31,001 --> 01:22:32,418
+You were Billy Badass.
+
+806
+01:22:33,793 --> 01:22:34,918
+The chains.
+
+807
+01:22:36,626 --> 01:22:37,668
+The gauge.
+
+808
+01:22:39,334 --> 01:22:40,751
+The badge.
+
+809
+01:22:45,001 --> 01:22:47,084
+I told you to ghost me.
+
+810
+01:23:36,418 --> 01:23:37,959
+Back to the ship, huh?
+
+811
+01:23:38,918 --> 01:23:41,084
+Just huddle together until the lights burn out.
+
+812
+01:23:41,209 --> 01:23:44,376
+- Get away from us. - Till you can’t see what’s eating you.
+
+813
+01:23:44,501 --> 01:23:46,626
+- That the big plan? - Where’s Johns?
+
+814
+01:23:47,668 --> 01:23:48,834
+Which half?
+
+815
+01:23:48,959 --> 01:23:51,376
+We're gonna lose everybody out here.
+
+816
+01:23:52,626 --> 01:23:54,126
+We should've stayed at the ship.
+
+817
+01:23:54,251 --> 01:23:55,751
+He died fast.
+
+818
+01:23:55,876 --> 01:23:58,126
+If we have any choice about it, that’s the way we should all go out.
+
+819
+01:24:02,251 --> 01:24:04,418
+Don’t you cry for Johns.
+
+820
+01:24:05,168 --> 01:24:07,001
+Don’t you dare.
+
+821
+01:24:34,918 --> 01:24:36,168
+Blind spot.
+
+822
+01:24:36,293 --> 01:24:38,126
+Shall we pray together?
+
+823
+01:24:44,459 --> 01:24:46,876
+I have already prayed with the others.
+
+824
+01:24:49,834 --> 01:24:51,376
+It is painless.
+
+825
+01:24:51,501 --> 01:24:52,543
+It’s pointless.
+
+826
+01:24:52,668 --> 01:24:54,376
+Because you do not believe in God
+
+827
+01:24:54,501 --> 01:24:55,918
+does not mean God does not believe in you.
+
+828
+01:24:56,043 --> 01:24:59,209
+Think someone can spend half of their life in a slam
+
+829
+01:24:59,334 --> 01:25:01,001
+with a horse bit in their mouth and not believe?
+
+830
+01:25:02,543 --> 01:25:04,876
+Think he could start out in some liquor store trash bin
+
+831
+01:25:05,001 --> 01:25:08,084
+with an umbilical cord wrapped around his neck
+
+832
+01:25:08,209 --> 01:25:09,959
+and not believe?
+
+833
+01:25:11,459 --> 01:25:14,126
+You got it all wrong, holy man.
+
+834
+01:25:15,126 --> 01:25:17,626
+I absolutely believe in God.
+
+835
+01:25:19,209 --> 01:25:21,043
+And I absolutely hate the fucker.
+
+836
+01:25:22,334 --> 01:25:24,001
+He is with us, nonetheless.
+
+837
+01:25:24,126 --> 01:25:27,126
+Two of your boys are already dead.
+
+838
+01:25:27,251 --> 01:25:30,251
+How much faith do you have left, Father?
+
+839
+01:25:50,584 --> 01:25:52,418
+I only see one way.
+
+840
+01:25:52,543 --> 01:25:54,834
+That way. It’s the only way off this rock.
+
+841
+01:25:57,293 --> 01:25:59,876
+Just keep the girl between you.
+
+842
+01:26:01,293 --> 01:26:03,126
+What about the cells?
+
+843
+01:26:05,626 --> 01:26:07,626
+I’ll take those.
+
+844
+01:26:13,751 --> 01:26:15,959
+- Move. - Are you sure you can keep up?
+
+845
+01:26:16,084 --> 01:26:17,084
+Move!
+
+846
+01:27:01,043 --> 01:27:02,293
+Do not look up!
+
+847
+01:27:03,459 --> 01:27:05,376
+Do not look up!
+
+848
+01:27:05,501 --> 01:27:07,793
+They’re killing each other.
+
+849
+01:27:33,709 --> 01:27:35,501
+Move! Keep moving!
+
+850
+01:27:35,626 --> 01:27:37,626
+Keep moving!
+
+851
+01:28:12,209 --> 01:28:14,751
+Riddick! Wait!
+
+852
+01:28:18,751 --> 01:28:20,501
+Riddick!
+
+853
+01:28:49,126 --> 01:28:51,084
+Get off her!
+
+854
+01:28:58,876 --> 01:29:00,876
+Get off her!
+
+855
+01:29:09,001 --> 01:29:10,418
+It’s OK.
+
+856
+01:29:40,376 --> 01:29:42,543
+He did not know who he was fucking with.
+
+857
+01:29:59,668 --> 01:30:02,084
+- Get up. - Pull him up.
+
+858
+01:30:02,209 --> 01:30:03,626
+Come on. Pull him up.
+
+859
+01:30:03,751 --> 01:30:06,584
+- Stand up. - Get up. Come on.
+
+860
+01:30:16,543 --> 01:30:17,543
+Oh, no.
+
+861
+01:30:29,793 --> 01:30:32,293
+So, where the hells your God now?
+
+862
+01:30:57,543 --> 01:30:59,043
+Riddick!
+
+863
+01:31:00,668 --> 01:31:02,668
+Are we close?
+
+864
+01:31:05,084 --> 01:31:09,043
+Just tell me that the settlement is right there.
+
+865
+01:31:11,959 --> 01:31:13,876
+We can’t make it.
+
+866
+01:31:33,001 --> 01:31:35,418
+Hide here! Now!
+
+867
+01:32:03,418 --> 01:32:05,001
+Why is he still out there?
+
+868
+01:32:36,793 --> 01:32:40,043
+He's not coming back, is he?
+
+869
+01:35:20,084 --> 01:35:22,668
+That’s the last I could find.
+
+870
+01:35:59,334 --> 01:36:02,334
+Strong survival instinct.
+
+871
+01:36:02,459 --> 01:36:03,959
+I admire that in a woman.
+
+872
+01:36:04,084 --> 01:36:08,668
+I promised them that we would go back with more light.
+
+873
+01:36:08,793 --> 01:36:10,626
+Did you?
+
+874
+01:36:11,668 --> 01:36:13,793
+Hmm.
+
+875
+01:36:13,918 --> 01:36:15,084
+What, are you afraid?
+
+876
+01:36:17,334 --> 01:36:18,501
+Me, afraid?
+
+877
+01:36:21,959 --> 01:36:23,709
+Come on, Riddick.
+
+878
+01:36:23,834 --> 01:36:26,668
+There’s gotta be some part of you that wants to rejoin the human race.
+
+879
+01:36:29,418 --> 01:36:31,793
+Truthfully, I wouldn’t know how.
+
+880
+01:36:31,918 --> 01:36:33,751
+Well, then just give me more light for them.
+
+881
+01:36:33,876 --> 01:36:36,876
+- I’ll go back by myself. - OK.
+
+882
+01:36:41,126 --> 01:36:42,876
+There you go.
+
+883
+01:36:45,376 --> 01:36:46,876
+Please just come with me.
+
+884
+01:36:47,418 --> 01:36:49,251
+I got a better idea.
+
+885
+01:36:50,001 --> 01:36:51,251
+Come with me.
+
+886
+01:36:58,418 --> 01:37:00,084
+You’re fucking with me, I know you are.
+
+887
+01:37:00,668 --> 01:37:02,334
+You know I am?
+
+888
+01:37:05,084 --> 01:37:06,751
+You don’t know anything about me.
+
+889
+01:37:09,376 --> 01:37:11,293
+I will leave you here.
+
+890
+01:37:12,459 --> 01:37:14,209
+Step inside.
+
+891
+01:37:17,918 --> 01:37:19,418
+I can’t.
+
+892
+01:37:19,543 --> 01:37:21,584
+- Sure, you can. - I can’t.
+
+893
+01:37:21,709 --> 01:37:24,084
+Here, I’ll make it easy on you.
+
+894
+01:37:24,876 --> 01:37:26,709
+Take my hand.
+
+895
+01:37:26,834 --> 01:37:28,334
+Come on.
+
+896
+01:37:28,918 --> 01:37:30,751
+Come on.
+
+897
+01:37:32,418 --> 01:37:35,584
+Look, no one’s gonna blame you. Save yourself, Carolyn.
+
+898
+01:37:37,543 --> 01:37:39,168
+I...
+
+899
+01:37:39,293 --> 01:37:41,251
+Come on.
+
+900
+01:37:41,834 --> 01:37:43,334
+Come on.
+
+901
+01:37:45,959 --> 01:37:48,668
+That’s it. That’s it.
+
+902
+01:37:50,918 --> 01:37:52,418
+Good girl.
+
+903
+01:38:10,543 --> 01:38:14,168
+Now you... you listen to me!
+
+904
+01:38:14,293 --> 01:38:16,876
+I am the captain of this ship
+
+905
+01:38:17,001 --> 01:38:19,168
+and I am not leaving anyone on this rock
+
+906
+01:38:19,293 --> 01:38:20,959
+with those fucking things, even if it means...
+
+907
+01:38:26,126 --> 01:38:28,126
+- Get that thing off my neck. - Shut up!
+
+908
+01:38:29,834 --> 01:38:31,501
+You’d die for them?
+
+909
+01:38:31,626 --> 01:38:33,834
+I would try for them.
+
+910
+01:38:33,959 --> 01:38:35,876
+You didn’t answer me.
+
+911
+01:38:36,793 --> 01:38:39,459
+Yes, I would, Riddick.
+
+912
+01:38:39,584 --> 01:38:40,918
+I would.
+
+913
+01:38:41,043 --> 01:38:42,876
+I would die for them.
+
+914
+01:38:49,084 --> 01:38:51,168
+How interesting.
+
+915
+01:39:11,126 --> 01:39:12,709
+Never had a doubt.
+
+916
+01:39:13,751 --> 01:39:14,959
+Anyone not ready for this?
+
+917
+01:39:15,709 --> 01:39:17,626
+There is my God, Mr. Riddick.
+
+918
+01:40:08,959 --> 01:40:11,459
+Don’t stop. Don’t stop!
+
+919
+01:40:12,001 --> 01:40:15,543
+Come on! Move! Move!
+
+920
+01:40:16,084 --> 01:40:17,543
+You know the way!
+
+921
+01:40:38,668 --> 01:40:42,084
+On board! Come on! Get on.
+
+922
+01:41:37,584 --> 01:41:39,084
+Carolyn.
+
+923
+01:41:44,501 --> 01:41:45,918
+Come.
+
+924
+01:41:48,376 --> 01:41:49,793
+Now.
+
+925
+01:41:56,918 --> 01:41:59,584
+Wait.
+
+926
+01:42:07,834 --> 01:42:09,334
+Riddick.
+
+927
+01:42:13,793 --> 01:42:15,293
+Riddick.
+
+928
+01:42:27,709 --> 01:42:31,126
+OK, hold onto me. Hold onto me.
+
+929
+01:42:31,251 --> 01:42:32,751
+We're gonna get out of here.
+
+930
+01:42:32,876 --> 01:42:35,001
+I got you. Come on.
+
+931
+01:42:35,126 --> 01:42:38,626
+Come on, Riddick! Get up! Get up!
+
+932
+01:42:38,751 --> 01:42:40,043
+Get up!
+
+933
+01:42:42,793 --> 01:42:44,293
+I said I’d die for them, not you.
+
+934
+01:42:44,418 --> 01:42:47,418
+Let’s move. Come on. Come on.
+
+935
+01:42:48,418 --> 01:42:49,834
+All right.
+
+936
+01:43:24,126 --> 01:43:26,459
+Not for me.
+
+937
+01:43:27,501 --> 01:43:29,501
+Not for me!
+
+938
+01:43:40,251 --> 01:43:43,084
+With so much prayer to make up for,
+
+939
+01:43:43,209 --> 01:43:45,626
+I scarcely know where to begin.
+
+940
+01:43:46,876 --> 01:43:48,876
+I know where I’d start.
+
+941
+01:44:15,293 --> 01:44:17,876
+Riddick, what are you doing?
+
+942
+01:44:43,584 --> 01:44:45,626
+Can we just get the hell out of here now?
+
+943
+01:44:45,751 --> 01:44:47,168
+We can’t leave...
+
+944
+01:44:51,959 --> 01:44:53,376
+...without saying good night.
+
+945
+01:45:25,376 --> 01:45:28,376
+A lot of questions, whoever we run into.
+
+946
+01:45:28,501 --> 01:45:30,584
+Could even be a merc ship.
+
+947
+01:45:33,043 --> 01:45:34,876
+So, what the hell do we tell them about you?
+
+948
+01:45:36,459 --> 01:45:38,876
+Tell 'em Riddicks dead.
+
+949
+01:45:43,043 --> 01:45:44,959
+He died somewhere on that planet.
+
+950
+01:46:06,243 --> 01:46:14,159
+<font color="#ff0000">
+Resynced for Media Player by </font><font color="#00ffff">SourGrass </font><font color="#ff0000">:-))
+</font>
+

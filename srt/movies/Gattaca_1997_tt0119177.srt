@@ -1,0 +1,3922 @@
+1
+00:04:17,882 --> 00:04:19,592
+<i>Welcome to Gattaca.</i>
+
+2
+00:05:19,903 --> 00:05:23,615
+You keep your workstation
+so clean, Jerome.
+
+3
+00:05:24,574 --> 00:05:25,992
+It's next to godliness.
+
+4
+00:05:26,576 --> 00:05:29,496
+- Isn't that what they say?
+- Godliness.
+
+5
+00:05:30,205 --> 00:05:35,084
+I reviewed your flight plan.
+Not one error in a million keystrokes.
+
+6
+00:05:35,168 --> 00:05:40,423
+Phenomenal. It's right that someone
+like you is taking us to Titan.
+
+7
+00:05:41,049 --> 00:05:45,094
+Has the committee approved the mission?
+There's been talk of delay.
+
+8
+00:05:45,428 --> 00:05:49,265
+You shouldn't listen to talk.
+You leave in a week.
+
+9
+00:05:50,475 --> 00:05:52,352
+You've got a substance test.
+
+10
+00:06:23,383 --> 00:06:26,510
+<i>If you have been notified
+of a substance analysis,</i>
+
+11
+00:06:26,594 --> 00:06:29,097
+<i>please report to the testing center.</i>
+
+12
+00:06:37,313 --> 00:06:40,525
+Jerome. Never shy. Pisses on command.
+
+13
+00:06:42,151 --> 00:06:44,570
+A beautiful piece of equipment.
+Have I ever told you that?
+
+14
+00:06:44,654 --> 00:06:46,239
+Only every time I'm in here.
+
+15
+00:06:46,864 --> 00:06:51,369
+Occupational hazard. I see a great many
+in the course of any given day.
+
+16
+00:06:51,911 --> 00:06:54,497
+Yours just happens to be
+an exceptional example.
+
+17
+00:06:55,915 --> 00:06:58,765
+Don't know why my folks
+didn't order one like that for me.
+
+18
+00:07:14,517 --> 00:07:18,313
+By the way,
+have I ever told you about my son?
+
+19
+00:07:18,813 --> 00:07:19,813
+No, you haven't.
+
+20
+00:07:19,897 --> 00:07:21,482
+Remind me to sometime.
+
+21
+00:07:23,693 --> 00:07:27,488
+So, you're about to go up. One week left.
+
+22
+00:07:29,032 --> 00:07:31,182
+Please tell me
+you're the least bit excited.
+
+23
+00:07:34,454 --> 00:07:36,304
+I'll tell you at the end of the week.
+
+24
+00:07:49,010 --> 00:07:50,470
+Congratulations, Jerome.
+
+25
+00:07:53,556 --> 00:07:54,599
+Thank you.
+
+26
+00:07:58,061 --> 00:08:01,314
+How many launches are there in a day?
+A dozen?
+
+27
+00:08:03,358 --> 00:08:04,609
+Sometimes more.
+
+28
+00:08:06,611 --> 00:08:09,061
+You're the only one
+who watches every one of them.
+
+29
+00:08:13,368 --> 00:08:17,205
+If you're going to pretend
+like you don't care, don't look up.
+
+30
+00:08:20,124 --> 00:08:22,210
+<i>The most unremarkable of events.</i>
+
+31
+00:08:23,086 --> 00:08:27,089
+<i>Jerome Morrow, Navigator 1st Class,
+is about to embark</i>
+
+32
+00:08:27,173 --> 00:08:32,178
+<i>on a one-year manned mission to Titan,
+the 14th moon of Saturn.</i>
+
+33
+00:08:33,429 --> 00:08:36,056
+<i>A highly prestigious assignment.
+Although, for Jerome,</i>
+
+34
+00:08:36,140 --> 00:08:38,893
+<i>selection was virtually
+guaranteed at birth.</i>
+
+35
+00:08:40,687 --> 00:08:43,939
+<i>He's blessed with all the gifts
+required for such an undertaking.</i>
+
+36
+00:08:44,023 --> 00:08:46,693
+<i>A genetic quotient second to none.</i>
+
+37
+00:08:47,860 --> 00:08:52,448
+<i>Know there is truly nothing remarkable
+about the progress of Jerome Morrow.</i>
+
+38
+00:08:53,491 --> 00:08:56,577
+<i>Except that I am not Jerome Morrow.</i>
+
+39
+00:09:05,628 --> 00:09:09,841
+<i>I was conceived in the Riviera.
+Not the French Riviera.</i>
+
+40
+00:09:10,758 --> 00:09:12,176
+<i>The Detroit variety.</i>
+
+41
+00:09:14,137 --> 00:09:16,472
+<i>They used to say
+that a child conceived in love</i>
+
+42
+00:09:16,556 --> 00:09:18,307
+<i>has a greater chance of happiness.</i>
+
+43
+00:09:20,017 --> 00:09:21,728
+<i>They don't say that anymore.</i>
+
+44
+00:09:24,939 --> 00:09:28,817
+<i>I'll never understand what possessed
+my mother to put her faith in God's hands</i>
+
+45
+00:09:28,901 --> 00:09:31,195
+<i>rather than those of her local geneticist.</i>
+
+46
+00:09:34,657 --> 00:09:39,120
+<i>Ten fingers, ten toes,
+that's all that used to matter. Not now.</i>
+
+47
+00:09:39,787 --> 00:09:45,251
+<i>Now, only seconds old, the exact time
+and cause of my death was already known.</i>
+
+48
+00:09:50,548 --> 00:09:53,342
+Neurological condition,
+60 percent probability.
+
+49
+00:09:53,426 --> 00:09:56,220
+Manic depression, 42 percent probability.
+
+50
+00:09:56,804 --> 00:10:01,225
+Attention deficit disorder,
+89 percent probability. Heart disorder...
+
+51
+00:10:03,519 --> 00:10:05,313
+99 percent probability.
+
+52
+00:10:05,646 --> 00:10:07,148
+Early fatal potential.
+
+53
+00:10:07,732 --> 00:10:13,654
+- Life expectancy: 30.2 years.
+- Thirty years?
+
+54
+00:10:15,323 --> 00:10:17,241
+- The name for the certificate?
+- Anton.
+
+55
+00:10:17,325 --> 00:10:20,161
+No. Vincent Anton.
+
+56
+00:10:23,080 --> 00:10:25,333
+Yeah. That's a good name.
+
+57
+00:10:29,086 --> 00:10:32,548
+I know he'll do something.
+You'll do something.
+
+58
+00:10:36,511 --> 00:10:37,678
+Vincent?
+
+59
+00:10:38,304 --> 00:10:41,223
+<i>From an early age, I came to think
+of myself as others thought of me:</i>
+
+60
+00:10:41,307 --> 00:10:43,267
+- Vincent!
+<i>- Chronically ill.</i>
+
+61
+00:10:43,351 --> 00:10:47,604
+<i>Every skinned knee and runny nose was
+treated as if it were life-threatening.</i>
+
+62
+00:10:47,688 --> 00:10:50,774
+I'm sorry, the insurance won't cover it.
+If he fell...
+
+63
+00:10:50,858 --> 00:10:54,808
+- But I was told that everything was...
+- I wish there was something I could do.
+
+64
+00:11:04,372 --> 00:11:08,584
+<i>Like most other parents of their day,
+they were determined that their next child</i>
+
+65
+00:11:08,668 --> 00:11:12,630
+<i>would be brought into the world
+in what has become the natural way.</i>
+
+66
+00:11:13,589 --> 00:11:17,093
+Your extracted eggs, Marie
+
+67
+00:11:17,927 --> 00:11:22,139
+have been fertilized with Antonio's sperm.
+
+68
+00:11:23,140 --> 00:11:26,477
+After screening, we are left, as you see,
+with two healthy boys
+
+69
+00:11:26,561 --> 00:11:28,688
+and two very healthy girls.
+
+70
+00:11:29,105 --> 00:11:33,067
+Naturally, no critical predispositions
+to any of the major inheritable diseases.
+
+71
+00:11:33,442 --> 00:11:36,392
+All that remains is to select
+the most compatible candidate.
+
+72
+00:11:37,446 --> 00:11:41,033
+First we may as well decide on gender.
+Have you given it any thought?
+
+73
+00:11:41,117 --> 00:11:46,038
+We would want Vincent to have a brother,
+you know, to play with.
+
+74
+00:11:46,122 --> 00:11:49,584
+- Of course you would. Hello, Vincent.
+- Hi.
+
+75
+00:11:50,543 --> 00:11:55,298
+You have specified hazel eyes,
+dark hair, and fair skin.
+
+76
+00:11:56,382 --> 00:12:00,182
+I've taken the liberty of eradicating
+any potentially prejudicial conditions:
+
+77
+00:12:00,511 --> 00:12:04,598
+Premature baldness, myopia, alcoholism,
+an addictive susceptibility,
+
+78
+00:12:04,682 --> 00:12:06,850
+propensity for violence,
+obesity, et cetera.
+
+79
+00:12:06,934 --> 00:12:10,604
+We didn't want...
+I mean, diseases, yes, but...
+
+80
+00:12:10,688 --> 00:12:15,400
+Right. We were just wondering if it's good
+to just leave a few things to chance.
+
+81
+00:12:15,484 --> 00:12:18,487
+You want to give your child
+the best possible start.
+
+82
+00:12:18,905 --> 00:12:21,448
+Believe me, we have enough imperfection
+built in already.
+
+83
+00:12:21,532 --> 00:12:24,160
+No, your child doesn't need
+any additional burdens.
+
+84
+00:12:25,411 --> 00:12:27,663
+And keep in mind, this child is still you.
+
+85
+00:12:27,747 --> 00:12:29,540
+Simply the best of you.
+
+86
+00:12:30,708 --> 00:12:34,629
+You could conceive naturally 1,000 times
+and never get such a result.
+
+87
+00:12:37,340 --> 00:12:40,176
+<i>That's how my brother, Anton,
+came into the world.</i>
+
+88
+00:12:40,676 --> 00:12:43,721
+<i>A son my father considered
+worthy of his name.</i>
+
+89
+00:12:57,818 --> 00:13:00,237
+What did I tell you?
+You see how much he's grown?
+
+90
+00:13:15,544 --> 00:13:17,838
+<i>By the time we were playing
+at blood brothers,</i>
+
+91
+00:13:17,922 --> 00:13:21,550
+<i>I understood there was something
+very different flowing through my veins.</i>
+
+92
+00:13:22,176 --> 00:13:26,555
+<i>And I'd need an awful lot more than a drop
+if I was going to get anywhere.</i>
+
+93
+00:13:48,244 --> 00:13:51,955
+<i>Our favorite game was Chicken.
+When our parents weren't watching,</i>
+
+94
+00:13:52,039 --> 00:13:54,041
+<i>we used to swim as far out as we dared.</i>
+
+95
+00:13:54,792 --> 00:13:57,753
+<i>It was about who would get scared
+and turn back first.</i>
+
+96
+00:14:12,727 --> 00:14:14,270
+Come on, you coward!
+
+97
+00:14:16,939 --> 00:14:19,275
+<i>Of course it was always me.</i>
+
+98
+00:14:19,900 --> 00:14:24,071
+<i>Anton was by far the stronger swimmer,
+and he had no excuse to fail.</i>
+
+99
+00:14:28,659 --> 00:14:33,622
+Three hundred million,
+350 million, 400 million.
+
+100
+00:14:33,706 --> 00:14:35,583
+<i>Maybe it was the love of the planets,</i>
+
+101
+00:14:36,042 --> 00:14:38,669
+<i>maybe it was just my growing dislike
+for this one,</i>
+
+102
+00:14:39,045 --> 00:14:43,131
+<i>but for as long as I can remember,
+I have dreamed of going into space.</i>
+
+103
+00:14:43,215 --> 00:14:49,430
+Seven hundred million, 750 million,
+800 million, 850 million.
+
+104
+00:14:50,431 --> 00:14:52,331
+How many astronauts are there, anyway?
+
+105
+00:14:54,226 --> 00:14:56,436
+I bet I could be one if I wanted.
+
+106
+00:14:56,520 --> 00:14:59,315
+Hey, don't eat that. It's Pluto.
+
+107
+00:15:02,818 --> 00:15:05,737
+<i>My goals didn't change a lot
+in the intervening years.</i>
+
+108
+00:15:05,821 --> 00:15:08,491
+- Vincent.
+<i>- Much to my parents' dismay.</i>
+
+109
+00:15:10,034 --> 00:15:10,868
+Vincent.
+
+110
+00:15:17,416 --> 00:15:21,337
+You have to be realistic.
+With a heart condition like yours...
+
+111
+00:15:21,712 --> 00:15:25,341
+Mom, there's a chance there's nothing
+even wrong with my heart.
+
+112
+00:15:26,258 --> 00:15:27,593
+One chance in a hundred.
+
+113
+00:15:28,844 --> 00:15:31,894
+- Well, I'll take it, all right?
+- The trouble is, they won't.
+
+114
+00:15:32,848 --> 00:15:36,435
+Listen, for God's sake,
+you gotta understand something.
+
+115
+00:15:43,109 --> 00:15:46,909
+The only way you'll see the inside
+of a spaceship is if you were cleaning it.
+
+116
+00:15:47,530 --> 00:15:51,992
+<i>My father was right. It didn't matter
+how much I lied on my résumé.</i>
+
+117
+00:15:52,368 --> 00:15:54,662
+<i>My real résumé was in my cells.</i>
+
+118
+00:15:55,246 --> 00:15:58,832
+<i>Why should anybody invest all that money
+to train me</i>
+
+119
+00:15:58,916 --> 00:16:02,711
+<i>when there are a thousand other applicants
+with a far cleaner profile?</i>
+
+120
+00:16:03,379 --> 00:16:07,508
+<i>Of course, it's illegal to discriminate.
+"Genoism," it's called.</i>
+
+121
+00:16:08,217 --> 00:16:10,803
+<i>But no one takes the law seriously.</i>
+
+122
+00:16:18,144 --> 00:16:22,606
+<i>If you refuse to disclose, they take
+a sample from a door handle,</i>
+
+123
+00:16:23,399 --> 00:16:24,524
+<i>or a handshake.</i>
+
+124
+00:16:24,608 --> 00:16:27,153
+<i>Even the saliva on your application form.</i>
+
+125
+00:16:28,904 --> 00:16:32,741
+<i>If in doubt, a legal drug test
+can just as easily become</i>
+
+126
+00:16:32,825 --> 00:16:36,245
+<i>an illegal peek
+at your future in the company.</i>
+
+127
+00:16:44,920 --> 00:16:48,132
+You sure you want to do this?
+You know you're going to lose.
+
+128
+00:16:58,893 --> 00:17:03,147
+<i>It was the last time we swam together,
+and out into the open sea.</i>
+
+129
+00:17:03,856 --> 00:17:06,650
+<i>Like always,
+knowing each stroke to the horizon</i>
+
+130
+00:17:06,734 --> 00:17:09,111
+<i>was one we'd have to make
+back to the shore.</i>
+
+131
+00:17:22,750 --> 00:17:25,100
+<i>But something was very different
+about that day.</i>
+
+132
+00:17:26,045 --> 00:17:30,174
+<i>Every time Anton tried to pull away,
+he found me right beside him.</i>
+
+133
+00:17:34,136 --> 00:17:37,181
+<i>Until finally, the impossible happened.</i>
+
+134
+00:17:38,098 --> 00:17:40,434
+Vincent! Vincent!
+
+135
+00:17:55,616 --> 00:17:57,409
+<i>It was the one moment in our lives</i>
+
+136
+00:17:57,493 --> 00:18:00,328
+<i>that my brother was not as strong
+as he believed,</i>
+
+137
+00:18:00,412 --> 00:18:01,830
+<i>and I was not as weak.</i>
+
+138
+00:18:02,706 --> 00:18:05,334
+<i>It was the moment
+that made everything else possible.</i>
+
+139
+00:18:49,920 --> 00:18:51,838
+<i>Like many others in my situation,</i>
+
+140
+00:18:51,922 --> 00:18:53,882
+<i>I moved around a lot
+in the next few years,</i>
+
+141
+00:18:53,966 --> 00:18:55,342
+<i>getting work where I could.</i>
+
+142
+00:18:56,593 --> 00:18:59,054
+<i>I must have cleaned
+half the toilets in the state.</i>
+
+143
+00:19:00,723 --> 00:19:02,724
+<i>I belonged to a new underclass,</i>
+
+144
+00:19:02,808 --> 00:19:06,353
+<i>no longer determined by social status
+or the color of your skin.</i>
+
+145
+00:19:07,479 --> 00:19:08,980
+Welcome to Gattaca, gentlemen.
+
+146
+00:19:09,064 --> 00:19:13,193
+<i>No, we now have discrimination
+down to a science.</i>
+
+147
+00:19:13,444 --> 00:19:15,654
+All right, there's your cleaning material.
+
+148
+00:19:15,738 --> 00:19:18,449
+Start from the front
+and clean all the way back.
+
+149
+00:19:19,283 --> 00:19:22,661
+And I want to see my smiling face
+on that floor.
+
+150
+00:19:32,087 --> 00:19:35,382
+What about you, Your Majesty?
+You dreaming of space?
+
+151
+00:19:36,467 --> 00:19:37,426
+Come here.
+
+152
+00:19:42,639 --> 00:19:45,642
+You can start by cleaning this space
+right here.
+
+153
+00:19:48,562 --> 00:19:52,482
+<i>I was never more certain
+of how far away I was from my goal</i>
+
+154
+00:19:52,566 --> 00:19:54,651
+<i>than when I was standing right beside it.</i>
+
+155
+00:21:07,099 --> 00:21:09,601
+When you clean the glass, Vincent,
+don't clean it too well.
+
+156
+00:21:09,685 --> 00:21:10,602
+What do you mean?
+
+157
+00:21:11,687 --> 00:21:13,272
+You might get ideas.
+
+158
+00:21:14,106 --> 00:21:15,523
+Yeah, but if the glass is clean,
+
+159
+00:21:15,607 --> 00:21:18,907
+it'll be easier for you to see me
+when I'm on the other side of it.
+
+160
+00:22:10,537 --> 00:22:12,956
+<i>For all my brave talk,
+I knew it was just that.</i>
+
+161
+00:22:13,582 --> 00:22:16,168
+<i>No matter how much I trained
+or how much I studied,</i>
+
+162
+00:22:16,585 --> 00:22:18,837
+<i>the best test score in the world
+wasn't gonna matter</i>
+
+163
+00:22:18,921 --> 00:22:21,021
+<i>unless I had the blood test to go with it.</i>
+
+164
+00:22:22,758 --> 00:22:26,345
+<i>I made up my mind
+to resort to more extreme measures.</i>
+
+165
+00:22:26,887 --> 00:22:28,847
+<i>The man who showed up at my doorstep</i>
+
+166
+00:22:28,931 --> 00:22:31,724
+<i>didn't exactly advertise
+in the Yellow Pages.</i>
+
+167
+00:22:31,808 --> 00:22:32,851
+Stand straight.
+
+168
+00:22:35,479 --> 00:22:38,148
+- How did you hear about me?
+- People.
+
+169
+00:22:39,399 --> 00:22:43,070
+Any distinguishing marks?
+Tattoos, scars, birth marks?
+
+170
+00:22:45,280 --> 00:22:46,365
+I don't think so.
+
+171
+00:22:47,783 --> 00:22:51,286
+Are you serious about this?
+I hope you're not wasting my time.
+
+172
+00:22:51,537 --> 00:22:56,333
+- No, I'd give 100 percent.
+- That'll get you halfway there.
+
+173
+00:22:58,210 --> 00:23:02,506
+That's an old edition,
+but I know it all by heart.
+
+174
+00:23:03,048 --> 00:23:04,216
+By heart, huh?
+
+175
+00:23:07,219 --> 00:23:09,680
+You realize the commitment is binding.
+
+176
+00:23:10,931 --> 00:23:12,432
+You have somebody in mind?
+
+177
+00:23:33,996 --> 00:23:37,874
+<i>For the genetically superior,
+success is easier to attain,</i>
+
+178
+00:23:37,958 --> 00:23:40,085
+<i>but is by no means guaranteed.</i>
+
+179
+00:23:40,711 --> 00:23:43,672
+<i>After all, there is no gene for fate.</i>
+
+180
+00:23:44,423 --> 00:23:46,716
+<i>And when, for one reason or another,</i>
+
+181
+00:23:46,800 --> 00:23:49,802
+<i>a member of the elite
+falls on hard times,</i>
+
+182
+00:23:49,886 --> 00:23:53,932
+<i>their genetic identity becomes
+a valued commodity for the unscrupulous.</i>
+
+183
+00:23:54,516 --> 00:23:57,060
+<i>One man's loss is another man's gain.</i>
+
+184
+00:23:57,311 --> 00:24:01,356
+His credentials are impeccable.
+An expiration date you wouldn't believe.
+
+185
+00:24:07,029 --> 00:24:11,491
+The guy's practically gonna live forever.
+He's got an IQ off the register,
+
+186
+00:24:12,284 --> 00:24:16,371
+better than 20/20 in both eyes,
+and the heart of an ox.
+
+187
+00:24:16,455 --> 00:24:18,165
+He could run through a wall.
+
+188
+00:24:23,420 --> 00:24:24,630
+If he could still run.
+
+189
+00:24:27,341 --> 00:24:30,719
+Actually, he was a big time swimming star.
+
+190
+00:24:31,386 --> 00:24:36,933
+Vincent, you could go anywhere with
+this guy's helix tucked under your arm.
+
+191
+00:24:41,063 --> 00:24:44,775
+What did I tell you? You look so right
+together, I wanna double my fee.
+
+192
+00:24:45,359 --> 00:24:46,651
+We don't look anything alike.
+
+193
+00:24:46,735 --> 00:24:50,029
+It's close enough. When was the last time
+anybody looked at a photograph?
+
+194
+00:24:50,113 --> 00:24:52,963
+You could have my face on your nametag,
+for Christ's sake.
+
+195
+00:24:53,116 --> 00:24:56,466
+- Well, how do I explain the accident?
+- That's the beautiful thing.
+
+196
+00:24:57,037 --> 00:24:58,705
+It happened out of the country.
+
+197
+00:24:58,789 --> 00:25:02,375
+There's no record he ever broke his back.
+As far as anyone's concerned,
+
+198
+00:25:02,459 --> 00:25:05,878
+he's still a walking, talking,
+fully productive member of society.
+
+199
+00:25:05,962 --> 00:25:09,383
+You just have to get him clean
+and fill in the last year of his life.
+
+200
+00:25:10,092 --> 00:25:11,134
+You're a foreigner.
+
+201
+00:25:12,052 --> 00:25:14,888
+They don't care where you were born,
+just how.
+
+202
+00:25:15,514 --> 00:25:17,224
+Blood has no nationality.
+
+203
+00:25:18,225 --> 00:25:20,351
+As long as it's got
+what they're looking for,
+
+204
+00:25:20,435 --> 00:25:22,035
+it's the only passport you need.
+
+205
+00:25:23,897 --> 00:25:24,856
+Who lives up there?
+
+206
+00:25:26,233 --> 00:25:27,901
+Well, I certainly don't.
+
+207
+00:25:30,737 --> 00:25:33,490
+<i>So began the process of becoming Jerome.</i>
+
+208
+00:25:34,199 --> 00:25:38,495
+<i>Myopia is one of the most obvious signs
+of a disadvantaged birth.</i>
+
+209
+00:25:38,745 --> 00:25:42,040
+- Isn't there another way?
+- Well, surgery's no good.
+
+210
+00:25:42,124 --> 00:25:43,709
+They'll see the scars.
+
+211
+00:25:44,626 --> 00:25:46,628
+It's contact lenses or a white cane.
+
+212
+00:25:48,171 --> 00:25:52,801
+- Besides, the color doesn't match.
+- He's right.
+
+213
+00:25:53,468 --> 00:25:54,845
+My eyes are prettier.
+
+214
+00:25:58,265 --> 00:26:01,225
+You understand I take 25 percent
+of everything you make.
+
+215
+00:26:01,309 --> 00:26:03,186
+If for some reason it doesn't work out,
+
+216
+00:26:03,270 --> 00:26:05,939
+all this equipment must be returned
+within seven days.
+
+217
+00:26:06,690 --> 00:26:08,983
+- And you don't get your deposit back.
+- Wait, wait.
+
+218
+00:26:09,067 --> 00:26:10,985
+I thought you said 20 percent.
+
+219
+00:26:11,069 --> 00:26:14,281
+- You told me 20 percent.
+- It's not negotiable.
+
+220
+00:26:29,880 --> 00:26:30,839
+I guess that's it.
+
+221
+00:26:31,590 --> 00:26:33,759
+- Not quite.
+- Why? What?
+
+222
+00:26:34,134 --> 00:26:36,084
+There's still the matter of the height.
+
+223
+00:26:36,636 --> 00:26:39,097
+- Why, how tall are you?
+- Four-foot-six.
+
+224
+00:26:39,639 --> 00:26:41,265
+How tall were you before the accident?
+
+225
+00:26:41,349 --> 00:26:43,977
+Unfortunately his profile says he's 6'1".
+
+226
+00:26:46,021 --> 00:26:47,272
+So, I can wear lifts.
+
+227
+00:26:48,857 --> 00:26:51,193
+Even with lifts, you're not that tall.
+
+228
+00:26:54,279 --> 00:26:55,280
+So, what?
+
+229
+00:27:01,787 --> 00:27:02,746
+No.
+
+230
+00:27:03,997 --> 00:27:04,831
+No.
+
+231
+00:27:07,209 --> 00:27:11,337
+- No, we never discussed that.
+- Oh, I thought you were serious, Vincent.
+
+232
+00:27:11,421 --> 00:27:13,089
+I am serious. I'm not doing that.
+
+233
+00:27:19,930 --> 00:27:20,931
+I won't do that.
+
+234
+00:27:27,395 --> 00:27:29,606
+<i>Jerome never questioned
+my commitment again.</i>
+
+235
+00:27:30,273 --> 00:27:32,817
+<i>I took my mind off the pain
+by reminding myself</i>
+
+236
+00:27:32,901 --> 00:27:35,069
+<i>that when I eventually did stand up,</i>
+
+237
+00:27:35,153 --> 00:27:38,323
+<i>I'd be exactly two inches
+closer to the stars.</i>
+
+238
+00:27:39,074 --> 00:27:42,160
+- Are you all right?
+- Yeah.
+
+239
+00:27:45,914 --> 00:27:47,249
+Do you want to go dancing?
+
+240
+00:27:49,501 --> 00:27:51,378
+You had to be a right-hander, huh?
+
+241
+00:27:52,462 --> 00:27:54,631
+I guess no one orders southpaws anymore.
+
+242
+00:27:56,675 --> 00:27:57,676
+"Jerome Morrow."
+
+243
+00:27:59,761 --> 00:28:00,929
+It's a nice name.
+
+244
+00:28:04,099 --> 00:28:07,561
+- It's my name.
+- I can't be you without it.
+
+245
+00:28:08,061 --> 00:28:10,161
+What makes you think you can be me at all?
+
+246
+00:28:19,656 --> 00:28:20,657
+Look at this.
+
+247
+00:28:22,951 --> 00:28:23,785
+Look at it.
+
+248
+00:28:25,370 --> 00:28:26,329
+It's nice.
+
+249
+00:28:28,540 --> 00:28:30,041
+I'm impressed. Is it real?
+
+250
+00:28:31,376 --> 00:28:33,169
+Are you colorblind too, Vincent?
+
+251
+00:28:33,962 --> 00:28:35,880
+- It's silver.
+- So?
+
+252
+00:28:35,964 --> 00:28:39,843
+Jerome Morrow was never meant
+to be one step down on the podium.
+
+253
+00:28:41,595 --> 00:28:43,138
+With all I had going for me...
+
+254
+00:28:45,140 --> 00:28:46,516
+I was still second best.
+
+255
+00:28:49,185 --> 00:28:50,020
+Me.
+
+256
+00:28:52,355 --> 00:28:54,482
+So, how do you expect to pull this off?
+
+257
+00:28:57,027 --> 00:28:58,403
+I don't know, exactly.
+
+258
+00:29:04,242 --> 00:29:05,702
+Your signature needs work.
+
+259
+00:29:07,245 --> 00:29:10,123
+<i>It soon came time to put our preparations
+to the test.</i>
+
+260
+00:29:10,498 --> 00:29:14,252
+<i>Jerome had been engineered with everything
+he needed to get into Gattaca</i>
+
+261
+00:29:14,878 --> 00:29:16,588
+<i>except the desire to do so.</i>
+
+262
+00:29:17,339 --> 00:29:19,039
+Do you really want to be in there?
+
+263
+00:29:19,299 --> 00:29:22,594
+I don't wanna be in there.
+I wanna be up there.
+
+264
+00:29:25,138 --> 00:29:29,434
+- What's up there?
+- That's what I want to find out, Jerome.
+
+265
+00:29:31,853 --> 00:29:35,732
+Call me Eugene. My middle name.
+
+266
+00:29:37,901 --> 00:29:41,151
+If you're going to be Jerome,
+you better start getting used to it.
+
+267
+00:29:51,706 --> 00:29:55,656
+- I gotta get going. Where's my sample?
+- In the refrigerator. Door on the left.
+
+268
+00:29:57,796 --> 00:30:00,173
+- Which pouch?
+- Any of them.
+
+269
+00:30:03,927 --> 00:30:05,470
+You think I should test it?
+
+270
+00:30:06,471 --> 00:30:07,555
+If you like.
+
+271
+00:30:16,272 --> 00:30:19,275
+- What's wrong with the machine?
+- There's nothing wrong with the machine.
+
+272
+00:30:19,359 --> 00:30:21,277
+It's a hot sample!
+You've been drinking again.
+
+273
+00:30:21,361 --> 00:30:22,987
+- I haven't.
+- Oh, Christ, Eugene.
+
+274
+00:30:23,071 --> 00:30:24,697
+It's eight o'clock in the morning!
+
+275
+00:30:24,781 --> 00:30:25,865
+I haven't.
+
+276
+00:30:33,289 --> 00:30:36,418
+This is no joke.
+My interview is in an hour!
+
+277
+00:30:42,882 --> 00:30:46,135
+There is more vodka in this piss
+than there is piss.
+
+278
+00:30:46,219 --> 00:30:49,013
+All right, I'm sorry.
+I had half a glass to celebrate.
+
+279
+00:30:49,097 --> 00:30:49,973
+I'm sorry.
+
+280
+00:30:50,306 --> 00:30:52,142
+Try Friday's, that one will be okay.
+
+281
+00:30:53,018 --> 00:30:54,644
+There's only Wednesday left.
+
+282
+00:30:54,728 --> 00:30:56,604
+Wednesday. That's the one.
+
+283
+00:31:08,992 --> 00:31:12,120
+Listen, it's not too late to back out.
+
+284
+00:31:15,957 --> 00:31:19,207
+This is the last day that you're
+gonna be you and I'm gonna be me.
+
+285
+00:31:23,590 --> 00:31:24,424
+Well?
+
+286
+00:31:54,370 --> 00:31:55,455
+Congratulations.
+
+287
+00:31:57,373 --> 00:31:59,959
+Well, what about the interview?
+
+288
+00:32:00,877 --> 00:32:01,961
+That was it.
+
+289
+00:32:10,970 --> 00:32:11,805
+I got it.
+
+290
+00:32:14,057 --> 00:32:15,350
+Of course you got it.
+
+291
+00:32:25,860 --> 00:32:27,320
+<i>And that's the way it was.</i>
+
+292
+00:32:27,987 --> 00:32:30,740
+<i>Each day I would dispose of
+as much loose skin,</i>
+
+293
+00:32:30,824 --> 00:32:32,908
+<i>fingernails, and hair, as possible</i>
+
+294
+00:32:32,992 --> 00:32:38,540
+<i>to limit how much of my invalid self
+I would leave in the valid world.</i>
+
+295
+00:32:44,796 --> 00:32:49,175
+<i>At the same time, Eugene prepared samples
+of his own superior body matter</i>
+
+296
+00:32:49,259 --> 00:32:50,885
+<i>so that I might pass for him.</i>
+
+297
+00:32:51,344 --> 00:32:54,722
+<i>Customized urine pouches
+for the frequent substance tests,</i>
+
+298
+00:32:55,473 --> 00:32:58,684
+<i>fingertip blood sachets
+for security checks,</i>
+
+299
+00:32:58,768 --> 00:33:01,521
+<i>and vials filled with other traces.</i>
+
+300
+00:33:02,480 --> 00:33:05,066
+<i>While Eugene supplied me
+with a new identity,</i>
+
+301
+00:33:05,150 --> 00:33:09,487
+<i>I paid the rent and kept him in the style
+to which he'd become accustomed.</i>
+
+302
+00:33:10,572 --> 00:33:13,407
+<i>Eugene never suffered
+from the routine discrimination</i>
+
+303
+00:33:13,491 --> 00:33:17,203
+<i>of a "utero, " a "faith birth,"
+or "invalid" as we were called.</i>
+
+304
+00:33:17,287 --> 00:33:22,417
+<i>A "valid, " a "vitro, " a made man,
+he suffered under a different burden:</i>
+
+305
+00:33:23,001 --> 00:33:24,419
+<i>The burden of perfection.</i>
+
+306
+00:33:26,546 --> 00:33:30,257
+<i>I was now a member of a relatively new
+and particularly detested</i>
+
+307
+00:33:30,341 --> 00:33:31,843
+<i>segment of society.</i>
+
+308
+00:33:32,427 --> 00:33:35,430
+<i>One of those who refuses
+to play the hand that he was dealt.</i>
+
+309
+00:33:35,930 --> 00:33:38,766
+<i>I am most commonly known
+as a "borrowed ladder."</i>
+
+310
+00:33:39,434 --> 00:33:42,187
+<i>Or... a "de-gene-erate."</i>
+
+311
+00:33:48,693 --> 00:33:50,444
+<i>In the guise of Jerome Morrow,</i>
+
+312
+00:33:50,528 --> 00:33:53,239
+<i>I've risen quickly
+through the ranks of Gattaca.</i>
+
+313
+00:33:53,823 --> 00:33:55,366
+<i>Only one of the mission directors</i>
+
+314
+00:33:55,450 --> 00:33:58,411
+<i>has ever come close
+to discovering my true identity.</i>
+
+315
+00:33:59,204 --> 00:34:03,082
+<i>It's strange to think he may have
+more success exposing me in death</i>
+
+316
+00:34:03,166 --> 00:34:05,460
+<i>than he ever did in life.</i>
+
+317
+00:34:12,926 --> 00:34:15,469
+<i>Level 8 is temporarily closed.</i>
+
+318
+00:34:15,553 --> 00:34:17,763
+<i>Please evacuate immediately.</i>
+
+319
+00:34:17,847 --> 00:34:20,183
+<i>We apologize for any inconvenience.</i>
+
+320
+00:34:27,774 --> 00:34:31,110
+- Well, I think we can rule out suicide.
+- Excuse me, sir?
+
+321
+00:34:31,486 --> 00:34:32,362
+Nothing.
+
+322
+00:34:34,072 --> 00:34:35,114
+Thank you.
+
+323
+00:34:38,284 --> 00:34:41,454
+This is going to take a while.
+You may have to push things back.
+
+324
+00:34:55,635 --> 00:34:59,973
+Irene, I want you
+to assist the investigators.
+
+325
+00:35:00,515 --> 00:35:02,808
+My work, director.
+That would put me behind.
+
+326
+00:35:02,892 --> 00:35:05,395
+I appreciate your sacrifice, Irene.
+
+327
+00:35:06,688 --> 00:35:09,106
+Will you see to it
+I don't lose my place in line?
+
+328
+00:35:09,190 --> 00:35:11,067
+Your place is assured.
+
+329
+00:35:11,651 --> 00:35:17,282
+So, will you kindly inform the authorities
+that we will cooperate in any way,
+
+330
+00:35:17,782 --> 00:35:20,868
+although we can't tolerate
+a major disruption.
+
+331
+00:35:20,952 --> 00:35:23,162
+- Director.
+- Thank you, Irene.
+
+332
+00:35:23,788 --> 00:35:24,914
+Thank you, director.
+
+333
+00:35:27,000 --> 00:35:30,253
+Director, how will this affect
+the mission?
+
+334
+00:35:30,920 --> 00:35:33,506
+Oh, we're still going ahead as planned.
+
+335
+00:35:34,090 --> 00:35:37,009
+The launch window is only open
+until week's end,
+
+336
+00:35:37,093 --> 00:35:40,346
+and tragic though this event may be,
+
+337
+00:35:40,972 --> 00:35:44,934
+it hasn't stopped the planets turning,
+has it?
+
+338
+00:35:55,987 --> 00:35:58,573
+- What happened?
+- I'm going up.
+
+339
+00:35:59,198 --> 00:36:00,116
+When?
+
+340
+00:36:01,326 --> 00:36:05,747
+- End of the week.
+- End of the week? That soon?
+
+341
+00:36:07,290 --> 00:36:08,958
+What about the mission director?
+
+342
+00:36:11,794 --> 00:36:12,920
+He's dead.
+
+343
+00:36:15,256 --> 00:36:16,341
+Are you serious?
+
+344
+00:36:17,925 --> 00:36:19,760
+They found him in his office this morning,
+
+345
+00:36:19,844 --> 00:36:22,221
+beaten so badly
+they had to check his nametag.
+
+346
+00:36:24,766 --> 00:36:25,933
+You are serious.
+
+347
+00:36:27,226 --> 00:36:31,689
+So, that's it.
+There's nothing between us and ignition.
+
+348
+00:36:34,359 --> 00:36:35,485
+I'm going up.
+
+349
+00:36:37,695 --> 00:36:40,281
+- The man was murdered?
+- So? I didn't do it.
+
+350
+00:36:40,365 --> 00:36:43,701
+I didn't say you did, but the place
+is gonna be crawling with Hoovers.
+
+351
+00:36:43,785 --> 00:36:47,035
+I'll take my chances with the J. Edgars
+over the mission director.
+
+352
+00:36:47,372 --> 00:36:49,373
+Besides, what if they do find something?
+
+353
+00:36:49,457 --> 00:36:51,807
+I'm gonna be slightly
+out of their jurisdiction.
+
+354
+00:36:58,049 --> 00:36:59,699
+We have to get drunk immediately.
+
+355
+00:37:07,600 --> 00:37:09,184
+- Good evening, gentlemen.
+- Good evening.
+
+356
+00:37:09,268 --> 00:37:10,185
+My table's ready?
+
+357
+00:37:10,269 --> 00:37:12,062
+I understand you're leaving us,
+Mr. Morrow.
+
+358
+00:37:12,146 --> 00:37:14,649
+- Yeah, looks that way.
+- We're going to miss you.
+
+359
+00:37:14,899 --> 00:37:17,399
+- You've opened the wine, I hope?
+- Of course, sir.
+
+360
+00:37:18,111 --> 00:37:20,711
+- Pour yourself a glass, Cavendish.
+- Thank you, sir.
+
+361
+00:37:44,512 --> 00:37:46,389
+- How old?
+- Me?
+
+362
+00:37:46,722 --> 00:37:47,681
+The specimen.
+
+363
+00:37:47,765 --> 00:37:50,810
+I kissed him five minutes ago.
+A real good one.
+
+364
+00:37:51,894 --> 00:37:53,396
+I'll see what I can do.
+
+365
+00:37:58,317 --> 00:38:02,238
+- You want the full sequence?
+- Yes. Thank you.
+
+366
+00:38:03,614 --> 00:38:04,615
+Good luck.
+
+367
+00:38:15,042 --> 00:38:18,754
+[woman 2 over PA] <i>Some samples may be
+consumed in the sequencing process.</i>
+
+368
+00:38:22,633 --> 00:38:25,261
+Nine-point-three. Quite a catch.
+
+369
+00:38:26,721 --> 00:38:29,390
+Yes. Quite a catch.
+
+370
+00:38:56,417 --> 00:38:58,669
+God, how many times have I told Cavendish?
+
+371
+00:38:59,629 --> 00:39:02,464
+This can't have been opened
+more than five minutes ago.
+
+372
+00:39:02,548 --> 00:39:05,342
+A wine like this needs to breathe.
+Remember that.
+
+373
+00:39:05,426 --> 00:39:08,262
+You know, they say when you're weightless,
+
+374
+00:39:09,305 --> 00:39:11,682
+it's the closest thing
+to being in the womb.
+
+375
+00:39:15,603 --> 00:39:19,899
+I can't believe you pulled this off.
+They're sending you up there.
+
+376
+00:39:21,108 --> 00:39:23,485
+Up there, for Christ's sake.
+You, of all people.
+
+377
+00:39:23,569 --> 00:39:25,821
+I hate to think of you alone
+in that room for a year.
+
+378
+00:39:25,905 --> 00:39:27,072
+Well, don't think about it.
+
+379
+00:39:27,156 --> 00:39:31,118
+Anyway... the room I'm stuck in
+is bigger than your tin can.
+
+380
+00:39:31,202 --> 00:39:33,702
+You know what I'm saying.
+What are you going to do?
+
+381
+00:39:34,539 --> 00:39:37,375
+I have my books. I go places in my head.
+
+382
+00:39:38,668 --> 00:39:41,128
+- I'd be happier if you had some company.
+- I have visitors.
+
+383
+00:39:41,212 --> 00:39:43,172
+Yeah, well, none that you don't pay.
+
+384
+00:39:43,256 --> 00:39:47,969
+- I wouldn't have it any other way.
+- Seriously, what are you going to do?
+
+385
+00:39:50,805 --> 00:39:52,055
+I'm going to finish this.
+
+386
+00:40:05,903 --> 00:40:07,780
+What's Titan like this time of year?
+
+387
+00:40:11,158 --> 00:40:15,705
+What's Titan like?
+Titan is exactly like this.
+
+388
+00:40:27,967 --> 00:40:31,803
+All the time.
+It's got a cloud around it so thick,
+
+389
+00:40:31,887 --> 00:40:33,639
+nobody can tell what's underneath.
+
+390
+00:40:35,266 --> 00:40:36,666
+Maybe there's nothing there.
+
+391
+00:40:37,852 --> 00:40:39,061
+There's something there.
+
+392
+00:40:44,859 --> 00:40:46,569
+You should be going instead of me.
+
+393
+00:40:48,988 --> 00:40:49,947
+Why is that?
+
+394
+00:40:51,532 --> 00:40:53,701
+Because up there,
+your legs wouldn't matter.
+
+395
+00:41:01,125 --> 00:41:02,376
+I'm scared of heights.
+
+396
+00:41:23,689 --> 00:41:24,857
+I'm sorry.
+
+397
+00:41:26,984 --> 00:41:30,363
+Do you want this?
+I'll save some for you, shall I?
+
+398
+00:41:40,039 --> 00:41:42,889
+- I'm so sorry. I'm really sorry.
+- You're not that sorry.
+
+399
+00:41:43,084 --> 00:41:44,335
+I'm really, really sorry.
+
+400
+00:41:48,714 --> 00:41:51,300
+Don't give me a hard time.
+Give me a break.
+
+401
+00:41:54,428 --> 00:41:59,517
+- Come on! Come on! Help! Help!
+- I'm sorry. I'm sorry.
+
+402
+00:42:09,193 --> 00:42:12,195
+- You know, I wasn't drunk.
+- What do you mean, you're not drunk?
+
+403
+00:42:12,279 --> 00:42:15,533
+- When I walked in front of that car.
+- What car?
+
+404
+00:42:16,659 --> 00:42:18,452
+I stepped right out in front of it.
+
+405
+00:42:20,204 --> 00:42:22,248
+I'd never been more sober in my life.
+
+406
+00:42:25,376 --> 00:42:28,337
+- Go to sleep.
+- I couldn't even get that right, could I?
+
+407
+00:42:29,630 --> 00:42:33,718
+If at first you don't succeed,
+try, try again.
+
+408
+00:42:34,343 --> 00:42:35,386
+Go to sleep.
+
+409
+00:42:41,517 --> 00:42:43,227
+I'm proud of you, Vincent.
+
+410
+00:42:47,690 --> 00:42:49,817
+You must be drunk to call me Vincent.
+
+411
+00:43:30,775 --> 00:43:32,985
+- How much do you need?
+- Twenty minutes.
+
+412
+00:43:54,965 --> 00:43:56,091
+You can go.
+
+413
+00:44:03,182 --> 00:44:05,082
+It's all right, Irene. You're excused.
+
+414
+00:44:29,917 --> 00:44:30,960
+We found our man.
+
+415
+00:44:31,418 --> 00:44:34,713
+It's the only specimen in the entire place
+that can't be accounted for.
+
+416
+00:44:34,797 --> 00:44:37,675
+- Every ten years or so, things go our way.
+- The eyelash?
+
+417
+00:44:38,592 --> 00:44:41,542
+- What do you know about it?
+- It's an unregistered invalid.
+
+418
+00:44:41,720 --> 00:44:45,015
+He was a janitor here until a few years
+back when he disappeared out of sight.
+
+419
+00:44:45,099 --> 00:44:47,350
+So, the specimen
+could have been here since then.
+
+420
+00:44:47,434 --> 00:44:48,894
+Well, take a look at the floor.
+
+421
+00:44:48,978 --> 00:44:51,354
+I don't think anything lays around here
+for very long.
+
+422
+00:44:51,438 --> 00:44:53,815
+There's also motive.
+Is a janitor gonna come back here
+
+423
+00:44:53,899 --> 00:44:56,026
+after all this time
+to kill a man he never knew?
+
+424
+00:44:56,110 --> 00:44:58,710
+Well, his profile does suggest
+a violent temperament.
+
+425
+00:44:59,196 --> 00:45:02,783
+If I'm not mistaken, his profile
+also suggests he's a sick man.
+
+426
+00:45:02,867 --> 00:45:05,118
+There's a 90 percent chance
+the owner of this eyelash
+
+427
+00:45:05,202 --> 00:45:07,120
+has already died himself
+of natural causes.
+
+428
+00:45:07,204 --> 00:45:09,539
+That means there's a 10 percent chance
+he's still alive.
+
+429
+00:45:09,623 --> 00:45:11,082
+It's a lost-and-found case.
+
+430
+00:45:11,166 --> 00:45:14,753
+All we have to do is find the man who's
+minus an eyelash, we have the murderer.
+
+431
+00:45:14,837 --> 00:45:17,088
+I'll do a cross-check,
+find out about his family...
+
+432
+00:45:17,172 --> 00:45:20,259
+I've already run it.
+There's no record of any living relative.
+
+433
+00:45:20,634 --> 00:45:22,260
+Well, that's a damn shame, sir.
+
+434
+00:45:22,344 --> 00:45:26,223
+I want you to check the entry log.
+Alibis, grudges.
+
+435
+00:45:26,307 --> 00:45:28,225
+I look around, I see a lot of dry eyes.
+
+436
+00:45:28,309 --> 00:45:31,979
+The mission director
+was not universally loved.
+
+437
+00:45:32,605 --> 00:45:34,607
+He was leading cutbacks in the program.
+
+438
+00:45:36,650 --> 00:45:38,050
+With all due respect, sir...
+
+439
+00:45:42,323 --> 00:45:43,407
+Whatever you say.
+
+440
+00:45:59,924 --> 00:46:02,301
+Jerome, Jerome, the metronome.
+
+441
+00:46:02,760 --> 00:46:05,110
+I could play the piano
+by that heartbeat of his.
+
+442
+00:46:07,514 --> 00:46:10,809
+Mr. Director, you will be pleased to know
+that we have a suspect.
+
+443
+00:46:10,893 --> 00:46:13,019
+That is a relief. Who is it?
+
+444
+00:46:13,103 --> 00:46:17,232
+We found an unaccounted-for specimen
+in the south wing, and here's his picture.
+
+445
+00:46:19,360 --> 00:46:22,738
+- An invalid.
+- We are still following other leads.
+
+446
+00:46:23,280 --> 00:46:26,741
+Be that as it may,
+I'm having this posted immediately.
+
+447
+00:46:26,825 --> 00:46:27,925
+I'm curious, director.
+
+448
+00:46:28,619 --> 00:46:33,040
+An advantage, I should imagine,
+in your line of work.
+
+449
+00:46:34,166 --> 00:46:38,462
+- Your hiring practices...
+- Our recruitment philosophy.
+
+450
+00:46:39,088 --> 00:46:40,839
+Who do you have to be to be here?
+
+451
+00:46:41,548 --> 00:46:45,886
+Well, naturally, our standard
+is beyond that of the common citizen.
+
+452
+00:46:45,970 --> 00:46:49,222
+Even amongst your people, you must
+have varying levels of excellence?
+
+453
+00:46:49,306 --> 00:46:53,519
+Occasionally we've been forced to accept
+candidates with minor shortcomings.
+
+454
+00:46:54,019 --> 00:46:57,480
+But nothing that would prohibit someone
+from working in a field
+
+455
+00:46:57,564 --> 00:47:00,484
+such as law enforcement, for example.
+
+456
+00:47:00,943 --> 00:47:04,821
+But now there are enough
+of the right kind of people
+
+457
+00:47:04,905 --> 00:47:07,366
+to warrant a new measuring stick.
+
+458
+00:47:07,783 --> 00:47:09,743
+Bodies with minds to match.
+
+459
+00:47:09,827 --> 00:47:14,665
+Essential as we push out
+further and further.
+
+460
+00:47:14,999 --> 00:47:17,042
+Yet you still closely monitor performance.
+
+461
+00:47:17,126 --> 00:47:20,337
+We have to ensure that people
+are meeting their potential.
+
+462
+00:47:20,421 --> 00:47:23,173
+- And exceeding it?
+- No one exceeds his potential.
+
+463
+00:47:23,257 --> 00:47:24,382
+If he did?
+
+464
+00:47:24,466 --> 00:47:28,266
+It simply means we did not accurately
+gauge his potential in the first place.
+
+465
+00:47:41,942 --> 00:47:43,902
+- Are you all right, Jerome?
+- Terrific.
+
+466
+00:48:09,303 --> 00:48:11,764
+This is the entry log
+for the last seven days.
+
+467
+00:48:14,850 --> 00:48:18,687
+What about you, Irene?
+Do you have an alibi?
+
+468
+00:48:20,105 --> 00:48:22,816
+- I was alone.
+- I find that hard to believe.
+
+469
+00:48:23,734 --> 00:48:24,818
+Excuse me.
+
+470
+00:48:34,578 --> 00:48:36,747
+I'll take care of that for you,
+Mr. Morrow.
+
+471
+00:48:51,220 --> 00:48:54,570
+I see I'm not the only one who looks up
+every time there's a launch.
+
+472
+00:48:54,890 --> 00:48:56,934
+- Hello, Jerome.
+- Hello.
+
+473
+00:48:59,853 --> 00:49:03,982
+- It's awful about the director.
+- Awful it didn't happen sooner.
+
+474
+00:49:06,235 --> 00:49:09,362
+Didn't the director threaten to cancel
+your mission more than once, Jerome?
+
+475
+00:49:09,446 --> 00:49:11,865
+- Yes, he did.
+- Somebody did you a favor.
+
+476
+00:49:12,699 --> 00:49:14,909
+Do they have any idea
+whose hand I should be shaking?
+
+477
+00:49:14,993 --> 00:49:17,454
+They found an eyelash in the south wing.
+
+478
+00:49:17,538 --> 00:49:19,790
+- Does it have a name?
+- Just some invalid.
+
+479
+00:49:22,793 --> 00:49:23,877
+Jerome...
+
+480
+00:49:27,714 --> 00:49:30,676
+I had you sequenced. I read your profile.
+
+481
+00:49:32,136 --> 00:49:33,262
+I'm sorry.
+
+482
+00:49:37,474 --> 00:49:39,935
+Seems you're everything
+they say you are and more.
+
+483
+00:49:42,980 --> 00:49:44,231
+What about you, Irene?
+
+484
+00:49:45,065 --> 00:49:47,165
+You're engineered
+just like the rest of us.
+
+485
+00:49:47,359 --> 00:49:49,111
+Not quite like the rest of you.
+
+486
+00:49:50,445 --> 00:49:53,239
+"Unacceptable likelihood
+of heart failure."
+
+487
+00:49:53,323 --> 00:49:55,367
+I think that's what the manual says.
+
+488
+00:49:55,868 --> 00:49:59,818
+The only trip I'll take in space is around
+the sun on this satellite right here.
+
+489
+00:50:01,790 --> 00:50:05,790
+Well, if there's anything wrong with you,
+I can't see it from where I'm standing.
+
+490
+00:50:09,631 --> 00:50:10,966
+If you don't believe me...
+
+491
+00:50:14,553 --> 00:50:17,556
+Here. Take it.
+
+492
+00:50:26,481 --> 00:50:28,481
+If you're still interested, let me know.
+
+493
+00:50:32,905 --> 00:50:34,489
+I'm sorry. The wind caught it.
+
+494
+00:50:57,512 --> 00:51:00,265
+<i>Please check the latest Gattaca bulletin.</i>
+
+495
+00:51:10,859 --> 00:51:17,241
+Jerome. Is this the approach path
+we discussed?
+
+496
+00:51:19,326 --> 00:51:20,702
+Absolutely, director.
+
+497
+00:51:22,246 --> 00:51:24,915
+Quite right. Quite right.
+
+498
+00:51:40,264 --> 00:51:44,142
+Listen to what I'm saying to you.
+I want what I ordered.
+
+499
+00:51:45,018 --> 00:51:46,979
+It's a completely different color.
+
+500
+00:51:47,729 --> 00:51:49,439
+No, I'm bored of talking to you.
+
+501
+00:51:50,357 --> 00:51:52,317
+I'm bored. I'll call you back.
+
+502
+00:51:54,528 --> 00:51:56,905
+That was the company
+that sell us your hair dye.
+
+503
+00:51:56,989 --> 00:51:59,689
+They've sent me "Summer Wheat"
+instead of "Honey Dawn."
+
+504
+00:52:00,325 --> 00:52:02,452
+Any fool knows it's two shades lighter.
+
+505
+00:52:02,536 --> 00:52:05,121
+She said, "Why don't you try a change?"
+I don't want a change.
+
+506
+00:52:05,205 --> 00:52:06,623
+We can't use a change.
+
+507
+00:52:08,041 --> 00:52:11,127
+Now I'm probably gonna have to pay
+for the five boxes they've sent me.
+
+508
+00:52:11,211 --> 00:52:12,671
+We can't stay here.
+
+509
+00:52:13,130 --> 00:52:15,340
+The idiots I have to deal with.
+You wouldn't believe.
+
+510
+00:52:15,424 --> 00:52:17,474
+They think I killed the mission director.
+
+511
+00:52:20,095 --> 00:52:21,445
+What makes them think that?
+
+512
+00:52:22,472 --> 00:52:23,890
+They found my eyelash.
+
+513
+00:52:26,393 --> 00:52:28,270
+- Where?
+- In the corridor.
+
+514
+00:52:29,271 --> 00:52:32,190
+Well, it could be worse.
+They could've found it in your eye.
+
+515
+00:52:32,274 --> 00:52:35,027
+They've got my picture
+plastered up all over the place.
+
+516
+00:52:35,569 --> 00:52:38,572
+I can't turn around
+without seeing my own face.
+
+517
+00:52:39,323 --> 00:52:41,491
+- They'll recognize me.
+- They won't recognize you.
+
+518
+00:52:41,575 --> 00:52:45,162
+- They'll recognize me.
+- I don't recognize you.
+
+519
+00:52:45,787 --> 00:52:48,706
+They won't marry the eyelash to you.
+They won't believe
+
+520
+00:52:48,790 --> 00:52:51,918
+that one of their elite
+could have suckered them all this time.
+
+521
+00:52:52,002 --> 00:52:54,295
+No, no, no. We change nothing.
+
+522
+00:52:54,379 --> 00:52:58,424
+We do as we planned.
+You're Jerome Morrow, Navigator 1st Class.
+
+523
+00:52:58,508 --> 00:53:02,179
+I'm not Jerome Morrow.
+I'm a murder suspect.
+
+524
+00:53:03,472 --> 00:53:05,848
+Well, what are you doing?
+What are you doing?
+
+525
+00:53:05,932 --> 00:53:07,517
+That's more than a day's worth!
+
+526
+00:53:08,018 --> 00:53:09,936
+- Wait.
+- We can't stay here.
+
+527
+00:53:10,520 --> 00:53:11,688
+Stop that!
+
+528
+00:53:12,731 --> 00:53:14,566
+Oh, fine. Fine.
+
+529
+00:53:15,150 --> 00:53:17,944
+You leave if you want.
+No, you're not taking that stuff.
+
+530
+00:53:18,028 --> 00:53:19,988
+That stuff is mine!
+
+531
+00:53:22,115 --> 00:53:24,865
+I could've rented myself out
+to somebody with a spine
+
+532
+00:53:25,702 --> 00:53:29,706
+if I'd known you were gonna go
+belly-up on me at the last fucking gasp.
+
+533
+00:53:30,624 --> 00:53:35,461
+You can't quit on me now.
+I've put too much into this.
+
+534
+00:53:35,545 --> 00:53:39,508
+What do you want me to do,
+wheel in there and finish the job myself?
+
+535
+00:53:40,634 --> 00:53:44,054
+Eugene, they are going to find me.
+
+536
+00:53:46,306 --> 00:53:48,183
+You still don't understand, do you?
+
+537
+00:53:51,103 --> 00:53:53,563
+When they look at you,
+they don't see you anymore.
+
+538
+00:53:53,647 --> 00:53:54,523
+They only see me.
+
+539
+00:54:10,372 --> 00:54:12,722
+Keep your lashes on your lids
+where they belong.
+
+540
+00:54:15,293 --> 00:54:17,045
+How could you be so careless?
+
+541
+00:54:50,412 --> 00:54:53,206
+- I'm going out.
+- Where are you going?
+
+542
+00:54:55,083 --> 00:54:58,233
+Well, if I'm gonna get arrested tomorrow,
+I'm going out tonight.
+
+543
+00:54:58,336 --> 00:55:00,254
+Are you sure that's a good idea,
+to go out?
+
+544
+00:55:00,338 --> 00:55:03,216
+Well, it was your idea
+not to change anything.
+
+545
+00:55:03,633 --> 00:55:05,844
+- Who's going?
+- I'd say everybody.
+
+546
+00:55:07,554 --> 00:55:08,513
+Everybody.
+
+547
+00:55:09,681 --> 00:55:11,641
+If I don't go, it'll look suspicious.
+
+548
+00:55:13,560 --> 00:55:15,660
+You don't want to look suspicious, do you?
+
+549
+00:55:20,567 --> 00:55:21,526
+Thanks.
+
+550
+00:56:21,878 --> 00:56:22,796
+Who ordered this?
+
+551
+00:56:24,172 --> 00:56:25,322
+What are we doing here?
+
+552
+00:56:26,174 --> 00:56:29,385
+I'm following a lead.
+Forgive me, sir, but that's what I do.
+
+553
+00:56:29,469 --> 00:56:31,095
+I'm a detective. I follow leads.
+
+554
+00:56:31,179 --> 00:56:33,829
+What makes you think the owner
+of the eyelash is here?
+
+555
+00:56:34,975 --> 00:56:38,853
+He's an invalid, sir. Where do we look
+for invalids but where invalids are?
+
+556
+00:56:38,937 --> 00:56:40,063
+He's an invalid.
+
+557
+00:56:41,856 --> 00:56:45,526
+He's an invalid clever enough
+to go unregistered all these years.
+
+558
+00:56:45,610 --> 00:56:48,446
+Do you think he's likely
+to lie down for us now?
+
+559
+00:56:48,530 --> 00:56:52,283
+- Well, what would you suggest, sir?
+- Move the inquiry back to the scene.
+
+560
+00:56:52,367 --> 00:56:55,912
+Draw a five-mile radius around Gattaca,
+sweep again. Random stops.
+
+561
+00:57:19,019 --> 00:57:21,563
+You're a navigator? At Gattaca?
+
+562
+00:57:22,731 --> 00:57:24,357
+That's what it says, doesn't it?
+
+563
+00:57:25,650 --> 00:57:27,444
+It doesn't say you're crippled.
+
+564
+00:57:27,902 --> 00:57:29,446
+I'm not crippled.
+
+565
+00:57:30,530 --> 00:57:32,782
+I hurt my leg training, you moron.
+
+566
+00:57:34,284 --> 00:57:36,786
+- How dare you question me.
+- Yeah, all right.
+
+567
+00:57:37,662 --> 00:57:38,872
+What's your number?
+
+568
+00:57:39,706 --> 00:57:40,706
+All right, forget it.
+
+569
+00:57:40,790 --> 00:57:43,167
+No, what's your number,
+you fucking flatfoot?
+
+570
+00:57:43,251 --> 00:57:45,670
+Look, I said forget it.
+What do you want, an apology?
+
+571
+00:57:45,754 --> 00:57:47,130
+It gets to you, doesn't it?
+
+572
+00:57:47,631 --> 00:57:50,216
+It gets to you that I can do
+what you can only dream of.
+
+573
+00:57:50,300 --> 00:57:52,594
+I'm getting off this ball of dirt.
+
+574
+00:57:52,969 --> 00:57:56,097
+How dare you question me.
+That's harassment.
+
+575
+00:57:56,514 --> 00:57:57,640
+My mistake.
+
+576
+00:57:57,724 --> 00:58:00,810
+What's your number? What's your number?
+
+577
+00:58:02,312 --> 00:58:05,147
+May I remind you
+that this is a crime scene.
+
+578
+00:58:05,231 --> 00:58:06,858
+What's this man doing here?
+
+579
+00:58:07,400 --> 00:58:08,943
+What are you doing, old man?
+
+580
+00:58:09,694 --> 00:58:11,071
+Doing my job, sir.
+
+581
+00:58:12,489 --> 00:58:16,076
+- This is evidence.
+- But it's just trash.
+
+582
+00:59:08,962 --> 00:59:10,004
+You didn't know?
+
+583
+00:59:10,839 --> 00:59:13,341
+- Oh, yes. Yeah.
+- Wonderful, wasn't it?
+
+584
+00:59:15,844 --> 00:59:18,012
+Twelve fingers or one, it's how you play.
+
+585
+00:59:19,973 --> 00:59:21,975
+That piece can only be played with 12.
+
+586
+00:59:40,535 --> 00:59:41,995
+What's all this about?
+
+587
+00:59:44,497 --> 00:59:45,832
+It's probably nothing.
+
+588
+01:00:24,037 --> 01:00:25,371
+Hey, you better not...
+
+589
+01:00:25,914 --> 01:00:28,314
+I don't want to give you
+a contaminated specimen.
+
+590
+01:00:28,541 --> 01:00:29,709
+You get my meaning?
+
+591
+01:00:59,781 --> 01:01:00,615
+Thanks.
+
+592
+01:01:01,616 --> 01:01:03,743
+You never know
+where those swabs have been.
+
+593
+01:01:06,412 --> 01:01:07,914
+I want to show you something.
+
+594
+01:01:55,003 --> 01:01:56,337
+Come on, we'll miss it.
+
+595
+01:02:25,074 --> 01:02:27,619
+Come on. Come on. We'll miss it. Come on.
+
+596
+01:03:14,791 --> 01:03:15,959
+What did I tell you?
+
+597
+01:03:37,397 --> 01:03:39,398
+- Strange.
+- What?
+
+598
+01:03:39,482 --> 01:03:41,025
+Your eyes look different.
+
+599
+01:03:41,609 --> 01:03:43,111
+I guess it must be the light.
+
+600
+01:03:45,071 --> 01:03:46,072
+Must be.
+
+601
+01:04:09,679 --> 01:04:12,432
+Positive match. I'm impressed.
+
+602
+01:04:13,850 --> 01:04:16,450
+The cup was definitely used
+since the original sweep?
+
+603
+01:04:17,311 --> 01:04:18,980
+Two samples, two days.
+
+604
+01:04:19,397 --> 01:04:22,191
+Either the suspect went back
+to the scene to get a drink of water...
+
+605
+01:04:22,275 --> 01:04:24,175
+And I don't know anybody that thirsty.
+
+606
+01:04:24,360 --> 01:04:25,736
+Or he still works there.
+
+607
+01:04:25,820 --> 01:04:27,920
+I thought we checked
+all the service staff.
+
+608
+01:04:28,531 --> 01:04:30,741
+I don't think he cleans the place anymore.
+
+609
+01:04:30,825 --> 01:04:34,275
+He might be there under false pretenses,
+playing somebody else's hand.
+
+610
+01:04:34,704 --> 01:04:37,707
+A borrowed ladder... at Gattaca?
+
+611
+01:04:38,458 --> 01:04:40,960
+Far-fetched, but it's not
+out of the realm of possibility.
+
+612
+01:04:41,044 --> 01:04:44,088
+I find it hard to believe he could be
+one of their elite workers.
+
+613
+01:04:44,172 --> 01:04:45,673
+Even if he got past their security,
+
+614
+01:04:45,757 --> 01:04:48,258
+he wouldn't have the mental faculty
+or the physical stamina.
+
+615
+01:04:48,342 --> 01:04:51,220
+Maybe you're underestimating him.
+Maybe he is an impostor,
+
+616
+01:04:51,304 --> 01:04:52,888
+and maybe the director found out.
+
+617
+01:04:52,972 --> 01:04:54,223
+That could be his motive.
+
+618
+01:04:54,307 --> 01:04:57,601
+I say we sample every employee
+within the parameters, intravenously.
+
+619
+01:04:57,685 --> 01:05:00,396
+Two thirds of their workforce
+fall into that category.
+
+620
+01:05:00,480 --> 01:05:01,981
+We'd be closing them down for days.
+
+621
+01:05:02,065 --> 01:05:04,650
+No, a fingertip sample or urine
+should be sufficient.
+
+622
+01:05:04,734 --> 01:05:09,655
+I suggest blood from the vein.
+I hope I'm not out of line.
+
+623
+01:05:37,850 --> 01:05:41,187
+It's only a matter of time, sir.
+Only a matter of time.
+
+624
+01:05:45,024 --> 01:05:46,651
+What's with the plungers, Lamar?
+
+625
+01:05:50,488 --> 01:05:51,989
+You open up a blood bank?
+
+626
+01:05:52,615 --> 01:05:57,161
+The gentlemen of law enforcement
+are concerned that my testing methods
+
+627
+01:05:57,245 --> 01:05:59,288
+may have been compromised.
+
+628
+01:06:12,135 --> 01:06:14,428
+- Goddamn!
+- Jerome, I'm sorry.
+
+629
+01:06:14,512 --> 01:06:17,139
+- Are you out of practice, Lamar?
+- Here, let me look at that.
+
+630
+01:06:17,223 --> 01:06:18,773
+It's all right, it's all right.
+
+631
+01:06:18,975 --> 01:06:19,809
+It's all right.
+
+632
+01:06:20,768 --> 01:06:22,478
+Luckily, it looks as though
+we have enough.
+
+633
+01:06:22,562 --> 01:06:25,712
+Well, if you need any more,
+you can always get it off his shoes.
+
+634
+01:06:42,415 --> 01:06:43,291
+Irene.
+
+635
+01:06:47,753 --> 01:06:49,338
+So, you didn't do it after all?
+
+636
+01:06:50,631 --> 01:06:53,551
+No, I guess somebody beat me to it.
+
+637
+01:06:54,260 --> 01:06:55,178
+I guess.
+
+638
+01:07:02,727 --> 01:07:04,020
+I leave in two days.
+
+639
+01:07:05,605 --> 01:07:06,480
+I mean, I...
+
+640
+01:07:07,857 --> 01:07:10,776
+I guess you know that. But...
+
+641
+01:07:24,040 --> 01:07:25,082
+That's the last.
+
+642
+01:07:26,959 --> 01:07:29,959
+- Something's not right.
+- He's not here. It's a blind alley.
+
+643
+01:07:30,213 --> 01:07:33,674
+No, we missed something.
+I say we test again.
+
+644
+01:07:33,758 --> 01:07:37,845
+Test? I cannot allow you
+to disrupt operations any further.
+
+645
+01:07:37,929 --> 01:07:40,639
+You're not at all concerned
+about having a murderer in your midst?
+
+646
+01:07:40,723 --> 01:07:44,185
+Right now, your presence
+is creating more of a threat.
+
+647
+01:07:44,810 --> 01:07:49,481
+The window for our latest launch is open
+for seven days once every 70 years.
+
+648
+01:07:49,565 --> 01:07:52,026
+So, it's rather crucial we leave on time.
+
+649
+01:07:53,152 --> 01:07:55,402
+Mission means a great deal to you,
+doesn't it?
+
+650
+01:07:56,280 --> 01:07:58,824
+And your late colleague opposed it,
+didn't he?
+
+651
+01:07:59,575 --> 01:08:02,161
+Take another look at my profile,
+detective.
+
+652
+01:08:02,453 --> 01:08:05,581
+You won't find a violent bone in my body.
+
+653
+01:08:05,665 --> 01:08:08,465
+My apologies, director.
+He won't trouble you any further.
+
+654
+01:08:10,836 --> 01:08:13,130
+This is not the only place we can look.
+
+655
+01:08:15,007 --> 01:08:15,967
+Okay.
+
+656
+01:08:18,052 --> 01:08:19,552
+Let's start making the rounds.
+
+657
+01:09:22,158 --> 01:09:26,412
+I'm luckier than most.
+Not as lucky as some.
+
+658
+01:09:28,873 --> 01:09:31,208
+- I know something about that.
+- You, Jerome?
+
+659
+01:09:31,709 --> 01:09:33,753
+What heart problem did you ever have?
+
+660
+01:09:35,129 --> 01:09:36,964
+Did you get yours broken once?
+
+661
+01:09:42,011 --> 01:09:47,850
+I had this crazy idea that you were more
+interested in the murder case than me.
+
+662
+01:09:49,477 --> 01:09:50,478
+You're right.
+
+663
+01:09:54,440 --> 01:09:55,524
+That's a crazy idea.
+
+664
+01:09:59,653 --> 01:10:00,853
+Would you like to dance?
+
+665
+01:10:38,442 --> 01:10:39,318
+It's funny.
+
+666
+01:10:40,319 --> 01:10:42,863
+You work so hard,
+you do everything you can
+
+667
+01:10:42,947 --> 01:10:44,407
+to get away from a place,
+
+668
+01:10:45,825 --> 01:10:48,175
+and when you finally
+get your chance to leave
+
+669
+01:10:49,912 --> 01:10:51,622
+you find a reason to stay.
+
+670
+01:10:58,003 --> 01:10:59,547
+A year is a long time.
+
+671
+01:11:01,674 --> 01:11:02,842
+Not so long.
+
+672
+01:11:04,093 --> 01:11:05,719
+Just once around the sun.
+
+673
+01:11:15,729 --> 01:11:17,397
+Hello, everyone, nice to see you.
+
+674
+01:11:17,481 --> 01:11:21,110
+I'm your detective for the evening.
+Please don't leave the premises.
+
+675
+01:11:22,695 --> 01:11:26,490
+I said nobody leave! Am I speaking
+in some kind of strange foreign language?
+
+676
+01:11:27,366 --> 01:11:29,951
+Check for hair, check lenses,
+check dentures.
+
+677
+01:11:30,035 --> 01:11:33,539
+I want napkins, I want cigarette butts,
+I want the saliva off teacups.
+
+678
+01:11:35,458 --> 01:11:37,808
+That's a familiar face.
+Check him out, will you?
+
+679
+01:11:43,299 --> 01:11:46,009
+- Thought you wanted to dance.
+- Excuse me, where are you going?
+
+680
+01:11:46,093 --> 01:11:47,636
+Oh, yeah, just a minute.
+
+681
+01:11:48,804 --> 01:11:49,680
+Jerome!
+
+682
+01:11:51,140 --> 01:11:51,974
+Jerome!
+
+683
+01:12:00,649 --> 01:12:02,401
+- Are you insane?
+- Come on!
+
+684
+01:12:21,545 --> 01:12:23,756
+Where did they go? Where did they go?
+
+685
+01:12:29,678 --> 01:12:31,222
+Come on. Come on.
+
+686
+01:12:43,067 --> 01:12:46,779
+- Don't you understand? I can't do that.
+- You just did.
+
+687
+01:12:47,613 --> 01:12:52,326
+Don't touch your face. Don't swallow.
+Don't spit. Let's clean his teeth.
+
+688
+01:12:56,872 --> 01:12:58,040
+Vincent!
+
+689
+01:13:02,878 --> 01:13:04,463
+Vincent!
+
+690
+01:13:11,470 --> 01:13:12,680
+Who's Vincent?
+
+691
+01:13:18,561 --> 01:13:19,562
+I...
+
+692
+01:13:24,525 --> 01:13:26,068
+Don't say anything.
+
+693
+01:13:28,237 --> 01:13:29,738
+Don't say anything.
+
+694
+01:16:23,537 --> 01:16:24,496
+What happened?
+
+695
+01:16:28,834 --> 01:16:30,169
+The scars on your legs.
+
+696
+01:16:35,174 --> 01:16:37,468
+Remember the '99 Chrysler LeBaron?
+
+697
+01:16:38,635 --> 01:16:41,889
+This is the exact height
+of the front fender.
+
+698
+01:16:42,389 --> 01:16:44,099
+I looked left instead of right.
+
+699
+01:16:48,604 --> 01:16:51,404
+Did you just make that up,
+or do you use it all the time?
+
+700
+01:16:51,565 --> 01:16:52,941
+I use it all the time.
+
+701
+01:16:55,944 --> 01:16:58,488
+I know you had something to do
+with the director's death.
+
+702
+01:16:58,572 --> 01:16:59,990
+That's not true, Irene.
+
+703
+01:17:10,125 --> 01:17:11,875
+Isn't that the man from last night?
+
+704
+01:17:14,922 --> 01:17:15,964
+He's nobody.
+
+705
+01:17:27,100 --> 01:17:29,019
+He's one of our best.
+
+706
+01:17:29,478 --> 01:17:33,440
+I'm certain he has nothing to do
+with this business.
+
+707
+01:17:35,359 --> 01:17:36,360
+Jerome Morrow.
+
+708
+01:17:46,620 --> 01:17:48,038
+You don't look well, Jerome.
+
+709
+01:17:49,832 --> 01:17:51,416
+Why don't you go home?
+
+710
+01:18:02,803 --> 01:18:05,264
+- Can I help you?
+- I'm looking for Jerome Morrow.
+
+711
+01:18:05,806 --> 01:18:09,100
+I'm sorry, he's ill. A little nausea.
+It's quite common before a mission.
+
+712
+01:18:09,184 --> 01:18:10,185
+Really?
+
+713
+01:18:11,436 --> 01:18:14,636
+I ought to pay him a visit.
+I understand you can show me the way.
+
+714
+01:19:00,360 --> 01:19:02,360
+You don't know who he is, do you, Irene?
+
+715
+01:19:22,424 --> 01:19:23,883
+- Hello?
+- Eugene.
+
+716
+01:19:23,967 --> 01:19:25,867
+I need you to be yourself for the day.
+
+717
+01:19:26,303 --> 01:19:29,681
+- I was never very good at it, remember?
+- The investigators are coming by.
+
+718
+01:19:29,765 --> 01:19:32,726
+- I'm supposed to be sick.
+- So you keep telling me.
+
+719
+01:19:33,268 --> 01:19:35,312
+- How long have I got?
+<i>- Not long.</i>
+
+720
+01:21:24,421 --> 01:21:25,756
+I guess he's not home.
+
+721
+01:21:29,217 --> 01:21:31,595
+<i>- Hello?</i>
+- I'm here to see Jerome Morrow.
+
+722
+01:21:31,928 --> 01:21:33,472
+Yes, that's me. Come up.
+
+723
+01:21:35,307 --> 01:21:36,683
+I guess he's home.
+
+724
+01:22:12,469 --> 01:22:13,553
+Come in.
+
+725
+01:22:16,431 --> 01:22:17,307
+Come in.
+
+726
+01:22:20,185 --> 01:22:21,228
+Hello, sweetheart.
+
+727
+01:22:25,190 --> 01:22:26,274
+Where's my kiss?
+
+728
+01:22:30,487 --> 01:22:32,187
+Good to see you're feeling better.
+
+729
+01:22:34,199 --> 01:22:36,701
+Of course, now that you're here.
+
+730
+01:22:46,169 --> 01:22:47,170
+Who's your friend?
+
+731
+01:22:49,131 --> 01:22:50,382
+How can I help?
+
+732
+01:22:51,299 --> 01:22:52,499
+It's about the director.
+
+733
+01:22:54,636 --> 01:22:55,470
+Again?
+
+734
+01:22:55,554 --> 01:22:58,014
+- I hope it's no trouble.
+- No, no. No trouble.
+
+735
+01:22:59,808 --> 01:23:01,958
+Forgive me for not giving you
+a guided tour.
+
+736
+01:23:02,352 --> 01:23:03,852
+Can't we do this another time?
+
+737
+01:23:04,479 --> 01:23:07,899
+- This won't take a moment.
+- Maybe he can tell me what I've got.
+
+738
+01:23:45,812 --> 01:23:46,980
+Who were you expecting?
+
+739
+01:24:31,066 --> 01:24:32,275
+- Yes.
+<i>- We have our man, sir.</i>
+
+740
+01:24:32,359 --> 01:24:33,860
+- You have him?
+<i>- In custody.</i>
+
+741
+01:24:33,944 --> 01:24:35,028
+I'll come right away.
+
+742
+01:25:00,053 --> 01:25:01,179
+How are you, Jerome?
+
+743
+01:25:02,764 --> 01:25:03,848
+Not bad, Jerome.
+
+744
+01:25:07,060 --> 01:25:08,710
+How the hell did you get up here?
+
+745
+01:25:09,020 --> 01:25:12,565
+Oh, I could always walk.
+I've been faking it.
+
+746
+01:25:28,957 --> 01:25:29,833
+Irene.
+
+747
+01:25:30,417 --> 01:25:32,043
+Irene. Irene.
+
+748
+01:25:32,127 --> 01:25:34,296
+- Don't touch me.
+- Listen to me, Irene.
+
+749
+01:25:34,629 --> 01:25:35,963
+I don't even know who you are.
+
+750
+01:25:36,047 --> 01:25:38,091
+I'm the same person I was yesterday.
+
+751
+01:25:39,217 --> 01:25:41,177
+I can't hear any more
+of your lies, Jerome.
+
+752
+01:25:41,261 --> 01:25:44,972
+My name is Vincent.
+All right? Vincent Anton Freeman.
+
+753
+01:25:45,056 --> 01:25:48,684
+And I'm a faith birth, or a de-gene-erate,
+whatever you want to call it.
+
+754
+01:25:48,768 --> 01:25:50,353
+But I am not a murderer.
+
+755
+01:25:53,148 --> 01:25:54,316
+You're a God-child?
+
+756
+01:25:56,276 --> 01:25:58,111
+We do have one thing in common.
+
+757
+01:25:59,070 --> 01:26:01,739
+Only I don't have 20 or 30 years
+left in mine.
+
+758
+01:26:01,823 --> 01:26:04,159
+Mine is already 10,000 beats overdue.
+
+759
+01:26:04,534 --> 01:26:05,785
+That's not possible.
+
+760
+01:26:06,828 --> 01:26:09,414
+You are the authority
+on what is not possible.
+
+761
+01:26:10,165 --> 01:26:11,333
+Aren't you, Irene?
+
+762
+01:26:14,002 --> 01:26:16,504
+They have got you looking so hard
+for any flaw,
+
+763
+01:26:17,213 --> 01:26:19,382
+that after a while, that's all you see.
+
+764
+01:26:22,635 --> 01:26:27,098
+For whatever it's worth,
+I'm here to tell you that it is possible.
+
+765
+01:26:29,100 --> 01:26:30,310
+It is possible.
+
+766
+01:27:10,058 --> 01:27:12,477
+Congratulations, sir. You did it.
+
+767
+01:27:13,978 --> 01:27:16,439
+His spit was found
+in the dead director's eye.
+
+768
+01:27:17,065 --> 01:27:18,482
+An unaccounted for specimen.
+
+769
+01:27:18,566 --> 01:27:20,401
+While I was busy obsessing
+about an eyelash,
+
+770
+01:27:20,485 --> 01:27:22,737
+your instincts took us
+in the right direction.
+
+771
+01:27:23,530 --> 01:27:26,490
+So, the invalid had nothing
+to do with this?
+
+772
+01:27:26,574 --> 01:27:30,119
+No, our friend here acted alone.
+This mission meant everything to him.
+
+773
+01:27:30,203 --> 01:27:31,079
+Didn't it?
+
+774
+01:27:35,917 --> 01:27:37,835
+He knows that if they miss
+this launch window,
+
+775
+01:27:37,919 --> 01:27:39,619
+he won't live to see the next one.
+
+776
+01:27:39,754 --> 01:27:44,217
+And since nothing can stop the launch now,
+he's being very, very cooperative.
+
+777
+01:27:48,805 --> 01:27:51,891
+So, I imagine you'll be
+celebrating tonight, sir?
+
+778
+01:27:52,851 --> 01:27:53,726
+Of course.
+
+779
+01:28:11,369 --> 01:28:12,419
+I think she likes us.
+
+780
+01:28:13,955 --> 01:28:17,705
+Yeah, sure. Just give her a little bit
+of time. She'll get used to the idea.
+
+781
+01:28:18,251 --> 01:28:19,419
+What was he like?
+
+782
+01:28:19,794 --> 01:28:21,420
+- The cop?
+- Yeah.
+
+783
+01:28:21,504 --> 01:28:22,338
+He was just a cop.
+
+784
+01:28:22,422 --> 01:28:23,572
+Did you catch his name?
+
+785
+01:28:23,840 --> 01:28:25,740
+My name was the topic of conversation.
+
+786
+01:28:26,176 --> 01:28:28,386
+- Well, he'll be back.
+- You heard what he said.
+
+787
+01:28:28,470 --> 01:28:31,181
+- They have their man. It's over.
+- No, it's not over.
+
+788
+01:28:32,348 --> 01:28:33,349
+I have to meet him.
+
+789
+01:29:00,376 --> 01:29:01,294
+Vincent?
+
+790
+01:29:12,180 --> 01:29:13,640
+My God, you have changed.
+
+791
+01:29:17,852 --> 01:29:20,652
+Has it been so long
+you don't recognize your own brother?
+
+792
+01:29:21,523 --> 01:29:22,690
+Are we brothers?
+
+793
+01:29:23,358 --> 01:29:25,858
+Our parents both died
+thinking they'd outlived you.
+
+794
+01:29:27,570 --> 01:29:28,821
+I had my doubts.
+
+795
+01:29:29,697 --> 01:29:32,997
+- What are you doing here, Anton?
+- I should ask you that question.
+
+796
+01:29:33,326 --> 01:29:34,869
+I have a right to be here.
+
+797
+01:29:35,954 --> 01:29:36,788
+You don't.
+
+798
+01:29:38,748 --> 01:29:40,875
+You almost sound as if you believe that.
+
+799
+01:29:42,126 --> 01:29:43,628
+I committed no murder.
+
+800
+01:29:45,296 --> 01:29:46,631
+You must be disappointed.
+
+801
+01:29:48,132 --> 01:29:49,551
+You committed fraud.
+
+802
+01:29:51,511 --> 01:29:54,346
+You're in a lot of trouble, Vincent.
+I can get you out of here.
+
+803
+01:29:54,430 --> 01:29:57,224
+Do you have any idea
+what it took to get in here?
+
+804
+01:29:57,308 --> 01:30:00,008
+You've gone as far as you can go.
+You come with me now.
+
+805
+01:30:00,979 --> 01:30:03,314
+There are still a few million miles
+left to go.
+
+806
+01:30:03,398 --> 01:30:04,231
+It's over.
+
+807
+01:30:04,315 --> 01:30:07,276
+Is that the only way you can succeed,
+is to see me fail?
+
+808
+01:30:07,360 --> 01:30:08,527
+- I'm telling you...
+- God!
+
+809
+01:30:08,611 --> 01:30:12,115
+Even you are going to tell me
+what I can and can't do now?
+
+810
+01:30:13,908 --> 01:30:17,662
+In case you haven't noticed,
+I don't need any rescuing.
+
+811
+01:30:19,247 --> 01:30:20,540
+But you did once.
+
+812
+01:30:22,542 --> 01:30:26,462
+Well, you've got all the answers.
+How do you explain that?
+
+813
+01:30:27,130 --> 01:30:29,299
+You didn't beat me that day.
+I beat myself.
+
+814
+01:30:31,009 --> 01:30:32,559
+Who are you trying to convince?
+
+815
+01:30:33,928 --> 01:30:35,628
+Do you want me to prove it to you?
+
+816
+01:30:36,139 --> 01:30:40,184
+It's not important, Anton. It's forgotten.
+
+817
+01:30:41,269 --> 01:30:42,353
+I'll prove it to you.
+
+818
+01:30:42,895 --> 01:30:45,645
+Do you want me to prove it to you?
+I'll prove it to you!
+
+819
+01:30:46,149 --> 01:30:47,317
+I do.
+
+820
+01:31:52,840 --> 01:31:53,800
+Vincent!
+
+821
+01:31:56,052 --> 01:31:56,928
+Vincent!
+
+822
+01:31:58,846 --> 01:32:00,598
+Where's the shore? We're too far out.
+
+823
+01:32:00,682 --> 01:32:02,266
+- You wanna quit?
+- We're too far out.
+
+824
+01:32:02,350 --> 01:32:03,476
+You wanna quit?
+
+825
+01:32:05,353 --> 01:32:06,229
+No.
+
+826
+01:32:29,502 --> 01:32:30,586
+Vincent!
+
+827
+01:32:32,422 --> 01:32:34,048
+How are you doing this, Vincent?
+
+828
+01:32:35,758 --> 01:32:37,258
+How have you done any of this?
+
+829
+01:32:38,469 --> 01:32:39,845
+We have to go back.
+
+830
+01:32:39,929 --> 01:32:42,629
+It's too late for that.
+We're closer to the other side.
+
+831
+01:32:43,266 --> 01:32:45,810
+What other side?
+You want to drown us both?
+
+832
+01:32:47,270 --> 01:32:48,770
+You want to know how I did it?
+
+833
+01:32:49,897 --> 01:32:54,694
+This is how I did it.
+I never saved anything for the swim back.
+
+834
+01:34:39,674 --> 01:34:41,175
+You couldn't see, could you?
+
+835
+01:34:42,802 --> 01:34:44,554
+That night, crossing the street.
+
+836
+01:34:46,973 --> 01:34:48,391
+You crossed anyway.
+
+837
+01:35:04,282 --> 01:35:07,869
+If you're still interested, let me know.
+
+838
+01:35:15,293 --> 01:35:16,210
+Sorry.
+
+839
+01:35:21,507 --> 01:35:22,758
+The wind caught it.
+
+840
+01:36:17,146 --> 01:36:18,746
+You're flying today, aren't you?
+
+841
+01:36:20,024 --> 01:36:21,567
+Look at what a mess you're in.
+
+842
+01:36:25,780 --> 01:36:28,491
+Come on. I have your samples ready.
+
+843
+01:36:30,076 --> 01:36:32,126
+I don't need any samples where I'm going.
+
+844
+01:36:36,415 --> 01:36:37,815
+You might when you get back.
+
+845
+01:36:41,796 --> 01:36:44,382
+Everything you need
+to last you two lifetimes.
+
+846
+01:36:48,052 --> 01:36:49,512
+Why have you done all this?
+
+847
+01:36:50,554 --> 01:36:53,265
+So Jerome will always be here
+when you need him.
+
+848
+01:36:54,100 --> 01:36:57,061
+- Where are you going?
+- I'm traveling, too.
+
+849
+01:37:01,732 --> 01:37:03,232
+I don't know how to thank you.
+
+850
+01:37:05,820 --> 01:37:06,821
+No, no.
+
+851
+01:37:07,738 --> 01:37:11,784
+I got the better end of the deal.
+I only lent you my body.
+
+852
+01:37:14,078 --> 01:37:15,454
+You lent me your dream.
+
+853
+01:37:26,090 --> 01:37:27,591
+Not until you're upstairs.
+
+854
+01:38:01,959 --> 01:38:02,835
+What is this?
+
+855
+01:38:03,252 --> 01:38:04,336
+New policy.
+
+856
+01:38:12,136 --> 01:38:13,387
+Flight got you nervous?
+
+857
+01:38:14,889 --> 01:38:16,807
+Well, there's a problem, Lamar.
+
+858
+01:38:17,058 --> 01:38:21,687
+I never did tell you about my son, did I?
+He's a big fan of yours.
+
+859
+01:38:26,317 --> 01:38:31,906
+Just remember that I was as good as any
+and better than most.
+
+860
+01:38:32,573 --> 01:38:34,075
+He wants to apply here.
+
+861
+01:38:34,742 --> 01:38:38,204
+I could have gone up and back,
+and nobody would've been the wiser.
+
+862
+01:38:38,913 --> 01:38:42,500
+Unfortunately,
+my son's not all that they promised.
+
+863
+01:38:44,126 --> 01:38:46,378
+But then, who knows what he could do?
+
+864
+01:38:49,131 --> 01:38:50,049
+Right?
+
+865
+01:39:06,857 --> 01:39:11,946
+For future reference, right-handed men
+don't hold it with their left.
+
+866
+01:39:12,947 --> 01:39:14,615
+Just one of those things.
+
+867
+01:39:28,129 --> 01:39:30,229
+You're going to miss your flight, Vincent.
+
+868
+01:42:16,880 --> 01:42:20,884
+<i>For someone who was never meant
+for this world, I must confess,</i>
+
+869
+01:42:21,260 --> 01:42:23,512
+<i>I'm suddenly having
+a hard time leaving it.</i>
+
+870
+01:42:26,390 --> 01:42:29,810
+<i>Of course, they say every atom
+in our bodies was once part of a star.</i>
+
+871
+01:42:31,645 --> 01:42:33,105
+<i>Maybe I'm not leaving.</i>
+
+872
+01:42:34,815 --> 01:42:36,233
+<i>Maybe I'm going home.</i>
+

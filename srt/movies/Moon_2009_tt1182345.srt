@@ -1,0 +1,3916 @@
+1
+00:00:34,618 --> 00:00:37,995
+<i>There was
+a time when energy was a dirty word.</i>
+
+2
+00:00:38,079 --> 00:00:40,998
+<i>When turning on
+your lights was a hard choice.</i>
+
+3
+00:00:41,082 --> 00:00:42,459
+<i>Cities in brownout.</i>
+
+4
+00:00:42,584 --> 00:00:43,709
+<i>Food shortages.</i>
+
+5
+00:00:43,793 --> 00:00:45,795
+<i>Cars burning fuel to run.</i>
+
+6
+00:00:46,254 --> 00:00:47,797
+<i>But that was the past.</i>
+
+7
+00:00:47,923 --> 00:00:49,215
+<i>Where are we now?</i>
+
+8
+00:00:49,299 --> 00:00:51,717
+<i>How do we make the world so much better?</i>
+
+9
+00:00:51,801 --> 00:00:53,553
+<i>Make deserts bloom?</i>
+
+10
+00:00:54,804 --> 00:00:58,891
+<i>Right now, we're the largest producer of
+fusion energy in the world.</i>
+
+11
+00:00:58,975 --> 00:01:01,269
+<i>The energy of the sun trapped in rock,</i>
+
+12
+00:01:01,394 --> 00:01:04,606
+<i>harvested by machine
+from the far side of the moon.</i>
+
+13
+00:01:05,440 --> 00:01:08,443
+<i>Today, we deliver enough
+clean-burning helium-3</i>
+
+14
+00:01:08,568 --> 00:01:11,947
+<i>to supply the energy needs
+of nearly 70% of the planet.</i>
+
+15
+00:01:13,615 --> 00:01:14,699
+<i>Who'd have thought?</i>
+
+16
+00:01:14,783 --> 00:01:16,618
+<i>All the energy we ever needed,</i>
+
+17
+00:01:16,743 --> 00:01:18,620
+<i>right above our heads.</i>
+
+18
+00:01:20,622 --> 00:01:22,791
+<i>The power of the moon.</i>
+
+19
+00:01:22,916 --> 00:01:24,834
+<i>The power of our future.</i>
+
+20
+00:02:39,075 --> 00:02:41,703
+Rock and roll. 8:32 Pacific Time.
+
+21
+00:02:41,828 --> 00:02:43,788
+All Harvesters running smoothly.
+
+22
+00:02:43,872 --> 00:02:45,289
+Readouts are as follows.
+
+23
+00:02:45,373 --> 00:02:48,543
+Matthew, 14.6 miles.
+
+24
+00:02:48,668 --> 00:02:52,088
+Mark, 16.8 miles. I...
+
+25
+00:03:00,722 --> 00:03:03,767
+Hey, Gerty. Gerty. We gotta...
+
+26
+00:03:04,100 --> 00:03:06,102
+<i>Good morning, Sam.</i>
+
+27
+00:03:06,227 --> 00:03:07,771
+We got a live one on Mark.
+
+28
+00:03:07,896 --> 00:03:09,647
+I'm gonna go out now and rope her in.
+
+29
+00:03:09,731 --> 00:03:11,107
+<i>Okay, Sam.</i>
+
+30
+00:04:07,497 --> 00:04:08,789
+<i>I want chocolate.</i>
+
+31
+00:04:08,873 --> 00:04:12,293
+<i>I think you're sweet enough.
+You don't need chocolate.</i>
+
+32
+00:04:22,720 --> 00:04:25,849
+<i>Searching for long-range comms.</i>
+
+33
+00:04:29,519 --> 00:04:32,355
+<i>Searching for long-range comms.</i>
+
+34
+00:04:35,233 --> 00:04:37,735
+<i>Signal failure on long-range comms.</i>
+
+35
+00:05:49,891 --> 00:05:54,896
+<i>Sam Bell reporting
+to Central. 10:14 Pacific Time.</i>
+
+36
+00:05:55,980 --> 00:05:59,442
+<i>I've got a full container
+of helium-3 ready to roll.</i>
+
+37
+00:05:59,567 --> 00:06:02,319
+<i>By the time this message reaches you,
+it should be in transit.</i>
+
+38
+00:06:02,403 --> 00:06:04,822
+<i>Otherwise, everything running smoothly.</i>
+
+39
+00:06:05,990 --> 00:06:07,992
+How are things down there?
+
+40
+00:06:09,327 --> 00:06:11,120
+You guys been to any
+
+41
+00:06:12,247 --> 00:06:14,165
+good parties or anything?
+
+42
+00:06:14,249 --> 00:06:17,710
+Oh, thanks for the football feed.
+
+43
+00:06:17,794 --> 00:06:21,506
+It almost felt live... Almost.
+
+44
+00:06:22,507 --> 00:06:25,676
+But three years is a long haul, you know.
+
+45
+00:06:25,760 --> 00:06:30,139
+It's way, way, way, way, way too long.
+
+46
+00:06:30,765 --> 00:06:34,185
+I'm talking to myself on a regular basis.
+
+47
+00:06:34,269 --> 00:06:36,771
+So...
+
+48
+00:06:37,272 --> 00:06:39,857
+Time to go home, you know what I mean?
+
+49
+00:06:40,692 --> 00:06:42,610
+That's it. Over and out.
+
+50
+00:06:42,944 --> 00:06:45,280
+Rock and roll. God bless America.
+
+51
+00:07:03,631 --> 00:07:05,717
+<i>I can do that for you, Sam.</i>
+
+52
+00:07:09,721 --> 00:07:12,723
+God damn it. I said I got it.
+
+53
+00:07:12,807 --> 00:07:14,851
+Why don't you listen to me?
+
+54
+00:07:23,484 --> 00:07:25,903
+<i>Ready for launch.</i>
+
+55
+00:07:48,051 --> 00:07:50,345
+<i>Sam, is everything okay?</i>
+
+56
+00:07:53,806 --> 00:07:55,516
+<i>- Sam?</i>
+- What?
+
+57
+00:07:56,476 --> 00:07:58,644
+<i>You don't seem like yourself today.</i>
+
+58
+00:07:58,728 --> 00:08:00,062
+<i>- Has something happened?</i>
+- You know...
+
+59
+00:08:00,146 --> 00:08:03,483
+Can you turn that off?
+Please. Jesus Christ.
+
+60
+00:08:06,319 --> 00:08:08,988
+<i>Sam, it might help you to talk about it.</i>
+
+61
+00:08:11,949 --> 00:08:15,411
+Gerty, have you heard anything new
+about anyone fixing Lunar Sat?
+
+62
+00:08:15,495 --> 00:08:16,537
+<i>No, Sam.</i>
+
+63
+00:08:16,621 --> 00:08:20,958
+<i>What I understand is it's fairly low on
+the company's priority list right now.</i>
+
+64
+00:08:21,042 --> 00:08:23,877
+You tell them to sort that out, you
+know what I'm talking about?
+
+65
+00:08:23,961 --> 00:08:26,964
+That's not...
+I've only got two weeks,
+
+66
+00:08:27,048 --> 00:08:30,593
+but it's not fair
+to whoever is coming up here next.
+
+67
+00:08:30,677 --> 00:08:34,221
+<i>I will, Sam. Do you want me to finish
+cutting your hair later?</i>
+
+68
+00:08:34,305 --> 00:08:36,557
+No, come on, let's finish this.
+
+69
+00:08:39,102 --> 00:08:40,812
+Another one of those headaches.
+
+70
+00:08:42,146 --> 00:08:44,524
+Gerty, can you give me something for it?
+
+71
+00:09:04,794 --> 00:09:08,589
+<i>Message received
+from your wife, Sam, via Jupiter link.</i>
+
+72
+00:09:10,925 --> 00:09:12,009
+Fuck.
+
+73
+00:09:18,891 --> 00:09:21,436
+<i>Hi, Sam. It's me.</i>
+
+74
+00:09:23,938 --> 00:09:25,523
+<i>I got your last message.</i>
+
+75
+00:09:25,982 --> 00:09:28,776
+<i>It was really good to hear your voice.</i>
+
+76
+00:09:28,860 --> 00:09:30,403
+<i>I miss you, too.</i>
+
+77
+00:09:31,738 --> 00:09:34,282
+<i>I know you're really lonely up there,</i>
+
+78
+00:09:34,615 --> 00:09:36,617
+<i>but I think,</i>
+
+79
+00:09:36,701 --> 00:09:39,954
+<i>in a lot of ways,
+it's been really good for you.</i>
+
+80
+00:09:40,705 --> 00:09:42,248
+<i>For both of us.</i>
+
+81
+00:09:43,291 --> 00:09:46,127
+<i>God, I hope you don't
+mind me saying that.</i>
+
+82
+00:09:49,338 --> 00:09:50,965
+<i>I'm proud of you.</i>
+
+83
+00:09:52,425 --> 00:09:54,635
+<i>Someone's got something to say.</i>
+
+84
+00:09:57,138 --> 00:09:59,849
+<i>What did you want to say to Daddy, baby?</i>
+
+85
+00:10:00,683 --> 00:10:02,727
+<i>Say, astronaut.</i>
+
+86
+00:10:03,144 --> 00:10:05,188
+<i>Astronaut, Daddy.</i>
+
+87
+00:10:06,105 --> 00:10:11,110
+<i>Who's an astronaut? Daddy's an astronaut.
+Say it really loudly.</i>
+
+88
+00:10:11,194 --> 00:10:13,196
+<i>Daddy's an astronaut.</i>
+
+89
+00:10:14,197 --> 00:10:16,281
+<i>Clever girl. Wave.</i>
+
+90
+00:10:16,365 --> 00:10:17,825
+<i>Give Daddy a wave.</i>
+
+91
+00:10:19,660 --> 00:10:21,120
+<i>Kathy, could you...</i>
+
+92
+00:10:23,706 --> 00:10:26,709
+<i>I can't believe you're
+going to be home soon.</i>
+
+93
+00:10:27,543 --> 00:10:29,878
+<i>It's her birthday next month.</i>
+
+94
+00:10:29,962 --> 00:10:33,048
+<i>And I was thinking
+about maybe a playhouse for the garden.</i>
+
+95
+00:10:33,132 --> 00:10:35,635
+- Gerty.
+<i>- We could pick it out together.</i>
+
+96
+00:10:36,385 --> 00:10:37,553
+<i>Sam.</i>
+
+97
+00:10:38,721 --> 00:10:40,097
+<i>I love you.</i>
+
+98
+00:10:41,098 --> 00:10:42,641
+I love you.
+
+99
+00:10:42,725 --> 00:10:43,809
+<i>And I miss you.</i>
+
+100
+00:10:43,893 --> 00:10:45,228
+I miss you.
+
+101
+00:10:46,521 --> 00:10:48,856
+<i>And I can't wait to see you.</i>
+
+102
+00:10:48,940 --> 00:10:52,401
+<i>Okay, sweetheart. Bye.</i>
+
+103
+00:11:18,845 --> 00:11:19,929
+<i>Hi, Doug.</i>
+
+104
+00:11:21,222 --> 00:11:24,308
+You're really full of yourself,
+aren't you, Doug?
+
+105
+00:11:24,684 --> 00:11:26,185
+Kathryn.
+
+106
+00:11:44,954 --> 00:11:46,288
+Not good.
+
+107
+00:11:46,372 --> 00:11:48,624
+<i>What about Dumbo?</i>
+
+108
+00:11:48,708 --> 00:11:51,377
+<i>Doesn't he object to your...</i>
+
+109
+00:11:51,794 --> 00:11:54,004
+<i>Yes. Darrin objects.</i>
+
+110
+00:11:54,088 --> 00:11:57,133
+<i>But it's a special
+occasion because of the morning light.</i>
+
+111
+00:12:32,460 --> 00:12:35,588
+Ah, fuck! God damn it!
+
+112
+00:12:36,589 --> 00:12:37,715
+Fuck!
+
+113
+00:12:40,593 --> 00:12:42,678
+It's gotta smart, doesn't it, Gerty?
+
+114
+00:12:43,429 --> 00:12:45,681
+<i>Sam, can I ask how it happened?</i>
+
+115
+00:12:45,765 --> 00:12:50,144
+I told you, I saw something on TV and
+I spilled boiling water on my hand.
+
+116
+00:12:50,436 --> 00:12:52,604
+<i>You saw something on TV?</i>
+
+117
+00:12:52,688 --> 00:12:55,107
+Yeah, I saw something
+on TV that distracted me.
+
+118
+00:12:55,191 --> 00:12:57,359
+Is there something wrong with that, Gerty?
+
+119
+00:12:57,443 --> 00:13:00,362
+<i>Sam, you said
+it was the TV that distracted you.</i>
+
+120
+00:13:00,446 --> 00:13:02,781
+<i>But when I came in, the TV wasn't on.</i>
+
+121
+00:13:02,865 --> 00:13:05,242
+<i>Perhaps you were imagining things.</i>
+
+122
+00:13:08,329 --> 00:13:10,498
+Yeah, you think too much, pal.
+
+123
+00:13:12,416 --> 00:13:15,628
+You need to get laid.
+I'm going to go back to work.
+
+124
+00:13:55,376 --> 00:13:59,213
+<i>I am the one and only</i>
+
+125
+00:14:02,466 --> 00:14:03,551
+<i>Oh, yeah!</i>
+
+126
+00:14:08,723 --> 00:14:10,725
+Okay. Shut up.
+
+127
+00:14:44,759 --> 00:14:46,302
+Morning, Gerty.
+
+128
+00:14:46,635 --> 00:14:48,595
+<i>Morning, Sam.
+How are you today?</i>
+
+129
+00:14:48,679 --> 00:14:50,431
+Fine. Fine.
+
+130
+00:14:51,140 --> 00:14:53,476
+<i>- How's the hand?</i>
+- Oh, it's a little sore.
+
+131
+00:14:53,601 --> 00:14:55,519
+Little sore. It's okay.
+
+132
+00:14:57,313 --> 00:14:59,189
+What's for breakfast?
+
+133
+00:14:59,273 --> 00:15:00,775
+<i>The usual.</i>
+
+134
+00:15:06,489 --> 00:15:07,781
+<i>Two weeks to go, Sam.</i>
+
+135
+00:15:07,865 --> 00:15:09,784
+Two weeks to go, buddy.
+
+136
+00:15:10,493 --> 00:15:13,329
+<i>Would you like
+some hot sauce on your beans?</i>
+
+137
+00:15:13,704 --> 00:15:16,457
+No, my tummy's a little tender, actually.
+
+138
+00:15:18,125 --> 00:15:20,503
+But thank you. Thank you, Gerty.
+
+139
+00:15:20,628 --> 00:15:22,338
+<i>You're welcome, Sam.</i>
+
+140
+00:15:22,463 --> 00:15:24,548
+8:19 Pacific Time.
+
+141
+00:15:24,632 --> 00:15:29,345
+Readouts are as follows.
+Matthew, 9.8 miles.
+
+142
+00:15:30,137 --> 00:15:32,639
+Mark is nine...
+
+143
+00:15:32,723 --> 00:15:34,850
+<i>Hey, Gerty...</i>
+
+144
+00:15:34,975 --> 00:15:36,477
+<i>Rock and roll.</i>
+
+145
+00:15:48,531 --> 00:15:49,907
+Mark...
+
+146
+00:15:50,533 --> 00:15:52,910
+Mark's 11 miles on the button.
+
+147
+00:15:56,038 --> 00:15:58,332
+Luke's a little twitchy today.
+
+148
+00:16:11,345 --> 00:16:13,305
+Hey, Gerty,
+
+149
+00:16:13,389 --> 00:16:15,539
+looks like
+we got a live one out on Matthew.
+
+150
+00:16:16,225 --> 00:16:17,601
+<i>I'm gonna go out in a few minutes.</i>
+
+151
+00:16:17,685 --> 00:16:20,396
+<i>I'm just going to finish my coffee, okay?</i>
+
+152
+00:16:20,521 --> 00:16:21,856
+<i>Okay, Sam.</i>
+
+153
+00:16:27,027 --> 00:16:29,697
+<i>Searching for long-range comms.</i>
+
+154
+00:16:32,741 --> 00:16:35,202
+<i>Signal failure on long-range comms.</i>
+
+155
+00:17:44,146 --> 00:17:47,316
+<i>Danger. Atmospheric compromise.</i>
+
+156
+00:18:19,807 --> 00:18:21,350
+Where am...
+
+157
+00:18:21,976 --> 00:18:23,435
+Where am I?
+
+158
+00:18:23,811 --> 00:18:27,648
+<i>Sam, you're in the Infirmary.
+You had an accident.</i>
+
+159
+00:18:27,773 --> 00:18:29,942
+<i>Do you remember what happened?</i>
+
+160
+00:18:35,322 --> 00:18:37,992
+No, I don't...
+I don't remember a thing.
+
+161
+00:18:40,035 --> 00:18:41,537
+<i>Do you remember me?</i>
+
+162
+00:18:43,163 --> 00:18:45,833
+Yeah, of course I remember you, Gerty.
+
+163
+00:18:45,958 --> 00:18:48,168
+<i>That's good. That's very good.</i>
+
+164
+00:18:48,294 --> 00:18:50,671
+<i>It's nice to see you awake again.</i>
+
+165
+00:18:50,796 --> 00:18:53,590
+<i>I'd like to keep you
+under observation here in the Infirmary</i>
+
+166
+00:18:53,674 --> 00:18:56,176
+<i>for a few days and run some tests.</i>
+
+167
+00:18:58,220 --> 00:19:00,222
+How long have I been out?
+
+168
+00:19:00,681 --> 00:19:03,517
+<i>Not long, Sam.
+Go back to sleep.</i>
+
+169
+00:19:03,642 --> 00:19:04,852
+Okay, bro.
+
+170
+00:19:04,977 --> 00:19:08,230
+<i>You're still very tired.
+We can talk later.</i>
+
+171
+00:19:47,394 --> 00:19:48,562
+Hello?
+
+172
+00:20:14,088 --> 00:20:17,424
+<i>...good working order, but we only have
+two working Harvesters now.</i>
+
+173
+00:20:17,549 --> 00:20:18,759
+Come on, come on.
+
+174
+00:20:18,884 --> 00:20:20,969
+<i>Yeah, well, that's no surprise,
+but it's not good enough.</i>
+
+175
+00:20:21,053 --> 00:20:23,680
+<i>Gerty, we're gonna
+have to find a way to ramp up production</i>
+
+176
+00:20:23,764 --> 00:20:25,599
+<i>- on Mark and John.
+- I know.</i>
+
+177
+00:20:25,724 --> 00:20:29,686
+<i>This is incredible. How do you manage
+to fucking break a Harvester</i>
+
+178
+00:20:29,770 --> 00:20:31,855
+<i>and an employee, all in the same day?</i>
+
+179
+00:20:31,939 --> 00:20:35,109
+<i>These were extraordinary
+circumstances, as you know.</i>
+
+180
+00:20:35,234 --> 00:20:37,777
+<i>Gerty, what's the status on Harvester 3?</i>
+
+181
+00:20:37,861 --> 00:20:39,461
+<i>How are the repairs going ahead?</i>
+
+182
+00:20:39,947 --> 00:20:42,908
+<i>- Sam. You're out of bed.</i>
+- Yeah.
+
+183
+00:20:43,575 --> 00:20:46,703
+I wanted to stretch my legs. Who was that?
+
+184
+00:20:49,540 --> 00:20:52,042
+<i>We've been having
+some problems with the Lunar Sat,</i>
+
+185
+00:20:52,126 --> 00:20:54,294
+<i>and our live feed seems to be down.</i>
+
+186
+00:20:54,420 --> 00:20:56,963
+<i>I was recording
+a video message for Central,</i>
+
+187
+00:20:57,047 --> 00:20:59,258
+<i>updating them on your progress.</i>
+
+188
+00:20:59,591 --> 00:21:01,885
+<i>Sam, you need to stay in bed.</i>
+
+189
+00:21:01,969 --> 00:21:04,138
+<i>You're not ready to walk around yet.</i>
+
+190
+00:21:05,431 --> 00:21:06,807
+All right.
+
+191
+00:21:07,141 --> 00:21:10,144
+Could you give me
+my sunglasses? It's really bright in here.
+
+192
+00:21:11,770 --> 00:21:13,313
+Give me my...
+
+193
+00:21:13,397 --> 00:21:15,607
+Give me all my stuff, you know.
+
+194
+00:21:15,983 --> 00:21:18,026
+<i>Your belongings are in your quarters, Sam.</i>
+
+195
+00:21:18,110 --> 00:21:21,155
+- Well, bring it in here.
+<i>- Certainly.</i>
+
+196
+00:21:32,916 --> 00:21:34,460
+<i>Excellent, Sam.</i>
+
+197
+00:21:37,004 --> 00:21:38,297
+What...
+
+198
+00:21:39,173 --> 00:21:40,757
+When can I get out of here, Gerty?
+
+199
+00:21:40,841 --> 00:21:43,691
+<i>Sam, you may have
+suffered from brain damage in the crash.</i>
+
+200
+00:21:43,802 --> 00:21:47,764
+<i>This would explain your slight memory loss
+and logic impairment.</i>
+
+201
+00:21:50,017 --> 00:21:52,560
+So, what's the diagnosis?
+When can I get back to work?
+
+202
+00:21:52,644 --> 00:21:55,022
+<i>Central has asked me to
+slow down the Harvesters</i>
+
+203
+00:21:55,147 --> 00:21:58,358
+<i>to ensure you have time
+to recuperate and get your strength back.</i>
+
+204
+00:21:58,442 --> 00:22:01,444
+That's terrific. It's fantastic.
+
+205
+00:22:01,528 --> 00:22:03,905
+<i>You can return to
+the sleeping quarters tomorrow,</i>
+
+206
+00:22:03,989 --> 00:22:05,573
+<i>but it will still be a few more days</i>
+
+207
+00:22:05,657 --> 00:22:09,369
+<i>before you can resume
+anything like a normal work schedule.</i>
+
+208
+00:22:09,995 --> 00:22:13,623
+<i>- Let's try another test.</i>
+- I don't want to try another test.
+
+209
+00:22:13,707 --> 00:22:15,125
+<i>Please, Sam.</i>
+
+210
+00:22:43,237 --> 00:22:44,863
+Hey, Gerty.
+
+211
+00:22:48,075 --> 00:22:49,826
+You know about this?
+
+212
+00:22:50,577 --> 00:22:53,914
+Matthew's got no velocity readout.
+He's completely still.
+
+213
+00:22:54,164 --> 00:22:55,415
+<i>He must have stalled.</i>
+
+214
+00:22:55,541 --> 00:22:56,624
+Well, he's obviously stalled.
+
+215
+00:22:56,708 --> 00:22:58,626
+Don't you think we should tell Central?
+
+216
+00:22:58,710 --> 00:23:01,213
+Unlock the doors and I'll go fix it.
+
+217
+00:23:01,338 --> 00:23:03,340
+<i>I'll pass on your message.</i>
+
+218
+00:23:44,006 --> 00:23:46,841
+<i>Message received
+from Earth via Jupiter link.</i>
+
+219
+00:23:46,925 --> 00:23:48,343
+<i>Sam, we appreciate the offer,</i>
+
+220
+00:23:48,427 --> 00:23:50,637
+<i>but you concentrate on feeling better.</i>
+
+221
+00:23:50,721 --> 00:23:53,932
+<i>Hey, we don't want you to take
+any unnecessary risks.</i>
+
+222
+00:23:54,016 --> 00:23:56,893
+<i>- You're too important to us.
+- You're to stay put.</i>
+
+223
+00:23:56,977 --> 00:23:58,228
+<i>That is an order.</i>
+
+224
+00:23:58,312 --> 00:24:00,146
+<i>It's an order, Sam. From Lunar.</i>
+
+225
+00:24:00,230 --> 00:24:02,023
+<i>And what we're
+going to do is send a rescue unit</i>
+
+226
+00:24:02,107 --> 00:24:05,193
+<i>to tend to the stalled Harvester
+and get the base back on its feet.</i>
+
+227
+00:24:05,277 --> 00:24:07,195
+What the fuck is...
+What the fuck...
+
+228
+00:24:07,279 --> 00:24:09,030
+<i>- I'm sorry, Sam.</i>
+- What?
+
+229
+00:24:09,114 --> 00:24:12,618
+<i>Sam, I'm under strict orders
+not to let you outside.</i>
+
+230
+00:24:14,202 --> 00:24:15,411
+I don't appreciate that.
+
+231
+00:24:15,495 --> 00:24:18,373
+Being treated like a child.
+I don't appreciate it.
+
+232
+00:24:56,536 --> 00:24:57,913
+Gerty!
+
+233
+00:25:03,085 --> 00:25:05,712
+Gerty! Gerty, come here!
+
+234
+00:25:06,797 --> 00:25:08,006
+<i>What happened?</i>
+
+235
+00:25:08,090 --> 00:25:09,966
+I don't know. Meteorites.
+
+236
+00:25:10,050 --> 00:25:11,759
+<i>There have been no meteorites, Sam.</i>
+
+237
+00:25:11,843 --> 00:25:13,595
+Micro-meteorites maybe, I don't know.
+
+238
+00:25:13,679 --> 00:25:15,972
+Either way, there might be
+damage to the exterior shell.
+
+239
+00:25:16,056 --> 00:25:18,850
+I think you'd better... You'd better
+let me go outside and take a look.
+
+240
+00:25:18,934 --> 00:25:21,102
+<i>There is no damage to the exterior shell.</i>
+
+241
+00:25:21,186 --> 00:25:23,354
+Well, it's not that
+I don't believe you, Gerty,
+
+242
+00:25:23,438 --> 00:25:25,189
+but I mean, you know,
+this thing is springing leaks
+
+243
+00:25:25,273 --> 00:25:26,774
+like an Acme fire hose.
+
+244
+00:25:26,858 --> 00:25:29,152
+You need to let me
+go outside and fix this problem, Gerty.
+
+245
+00:25:29,236 --> 00:25:31,613
+<i>I can't let you go outside, Sam.</i>
+
+246
+00:25:31,697 --> 00:25:34,324
+Gerty, if you don't
+let me go outside, we can't fix this leak.
+
+247
+00:25:34,408 --> 00:25:36,618
+<i>I'm not permitted to let you go outside.</i>
+
+248
+00:25:36,702 --> 00:25:40,163
+Just let... We'll keep it
+between you and me. Okay, pal?
+
+249
+00:25:40,455 --> 00:25:43,458
+This thing
+is springing gas, let's go. Come on.
+
+250
+00:25:43,542 --> 00:25:45,460
+<i>Just to check the exterior shell.</i>
+
+251
+00:25:45,544 --> 00:25:47,462
+- Yeah, of course.
+<i>- Okay, Sam.</i>
+
+252
+00:25:47,546 --> 00:25:48,880
+Thank you.
+
+253
+00:26:02,978 --> 00:26:04,312
+Gerty.
+
+254
+00:26:38,180 --> 00:26:40,807
+<i>Searching for long-range comms.</i>
+
+255
+00:26:42,350 --> 00:26:44,686
+<i>Searching for long-range comms.</i>
+
+256
+00:26:46,855 --> 00:26:49,107
+<i>Searching for long-range comms.</i>
+
+257
+00:26:51,735 --> 00:26:54,237
+<i>Signal failure on long-range comms.</i>
+
+258
+00:28:54,691 --> 00:28:56,985
+Gerty! Gerty!
+
+259
+00:29:00,405 --> 00:29:02,282
+I found him outside.
+
+260
+00:29:04,075 --> 00:29:05,827
+I found him outside.
+
+261
+00:29:07,954 --> 00:29:09,497
+By the stalled Harvester.
+
+262
+00:29:09,581 --> 00:29:11,666
+Who is he? Who is he?
+
+263
+00:29:12,083 --> 00:29:13,876
+<i>We need to get him to the Infirmary.</i>
+
+264
+00:29:13,960 --> 00:29:17,339
+You tell...
+You tell me who that is.
+
+265
+00:29:17,797 --> 00:29:19,674
+You tell me who that is!
+
+266
+00:29:19,758 --> 00:29:21,092
+<i>Sam Bell.</i>
+
+267
+00:29:21,176 --> 00:29:24,262
+<i>We need to get him
+to the Infirmary immediately.</i>
+
+268
+00:29:36,900 --> 00:29:39,235
+<i>Hello, Sam.
+How are you feeling?</i>
+
+269
+00:29:44,574 --> 00:29:47,494
+Where... Where am I?
+
+270
+00:29:47,953 --> 00:29:49,245
+<i>The Infirmary.</i>
+
+271
+00:29:49,329 --> 00:29:51,873
+<i>You had an accident out
+by one of the Harvesters.</i>
+
+272
+00:29:51,957 --> 00:29:53,833
+<i>- Do you remember?</i>
+- I'm...
+
+273
+00:29:55,669 --> 00:29:57,087
+I'm thirsty.
+
+274
+00:29:57,963 --> 00:30:00,006
+<i>I could get you some water.</i>
+
+275
+00:30:06,012 --> 00:30:09,057
+I saw someone out there, Gerty.
+
+276
+00:30:12,894 --> 00:30:14,896
+I saw someone out there.
+
+277
+00:30:16,189 --> 00:30:18,649
+<i>Sam, you suffered
+a slight concussion in the crash</i>
+
+278
+00:30:18,733 --> 00:30:20,818
+<i>and have incurred minor injuries.</i>
+
+279
+00:30:20,902 --> 00:30:23,530
+<i>But all in all, the prognosis is good.</i>
+
+280
+00:30:25,865 --> 00:30:27,867
+<i>I'm happy to see you again.</i>
+
+281
+00:30:51,224 --> 00:30:54,144
+- Gerty.
+<i>- Yes, Sam.</i>
+
+282
+00:30:57,063 --> 00:30:59,649
+Is there someone in the room with us?
+
+283
+00:31:03,903 --> 00:31:05,739
+<i>Sam, get some sleep.</i>
+
+284
+00:31:07,073 --> 00:31:08,742
+<i>You're very tired.</i>
+
+285
+00:31:33,099 --> 00:31:38,271
+<i>Spoke to Thompson today. Now that
+you're up there, he's promising the world.</i>
+
+286
+00:31:45,445 --> 00:31:47,655
+<i>I think it was the right thing.</i>
+
+287
+00:31:49,282 --> 00:31:50,450
+<i>But...</i>
+
+288
+00:31:51,951 --> 00:31:54,120
+<i>It's just such a long time.</i>
+
+289
+00:31:57,373 --> 00:31:59,626
+<i>But I suppose there are things...</i>
+
+290
+00:32:01,127 --> 00:32:04,547
+<i>You know, that needed to happen.</i>
+
+291
+00:32:06,341 --> 00:32:08,551
+<i>I... I need time to think.</i>
+
+292
+00:32:15,141 --> 00:32:18,186
+<i>Listen, Sam...</i>
+
+293
+00:32:20,772 --> 00:32:25,985
+<i>be safe, and I'll talk to you soon.
+Bye.</i>
+
+294
+00:32:56,850 --> 00:32:58,184
+Gerty...
+
+295
+00:32:59,144 --> 00:33:02,397
+Gerty, what the... What...
+What the hell's going on?
+
+296
+00:33:03,356 --> 00:33:05,775
+Who's the guy...
+Who's the guy in the Rec Room?
+
+297
+00:33:05,859 --> 00:33:08,403
+Where did he come from?
+Why does he look like me?
+
+298
+00:33:08,528 --> 00:33:10,613
+<i>Sam, you're out of bed.</i>
+
+299
+00:33:10,697 --> 00:33:11,906
+Yeah, Gerty, I'm out of bed.
+
+300
+00:33:11,990 --> 00:33:15,159
+Who's the guy...
+Who's the guy in the Rec Room?
+
+301
+00:33:15,243 --> 00:33:16,578
+<i>Sam Bell.</i>
+
+302
+00:33:16,703 --> 00:33:18,705
+Come on, come on, come on.
+
+303
+00:33:19,080 --> 00:33:20,707
+<i>You are Sam Bell.</i>
+
+304
+00:33:23,376 --> 00:33:24,919
+<i>Sam, what is it?</i>
+
+305
+00:33:25,378 --> 00:33:27,380
+<i>It might help to talk about it.</i>
+
+306
+00:33:27,505 --> 00:33:30,341
+Gerty, I don't understand
+what's happening.
+
+307
+00:33:30,592 --> 00:33:33,010
+I'm losing my mind.
+
+308
+00:33:33,094 --> 00:33:35,054
+<i>We could run some tests.</i>
+
+309
+00:33:35,263 --> 00:33:37,599
+<i>I haven't let Sam contact Lunar.</i>
+
+310
+00:33:38,016 --> 00:33:40,267
+<i>They don't know you were recovered alive
+from the accident...</i>
+
+311
+00:33:40,351 --> 00:33:42,520
+Recovered alive?
+What do you mean... What are you talk...
+
+312
+00:33:42,604 --> 00:33:45,147
+Why didn't you report it
+to Central? What are you talking about?
+
+313
+00:33:45,231 --> 00:33:47,442
+<i>I'm here to keep you safe, Sam.</i>
+
+314
+00:33:48,067 --> 00:33:49,569
+<i>Are you hungry?</i>
+
+315
+00:34:26,314 --> 00:34:28,775
+Two weeks, two weeks, two weeks...
+
+316
+00:34:31,903 --> 00:34:35,949
+Two weeks, two weeks, two weeks, two
+weeks, two weeks, two weeks...
+
+317
+00:35:01,307 --> 00:35:02,766
+Just getting my slippers.
+
+318
+00:35:02,850 --> 00:35:05,311
+- I'm using them. I'm using them.
+- No. What?
+
+319
+00:35:05,645 --> 00:35:07,480
+These are mine.
+These are mine.
+
+320
+00:35:18,825 --> 00:35:20,827
+Gerty says you're Sam Bell.
+
+321
+00:35:22,370 --> 00:35:23,997
+I'm Sam Bell, too.
+
+322
+00:35:25,123 --> 00:35:26,165
+What?
+
+323
+00:35:26,291 --> 00:35:28,001
+We've got that going for us.
+
+324
+00:35:29,961 --> 00:35:31,337
+Why...
+
+325
+00:35:37,135 --> 00:35:38,886
+How long have you...
+
+326
+00:35:39,345 --> 00:35:40,680
+What?
+
+327
+00:35:40,805 --> 00:35:42,515
+How long have you been here?
+
+328
+00:35:42,849 --> 00:35:44,350
+About a week.
+
+329
+00:35:45,226 --> 00:35:46,853
+So, how you doing?
+
+330
+00:35:46,978 --> 00:35:48,855
+- What?
+- How are you doing?
+
+331
+00:35:51,065 --> 00:35:53,192
+How am I... How am I doing?
+
+332
+00:35:55,653 --> 00:35:57,655
+How do you think I'm doing?
+
+333
+00:36:03,036 --> 00:36:04,370
+Good job.
+
+334
+00:36:08,041 --> 00:36:11,878
+They locked all the exits.
+Who's looking after the Harvesters?
+
+335
+00:36:13,880 --> 00:36:15,548
+Harvesters are fine.
+
+336
+00:36:15,673 --> 00:36:17,258
+It's affected them.
+
+337
+00:36:17,383 --> 00:36:20,011
+Here, talking to a clone,
+that's slightly troubling.
+
+338
+00:36:20,720 --> 00:36:23,389
+I'm not a clone.
+
+339
+00:36:24,223 --> 00:36:26,100
+I'm not a clone.
+
+340
+00:36:32,398 --> 00:36:34,067
+You're the clone.
+
+341
+00:36:34,192 --> 00:36:37,737
+Okay, Sam, you're not a clone.
+
+342
+00:36:45,620 --> 00:36:49,916
+Hey. Hey, Ridley,
+you're not looking too good.
+
+343
+00:36:51,250 --> 00:36:52,376
+Butt out of this.
+
+344
+00:36:52,460 --> 00:36:55,129
+Davey, I'm talking
+to Ridley. How you doing, pal?
+
+345
+00:36:55,880 --> 00:36:59,592
+Hey, I think Kathryn
+likes you. I think she likes you, pal.
+
+346
+00:37:00,301 --> 00:37:02,386
+You're not looking too good, my friend.
+
+347
+00:37:02,470 --> 00:37:04,138
+Sorry you're not feeling too well.
+
+348
+00:37:04,222 --> 00:37:05,431
+You talking to yourself?
+
+349
+00:37:05,556 --> 00:37:08,706
+- I'll just get you all fixed up.
+- How long have you been here?
+
+350
+00:37:09,727 --> 00:37:14,440
+Oh, I guess about three years.
+Almost three years.
+
+351
+00:37:16,401 --> 00:37:20,154
+Listen, I...
+I wanted to thank you.
+
+352
+00:37:21,948 --> 00:37:24,075
+I wanted to thank you for...
+
+353
+00:37:25,159 --> 00:37:27,620
+If it wasn't for you,
+
+354
+00:37:28,079 --> 00:37:30,456
+I guess I'd still be
+in that crashed rover.
+
+355
+00:37:30,581 --> 00:37:32,625
+You saved my life and...
+
+356
+00:37:35,795 --> 00:37:38,464
+Hey, I know this is weird, you know.
+
+357
+00:37:40,341 --> 00:37:42,593
+I'm real lonely, you know...
+
+358
+00:37:42,969 --> 00:37:46,305
+I just want to shake your hand.
+Will you shake my hand?
+
+359
+00:37:53,354 --> 00:37:54,939
+Maybe later.
+
+360
+00:38:01,446 --> 00:38:02,738
+What are you looking at?
+
+361
+00:38:02,822 --> 00:38:05,491
+You look just like me. It's incredible.
+
+362
+00:38:05,992 --> 00:38:08,828
+Why do I look like you?
+Why don't you look like me?
+
+363
+00:38:09,287 --> 00:38:13,499
+We look like each other,
+I guess. Hey, you know...
+
+364
+00:38:16,794 --> 00:38:19,172
+It's weird for me, too, you know.
+
+365
+00:38:23,718 --> 00:38:24,844
+Fuck.
+
+366
+00:38:25,720 --> 00:38:26,846
+Hey.
+
+367
+00:38:29,140 --> 00:38:31,642
+Hey, you wanna play some Ping-Pong?
+
+368
+00:38:33,561 --> 00:38:34,687
+No.
+
+369
+00:38:35,188 --> 00:38:37,857
+Come on, I'll teach you.
+It'll help you relax.
+
+370
+00:38:41,861 --> 00:38:44,405
+- What's the score?
+- 2-18.
+
+371
+00:38:44,530 --> 00:38:45,656
+Okay.
+
+372
+00:38:46,199 --> 00:38:48,075
+Do you want me
+to show you how to hold that?
+
+373
+00:38:48,159 --> 00:38:50,285
+No. No, I...
+
+374
+00:38:50,369 --> 00:38:53,206
+I don't need you to
+show me how to hold it.
+
+375
+00:38:55,208 --> 00:38:58,211
+- Okay. Okay.
+- Yeah. Okay.
+
+376
+00:38:59,712 --> 00:39:02,715
+- Should we, uh... Should we play?
+- Yeah.
+
+377
+00:39:08,054 --> 00:39:10,181
+God! Shit!
+
+378
+00:39:10,890 --> 00:39:14,101
+- 19-2.
+- Yeah.
+
+379
+00:39:15,937 --> 00:39:18,231
+Do you want a stick of gum?
+
+380
+00:39:21,400 --> 00:39:24,695
+You know, we could
+approach this in a different way.
+
+381
+00:39:25,947 --> 00:39:27,823
+Remember when we went to flight school...
+
+382
+00:39:27,907 --> 00:39:29,116
+What are you doing?
+
+383
+00:39:29,242 --> 00:39:32,202
+I'm fixing the net.
+It's very Zen, Ping-Pong.
+
+384
+00:39:32,286 --> 00:39:33,454
+You have to just relax.
+
+385
+00:39:45,383 --> 00:39:47,885
+How long did it take you to do that?
+
+386
+00:39:48,553 --> 00:39:50,638
+Well, I don't remember doing all of it.
+
+387
+00:39:50,763 --> 00:39:55,142
+I remember
+doing the church, and the Salvation Army,
+
+388
+00:39:55,268 --> 00:39:57,603
+and a few of the people.
+
+389
+00:39:57,979 --> 00:40:00,898
+My mind's been acting
+kind of weird lately.
+
+390
+00:40:03,776 --> 00:40:06,779
+That's Fairfield, right?
+
+391
+00:40:07,280 --> 00:40:09,156
+There's the Town Hall.
+
+392
+00:40:10,157 --> 00:40:13,452
+Fairfield? Of course,
+you know about Fairfield.
+
+393
+00:40:17,290 --> 00:40:20,001
+Yeah, there's Tess and Eve.
+
+394
+00:40:24,463 --> 00:40:26,132
+Do you know Tess?
+
+395
+00:40:33,848 --> 00:40:35,474
+Yeah. I know Tess.
+
+396
+00:40:37,268 --> 00:40:40,313
+- You know about Eve, right?
+- What?
+
+397
+00:40:40,438 --> 00:40:42,815
+I had a... We had a girl.
+
+398
+00:40:45,151 --> 00:40:46,319
+Eve.
+
+399
+00:40:49,822 --> 00:40:52,950
+Isn't she beautiful?
+She's my little monkey.
+
+400
+00:40:53,951 --> 00:40:55,494
+She's our little monkey.
+
+401
+00:40:57,330 --> 00:40:58,497
+High-five.
+
+402
+00:41:04,128 --> 00:41:07,381
+She might be the milkman's,
+but she's beautiful.
+
+403
+00:41:09,300 --> 00:41:12,511
+<i>Sam, a new message
+has arrived from Earth.</i>
+
+404
+00:41:13,179 --> 00:41:14,513
+Oh, shit.
+
+405
+00:41:21,145 --> 00:41:22,729
+<i>- Greetings, Sam.
+- How's our man?</i>
+
+406
+00:41:22,813 --> 00:41:24,857
+<i>You feeling better?
+You have enough rest?</i>
+
+407
+00:41:24,982 --> 00:41:28,151
+<i>Okay, you resting up, Sam?
+You better be, you bastard.</i>
+
+408
+00:41:28,235 --> 00:41:31,197
+<i>Well, enjoy it while
+it lasts. We've got some good news.</i>
+
+409
+00:41:31,322 --> 00:41:33,282
+<i>The Jupiter Program
+had to be put on hiatus,</i>
+
+410
+00:41:33,366 --> 00:41:35,158
+<i>so we got a few pairs of hands for you.</i>
+
+411
+00:41:35,242 --> 00:41:38,745
+<i>So, what we've managed to do is secure you
+a Rescue Unit ahead of schedule.</i>
+
+412
+00:41:38,829 --> 00:41:40,539
+<i>Rescue Unit</i> Eliza.
+
+413
+00:41:40,665 --> 00:41:43,834
+<i>Now,</i> Eliza <i>has been stationed on
+Goliath 19 for the last two months.</i>
+
+414
+00:41:43,918 --> 00:41:46,921
+<i>Now we expect them
+to reach you in approximately 14 hours.</i>
+
+415
+00:41:47,046 --> 00:41:48,505
+<i>So commence to jump for joy.</i>
+
+416
+00:41:48,589 --> 00:41:50,383
+<i>You're about to be back in work.</i>
+
+417
+00:41:50,508 --> 00:41:53,719
+<i>In the meantime,
+hang in there. Rest up.</i>
+
+418
+00:41:54,220 --> 00:41:56,070
+<i>You hang in there, Sam. Over and out.</i>
+
+419
+00:41:56,931 --> 00:41:58,181
+They're sending a Rescue Unit?
+
+420
+00:41:58,265 --> 00:42:00,393
+Why? Why are they
+sending a Rescue Unit?
+
+421
+00:42:00,518 --> 00:42:03,771
+To fix the stalled Harvester.
+They didn't think I was up to it.
+
+422
+00:42:03,896 --> 00:42:06,899
+Well, then I'm going back.
+That's it for me.
+
+423
+00:42:08,234 --> 00:42:09,276
+What?
+
+424
+00:42:09,402 --> 00:42:11,070
+Is that what you really think?
+
+425
+00:42:11,195 --> 00:42:14,949
+Yeah.
+I've got a contract. I'm going home.
+
+426
+00:42:15,741 --> 00:42:17,868
+You're a fucking clone.
+You don't have shit.
+
+427
+00:42:17,952 --> 00:42:20,746
+- Hey, I'm going home.
+- You're not going anywhere.
+
+428
+00:42:20,871 --> 00:42:22,497
+You know, you've been
+up here too long, man.
+
+429
+00:42:22,581 --> 00:42:23,665
+You've lost your marbles.
+
+430
+00:42:23,749 --> 00:42:27,169
+What, do you think Tess is back home,
+waiting for you on the sofa in lingerie?
+
+431
+00:42:27,253 --> 00:42:30,256
+What about the original Sam? Huh?
+
+432
+00:42:30,381 --> 00:42:32,466
+I'm the original Sam!
+
+433
+00:42:32,591 --> 00:42:34,093
+I'm Sam fucking Bell!
+
+434
+00:42:34,218 --> 00:42:37,263
+- Hey, hey. Whoa.
+- Me! Me!
+
+435
+00:42:38,723 --> 00:42:41,600
+Gerty, am I a clone?
+
+436
+00:42:43,978 --> 00:42:45,563
+<i>Are you hungry?</i>
+
+437
+00:42:50,943 --> 00:42:52,236
+Hey, hey.
+
+438
+00:42:53,738 --> 00:42:56,531
+Don't get your fucking panties in a twist.
+
+439
+00:42:56,615 --> 00:42:58,117
+I'm in the same boat, asshole.
+
+440
+00:43:03,789 --> 00:43:06,708
+- Listen. What about the other clones?
+- What?
+
+441
+00:43:06,792 --> 00:43:08,835
+We might not be
+the first two to be woken up.
+
+442
+00:43:08,919 --> 00:43:11,505
+You said that model had
+already been started when you got here.
+
+443
+00:43:11,589 --> 00:43:13,132
+Well, who started it?
+
+444
+00:43:13,257 --> 00:43:15,634
+There might be others up here right now.
+
+445
+00:43:16,552 --> 00:43:20,473
+Think about it. How did I get up here
+so quickly after your crash?
+
+446
+00:43:20,598 --> 00:43:23,392
+- I don't want to talk about it.
+- They didn't ship me in from Central.
+
+447
+00:43:23,476 --> 00:43:26,645
+There wasn't time.
+I must have come from the base.
+
+448
+00:43:28,105 --> 00:43:29,189
+I don't know what you're smoking.
+
+449
+00:43:29,273 --> 00:43:31,484
+Why would they do that?
+That's ridiculous.
+
+450
+00:43:31,609 --> 00:43:33,152
+Impossible.
+
+451
+00:43:33,277 --> 00:43:35,070
+I bet there's some kind of secret room.
+
+452
+00:43:35,154 --> 00:43:36,280
+Secret room?
+
+453
+00:43:37,448 --> 00:43:38,740
+Yeah, a secret room.
+Why not?
+
+454
+00:43:38,824 --> 00:43:41,326
+You're the one who's lost your marbles.
+
+455
+00:43:41,410 --> 00:43:43,578
+I've been here for three years, man.
+
+456
+00:43:43,662 --> 00:43:45,080
+I know every inch of this base.
+
+457
+00:43:45,164 --> 00:43:48,667
+I know how many... How much dirt's
+between those wall panels over there.
+
+458
+00:43:48,751 --> 00:43:50,585
+Why would they do that?
+What's the motive?
+
+459
+00:43:50,669 --> 00:43:53,338
+Look, it's a company, right?
+
+460
+00:43:53,422 --> 00:43:55,590
+They have investors.
+They have shareholders.
+
+461
+00:43:55,674 --> 00:43:57,342
+Shit like that.
+What's cheaper?
+
+462
+00:43:57,426 --> 00:43:59,386
+Spending time and money
+training new personnel,
+
+463
+00:43:59,470 --> 00:44:02,431
+or you just have
+a couple of spares here to do the job.
+
+464
+00:44:02,515 --> 00:44:04,349
+It's the far side of the moon.
+
+465
+00:44:04,433 --> 00:44:08,437
+The cheap fucks haven't even
+fixed the communications satellite yet.
+
+466
+00:44:10,189 --> 00:44:11,940
+Tess would know.
+She would have told me.
+
+467
+00:44:12,024 --> 00:44:13,775
+Hey, Geppetto, wake up.
+
+468
+00:44:13,859 --> 00:44:16,028
+You really think they
+give a shit about us?
+
+469
+00:44:16,153 --> 00:44:17,904
+They're laughing all the way to the bank.
+
+470
+00:44:17,988 --> 00:44:19,281
+Tess would know.
+She would have told me...
+
+471
+00:44:19,365 --> 00:44:20,949
+What do you get off
+
+472
+00:44:21,033 --> 00:44:23,785
+fucking sitting there,
+sulking like a little fucking boy!
+
+473
+00:44:23,869 --> 00:44:25,996
+- Oh, Jesus Christ.
+- Wake up!
+
+474
+00:44:27,706 --> 00:44:31,710
+I bet there's some area
+that we don't know about.
+
+475
+00:44:32,294 --> 00:44:34,171
+And I'm gonna find it.
+
+476
+00:44:35,005 --> 00:44:37,883
+Yeah, maybe
+you'll find some buried treasure, too.
+
+477
+00:45:12,251 --> 00:45:13,419
+Fuck!
+
+478
+00:45:14,378 --> 00:45:17,256
+Eliza <i>arrival estimated 13 hours.</i>
+
+479
+00:45:18,257 --> 00:45:20,593
+You found your secret room?
+
+480
+00:45:22,344 --> 00:45:24,263
+Just put that anywhere.
+
+481
+00:45:25,389 --> 00:45:27,682
+Now, that's a good idea. That's...
+
+482
+00:45:27,766 --> 00:45:28,975
+That's where I keep my leprechauns.
+
+483
+00:45:29,059 --> 00:45:32,187
+- Get out of the way.
+- What? Why?
+
+484
+00:45:32,271 --> 00:45:34,356
+I want to look underneath that model.
+
+485
+00:45:34,773 --> 00:45:37,067
+You're not touching this model.
+
+486
+00:45:37,234 --> 00:45:39,111
+Get the fuck out of the way.
+
+487
+00:45:39,236 --> 00:45:41,447
+Listen, why don't you relax, okay?
+
+488
+00:45:41,572 --> 00:45:43,365
+Why don't you
+take a pill? Bake a cake?
+
+489
+00:45:43,449 --> 00:45:45,867
+- Go read the encyclopedia or something?
+- You're a tough guy now?
+
+490
+00:45:45,951 --> 00:45:47,494
+What, are you going to stab me?
+
+491
+00:45:47,578 --> 00:45:49,287
+No, I'm a peaceful warrior.
+
+492
+00:45:49,371 --> 00:45:51,457
+I'm a lover. I'm not a fighter.
+
+493
+00:45:51,582 --> 00:45:52,707
+Put the knife down.
+
+494
+00:45:52,791 --> 00:45:54,042
+- Hey, hey, just...
+- I want to look underneath there.
+
+495
+00:45:54,126 --> 00:45:55,877
+- Put the knife down.
+- No. I'm not going to give you the knife.
+
+496
+00:45:55,961 --> 00:45:57,796
+- Just get out of the way.
+- Take it easy 'cause I...
+
+497
+00:45:57,880 --> 00:46:01,592
+- Let go of the knife.
+- Don't ever tell me what to do, okay?
+
+498
+00:46:01,759 --> 00:46:04,303
+Just... You let go. Let go of the knife.
+
+499
+00:46:04,428 --> 00:46:06,388
+- Don't be an asshole.
+- Don't push me.
+
+500
+00:46:06,472 --> 00:46:09,224
+- Don't push me, motherfucker.
+- Let go.
+
+501
+00:46:09,642 --> 00:46:10,935
+Let go.
+
+502
+00:46:21,570 --> 00:46:24,657
+Fucking told you
+to let go of the goddamn knife.
+
+503
+00:46:28,619 --> 00:46:30,287
+Little fucking...
+
+504
+00:46:31,330 --> 00:46:33,499
+Fucking little girl, man!
+
+505
+00:46:35,501 --> 00:46:38,837
+- God damn it!
+- No! No!
+
+506
+00:46:41,340 --> 00:46:44,593
+God damn it.
+What did I tell you?
+
+507
+00:46:54,144 --> 00:46:55,688
+Okay, okay...
+
+508
+00:46:56,855 --> 00:46:59,024
+You gonna stop?
+You gonna stop?
+
+509
+00:46:59,149 --> 00:47:01,443
+Okay, okay.
+
+510
+00:47:03,445 --> 00:47:05,197
+Jesus! Fuck...
+
+511
+00:47:06,532 --> 00:47:08,951
+Fuck me. What the fuck?
+
+512
+00:47:09,368 --> 00:47:11,036
+I hardly...
+I hardly touched you.
+
+513
+00:47:11,161 --> 00:47:13,288
+- My fucking eye, man.
+- Let me see.
+
+514
+00:47:13,372 --> 00:47:16,125
+- That's a lot of blood.
+- Get off of me!
+
+515
+00:47:20,546 --> 00:47:22,047
+That's enough.
+
+516
+00:47:34,226 --> 00:47:36,353
+<i>Well, appealing...</i>
+
+517
+00:47:37,563 --> 00:47:40,524
+<i>Nice feet, sexy...</i>
+
+518
+00:48:11,847 --> 00:48:13,223
+<i>Hello, Sam.</i>
+
+519
+00:48:15,100 --> 00:48:17,936
+<i>- Sam, is everything okay?</i>
+- Yeah.
+
+520
+00:48:19,605 --> 00:48:24,234
+Yeah, we had a fight,
+me and the other guy, the other...
+
+521
+00:48:26,070 --> 00:48:29,073
+He's very angry, you know.
+
+522
+00:48:29,281 --> 00:48:30,908
+Know what he did?
+
+523
+00:48:31,116 --> 00:48:33,535
+He flipped my entire model over.
+
+524
+00:48:33,619 --> 00:48:35,328
+Know how much work I put into that thing?
+
+525
+00:48:35,412 --> 00:48:37,205
+<i>Nine hundred and thirty-eight hours.</i>
+
+526
+00:48:37,289 --> 00:48:40,459
+Nine hundred and
+thirty-eight hours, yeah, exactly.
+
+527
+00:48:41,126 --> 00:48:43,294
+Nine hundred and
+thirty-eight hours, really?
+
+528
+00:48:43,378 --> 00:48:44,797
+<i>Approximately.</i>
+
+529
+00:48:46,465 --> 00:48:48,217
+He's got a problem.
+
+530
+00:48:49,968 --> 00:48:51,804
+He scares me, Gerty.
+
+531
+00:48:51,929 --> 00:48:54,139
+<i>What is it about Sam that scares you?</i>
+
+532
+00:48:54,264 --> 00:48:56,224
+How he flies off the handle.
+
+533
+00:48:56,308 --> 00:48:59,311
+I see it now.
+I see what Tess was talking about.
+
+534
+00:49:02,981 --> 00:49:05,651
+I never told you this, Gerty, but she...
+
+535
+00:49:09,655 --> 00:49:11,406
+She left me.
+
+536
+00:49:12,324 --> 00:49:14,492
+Tess left me, for six months.
+
+537
+00:49:14,576 --> 00:49:16,495
+She moved back in with her parents.
+
+538
+00:49:16,620 --> 00:49:17,830
+<i>I know.</i>
+
+539
+00:49:22,835 --> 00:49:24,962
+She gave me a second chance.
+
+540
+00:49:25,921 --> 00:49:27,756
+I promised her I'd change.
+
+541
+00:49:27,840 --> 00:49:29,675
+<i>You have changed, Sam.</i>
+
+542
+00:49:30,592 --> 00:49:33,846
+Hey, Gerty, since
+I've been up here, I've sent Tess...
+
+543
+00:49:34,471 --> 00:49:36,848
+I've sent her over 100 video messages.
+
+544
+00:49:36,932 --> 00:49:41,019
+Where did those messages go?
+Did they ever reach her?
+
+545
+00:49:41,103 --> 00:49:44,356
+<i>Sam, I can only account
+for what occurs on the base.</i>
+
+546
+00:49:47,192 --> 00:49:49,862
+What about the messages she sent to me?
+
+547
+00:49:50,946 --> 00:49:54,199
+<i>Sam, I can only account
+for what occurs on the base.</i>
+
+548
+00:50:10,966 --> 00:50:12,217
+Gerty...
+
+549
+00:50:13,218 --> 00:50:14,469
+Gerty...
+
+550
+00:50:19,725 --> 00:50:21,518
+Am I really a clone?
+
+551
+00:50:23,896 --> 00:50:27,232
+<i>When you first arrived at Sarang,
+there was a small crash.</i>
+
+552
+00:50:27,316 --> 00:50:29,150
+<i>You woke up in the Infirmary.</i>
+
+553
+00:50:29,234 --> 00:50:32,070
+<i>You suffered
+minor brain damage and memory loss.</i>
+
+554
+00:50:32,196 --> 00:50:35,073
+<i>I kept you
+under observation and ran some tests.</i>
+
+555
+00:50:35,199 --> 00:50:36,783
+I remember, yeah. I remember that.
+
+556
+00:50:36,867 --> 00:50:38,993
+<i>Sam, there was no crash.</i>
+
+557
+00:50:39,077 --> 00:50:40,495
+<i>You were being awakened.</i>
+
+558
+00:50:40,579 --> 00:50:42,831
+<i>It is standard procedure
+for all new clones</i>
+
+559
+00:50:42,915 --> 00:50:45,667
+<i>to be given tests
+to establish mental stability</i>
+
+560
+00:50:45,751 --> 00:50:47,335
+<i>and general physical health.</i>
+
+561
+00:50:47,419 --> 00:50:51,423
+<i>Genetic abnormalities
+and minor duplication errors in the DNA</i>
+
+562
+00:50:51,548 --> 00:50:52,924
+<i>can have considerable impact on...</i>
+
+563
+00:50:53,008 --> 00:50:55,427
+What about...
+What about Tess? What about Eve?
+
+564
+00:50:55,552 --> 00:50:57,679
+<i>They are memory implants, Sam.</i>
+
+565
+00:50:57,763 --> 00:51:01,934
+<i>Uploaded, edited memories
+of the original Sam Bell.</i>
+
+566
+00:51:22,287 --> 00:51:23,956
+<i>I am very sorry.</i>
+
+567
+00:51:27,459 --> 00:51:30,295
+<i>Sam, it's been
+several hours since your last meal.</i>
+
+568
+00:51:30,420 --> 00:51:32,547
+<i>Can I prepare you something?</i>
+
+569
+00:52:16,466 --> 00:52:19,928
+<i>Rescue arrival estimated 11 hours.</i>
+
+570
+00:52:22,848 --> 00:52:24,182
+Okay, sweetheart?
+
+571
+00:52:24,308 --> 00:52:27,311
+Yeah, I'm staring into space. Get it?
+
+572
+00:52:28,353 --> 00:52:29,813
+- Funny.
+- Hey...
+
+573
+00:52:30,480 --> 00:52:32,691
+Thanks for this. This is good.
+
+574
+00:52:32,941 --> 00:52:34,359
+This is cozy.
+
+575
+00:52:34,484 --> 00:52:36,695
+How's the... How's the nose?
+
+576
+00:52:36,862 --> 00:52:38,780
+Much better, thank you.
+
+577
+00:52:40,198 --> 00:52:44,453
+I went haywire before, you know, I...
+I lost it and I'm...
+
+578
+00:52:47,205 --> 00:52:50,041
+- I'm sorry about that.
+- It's okay.
+
+579
+00:52:50,125 --> 00:52:53,628
+No, it's not okay. I fucked up Fairfield.
+I fucked up your model.
+
+580
+00:52:53,712 --> 00:52:55,912
+I don't know
+what's wrong with me. I got a...
+
+581
+00:52:56,006 --> 00:52:58,132
+I got a temper.
+I gotta do something about it.
+
+582
+00:52:58,216 --> 00:52:59,551
+Yes, you do.
+
+583
+00:53:03,221 --> 00:53:06,641
+Hey, can you turn that off for a second?
+I want to talk to you.
+
+584
+00:53:06,725 --> 00:53:09,561
+Can you turn that off? Listen...
+
+585
+00:53:10,354 --> 00:53:13,065
+Listen, I wasn't supposed to... I'm...
+
+586
+00:53:15,567 --> 00:53:18,737
+I'm trying to tell you something.
+Can you turn...
+
+587
+00:53:20,739 --> 00:53:22,908
+Lunar instructed Gerty to...
+
+588
+00:53:25,911 --> 00:53:28,830
+Listen to me.
+I wasn't supposed to find you...
+
+589
+00:53:34,252 --> 00:53:36,504
+- Tough guy.
+- Listen to me...
+
+590
+00:53:36,588 --> 00:53:37,797
+- You look like a...
+- What?
+
+591
+00:53:37,881 --> 00:53:40,258
+- ...radioactive tampon.
+- I wasn't supposed to...
+
+592
+00:53:40,342 --> 00:53:43,011
+Or like a banana with a yeast infection.
+
+593
+00:53:44,179 --> 00:53:47,057
+Listen to me.
+I wasn't supposed to find you.
+
+594
+00:53:47,933 --> 00:53:51,937
+Lunar instructed Gerty to lock me inside
+the base while you were out there.
+
+595
+00:53:52,062 --> 00:53:55,440
+And there's something else.
+Right around the time I was awakened,
+
+596
+00:53:55,565 --> 00:53:57,191
+I walked in on Gerty talking to Central.
+
+597
+00:53:57,275 --> 00:53:59,778
+He was having a live conversation.
+
+598
+00:53:59,903 --> 00:54:02,781
+- A live conversation?
+- Yeah.
+
+599
+00:54:02,906 --> 00:54:05,617
+How do you know
+it was a live conversation?
+
+600
+00:54:06,034 --> 00:54:08,787
+Because it was a back and forth exchange.
+
+601
+00:54:09,955 --> 00:54:12,832
+Communications equipment
+was damaged. There was a solar storm.
+
+602
+00:54:12,916 --> 00:54:14,793
+It was live, man. It was live.
+
+603
+00:54:14,918 --> 00:54:17,503
+That's impossible.
+There was a flare. It fried the satellite.
+
+604
+00:54:17,587 --> 00:54:20,715
+The satellite's fine. They don't
+want us to be able to contact Earth.
+
+605
+00:54:20,799 --> 00:54:22,467
+They lied to us.
+
+606
+00:54:22,551 --> 00:54:23,885
+They've been lying to us
+since the beginning.
+
+607
+00:54:23,969 --> 00:54:26,972
+They... They've been
+lying to us since forever.
+
+608
+00:54:27,806 --> 00:54:29,390
+If the satellite works,
+how are they blocking
+
+609
+00:54:29,474 --> 00:54:32,727
+the live feed from down here?
+Everything works fine.
+
+610
+00:54:32,811 --> 00:54:36,481
+Maybe they're not
+blocking the signal from inside the base.
+
+611
+00:54:36,982 --> 00:54:38,608
+From where then?
+
+612
+00:55:00,088 --> 00:55:03,175
+<i>Searching for long-range comms.</i>
+
+613
+00:55:04,176 --> 00:55:05,844
+<i>Searching for long-range comms.</i>
+
+614
+00:55:05,969 --> 00:55:08,596
+I'm just passing the
+last of the Harvesters. Looks like John.
+
+615
+00:55:08,680 --> 00:55:10,849
+<i>Searching for long-range comms.</i>
+
+616
+00:55:11,475 --> 00:55:13,935
+How long until you're out
+of the base's range?
+
+617
+00:55:14,019 --> 00:55:18,106
+About a minute.
+Ninety seconds, tops.
+
+618
+00:55:18,482 --> 00:55:21,192
+- You ever been out this far?
+- No.
+
+619
+00:55:21,276 --> 00:55:24,488
+<i>- Signal failure on long-range comms.</i>
+- Never have.
+
+620
+00:55:25,864 --> 00:55:28,366
+<i>Leaving Sarang working perimeter.</i>
+
+621
+00:55:29,034 --> 00:55:31,369
+<i>Leaving Sarang working perimeter.</i>
+
+622
+00:55:32,037 --> 00:55:34,372
+<i>Leaving Sarang working perimeter.</i>
+
+623
+00:55:47,302 --> 00:55:48,469
+You see anything?
+
+624
+00:55:48,553 --> 00:55:52,015
+It would help if
+I knew what the hell I was looking for.
+
+625
+00:55:53,558 --> 00:55:55,810
+Wait a second, I see something.
+
+626
+00:55:56,728 --> 00:55:59,231
+<i>Approaching Station 3.</i>
+
+627
+00:56:41,481 --> 00:56:42,649
+Holy shit.
+
+628
+00:56:43,149 --> 00:56:45,402
+I think I see something, too.
+
+629
+00:56:45,610 --> 00:56:48,405
+<i>Approaching Station 1.</i>
+
+630
+00:56:53,493 --> 00:56:54,828
+You see what I see?
+
+631
+00:56:54,953 --> 00:56:58,080
+Looks like an antenna
+or a pylon or something.
+
+632
+00:56:58,164 --> 00:57:01,835
+I think it's the jammer.
+I knew it.
+
+633
+00:57:01,960 --> 00:57:04,838
+<i>This is why we're not
+getting the live feed.</i>
+
+634
+00:57:24,024 --> 00:57:26,526
+Sam? Can you hear me?
+
+635
+00:57:26,651 --> 00:57:30,447
+<i>Yeah. Yeah. Yeah, I hear you.</i>
+
+636
+00:57:31,448 --> 00:57:32,532
+<i>Yeah.</i>
+
+637
+00:57:33,450 --> 00:57:37,162
+<i>Listen, I'm not feeling too good.
+I'm gonna head back to the base.</i>
+
+638
+00:57:37,287 --> 00:57:38,913
+Okay, I'm gonna
+stay out here for a little while.
+
+639
+00:57:38,997 --> 00:57:42,167
+I'm gonna see if
+there's any more of these things.
+
+640
+00:58:01,645 --> 00:58:04,147
+Fuck, fuck.
+
+641
+00:58:06,733 --> 00:58:10,528
+Fuck, fuck. Fuck.
+
+642
+00:59:47,250 --> 00:59:49,169
+<i>Access denied.</i>
+
+643
+00:59:54,507 --> 00:59:56,009
+<i>Access denied.</i>
+
+644
+01:00:00,680 --> 01:00:02,265
+<i>Access denied.</i>
+
+645
+01:00:26,956 --> 01:00:28,666
+<i>Password accepted.</i>
+
+646
+01:00:35,173 --> 01:00:37,634
+<i>Accessing Sam Bell database.</i>
+
+647
+01:00:39,511 --> 01:00:40,845
+<i>I'm done.</i>
+
+648
+01:00:41,805 --> 01:00:43,556
+<i>Fifteen point...</i>
+
+649
+01:00:44,849 --> 01:00:46,976
+<i>My hair's falling out.</i>
+
+650
+01:00:48,353 --> 01:00:50,230
+<i>I'd better start for home...</i>
+
+651
+01:00:50,355 --> 01:00:52,816
+<i>For the last time, over and out.</i>
+
+652
+01:00:54,526 --> 01:00:57,486
+<i>The pod is designed to
+put you into a deep sleep</i>
+
+653
+01:00:57,570 --> 01:01:01,491
+<i>for the duration of your
+three-day return journey back to Earth.</i>
+
+654
+01:01:02,242 --> 01:01:03,576
+<i>Safe trip.</i>
+
+655
+01:01:15,547 --> 01:01:16,714
+<i>Fuck.</i>
+
+656
+01:01:19,676 --> 01:01:21,094
+<i>Here she is.</i>
+
+657
+01:01:22,178 --> 01:01:24,389
+<i>I'm gonna go and see her soon.</i>
+
+658
+01:01:39,696 --> 01:01:42,531
+<i>Lunar Industries remains
+the number one provider</i>
+
+659
+01:01:42,615 --> 01:01:47,412
+<i>of clean energy worldwide
+due to the hard work of people like you.</i>
+
+660
+01:02:04,220 --> 01:02:07,599
+<i>Rescue arrival estimated nine hours.</i>
+
+661
+01:02:26,242 --> 01:02:29,287
+<i>Lay down, relax, and breathe deeply.</i>
+
+662
+01:02:29,954 --> 01:02:34,041
+<i>The cryogenic protection pod
+is designed to put you into a deep sleep</i>
+
+663
+01:02:34,125 --> 01:02:37,837
+<i>for the duration of your
+three-day return journey back to Earth.</i>
+
+664
+01:02:37,962 --> 01:02:39,755
+<i>As you begin to feel sleepy,</i>
+
+665
+01:02:39,839 --> 01:02:42,967
+<i>think about
+the magnificent job that you've done</i>
+
+666
+01:02:43,092 --> 01:02:46,679
+<i>and how proud your family are
+of what you've accomplished.</i>
+
+667
+01:02:46,804 --> 01:02:49,557
+<i>Lunar Industries remains
+the number one provider</i>
+
+668
+01:02:49,641 --> 01:02:54,479
+<i>of clean energy worldwide
+due to the hard work of people like you.</i>
+
+669
+01:02:55,021 --> 01:02:58,316
+<i>Safe trip,</i>
+Annyeonghi gaseyo, <i>and goodbye.</i>
+
+670
+01:04:06,426 --> 01:04:09,220
+<i>Approaching Station 2.</i>
+
+671
+01:04:48,801 --> 01:04:51,429
+Hey, I saw three more of those jammers.
+
+672
+01:04:53,431 --> 01:04:57,101
+I think the base is surrounded.
+I printed out the coordinates.
+
+673
+01:04:57,685 --> 01:04:59,604
+What's wrong with you?
+
+674
+01:04:59,979 --> 01:05:01,606
+What's going on?
+
+675
+01:05:02,607 --> 01:05:04,609
+I found your secret room.
+
+676
+01:05:24,962 --> 01:05:26,547
+Who goes first?
+
+677
+01:05:27,006 --> 01:05:28,382
+I go first.
+
+678
+01:06:24,605 --> 01:06:27,275
+Jesus Christ, there's so many of them.
+
+679
+01:06:28,109 --> 01:06:30,361
+Why are there so many of them?
+
+680
+01:07:14,780 --> 01:07:17,491
+<i>Sam, can I help you with something?</i>
+
+681
+01:07:17,575 --> 01:07:19,577
+Not now, Gerty. I'm okay.
+
+682
+01:07:23,789 --> 01:07:25,249
+Gerty...
+
+683
+01:07:26,083 --> 01:07:29,629
+Why did you help me before?
+With the password?
+
+684
+01:07:30,504 --> 01:07:33,006
+Doesn't that go against
+your programming or something?
+
+685
+01:07:33,090 --> 01:07:35,092
+<i>Helping you is what I do.</i>
+
+686
+01:07:46,354 --> 01:07:49,023
+<i>Leaving Sarang working perimeter.</i>
+
+687
+01:07:50,942 --> 01:07:53,194
+<i>Searching for long-range comms.</i>
+
+688
+01:07:55,279 --> 01:07:57,615
+<i>Searching for long-range comms.</i>
+
+689
+01:08:03,287 --> 01:08:05,122
+<i>Signal re-established.</i>
+
+690
+01:08:08,042 --> 01:08:10,044
+<i>Signal re-established.</i>
+
+691
+01:08:29,647 --> 01:08:30,982
+<i>Hello?</i>
+
+692
+01:08:32,817 --> 01:08:34,610
+Is this the Bell residence?
+
+693
+01:08:34,694 --> 01:08:36,653
+<i>This is the Bell residence.</i>
+
+694
+01:08:36,737 --> 01:08:39,406
+<i>Could you call back?
+There's something wrong with the picture.</i>
+
+695
+01:08:39,490 --> 01:08:41,659
+I'm trying to reach Tess Bell.
+
+696
+01:08:42,660 --> 01:08:45,413
+<i>I'm sorry.
+She passed away some years ago.</i>
+
+697
+01:09:03,848 --> 01:09:05,266
+Are you sure?
+
+698
+01:09:05,683 --> 01:09:08,185
+<i>Yeah, I think so. I'm her daughter.</i>
+
+699
+01:09:08,769 --> 01:09:10,354
+<i>Can I help you?</i>
+
+700
+01:09:13,691 --> 01:09:14,775
+Eve?
+
+701
+01:09:15,359 --> 01:09:18,029
+<i>- Yeah?</i>
+- Hi. Hi, Eve.
+
+702
+01:09:19,363 --> 01:09:21,615
+How old... How old are you now?
+
+703
+01:09:21,699 --> 01:09:23,075
+<i>I'm 15.</i>
+
+704
+01:09:23,576 --> 01:09:26,620
+<i>- Do I know you?</i>
+- Oh, sweetheart.
+
+705
+01:09:28,289 --> 01:09:30,541
+How did Mommy die, sweetheart?
+
+706
+01:09:32,460 --> 01:09:34,128
+How did Mommy die?
+
+707
+01:09:34,795 --> 01:09:35,921
+<i>Dad?</i>
+
+708
+01:09:36,547 --> 01:09:37,590
+<i>Yeah?</i>
+
+709
+01:09:37,715 --> 01:09:39,466
+<i>There's someone asking about Mom.</i>
+
+710
+01:09:39,550 --> 01:09:42,094
+<i>Who's asking about Mom?</i>
+
+711
+01:09:52,897 --> 01:09:55,232
+That's enough. That's enough.
+
+712
+01:10:00,905 --> 01:10:02,615
+I want to go home.
+
+713
+01:10:42,279 --> 01:10:45,783
+Eliza <i>arrival estimated in seven hours.</i>
+
+714
+01:10:47,284 --> 01:10:50,037
+Ow, fuck. Shit.
+
+715
+01:10:50,121 --> 01:10:52,540
+- What, did you cut yourself?
+- Yeah.
+
+716
+01:10:54,500 --> 01:10:56,418
+What are you laughing at?
+
+717
+01:10:56,502 --> 01:10:59,588
+Well, you don't hold it
+like you're trying to stab somebody.
+
+718
+01:10:59,672 --> 01:11:01,882
+For God sakes.
+Here, give me that.
+
+719
+01:11:07,638 --> 01:11:09,973
+You gotta hold it
+closer to the blade, you see?
+
+720
+01:11:10,057 --> 01:11:13,101
+- Watch what I'm doing.
+- Why are you shaking?
+
+721
+01:11:13,185 --> 01:11:15,146
+You carve out, like that.
+
+722
+01:11:30,494 --> 01:11:31,620
+That's it.
+
+723
+01:11:31,704 --> 01:11:32,954
+It's freezing in here.
+
+724
+01:11:33,038 --> 01:11:35,415
+Well, you're...
+You're sitting under the fridge.
+
+725
+01:11:35,499 --> 01:11:38,461
+What's going on with you?
+Are you all right?
+
+726
+01:11:39,462 --> 01:11:42,423
+Yeah, that crew they're sending in,
+if they...
+
+727
+01:11:42,798 --> 01:11:45,342
+If they find us awake
+at the same time, you know...
+
+728
+01:11:45,426 --> 01:11:47,636
+They're not gonna let us live.
+
+729
+01:11:50,222 --> 01:11:52,016
+You know that, right?
+
+730
+01:11:54,310 --> 01:11:56,854
+You know, their return vehicle is...
+
+731
+01:11:59,023 --> 01:12:01,400
+Hey. Hey, hey, hey, hey.
+
+732
+01:12:02,401 --> 01:12:03,903
+Are you okay?
+
+733
+01:12:06,947 --> 01:12:10,450
+Maybe you should lay down for a while,
+take some tranquilizers or something.
+
+734
+01:12:10,534 --> 01:12:13,662
+If I take some tranquilizers,
+I'll never wake up again.
+
+735
+01:12:22,379 --> 01:12:25,216
+You'll be okay.
+Everything's gonna be okay.
+
+736
+01:12:36,352 --> 01:12:37,853
+I'm freezing.
+
+737
+01:12:49,698 --> 01:12:51,075
+Hey, hey...
+
+738
+01:12:52,368 --> 01:12:53,494
+Hey.
+
+739
+01:13:00,626 --> 01:13:02,336
+I'm really scared.
+
+740
+01:13:08,592 --> 01:13:10,386
+Where are you going?
+
+741
+01:14:04,356 --> 01:14:05,691
+<i>Hello?</i>
+
+742
+01:14:07,192 --> 01:14:08,610
+<i>Is this the Bell residence?</i>
+
+743
+01:14:08,694 --> 01:14:10,612
+<i>This is the Bell residence.</i>
+
+744
+01:14:10,696 --> 01:14:14,157
+<i>Could you call back?
+There's something wrong with the picture.</i>
+
+745
+01:14:14,241 --> 01:14:16,284
+<i>I'm trying to reach Tess Bell.</i>
+
+746
+01:14:16,368 --> 01:14:19,121
+<i>I'm sorry,
+she passed away some years ago.</i>
+
+747
+01:14:20,623 --> 01:14:22,290
+<i>Are you sure?</i>
+
+748
+01:14:22,374 --> 01:14:25,085
+<i>Yeah, I think so. I'm her daughter.</i>
+
+749
+01:14:25,169 --> 01:14:26,754
+<i>Can I help you?</i>
+
+750
+01:15:23,811 --> 01:15:26,021
+Gerty, I need to talk to you.
+
+751
+01:15:26,105 --> 01:15:27,772
+<i>Of course, Sam. How can I help?</i>
+
+752
+01:15:27,856 --> 01:15:30,984
+We've found the hidden room.
+We know about the others.
+
+753
+01:15:31,151 --> 01:15:33,195
+That hidden room, Gerty.
+
+754
+01:15:33,862 --> 01:15:37,324
+<i>The lower deck
+is out of bounds to awakened clones, Sam.</i>
+
+755
+01:15:38,117 --> 01:15:40,619
+Gerty, we need to wake up a new clone.
+
+756
+01:15:40,703 --> 01:15:44,873
+<i>New clones can only be awakened
+once a three-year contract is completed.</i>
+
+757
+01:15:44,957 --> 01:15:46,499
+Gerty, if we don't wake up a new clone,
+
+758
+01:15:46,583 --> 01:15:49,085
+me and the other Sam
+will die, we will be killed.
+
+759
+01:15:49,169 --> 01:15:51,671
+- Do you understand?
+<i>- Yes.</i>
+
+760
+01:15:51,755 --> 01:15:53,882
+Do you want me
+and the other Sam to be killed?
+
+761
+01:15:53,966 --> 01:15:55,342
+<i>That is the last thing I want.</i>
+
+762
+01:15:55,426 --> 01:15:57,594
+Well, then you have to
+wake up a new clone.
+
+763
+01:15:57,678 --> 01:15:59,012
+Okay, pal?
+
+764
+01:16:11,942 --> 01:16:15,779
+Eliza <i>arrival estimated in five hours.</i>
+
+765
+01:16:16,321 --> 01:16:19,992
+<i>I am the one and only</i>
+
+766
+01:16:42,139 --> 01:16:43,348
+God.
+
+767
+01:17:06,663 --> 01:17:07,831
+Hey.
+
+768
+01:17:10,459 --> 01:17:11,502
+Hey.
+
+769
+01:17:16,173 --> 01:17:18,175
+What's going on? You okay?
+
+770
+01:17:20,010 --> 01:17:22,012
+Don't... Don't touch him.
+
+771
+01:17:24,014 --> 01:17:25,349
+Come here.
+
+772
+01:17:27,726 --> 01:17:29,686
+He's not conscious yet.
+
+773
+01:17:29,770 --> 01:17:31,521
+Gerty and I just woke him up.
+
+774
+01:17:31,605 --> 01:17:33,398
+Why? What's going on?
+
+775
+01:17:33,857 --> 01:17:35,818
+Come on. Come on outside.
+
+776
+01:17:40,364 --> 01:17:41,823
+When the rescue unit arrives,
+
+777
+01:17:41,907 --> 01:17:45,452
+they're gonna expect
+to find a body in that crashed rover.
+
+778
+01:17:46,078 --> 01:17:47,371
+That guy?
+
+779
+01:17:49,331 --> 01:17:51,458
+What, are you going to kill him?
+
+780
+01:17:51,542 --> 01:17:54,002
+- Jesus Christ.
+- What are you doing?
+
+781
+01:17:54,086 --> 01:17:55,671
+Zip up your fly.
+
+782
+01:17:57,422 --> 01:18:00,384
+You're burning up.
+You sweat like a pig.
+
+783
+01:18:02,636 --> 01:18:04,263
+Put your hat on.
+
+784
+01:18:05,180 --> 01:18:07,140
+- Put your hat on.
+- I'm hot.
+
+785
+01:18:13,897 --> 01:18:17,650
+Hey, if we go through with this,
+
+786
+01:18:17,734 --> 01:18:20,487
+I'm gonna need your help
+hauling him out to the crash site.
+
+787
+01:18:20,571 --> 01:18:22,239
+What about us?
+
+788
+01:18:22,698 --> 01:18:25,533
+<i>Eliza</i> arrives, finds you
+and me as a welcome party...
+
+789
+01:18:25,617 --> 01:18:27,535
+They're not going
+to find you and me as a welcome party.
+
+790
+01:18:27,619 --> 01:18:29,412
+They're gonna find me,
+and you're going back to Earth
+
+791
+01:18:29,496 --> 01:18:31,289
+before they get here.
+
+792
+01:18:31,373 --> 01:18:32,791
+In that helium-3 launcher.
+
+793
+01:18:32,875 --> 01:18:35,084
+I did the math.
+You're gonna pull some Gs,
+
+794
+01:18:35,168 --> 01:18:38,004
+but it should...
+It should be fine. You'll be all right.
+
+795
+01:18:38,088 --> 01:18:39,756
+You're going home.
+
+796
+01:18:40,674 --> 01:18:42,676
+You did your three years.
+
+797
+01:18:43,635 --> 01:18:46,096
+I can't expect you to stick around.
+
+798
+01:18:47,014 --> 01:18:49,015
+Maybe you can meet Eve in person.
+
+799
+01:18:49,099 --> 01:18:52,728
+I saw that VP. She's beautiful.
+
+800
+01:18:53,353 --> 01:18:56,189
+She's gorgeous. We did good.
+
+801
+01:18:57,357 --> 01:18:58,692
+High-five.
+
+802
+01:19:08,285 --> 01:19:09,620
+Go for it.
+
+803
+01:19:11,371 --> 01:19:13,248
+You go for it.
+
+804
+01:19:20,088 --> 01:19:22,299
+- You comfy?
+- No.
+
+805
+01:19:23,050 --> 01:19:24,384
+- What?
+- No!
+
+806
+01:19:30,724 --> 01:19:32,225
+What if I have to take a shit?
+
+807
+01:19:32,309 --> 01:19:35,354
+Just...
+You'll have to hold it in, pal.
+
+808
+01:19:36,271 --> 01:19:37,814
+For three days?
+
+809
+01:19:39,441 --> 01:19:42,069
+That's the way it goes. Need a hand?
+
+810
+01:19:43,570 --> 01:19:44,613
+No.
+
+811
+01:19:45,989 --> 01:19:47,532
+Fuck off.
+
+812
+01:19:47,616 --> 01:19:51,203
+All right. No reason for hostility.
+I'm just trying to help out.
+
+813
+01:20:30,701 --> 01:20:34,037
+Eliza <i>arrival estimated three hours.</i>
+
+814
+01:21:02,607 --> 01:21:04,275
+Hey. We need to do this.
+
+815
+01:21:04,359 --> 01:21:08,405
+We wait too long and
+he's gonna be conscious.
+
+816
+01:21:09,573 --> 01:21:10,782
+Fuck me.
+
+817
+01:21:11,700 --> 01:21:13,702
+What's going on with you?
+
+818
+01:21:14,578 --> 01:21:17,205
+I changed my mind.
+I'm not going back.
+
+819
+01:21:19,875 --> 01:21:22,210
+I don't think I can move my legs.
+
+820
+01:21:22,544 --> 01:21:24,253
+Besides, look at me...
+
+821
+01:21:24,337 --> 01:21:28,759
+I meet Eve now,
+I'd scare the crap out of her.
+
+822
+01:21:31,136 --> 01:21:32,553
+What are you talking about, man?
+
+823
+01:21:32,637 --> 01:21:36,141
+She's your daughter.
+She doesn't care what you look like.
+
+824
+01:21:37,726 --> 01:21:39,727
+You're not going to kill anybody.
+
+825
+01:21:39,811 --> 01:21:41,604
+We can't kill anybody.
+
+826
+01:21:41,688 --> 01:21:44,608
+You can't.
+I know you can't, 'cause I can't.
+
+827
+01:21:45,609 --> 01:21:46,860
+You go.
+
+828
+01:21:50,572 --> 01:21:52,449
+You're a good guy, Sam.
+
+829
+01:21:52,949 --> 01:21:56,953
+It was a good plan, you know.
+You just picked the wrong guy to go back.
+
+830
+01:22:07,297 --> 01:22:09,424
+You... You sure about this?
+
+831
+01:22:12,886 --> 01:22:16,681
+Yeah. You should travel, you know.
+
+832
+01:22:17,599 --> 01:22:19,643
+I always wanted to do that.
+
+833
+01:22:20,977 --> 01:22:22,854
+Amsterdam, or...
+
+834
+01:22:23,230 --> 01:22:27,943
+Yeah, you know, I was
+thinking about Hawaii or maybe Mexico.
+
+835
+01:22:28,652 --> 01:22:29,820
+<i>Aloha.</i>
+
+836
+01:22:31,238 --> 01:22:34,157
+Bring me back
+a piña colada, all right, bro?
+
+837
+01:23:19,786 --> 01:23:20,954
+Hey...
+
+838
+01:23:21,705 --> 01:23:23,290
+Johnny Spaceman.
+
+839
+01:23:25,834 --> 01:23:28,795
+You remember Tess came
+in for that interview?
+
+840
+01:23:29,212 --> 01:23:31,423
+She was so beautiful.
+
+841
+01:23:32,215 --> 01:23:35,427
+She wasn't
+the best candidate, but it didn't matter.
+
+842
+01:23:36,511 --> 01:23:38,555
+I had to give her the job.
+
+843
+01:23:39,598 --> 01:23:42,100
+I wanted to keep her in the country.
+
+844
+01:23:43,101 --> 01:23:46,605
+- She was going back to Ireland.
+- She was going back to Ireland.
+
+845
+01:23:48,732 --> 01:23:51,151
+You knew you had to take a chance,
+
+846
+01:23:51,610 --> 01:23:53,945
+so you called her.
+
+847
+01:23:54,613 --> 01:23:57,490
+You were terrified. You wrote that whole
+speech for her answering machine.
+
+848
+01:23:57,574 --> 01:23:59,742
+But you didn't need it,
+'cause she picked up the phone.
+
+849
+01:23:59,826 --> 01:24:02,453
+She was, like, "Why is he calling me?"
+
+850
+01:24:02,537 --> 01:24:05,916
+"The internship's over.
+Why's he calling me at home?"
+
+851
+01:24:07,459 --> 01:24:12,714
+I asked her if she wanted to go get like an
+ice cream cone or something dorky like that.
+
+852
+01:24:13,548 --> 01:24:15,759
+She said, "Let's get a drink."
+
+853
+01:24:17,928 --> 01:24:20,096
+I said, "Okay. What do you..."
+
+854
+01:27:09,766 --> 01:27:11,935
+<i>Sam, this is not going to work.</i>
+
+855
+01:27:12,060 --> 01:27:13,436
+What? Why?
+
+856
+01:27:13,561 --> 01:27:17,607
+<i>I've recorded everything
+that has taken place since your awakening.</i>
+
+857
+01:27:18,191 --> 01:27:20,192
+<i>If anyone were to check my memory cache,</i>
+
+858
+01:27:20,276 --> 01:27:22,946
+<i>it would put you in considerable danger.</i>
+
+859
+01:27:26,282 --> 01:27:28,284
+<i>You could erase my memory banks.</i>
+
+860
+01:27:28,368 --> 01:27:31,287
+<i>I could reboot myself
+once you have departed.</i>
+
+861
+01:27:31,955 --> 01:27:33,205
+Are you okay with that?
+
+862
+01:27:33,289 --> 01:27:36,459
+<i>I'm here to
+keep you safe, Sam. I want to help you.</i>
+
+863
+01:27:47,887 --> 01:27:51,307
+Eliza <i>arrival estimated 24 minutes.</i>
+
+864
+01:27:54,102 --> 01:27:55,311
+<i>Sam.</i>
+
+865
+01:28:01,151 --> 01:28:02,402
+Hey.
+
+866
+01:28:04,487 --> 01:28:07,657
+I set your...
+I set your computer to reboot
+
+867
+01:28:08,324 --> 01:28:10,326
+the moment that I've launched.
+
+868
+01:28:10,452 --> 01:28:12,161
+<i>I understand, Sam.</i>
+
+869
+01:28:12,245 --> 01:28:13,412
+Then you should be okay.
+
+870
+01:28:13,496 --> 01:28:17,000
+<i>I hope life on Earth
+is everything you remember it to be.</i>
+
+871
+01:28:18,960 --> 01:28:20,462
+Thanks, Gerty.
+
+872
+01:28:22,130 --> 01:28:23,422
+You gonna be okay?
+
+873
+01:28:23,506 --> 01:28:24,590
+<i>Of course.</i>
+
+874
+01:28:24,674 --> 01:28:27,009
+<i>The new Sam and I will be
+back to our programming</i>
+
+875
+01:28:27,093 --> 01:28:29,512
+<i>as soon as I've finished rebooting.</i>
+
+876
+01:28:30,513 --> 01:28:33,183
+Gerty, we're not programmed.
+
+877
+01:28:33,850 --> 01:28:36,019
+We're people. Understand?
+
+878
+01:29:09,052 --> 01:29:12,639
+Eliza <i>arrival estimated eight minutes.</i>
+
+879
+01:30:01,187 --> 01:30:02,272
+Fuck!
+
+880
+01:30:28,965 --> 01:30:31,467
+<i>Air lock pressurization complete.</i>
+
+881
+01:30:35,305 --> 01:30:36,639
+Sam?
+
+882
+01:30:37,807 --> 01:30:39,142
+Hey, Sam?
+
+883
+01:30:41,477 --> 01:30:45,064
+You okay, buddy? Cavalry's here.
+
+884
+01:30:48,318 --> 01:30:49,652
+Where am I?
+
+885
+01:30:50,570 --> 01:30:53,989
+<i>You're in the Infirmary.
+You had an accident.</i>
+
+886
+01:30:54,073 --> 01:30:55,574
+How long have I been out?
+
+887
+01:30:55,658 --> 01:30:58,494
+<i>Not long, Sam.
+Do you remember what happened?</i>
+
+888
+01:31:23,353 --> 01:31:26,522
+<i>...made contact. Yeah.</i>
+
+889
+01:31:36,032 --> 01:31:37,367
+<i>Yeah,</i> Eliza?
+
+890
+01:31:37,950 --> 01:31:39,869
+<i>He ain't going nowhere.</i>
+
+891
+01:31:40,203 --> 01:31:43,289
+<i>Bag him up and we'll
+get started on repairs to the Harvester.</i>
+
+892
+01:31:43,373 --> 01:31:44,823
+<i>Dwight, I'm gonna need the...</i>
+
+893
+01:32:41,681 --> 01:32:44,850
+<i>Lunar Industries stocks
+have slipped a further 32%</i>
+
+894
+01:32:44,934 --> 01:32:46,227
+<i>after accusations...</i>
+
+895
+01:32:50,189 --> 01:32:52,442
+<i>Clone 6, the clone of Sam Bell,</i>
+
+896
+01:32:52,567 --> 01:32:55,486
+<i>has been giving evidence at CAA's
+Board of Directors meeting in Seattle...</i>
+
+897
+01:32:55,570 --> 01:32:57,196
+<i>You know what? He's one of two things.</i>
+
+898
+01:32:57,280 --> 01:32:59,198
+<i>He's a wacko or an illegal immigrant.</i>
+
+899
+01:32:59,282 --> 01:33:01,617
+<i>Either way, they need to lock him up.
+Line two.</i>
+

@@ -1,0 +1,7304 @@
+1
+00:01:31,092 --> 00:01:32,093
+[faint beep]
+
+2
+00:01:34,929 --> 00:01:37,098
+[electronic buzzing, static]
+
+3
+00:01:49,068 --> 00:01:51,320
+[machinery powering up]
+
+4
+00:01:56,409 --> 00:01:58,411
+[♪ Ominous music playing]
+
+5
+00:02:19,682 --> 00:02:21,309
+[electronics whirring]
+
+6
+00:02:36,282 --> 00:02:37,283
+[muffled rumbling]
+
+7
+00:02:38,034 --> 00:02:39,035
+[muffled clanging]
+
+8
+00:02:52,381 --> 00:02:53,966
+[boosters roaring]
+
+9
+00:03:03,434 --> 00:03:04,852
+[loud clanging]
+
+10
+00:03:07,313 --> 00:03:08,522
+[chains clanking]
+
+11
+00:03:17,865 --> 00:03:19,325
+[heavy thud]
+
+12
+00:03:23,245 --> 00:03:24,580
+[high-pitched
+metallic ringing]
+
+13
+00:03:24,747 --> 00:03:25,873
+[crackling]
+
+14
+00:03:38,719 --> 00:03:40,554
+[metal groaning]
+
+15
+00:03:48,062 --> 00:03:49,605
+[lever buzzing]
+
+16
+00:03:59,740 --> 00:04:01,367
+[♪ Ominous music soars]
+
+17
+00:04:04,370 --> 00:04:05,579
+[♪ Music subsides]
+
+18
+00:04:09,375 --> 00:04:11,377
+[♪ Uneasy music playing]
+
+19
+00:04:21,011 --> 00:04:23,013
+[♪ Ominous
+choral music playing]
+
+20
+00:04:44,118 --> 00:04:45,119
+[♪ Music fades]
+
+21
+00:05:09,268 --> 00:05:11,479
+[faint ringing]
+
+22
+00:05:14,148 --> 00:05:16,901
+[alarm blaring]
+
+23
+00:05:18,027 --> 00:05:19,028
+[sighs softly]
+
+24
+00:05:19,195 --> 00:05:20,613
+[announcer over PA]
+<i>Attention all workers.</i>
+
+25
+00:05:20,696 --> 00:05:22,406
+<i>Attention all workers.</i>
+
+26
+00:05:22,573 --> 00:05:25,701
+<i>Day shift starting
+in T-minus 15 minutes.</i>
+
+27
+00:05:25,868 --> 00:05:28,496
+<i>Farmers to report
+to mess hall immediately.</i>
+
+28
+00:05:29,413 --> 00:05:31,207
+<i>If you are experiencing
+any symptoms,</i>
+
+29
+00:05:31,290 --> 00:05:32,666
+<i>such as fever, cough,</i>
+
+30
+00:05:32,833 --> 00:05:34,752
+<i>vomiting,
+or difficulty breathing,</i>
+
+31
+00:05:34,919 --> 00:05:37,338
+<i>proceed to the medical bay
+for examination.</i>
+
+32
+00:05:37,505 --> 00:05:38,756
+- [thunder rumbles]
+- [rain pattering]
+
+33
+00:05:38,923 --> 00:05:41,008
+<i>The safety and well-being
+of our colony</i>
+
+34
+00:05:41,091 --> 00:05:43,886
+<i>is Weyland-Yutani's
+top priority.</i>
+
+35
+00:05:44,720 --> 00:05:46,430
+<i>Attention all workers...</i>
+
+36
+00:05:46,597 --> 00:05:49,475
+[man] <i>Did you hear about
+the claustrophobic astronaut?</i>
+
+37
+00:05:50,059 --> 00:05:51,060
+<i>He needed space.</i>
+
+38
+00:05:51,227 --> 00:05:52,937
+[woman] I'm begging you,
+you got to stop.
+
+39
+00:05:53,103 --> 00:05:56,649
+I just spent my full share
+on a belt that won't fit.
+
+40
+00:05:57,107 --> 00:05:58,359
+Huge waist.
+
+41
+00:05:58,567 --> 00:05:59,610
+See that cornbread.
+
+42
+00:06:02,196 --> 00:06:04,573
+[sputters] Maybe it's 'cause
+I'm on this seafood diet.
+
+43
+00:06:05,115 --> 00:06:06,951
+I see food, I eat it.
+
+44
+00:06:08,369 --> 00:06:09,787
+That's so bad.
+
+45
+00:06:09,954 --> 00:06:11,372
+You always laughed
+at that one.
+
+46
+00:06:11,539 --> 00:06:12,998
+Yeah, when I was 12.
+
+47
+00:06:13,499 --> 00:06:14,708
+[device ringing]
+
+48
+00:06:17,711 --> 00:06:19,338
+I'm sure it's Mr. Finch.
+
+49
+00:06:20,339 --> 00:06:21,966
+We owe him three months today.
+
+50
+00:06:23,300 --> 00:06:24,677
+He'll call again.
+
+51
+00:06:26,178 --> 00:06:29,848
+Well, maybe we won't be here
+when he does.
+
+52
+00:06:30,099 --> 00:06:31,934
+[indistinct chatter]
+
+53
+00:06:37,022 --> 00:06:38,941
+[woman] Andy.
+Stay close to me.
+
+54
+00:06:41,902 --> 00:06:44,321
+[revolutionist over speakers]
+<i>Wake up. Wake up now.</i>
+
+55
+00:06:45,072 --> 00:06:47,449
+<i>We're all
+Weyland-Yutani slaves.</i>
+
+56
+00:06:47,616 --> 00:06:49,994
+<i>The company pays us
+with food and shelter</i>
+
+57
+00:06:50,119 --> 00:06:53,163
+<i>and takes our lives
+in exchange.</i>
+
+58
+00:06:53,289 --> 00:06:55,374
+<i>Don't believe their lies.</i>
+
+59
+00:06:56,000 --> 00:06:57,501
+<i>They own you!</i>
+
+60
+00:06:58,294 --> 00:06:59,837
+[woman] Andy, Andy.
+Hey, hey, hey.
+
+61
+00:07:00,004 --> 00:07:01,338
+Hey, Andy. Come on. Come on.
+
+62
+00:07:03,215 --> 00:07:05,217
+- What did I do?
+- It's a scam.
+
+63
+00:07:05,384 --> 00:07:06,969
+The ball is never under
+the cup that you pick.
+
+64
+00:07:07,136 --> 00:07:08,137
+It's a trick.
+
+65
+00:07:08,304 --> 00:07:10,514
+But how am I
+gonna get the money?
+
+66
+00:07:10,889 --> 00:07:11,890
+Money for what?
+
+67
+00:07:12,057 --> 00:07:15,853
+To pay for the horse
+when we get to Yvaga.
+
+68
+00:07:16,020 --> 00:07:17,771
+You're gonna get a horse?
+
+69
+00:07:17,938 --> 00:07:20,441
+I wanna call it Raindy.
+
+70
+00:07:21,650 --> 00:07:23,235
+Do you get it?
+
+71
+00:07:24,069 --> 00:07:25,613
+- Raindy.
+- No, I like it.
+
+72
+00:07:25,696 --> 00:07:27,364
+Yeah, it's good.
+
+73
+00:07:28,741 --> 00:07:31,535
+Okay, so you just
+wait over there.
+
+74
+00:07:31,702 --> 00:07:32,911
+Okay, I might be a minute.
+
+75
+00:07:34,538 --> 00:07:36,040
+Stay out of trouble,
+all right?
+
+76
+00:07:36,206 --> 00:07:39,001
+[announcer over PA]
+<i>All employees will be seen.</i>
+
+77
+00:07:39,168 --> 00:07:40,336
+[Andy] Good luck.
+
+78
+00:07:40,502 --> 00:07:42,713
+[announcer over PA]
+<i>Line up in an orderly fashion.</i>
+
+79
+00:07:42,880 --> 00:07:44,173
+[officer over PA] <i>Next.</i>
+
+80
+00:07:44,340 --> 00:07:46,133
+<i>Full name
+and occupation, please.</i>
+
+81
+00:07:46,300 --> 00:07:49,553
+<i>Marie Raines Carradine, ma'am.
+Farming.</i>
+
+82
+00:07:49,720 --> 00:07:50,929
+It's about my travel papers.
+
+83
+00:07:52,014 --> 00:07:54,600
+<i>I met my quota, and I should
+be free to go now.</i>
+
+84
+00:07:55,017 --> 00:07:56,060
+Right?
+
+85
+00:07:56,226 --> 00:07:57,436
+[officer] Go where?
+
+86
+00:07:57,603 --> 00:07:58,771
+<i>Yvaga.</i>
+
+87
+00:07:59,396 --> 00:08:02,399
+<i>It's an independent system,
+but it's fully terraformed.</i>
+
+88
+00:08:03,567 --> 00:08:05,486
+<i>You can actually see
+the sun out there.</i>
+
+89
+00:08:05,653 --> 00:08:07,029
+<i>Where are your parents?</i>
+
+90
+00:08:08,197 --> 00:08:11,158
+<i>Uh, they died
+three cycles ago.</i>
+
+91
+00:08:11,617 --> 00:08:13,369
+Lung disease, from the mines.
+
+92
+00:08:14,286 --> 00:08:15,829
+<i>It's just me
+and my brother now.</i>
+
+93
+00:08:16,997 --> 00:08:18,165
+[revolutionist over speakers]
+<i>They sell us hope</i>
+
+94
+00:08:18,248 --> 00:08:19,541
+<i>to keep us slaves.</i>
+
+95
+00:08:20,250 --> 00:08:25,923
+<i>They sell us hope to keep
+us slaves. Wake up now.</i>
+
+96
+00:08:30,678 --> 00:08:32,221
+[indistinct chatter]
+
+97
+00:08:34,264 --> 00:08:35,641
+[laughter]
+
+98
+00:08:37,226 --> 00:08:38,811
+[officer] I'm sorry,
+but you're not eligible
+
+99
+00:08:38,894 --> 00:08:40,104
+for contract release yet.
+
+100
+00:08:40,270 --> 00:08:41,313
+Due to a shortage of workers,
+
+101
+00:08:41,397 --> 00:08:42,773
+you're being
+transferred to the mines.
+
+102
+00:08:42,940 --> 00:08:44,233
+<i>Wait, what?</i>
+
+103
+00:08:44,858 --> 00:08:46,902
+<i>No, no, no,
+I reached the required hours.</i>
+
+104
+00:08:47,069 --> 00:08:48,320
+You have to let me go.
+
+105
+00:08:48,445 --> 00:08:51,323
+Unfortunately, quotas have
+been raised to 24,000 hours,
+
+106
+00:08:51,490 --> 00:08:52,991
+so you'll be released
+from contract
+
+107
+00:08:53,075 --> 00:08:54,284
+in another five to six years.
+
+108
+00:08:54,451 --> 00:08:56,412
+Thank you, and remember
+the company is really grateful
+
+109
+00:08:56,578 --> 00:08:57,788
+for your ongoing service.
+
+110
+00:08:58,122 --> 00:09:00,249
+- [Andy] Rain!
+- [Rain] Hey!
+
+111
+00:09:00,416 --> 00:09:01,500
+Hey, stop!
+
+112
+00:09:01,667 --> 00:09:03,711
+Get off him! You bastards!
+
+113
+00:09:05,587 --> 00:09:07,339
+- [whimpering]
+- I got you, I got you.
+
+114
+00:09:07,506 --> 00:09:08,757
+Oh, shit, you're bleeding.
+
+115
+00:09:11,552 --> 00:09:12,594
+Okay.
+
+116
+00:09:13,929 --> 00:09:16,181
+- [device beeps, cranking]
+- [Rain] You're okay.
+
+117
+00:09:16,348 --> 00:09:17,683
+I'm resetting you.
+
+118
+00:09:18,016 --> 00:09:19,017
+I got you.
+
+119
+00:09:19,685 --> 00:09:20,769
+[gasps]
+
+120
+00:09:21,645 --> 00:09:22,813
+It's okay.
+
+121
+00:09:22,980 --> 00:09:24,398
+I shouldn't
+have left you alone.
+
+122
+00:09:29,945 --> 00:09:31,363
+[revolutionist over speakers]
+<i>They sell us hope</i>
+
+123
+00:09:31,447 --> 00:09:33,449
+<i>to keep us slaves.</i>
+
+124
+00:09:33,615 --> 00:09:35,659
+<i>Wake up now. They own you.</i>
+
+125
+00:09:36,827 --> 00:09:38,871
+[comms ringing]
+
+126
+00:09:38,954 --> 00:09:39,955
+[Tyler over comms] <i>Hi, Rain.</i>
+
+127
+00:09:40,122 --> 00:09:41,623
+<i>Look, I'm sorry. I know
+I've been calling you all day,</i>
+
+128
+00:09:41,790 --> 00:09:43,375
+<i>but, look,
+something's come up,</i>
+
+129
+00:09:43,459 --> 00:09:44,877
+<i>and I think you should
+know about it.</i>
+
+130
+00:09:45,043 --> 00:09:47,588
+<i>So, come by the trailers
+and bring Andy.</i>
+
+131
+00:09:56,263 --> 00:09:58,974
+[machinery thudding
+and clanking]
+
+132
+00:10:09,276 --> 00:10:10,694
+[indistinct conversation]
+
+133
+00:10:17,910 --> 00:10:18,911
+Hey.
+
+134
+00:10:19,995 --> 00:10:21,038
+[man] Oh, for...
+
+135
+00:10:21,205 --> 00:10:22,623
+[automated voice over gaming
+console] <i>Game over, man.</i>
+
+136
+00:10:23,165 --> 00:10:25,709
+Sup, Rain? Long time no see.
+
+137
+00:10:26,084 --> 00:10:27,669
+I told you she'd show up.
+
+138
+00:10:28,420 --> 00:10:29,630
+You owe me five bucks.
+
+139
+00:10:30,839 --> 00:10:31,965
+[man 2] <i>Andy!</i>
+
+140
+00:10:32,633 --> 00:10:34,134
+[door opens, whirring]
+
+141
+00:10:34,885 --> 00:10:36,929
+Why'd the blind miner
+fall down the well?
+
+142
+00:10:37,095 --> 00:10:38,430
+Why?
+
+143
+00:10:40,349 --> 00:10:41,433
+'Cause he couldn't see
+that well.
+
+144
+00:10:42,643 --> 00:10:43,977
+Please don't encourage him.
+
+145
+00:10:44,728 --> 00:10:46,647
+All right, go inside.
+I'll be there in a second.
+
+146
+00:10:52,694 --> 00:10:53,987
+- Kay.
+- Rain.
+
+147
+00:10:54,154 --> 00:10:55,197
+- Hi.
+- Hi!
+
+148
+00:10:55,364 --> 00:10:56,448
+Hi.
+
+149
+00:10:57,366 --> 00:10:59,159
+[Kay] I missed you.
+
+150
+00:10:59,326 --> 00:11:01,161
+And I know my brother
+missed you, too.
+
+151
+00:11:05,874 --> 00:11:07,751
+I'm really glad you came.
+
+152
+00:11:09,211 --> 00:11:11,255
+[Rain] I heard about your dad.
+
+153
+00:11:11,421 --> 00:11:12,422
+I'm really sorry.
+
+154
+00:11:13,215 --> 00:11:15,175
+Well, between the hailstorms
+
+155
+00:11:15,259 --> 00:11:16,468
+and the new diseases
+every cycle...
+
+156
+00:11:16,635 --> 00:11:18,178
+Yeah, everybody's dying,
+right?
+
+157
+00:11:18,387 --> 00:11:20,013
+So, should we show her?
+
+158
+00:11:20,514 --> 00:11:21,890
+Show me what?
+
+159
+00:11:22,182 --> 00:11:25,143
+- [system beeps]
+- Okay, so, last night,
+
+160
+00:11:25,227 --> 00:11:26,645
+we're loading up
+the last Tesotek,
+
+161
+00:11:26,812 --> 00:11:28,313
+we're about 200 miles
+above the ground,
+
+162
+00:11:28,397 --> 00:11:29,398
+and then all of a sudden...
+
+163
+00:11:29,565 --> 00:11:30,774
+[imitates rapid beeping]
+
+164
+00:11:31,275 --> 00:11:32,651
+The hauler picks up
+this beacon.
+
+165
+00:11:32,818 --> 00:11:34,820
+So Navarro tracks it,
+and it turns out
+
+166
+00:11:34,987 --> 00:11:36,280
+there's this big Wey-Yu ship
+
+167
+00:11:36,363 --> 00:11:37,781
+drifting
+right above our heads.
+
+168
+00:11:37,948 --> 00:11:38,949
+Drifting?
+
+169
+00:11:39,116 --> 00:11:40,742
+Decommissioned. Abandoned.
+
+170
+00:11:40,909 --> 00:11:42,870
+Some old relic. It's probably
+damaged or obsolete.
+
+171
+00:11:43,036 --> 00:11:44,246
+Like that guy over there.
+
+172
+00:11:44,413 --> 00:11:45,414
+[Navarro] Bjorn.
+
+173
+00:11:46,748 --> 00:11:48,959
+Okay, just tell her.
+
+174
+00:11:49,126 --> 00:11:50,711
+Why are we all
+sitting around here
+
+175
+00:11:50,878 --> 00:11:52,421
+waiting for travel permits
+that the company
+
+176
+00:11:52,546 --> 00:11:54,214
+are never gonna give to us?
+
+177
+00:11:54,673 --> 00:11:55,716
+'Cause that hauler
+has enough power in it
+
+178
+00:11:55,799 --> 00:11:56,800
+to get us to Yvaga.
+
+179
+00:11:56,967 --> 00:11:59,761
+Because it takes nine years
+to get to Yvaga
+
+180
+00:11:59,928 --> 00:12:02,014
+and you can't make that trip
+without cryo-sleep.
+
+181
+00:12:02,180 --> 00:12:03,515
+Decommissioned ships
+still carry
+
+182
+00:12:03,599 --> 00:12:04,766
+tons of functional equipment.
+
+183
+00:12:04,933 --> 00:12:06,393
+And the hyperlink shows
+
+184
+00:12:06,476 --> 00:12:08,270
+that ship
+still has a few pods left.
+
+185
+00:12:10,397 --> 00:12:11,398
+[chuckles in disbelief]
+
+186
+00:12:12,107 --> 00:12:15,485
+You want to break into
+a Weyland-Yutani ship
+
+187
+00:12:15,569 --> 00:12:17,905
+and steal highly
+regulated equipment?
+
+188
+00:12:18,071 --> 00:12:19,281
+Before someone else does.
+
+189
+00:12:19,448 --> 00:12:20,449
+[laughs]
+
+190
+00:12:21,199 --> 00:12:22,409
+You guys are insane.
+
+191
+00:12:22,576 --> 00:12:23,702
+- Well, of course we are.
+- [man] No. No, we're not.
+
+192
+00:12:23,869 --> 00:12:25,078
+- This is...
+- [Navarro] That's what I said.
+
+193
+00:12:25,245 --> 00:12:26,455
+[Kay] Are you gonna help us?
+
+194
+00:12:28,874 --> 00:12:30,667
+[hesitates] Sorry,
+what do you need me for?
+
+195
+00:12:32,836 --> 00:12:33,837
+Andy.
+
+196
+00:12:34,254 --> 00:12:35,923
+- We need to use Andy.
+- Andy?
+
+197
+00:12:36,089 --> 00:12:37,090
+[Bjorn] Mm-hmm.
+
+198
+00:12:37,257 --> 00:12:39,843
+[man] He's a Weyland-Yutani
+synthetic. He speaks Mother.
+
+199
+00:12:40,010 --> 00:12:41,428
+He can access
+a terminal on the ship
+
+200
+00:12:41,511 --> 00:12:42,971
+to get us in and out
+without a fuss.
+
+201
+00:12:43,138 --> 00:12:44,389
+It's the only way to get in.
+
+202
+00:12:44,556 --> 00:12:46,642
+Okay,
+but what if we get caught?
+
+203
+00:12:46,808 --> 00:12:49,269
+It'll ruin our chances of ever
+getting a travel permit.
+
+204
+00:12:49,436 --> 00:12:50,979
+Right, Rain's not comin'.
+
+205
+00:12:51,146 --> 00:12:53,398
+Uh, how about you let us
+take Andy then?
+
+206
+00:12:54,191 --> 00:12:56,568
+I'm not sending
+my brother up there alone.
+
+207
+00:12:57,319 --> 00:12:58,445
+He's not your
+brother though, is he?
+
+208
+00:12:58,612 --> 00:13:00,656
+- Bjorn, shut the fuck up.
+- It's true, though, isn't it?
+
+209
+00:13:00,822 --> 00:13:02,074
+He's not your brother.
+It's just Wey-Yu damaged goods
+
+210
+00:13:02,240 --> 00:13:03,700
+that your dad
+found in the trash.
+
+211
+00:13:03,867 --> 00:13:05,786
+And that's all he is, Rain.
+So just wake up.
+
+212
+00:13:06,453 --> 00:13:07,496
+Let's go.
+
+213
+00:13:07,579 --> 00:13:08,664
+- [Andy] Rain?
+- [Bjorn] What?
+
+214
+00:13:08,747 --> 00:13:10,874
+- I didn't say anything.
+- [man] Rain, wait.
+
+215
+00:13:11,667 --> 00:13:12,668
+I'm sorry.
+Listen, I know my cousin
+
+216
+00:13:12,793 --> 00:13:13,794
+can be a dick sometimes,
+all right?
+
+217
+00:13:13,961 --> 00:13:15,629
+But he is right
+about something.
+
+218
+00:13:16,338 --> 00:13:17,339
+You need to wake up.
+
+219
+00:13:17,756 --> 00:13:18,757
+Because this company,
+
+220
+00:13:18,840 --> 00:13:19,841
+they're not gonna
+give us anything.
+
+221
+00:13:20,008 --> 00:13:22,010
+You know that as well as I do.
+We have to take it.
+
+222
+00:13:22,177 --> 00:13:24,179
+[♪ Somber music playing]
+
+223
+00:13:26,223 --> 00:13:27,265
+Rain, I just...
+
+224
+00:13:28,058 --> 00:13:29,810
+I don't want to end up
+like our parents.
+
+225
+00:13:30,560 --> 00:13:31,770
+Do you?
+
+226
+00:13:33,230 --> 00:13:34,314
+[bird chirping]
+
+227
+00:13:36,817 --> 00:13:40,320
+Is it as easy as you're making
+it sound, this plan of yours?
+
+228
+00:13:41,321 --> 00:13:43,240
+You won't even have to get out
+of the <i>Corbelan.</i>
+
+229
+00:13:43,657 --> 00:13:45,367
+That much
+I can promise you, okay?
+
+230
+00:13:49,496 --> 00:13:50,956
+Come on. What do you say?
+
+231
+00:13:52,833 --> 00:13:54,543
+[engines powering up]
+
+232
+00:14:04,386 --> 00:14:05,804
+[thunder rumbles]
+
+233
+00:14:15,313 --> 00:14:16,857
+[man] Bjorn, hurry up,
+let's go.
+
+234
+00:14:21,028 --> 00:14:23,905
+All right, I'm starting
+her up. Batteries on.
+
+235
+00:14:26,408 --> 00:14:27,409
+- [Bjorn] Lovely.
+- [system powering up]
+
+236
+00:14:29,202 --> 00:14:30,495
+[Navarro] Could I get hydro,
+please?
+
+237
+00:14:31,663 --> 00:14:32,664
+Comm panel.
+
+238
+00:14:34,666 --> 00:14:35,709
+Ground spoilers.
+
+239
+00:14:35,876 --> 00:14:36,960
+[man] They are armed.
+
+240
+00:14:37,919 --> 00:14:39,046
+[Bjorn] First time
+in space, huh?
+
+241
+00:14:39,212 --> 00:14:40,213
+[Rain] Yeah.
+
+242
+00:14:41,506 --> 00:14:43,341
+[Bjorn] You too? Boop!
+
+243
+00:14:43,925 --> 00:14:45,927
+- [Navarro] Fuel pump.
+- [man] On.
+
+244
+00:14:46,011 --> 00:14:47,012
+[Bjorn] Two space virgins
+coming through.
+
+245
+00:14:47,345 --> 00:14:49,514
+[man] Right, take a good look
+outside the window
+
+246
+00:14:49,681 --> 00:14:51,767
+'cause the way I see it,
+we're never coming back.
+
+247
+00:14:52,434 --> 00:14:53,935
+[engines roaring]
+
+248
+00:15:00,150 --> 00:15:02,736
+[praying in Mandarin]
+
+249
+00:15:05,155 --> 00:15:06,198
+[in English] You good?
+
+250
+00:15:06,364 --> 00:15:07,365
+I'm good.
+
+251
+00:15:08,366 --> 00:15:09,367
+Yeah. It's gonna be all right.
+
+252
+00:15:10,494 --> 00:15:11,578
+[engines powering up]
+
+253
+00:15:28,804 --> 00:15:30,180
+Are you sure
+this is a good idea now?
+
+254
+00:15:30,347 --> 00:15:31,431
+[Bjorn] Sure, Dad.
+
+255
+00:15:37,062 --> 00:15:38,146
+Here comes the crush.
+
+256
+00:15:42,150 --> 00:15:43,735
+<i>[Corbelan</i> rumbling]
+
+257
+00:15:51,409 --> 00:15:53,453
+[all laughing]
+
+258
+00:15:54,788 --> 00:15:56,039
+[coughing]
+
+259
+00:15:57,332 --> 00:15:58,708
+[Bjorn] That's how it's done,
+bitch.
+
+260
+00:16:06,383 --> 00:16:07,384
+<i>[Corbelan</i> rumbling
+and creaking]
+
+261
+00:16:07,467 --> 00:16:08,468
+[Rain exhales deeply]
+
+262
+00:16:28,238 --> 00:16:29,489
+[rumbling subsides]
+
+263
+00:16:29,656 --> 00:16:31,658
+[♪ Dramatic music playing]
+
+264
+00:16:52,762 --> 00:16:53,889
+[gasps softly]
+
+265
+00:16:55,098 --> 00:16:56,099
+Is that...
+
+266
+00:16:57,642 --> 00:16:58,894
+Yeah.
+
+267
+00:16:59,060 --> 00:17:00,729
+That is our sun.
+
+268
+00:17:01,897 --> 00:17:03,481
+[♪ Captivating music playing]
+
+269
+00:17:12,908 --> 00:17:15,577
+[Kay] They say Yvaga has
+the most incredible sunsets.
+
+270
+00:17:15,744 --> 00:17:17,162
+I've seen them.
+
+271
+00:17:20,081 --> 00:17:21,208
+In my dreams.
+[chuckles softly]
+
+272
+00:17:22,167 --> 00:17:24,169
+[Andy] I can't wait
+to see them with you.
+
+273
+00:17:27,631 --> 00:17:28,632
+[Rain] Yeah.
+
+274
+00:17:31,718 --> 00:17:33,553
+[Bjorn] You know, I heard that
+cryo-sleep just makes years
+
+275
+00:17:33,720 --> 00:17:35,263
+feel like one night
+of heavy drinkin' apparently.
+
+276
+00:17:35,430 --> 00:17:37,474
+So when we wake up
+in Yvaga tomorrow,
+
+277
+00:17:38,558 --> 00:17:40,060
+we'll wake up with a hangover.
+
+278
+00:17:42,979 --> 00:17:44,105
+[sighs deeply]
+
+279
+00:17:49,361 --> 00:17:50,487
+There she is.
+
+280
+00:17:52,822 --> 00:17:54,199
+That's not a ship.
+
+281
+00:17:54,574 --> 00:17:55,784
+No.
+
+282
+00:17:56,785 --> 00:17:58,536
+[Bjorn over comms] <i>Fuck,
+that's big. What is that?</i>
+
+283
+00:17:58,703 --> 00:18:00,705
+[man] <i>Decommissioned outpost?
+I don't know.</i>
+
+284
+00:18:00,872 --> 00:18:02,290
+<i>Probably got dragged
+into our orbit.</i>
+
+285
+00:18:02,457 --> 00:18:04,376
+Okay, Navarro,
+let's get closer, please.
+
+286
+00:18:04,542 --> 00:18:06,586
+[Navarro] Okay.
+I'm gonna match its roll.
+
+287
+00:18:08,421 --> 00:18:10,423
+[♪ Suspenseful music playing]
+
+288
+00:18:23,061 --> 00:18:25,689
+[automated voice]
+<i>Hazard proximity alert.</i>
+
+289
+00:18:27,065 --> 00:18:28,066
+[Rain] What's wrong?
+
+290
+00:18:28,233 --> 00:18:30,527
+It's just the belt's a bit
+closer than I thought.
+
+291
+00:18:32,445 --> 00:18:33,446
+[Navarro] How long?
+
+292
+00:18:34,990 --> 00:18:36,533
+It's 36 hours, give or take.
+
+293
+00:18:36,700 --> 00:18:37,701
+Till what?
+
+294
+00:18:37,867 --> 00:18:40,620
+Before the station crashes
+against the rings.
+
+295
+00:18:40,787 --> 00:18:41,955
+[Bjorn] Sorry, what?
+
+296
+00:18:42,872 --> 00:18:45,041
+What did you just say?
+That doesn't sound very good.
+
+297
+00:18:45,208 --> 00:18:46,334
+[man] 36 hours.
+
+298
+00:18:46,501 --> 00:18:48,086
+We should be in and out
+in 30 minutes.
+
+299
+00:18:49,045 --> 00:18:50,046
+Yeah?
+
+300
+00:18:50,505 --> 00:18:51,506
+[Rain] Andy.
+
+301
+00:18:51,673 --> 00:18:52,716
+[Bjorn] Yeah, tops.
+
+302
+00:18:53,300 --> 00:18:55,552
+Are you sure
+you wanna do this?
+
+303
+00:18:56,678 --> 00:18:58,888
+I have just one directive.
+
+304
+00:18:59,431 --> 00:19:01,224
+To do what's best for Rain.
+
+305
+00:19:02,434 --> 00:19:04,144
+Your dad wrote it.
+
+306
+00:19:04,811 --> 00:19:05,812
+Yeah.
+
+307
+00:19:06,896 --> 00:19:08,565
+That and too many dad jokes.
+
+308
+00:19:08,732 --> 00:19:10,108
+I'm happy...
+
+309
+00:19:11,026 --> 00:19:12,193
+to help.
+
+310
+00:19:15,697 --> 00:19:16,740
+[sighs]
+
+311
+00:19:17,282 --> 00:19:18,783
+Be careful out there.
+
+312
+00:19:30,045 --> 00:19:32,505
+[metal straining]
+
+313
+00:19:34,924 --> 00:19:36,676
+[man] Okay, hurry up.
+We're docking in two minutes.
+
+314
+00:19:39,137 --> 00:19:40,180
+Put that on.
+
+315
+00:19:40,347 --> 00:19:41,848
+[Bjorn] Now,
+why I gotta put this on for?
+
+316
+00:19:42,015 --> 00:19:43,308
+[man] So you don't
+freeze your balls off.
+
+317
+00:19:43,475 --> 00:19:44,559
+[Bjorn] Mate,
+you gotta stop obsessing
+
+318
+00:19:44,642 --> 00:19:46,019
+about my balls, man.
+It's unhealthy.
+
+319
+00:19:46,186 --> 00:19:47,437
+[man] Keep talking
+and I'll chop 'em off.
+
+320
+00:19:47,604 --> 00:19:49,439
+[Bjorn]Aw, you really want
+'em for yourself, don't you?
+
+321
+00:19:49,606 --> 00:19:50,815
+Hey, you want me to show you
+my balls or something?
+
+322
+00:19:50,982 --> 00:19:52,108
+[man] Oh, shut up a minute.
+
+323
+00:19:52,275 --> 00:19:53,651
+Gloves, here, take these.
+
+324
+00:19:54,235 --> 00:19:56,529
+[Bjorn] Hey! No.
+Stop touching shit.
+
+325
+00:19:56,696 --> 00:19:57,906
+- Come over here.
+- [man] Bjorn, leave him alone,
+
+326
+00:19:57,989 --> 00:19:59,407
+for fuck's sake.
+
+327
+00:20:00,033 --> 00:20:01,117
+Andy, take no notice.
+
+328
+00:20:01,284 --> 00:20:02,285
+[Bjorn] All right, okay,
+won't be my fault
+
+329
+00:20:02,369 --> 00:20:03,411
+when he breaks somethin'.
+
+330
+00:20:09,834 --> 00:20:11,211
+[button beeps]
+
+331
+00:20:11,294 --> 00:20:12,295
+[Navarro]
+There's a synth hatch
+
+332
+00:20:12,420 --> 00:20:13,421
+right ahead. I'm gonna dock.
+
+333
+00:20:13,588 --> 00:20:15,131
+[man over comms] <i>Copy that.
+Just bring us in slow.</i>
+
+334
+00:20:23,640 --> 00:20:25,642
+[loud thud]
+
+335
+00:20:25,725 --> 00:20:28,186
+- [metal groaning]
+- [device beeping]
+
+336
+00:20:39,948 --> 00:20:41,533
+[scanner whirring]
+
+337
+00:20:42,158 --> 00:20:43,618
+[man] Oh, fuck me,
+it's cold in there.
+
+338
+00:20:44,369 --> 00:20:45,370
+What's that?
+
+339
+00:20:45,703 --> 00:20:47,080
+[man over comms]
+<i>It's a temp-scanner.</i>
+
+340
+00:20:47,956 --> 00:20:49,499
+<i>It's gonna lead us
+to the pods.</i>
+
+341
+00:20:49,999 --> 00:20:51,793
+[lever cranking]
+
+342
+00:20:51,918 --> 00:20:53,795
+[man] Okay, compression
+is good enough.
+
+343
+00:20:53,962 --> 00:20:55,922
+Oxygen is too thin to breathe.
+
+344
+00:20:56,089 --> 00:20:57,090
+Andy...
+
+345
+00:20:57,382 --> 00:20:58,383
+[over comms] <i>...you're up.</i>
+
+346
+00:20:58,883 --> 00:21:00,218
+<i>It's your time to shine.</i>
+
+347
+00:21:03,471 --> 00:21:04,472
+[chimes]
+
+348
+00:21:04,597 --> 00:21:06,182
+[door opens]
+
+349
+00:21:06,266 --> 00:21:07,934
+[chuckles] <i>Yes! Andy!</i>
+
+350
+00:21:08,101 --> 00:21:09,185
+<i>Beautiful work.</i>
+
+351
+00:21:09,602 --> 00:21:10,645
+<i>Okay.</i>
+
+352
+00:21:11,521 --> 00:21:12,730
+[laughs]
+
+353
+00:21:12,897 --> 00:21:14,232
+[Bjorn] <i>Congrats.
+You're not a virgin anymore.</i>
+
+354
+00:21:15,442 --> 00:21:16,443
+[man] <i>All right.</i>
+
+355
+00:21:23,324 --> 00:21:24,701
+[air blowing]
+
+356
+00:21:27,120 --> 00:21:28,371
+[man] <i>Okay, let's go.</i>
+
+357
+00:21:54,022 --> 00:21:57,942
+[Bjorn grunting]
+
+358
+00:22:00,695 --> 00:22:01,696
+[Bjorn] <i>Fuck.</i>
+
+359
+00:22:01,863 --> 00:22:03,698
+[Tyler] <i>Guys, it looks like
+we're in zero-g.</i>
+
+360
+00:22:04,115 --> 00:22:05,742
+[Bjorn] <i>Yeah, I can feel it
+in my stomach.</i>
+
+361
+00:22:07,619 --> 00:22:09,996
+- [machinery whirring]
+- [gravity generators warbling]
+
+362
+00:22:11,247 --> 00:22:12,248
+Wait, what's that?
+
+363
+00:22:12,415 --> 00:22:13,708
+Gravity generators.
+
+364
+00:22:13,917 --> 00:22:16,419
+When offline, they still purge
+themselves every few minutes.
+
+365
+00:22:16,711 --> 00:22:18,588
+[Tyler] <i>Prevents the place
+from blowing up.</i>
+
+366
+00:22:21,216 --> 00:22:22,509
+[gravity generators warbling]
+
+367
+00:22:22,592 --> 00:22:24,719
+[Bjorn]Oh, <i>fuck me,
+there goes my stomach again.</i>
+
+368
+00:22:25,678 --> 00:22:27,013
+[Tyler] <i>Okay, straight ahead.</i>
+
+369
+00:22:46,658 --> 00:22:48,660
+[♪ Suspenseful music playing]
+
+370
+00:23:04,342 --> 00:23:05,552
+[Tyler] <i>According
+to the scanner,</i>
+
+371
+00:23:05,635 --> 00:23:06,844
+<i>the pods should be in here.</i>
+
+372
+00:23:35,582 --> 00:23:36,583
+[panting] <i>Jesus.</i>
+
+373
+00:23:37,000 --> 00:23:38,126
+<i>Andy, you good?</i>
+
+374
+00:23:38,293 --> 00:23:39,377
+[Andy] Yeah.
+
+375
+00:23:45,717 --> 00:23:48,386
+[Tyler] <i>All right, great news.
+I've got eyes on the pods.</i>
+
+376
+00:23:49,887 --> 00:23:52,890
+[gravity generators pulsing]
+
+377
+00:23:53,057 --> 00:23:54,058
+<i>Fuck!</i>
+
+378
+00:23:54,767 --> 00:23:55,768
+[Bjorn grunts]
+
+379
+00:23:57,353 --> 00:23:58,396
+[Tyler] <i>Bjorn, you okay?</i>
+
+380
+00:23:59,355 --> 00:24:01,024
+[Bjorn] <i>Fuck!</i> [groans]
+
+381
+00:24:01,107 --> 00:24:02,942
+<i>I think I fractured
+my asshole.</i>
+
+382
+00:24:03,026 --> 00:24:04,736
+[gravity generators warbling]
+
+383
+00:24:07,780 --> 00:24:10,283
+<i>Fuckin' hell. Don't fuck
+with this gravity purge, man.</i>
+
+384
+00:24:13,828 --> 00:24:14,829
+[chimes]
+
+385
+00:24:14,996 --> 00:24:16,039
+[system beeping]
+
+386
+00:24:26,090 --> 00:24:27,133
+[Tyler] <i>Thank God,
+there's still</i>
+
+387
+00:24:27,216 --> 00:24:28,426
+<i>some power left in this relic.</i>
+
+388
+00:24:30,720 --> 00:24:32,805
+[machinery powering up]
+
+389
+00:24:44,609 --> 00:24:46,736
+[Tyler] <i>Okay, watch out.
+Gravity's coming back.</i>
+
+390
+00:24:47,278 --> 00:24:49,614
+[Bjorn grunts] <i>Fuckin' hell.</i>
+
+391
+00:24:51,658 --> 00:24:52,659
+[pods hissing]
+
+392
+00:24:56,371 --> 00:24:57,830
+[Tyler] All right, here we go.
+
+393
+00:24:58,289 --> 00:24:59,457
+Let's see what we got.
+
+394
+00:25:00,708 --> 00:25:01,793
+Okay.
+
+395
+00:25:06,422 --> 00:25:08,549
+- Shit.
+- What's the problem?
+
+396
+00:25:09,300 --> 00:25:10,301
+Pods don't have enough fuel.
+
+397
+00:25:10,802 --> 00:25:11,803
+What do you mean?
+
+398
+00:25:11,969 --> 00:25:13,763
+[Tyler] <i>They're loaded up
+for three years in stasis.</i>
+
+399
+00:25:13,930 --> 00:25:14,931
+[Bjorn] Yeah,
+but it takes nine years
+
+400
+00:25:15,014 --> 00:25:16,307
+to get to Yvaga, mate.
+
+401
+00:25:16,391 --> 00:25:17,850
+[Tyler]Yeah, I know, I know.
+I'm aware of that.
+
+402
+00:25:18,017 --> 00:25:19,352
+[Bjorn] Fuckin' hell.
+
+403
+00:25:19,519 --> 00:25:20,770
+I knew it. I fuckin' knew it.
+
+404
+00:25:20,937 --> 00:25:21,938
+- I knew it.
+- [Tyler] Just relax.
+
+405
+00:25:22,105 --> 00:25:23,189
+Maybe you guys
+should just come back.
+
+406
+00:25:23,356 --> 00:25:24,482
+[Tyler]<i> No, no,
+we're not givin' up now.</i>
+
+407
+00:25:26,734 --> 00:25:27,735
+[Bjorn] Yvaga's
+the nearest system.
+
+408
+00:25:27,902 --> 00:25:29,904
+So what are we supposed
+to do now? Huh?
+
+409
+00:25:30,822 --> 00:25:32,281
+- What are we gonna do?
+- [Tyler] Shut up.
+
+410
+00:25:32,990 --> 00:25:35,785
+Okay, strong reading.
+Must be a cryo depot nearby.
+
+411
+00:25:35,952 --> 00:25:37,370
+We should find
+more fuel there.
+
+412
+00:25:37,870 --> 00:25:40,873
+Navarro, I'm ejecting the EEV.
+
+413
+00:25:41,165 --> 00:25:42,166
+Come on, Andy.
+
+414
+00:25:42,333 --> 00:25:44,127
+You guys pick it up
+while we get the cryo-fuel.
+
+415
+00:26:04,439 --> 00:26:05,440
+[Tyler] Hold.
+
+416
+00:26:06,691 --> 00:26:08,526
+Yeah, 400 yards away,
+dead ahead.
+
+417
+00:26:10,153 --> 00:26:11,237
+What's with the military shit?
+
+418
+00:26:11,320 --> 00:26:12,321
+What?
+
+419
+00:26:12,447 --> 00:26:13,448
+[Bjorn]
+All that military shit.
+
+420
+00:26:13,614 --> 00:26:15,575
+- Well, it's effective.
+- Is it? [snickers]
+
+421
+00:26:16,242 --> 00:26:17,243
+- And cool.
+- It's not very cool.
+
+422
+00:26:17,410 --> 00:26:18,453
+You just look like a twat.
+
+423
+00:26:19,412 --> 00:26:20,621
+- [Andy] I'm sorry.
+- [Tyler] All right, chill.
+
+424
+00:26:20,788 --> 00:26:21,789
+<i>Let's keep it movin'.</i>
+
+425
+00:26:21,956 --> 00:26:22,957
+[Bjorn] <i>if you do that again,
+I'll fuck you up.</i>
+
+426
+00:26:23,124 --> 00:26:24,667
+- [Rain] Bjorn, back off!
+- [Bjorn] <i>You understand?</i>
+
+427
+00:26:24,834 --> 00:26:26,210
+<i>Just as long as he stays
+out of my way.</i>
+
+428
+00:26:26,377 --> 00:26:28,337
+Why is he being
+such a dick to him?
+
+429
+00:26:28,921 --> 00:26:31,007
+Because of what happened
+to his mom.
+
+430
+00:26:31,716 --> 00:26:33,301
+- What do you mean?
+- [Navarro] Last cycle,
+
+431
+00:26:33,384 --> 00:26:34,886
+there was a gas leak
+in the mines,
+
+432
+00:26:35,052 --> 00:26:37,138
+so a synthetic made the call
+to seal them
+
+433
+00:26:37,221 --> 00:26:38,931
+with Bjorn's mom
+still trapped inside.
+
+434
+00:26:39,098 --> 00:26:40,099
+What?
+
+435
+00:26:40,433 --> 00:26:41,934
+Synthetics can't harm humans.
+
+436
+00:26:42,101 --> 00:26:45,104
+It sacrificed three miners
+to save a dozen.
+
+437
+00:26:47,315 --> 00:26:48,483
+That, they can do.
+
+438
+00:26:54,030 --> 00:26:55,156
+That's terrible.
+
+439
+00:26:56,908 --> 00:26:58,159
+[engine revving]
+
+440
+00:27:02,622 --> 00:27:03,998
+[♪ Intriguing music playing]
+
+441
+00:27:03,998 --> 00:27:33,998
+<b>Subtitle | www.movieddl.me</b>
+
+442
+00:27:39,909 --> 00:27:42,161
+I got you, I got you.
+
+443
+00:27:43,871 --> 00:27:45,706
+Come on, come on, come on.
+
+444
+00:27:47,416 --> 00:27:49,001
+Easy, easy.
+
+445
+00:27:53,923 --> 00:27:55,299
+Good job.
+
+446
+00:27:56,425 --> 00:27:57,426
+[Kay retches]
+
+447
+00:28:00,096 --> 00:28:01,097
+- [vomiting]
+- [Rain] Kay!
+
+448
+00:28:02,139 --> 00:28:03,558
+Kay! Hey, hey, hey.
+
+449
+00:28:03,724 --> 00:28:05,184
+Hey, hey, hey.
+
+450
+00:28:05,601 --> 00:28:07,228
+I'm right here.
+I'm right here. You're okay.
+
+451
+00:28:07,311 --> 00:28:08,312
+[Kay breathing heavily]
+
+452
+00:28:08,396 --> 00:28:09,564
+[Navarro] I'm gonna go
+check on the pods.
+
+453
+00:28:09,647 --> 00:28:11,107
+[hatch door whirring]
+
+454
+00:28:27,456 --> 00:28:29,292
+[Kay] No, no. Don't worry.
+
+455
+00:28:30,209 --> 00:28:31,252
+I'm not sick.
+
+456
+00:28:31,919 --> 00:28:32,920
+[Rain] What's wrong, then?
+
+457
+00:28:34,755 --> 00:28:35,965
+[Kay] Nothing is.
+
+458
+00:28:39,510 --> 00:28:40,845
+Oh, girl.
+
+459
+00:28:43,890 --> 00:28:44,932
+Who's the father?
+
+460
+00:28:46,225 --> 00:28:47,476
+Some asshole.
+
+461
+00:28:49,437 --> 00:28:52,648
+Just don't tell my brother,
+okay?
+
+462
+00:28:53,941 --> 00:28:55,318
+He has enough things
+to worry about.
+
+463
+00:28:55,484 --> 00:28:56,903
+No. I won't say anything.
+
+464
+00:28:57,820 --> 00:29:00,656
+I'm just happy this baby
+will get to see the sun.
+
+465
+00:29:04,911 --> 00:29:06,871
+[♪ Stirring music playing]
+
+466
+00:29:15,922 --> 00:29:18,925
+[scanner whirring]
+
+467
+00:29:23,429 --> 00:29:24,889
+[Tyler] I think
+we're almost there.
+
+468
+00:29:29,393 --> 00:29:30,811
+Okay, Navarro.
+
+469
+00:29:30,978 --> 00:29:32,396
+<i>Airlock 5-B,
+that's our way out</i>
+
+470
+00:29:32,480 --> 00:29:33,481
+<i>once we find this cryo-fuel.</i>
+
+471
+00:29:33,648 --> 00:29:34,649
+[Navarro] On my way.
+
+472
+00:29:34,815 --> 00:29:36,025
+[automated voice over PA]
+<i>Welcome to the</i>
+
+473
+00:29:36,108 --> 00:29:37,610
+Renaissance <i>Space Station,</i>
+
+474
+00:29:37,777 --> 00:29:41,572
+<i>the center of Weyland-Yutani
+Research and Development.</i>
+
+475
+00:29:41,989 --> 00:29:45,034
+<i>The station
+is divided into two halves,</i>
+
+476
+00:29:45,326 --> 00:29:47,078
+<i>Romulus and Remus,</i>
+
+477
+00:29:48,329 --> 00:29:51,207
+<i>each dedicated
+to our quest to improve</i>
+
+478
+00:29:51,290 --> 00:29:53,334
+<i>mankind's role in outer space.</i>
+
+479
+00:29:56,087 --> 00:29:57,964
+This place
+gives me the creeps.
+
+480
+00:29:59,215 --> 00:30:02,134
+Did you hear about the miner
+who lost his left side?
+
+481
+00:30:03,761 --> 00:30:04,762
+He's all right now.
+
+482
+00:30:04,929 --> 00:30:06,347
+Do you get it? He's all right.
+
+483
+00:30:06,514 --> 00:30:08,224
+[Bjorn] Can you turn
+yourself off, please?
+
+484
+00:30:09,392 --> 00:30:10,768
+You said you were nervous
+
+485
+00:30:10,935 --> 00:30:12,103
+and I was trying
+to make sure you were...
+
+486
+00:30:12,186 --> 00:30:15,147
+Jesus! You know, I can't
+wait to get in them pods
+
+487
+00:30:15,314 --> 00:30:17,066
+and never see you again,
+you know that?
+
+488
+00:30:19,193 --> 00:30:20,903
+[Andy] <i>You'll see me in Yvaga.</i>
+
+489
+00:30:21,070 --> 00:30:22,405
+[Bjorn]No,
+<i>you're not going to Yvaga.</i>
+
+490
+00:30:22,571 --> 00:30:23,698
+[Tyler] <i>Bjorn, stop!</i>
+
+491
+00:30:24,281 --> 00:30:25,366
+<i>I'm not?</i>
+
+492
+00:30:25,533 --> 00:30:26,534
+Well done.
+
+493
+00:30:26,701 --> 00:30:27,868
+Oh, she didn't tell you?
+
+494
+00:30:28,786 --> 00:30:31,580
+Yeah, yeah, it's a
+non-Weyland-Yutani system,
+
+495
+00:30:33,082 --> 00:30:34,875
+so no fake people allowed.
+
+496
+00:30:36,502 --> 00:30:38,879
+I prefer the term
+"artificial person" myself.
+
+497
+00:30:41,424 --> 00:30:42,425
+Andy, look.
+
+498
+00:30:43,384 --> 00:30:44,677
+[over comms]
+<i>Rain could end up in prison</i>
+
+499
+00:30:44,760 --> 00:30:45,803
+<i>if she takes you with her.</i>
+
+500
+00:30:45,928 --> 00:30:47,096
+<i>And if you guys
+stay in Jackson,</i>
+
+501
+00:30:47,179 --> 00:30:48,347
+<i>it's just a matter of time</i>
+
+502
+00:30:48,514 --> 00:30:50,683
+<i>before you get decommissioned
+again by the company.</i>
+
+503
+00:30:51,350 --> 00:30:52,518
+<i>You understand?</i>
+
+504
+00:30:53,394 --> 00:30:55,312
+<i>I need you on the ship
+to guard the pods.</i>
+
+505
+00:30:56,147 --> 00:30:57,356
+But once we get there...
+
+506
+00:30:58,733 --> 00:30:59,942
+[Bjorn] Decommish.
+
+507
+00:31:00,109 --> 00:31:01,110
+Lights out for good.
+
+508
+00:31:01,277 --> 00:31:02,445
+[object clatters]
+
+509
+00:31:02,820 --> 00:31:03,821
+You done?
+
+510
+00:31:04,196 --> 00:31:05,364
+[Bjorn]
+<i>Just tellin' the truth.</i>
+
+511
+00:31:09,076 --> 00:31:10,828
+<i>That's okay.</i>
+
+512
+00:31:11,495 --> 00:31:14,749
+<i>If it's what's best for Rain,
+it's what's best for me.</i>
+
+513
+00:31:18,627 --> 00:31:20,379
+You're a good guy, Andy.
+
+514
+00:31:21,756 --> 00:31:22,965
+We're all gonna miss you.
+
+515
+00:31:28,929 --> 00:31:30,056
+[Navarro] So he didn't know?
+
+516
+00:31:31,432 --> 00:31:34,143
+I just did not
+have the heart to tell him.
+
+517
+00:31:36,062 --> 00:31:37,354
+[Navarro]
+You shouldn't feel bad.
+
+518
+00:31:39,899 --> 00:31:40,941
+[softly] Shit.
+
+519
+00:31:41,108 --> 00:31:42,151
+[Navarro]
+You're not gonna throw
+
+520
+00:31:42,234 --> 00:31:44,070
+your whole life away
+for Andy's sake.
+
+521
+00:31:44,987 --> 00:31:46,072
+[sighs]
+
+522
+00:31:46,238 --> 00:31:48,866
+He doesn't care.
+It doesn't matter to him.
+
+523
+00:31:50,618 --> 00:31:52,078
+Okay? He's not...
+
+524
+00:31:53,245 --> 00:31:54,872
+you know, real.
+
+525
+00:31:57,374 --> 00:31:58,918
+[♪ Solemn music playing]
+
+526
+00:32:09,303 --> 00:32:11,222
+[♪ Ominous music builds]
+
+527
+00:32:18,687 --> 00:32:20,481
+[Tyler] The signal's
+coming from in here.
+
+528
+00:32:30,324 --> 00:32:32,576
+[Rain] Thought you said
+this place was decommissioned.
+
+529
+00:32:32,743 --> 00:32:33,744
+[Tyler] Yeah.
+
+530
+00:32:34,787 --> 00:32:36,497
+[Rain] <i>Doesn't look
+decommissioned to me.</i>
+
+531
+00:32:36,789 --> 00:32:37,957
+[Tyler] No, it doesn't.
+
+532
+00:32:38,124 --> 00:32:40,126
+But it's definitely deserted.
+
+533
+00:32:40,417 --> 00:32:42,044
+- [Taser powering up]
+- Hey, Andy, look at this.
+
+534
+00:32:43,337 --> 00:32:45,422
+I could probably fry a
+synthetic with one of these...
+
+535
+00:32:46,215 --> 00:32:47,758
+if I just amp up the juices.
+
+536
+00:32:47,925 --> 00:32:48,926
+[crackling]
+
+537
+00:32:51,345 --> 00:32:52,721
+Hey, you know, I might
+take this with me, actually.
+
+538
+00:32:52,888 --> 00:32:53,889
+[Tyler] All right, enough.
+
+539
+00:32:54,056 --> 00:32:55,975
+Just in case you have
+any fucking funny ideas.
+
+540
+00:32:57,143 --> 00:33:00,104
+[gasping] It's a joke.
+I was joking.
+
+541
+00:33:00,271 --> 00:33:01,272
+What the fuck?
+
+542
+00:33:01,772 --> 00:33:02,773
+Watch out.
+
+543
+00:33:13,367 --> 00:33:14,451
+[Tyler] <i>Shit.</i>
+
+544
+00:33:19,415 --> 00:33:20,416
+It's only a synthetic.
+
+545
+00:33:20,583 --> 00:33:21,667
+[chuckles nervously]
+
+546
+00:33:22,543 --> 00:33:23,878
+Fuck. [exhales]
+
+547
+00:33:24,503 --> 00:33:26,505
+I thought it was a real person
+there for a second.
+
+548
+00:33:26,672 --> 00:33:27,965
+[Navarro]
+<i>What happened in there?</i>
+
+549
+00:33:28,257 --> 00:33:30,050
+[Tyler] Don't know.
+A chemical spill, maybe.
+
+550
+00:33:31,218 --> 00:33:32,219
+The fuel must be in that room.
+
+551
+00:33:32,303 --> 00:33:33,971
+Let's grab it
+and get the fuck out of here.
+
+552
+00:33:39,518 --> 00:33:41,228
+[Tyler] All right. Andy?
+
+553
+00:33:43,731 --> 00:33:44,815
+[lock chiming]
+
+554
+00:33:45,649 --> 00:33:47,610
+[door creaking]
+
+555
+00:33:55,826 --> 00:33:56,994
+[Tyler] Bjorn,
+take the torch please.
+
+556
+00:34:02,208 --> 00:34:04,043
+[Bjorn] I don't think
+there's any pods in here.
+
+557
+00:34:04,210 --> 00:34:05,586
+[Tyler] Nah,
+just cooling equipment.
+
+558
+00:34:05,669 --> 00:34:07,338
+Uses the same type of fuel,
+though.
+
+559
+00:34:12,426 --> 00:34:13,427
+[beeping]
+
+560
+00:34:13,677 --> 00:34:14,678
+Yes.
+
+561
+00:34:16,388 --> 00:34:17,806
+- [exhales]
+- [Tyler] <i>Forty-five Ks.</i>
+
+562
+00:34:17,973 --> 00:34:20,100
+<i>It's more than enough fuel
+to get us to Yvaga.</i>
+
+563
+00:34:20,976 --> 00:34:23,229
+Right. Bjorn, give me
+a hand with this, please.
+
+564
+00:34:24,730 --> 00:34:25,731
+[grunts]
+
+565
+00:34:32,780 --> 00:34:34,281
+[Tyler] Bjorn, pull it out
+on three, all right?
+
+566
+00:34:34,698 --> 00:34:35,783
+- Ready?
+- [Bjorn] Uh-huh.
+
+567
+00:34:35,950 --> 00:34:37,159
+[Tyler] One, two...
+
+568
+00:34:38,285 --> 00:34:39,286
+- three.
+- [air hissing]
+
+569
+00:34:39,495 --> 00:34:40,496
+[Bjorn groans] Fuck!
+
+570
+00:34:40,829 --> 00:34:42,039
+- Fuck.
+- My fingers.
+
+571
+00:34:42,706 --> 00:34:43,707
+[alarm blares]
+
+572
+00:34:43,874 --> 00:34:44,875
+I can't feel my fingers.
+
+573
+00:34:52,925 --> 00:34:54,176
+<i>It really hurts.
+Just froze my hands off</i>
+
+574
+00:34:54,677 --> 00:34:56,011
+- What's happening?
+- [Bjorn] <i>Fuck.</i>
+
+575
+00:34:56,387 --> 00:34:58,597
+[Tyler] Don't know. It's some
+kind of emergency lockdown.
+
+576
+00:34:58,764 --> 00:35:00,182
+Andy, the door.
+
+577
+00:35:03,852 --> 00:35:05,145
+Shit, he doesn't
+have the clearance.
+
+578
+00:35:05,229 --> 00:35:06,355
+What does that mean?
+
+579
+00:35:06,522 --> 00:35:07,731
+[Tyler] Doesn't have the
+clearance to open the door.
+
+580
+00:35:08,649 --> 00:35:09,900
+So you're trying
+to tell me that
+
+581
+00:35:09,984 --> 00:35:11,151
+he can fucking reboot
+the entire ship,
+
+582
+00:35:11,318 --> 00:35:12,319
+but can't open
+a random fucking door
+
+583
+00:35:12,403 --> 00:35:13,612
+to a random room?
+
+584
+00:35:13,696 --> 00:35:15,614
+Well, obviously,
+that's no random room.
+
+585
+00:35:19,118 --> 00:35:20,828
+[Bjorn straining] Come on!
+
+586
+00:35:21,287 --> 00:35:22,496
+Come on!
+
+587
+00:35:25,582 --> 00:35:26,667
+[alarm continues blaring]
+
+588
+00:35:40,097 --> 00:35:41,640
+[Navarro] Hey, don't worry.
+We'll get 'em out of there.
+
+589
+00:35:45,519 --> 00:35:46,937
+If Andy
+can't open those doors,
+
+590
+00:35:47,021 --> 00:35:48,731
+I doubt
+we'll have better luck.
+
+591
+00:35:49,940 --> 00:35:52,109
+He's a Weyland-Yutani
+synthetic
+
+592
+00:35:52,276 --> 00:35:53,360
+and we're just trespassing.
+
+593
+00:35:53,444 --> 00:35:54,611
+[indistinct announcement
+over PA]
+
+594
+00:35:54,695 --> 00:35:56,238
+Yeah, so you got any ideas?
+
+595
+00:35:56,947 --> 00:35:57,948
+[Rain] Not yet.
+
+596
+00:36:00,743 --> 00:36:02,036
+[Navarro]
+I think it's in here.
+
+597
+00:36:05,748 --> 00:36:06,749
+Bjorn!
+
+598
+00:36:08,584 --> 00:36:09,585
+Tyler!
+
+599
+00:36:14,131 --> 00:36:15,174
+They're in there.
+
+600
+00:36:19,845 --> 00:36:20,971
+Hey, what are you doing?
+
+601
+00:36:21,138 --> 00:36:22,139
+If this module
+is still working,
+
+602
+00:36:22,222 --> 00:36:24,850
+I can try to transfer
+its credentials to Andy.
+
+603
+00:36:25,225 --> 00:36:27,144
+A higher clearance
+should open that door.
+
+604
+00:36:31,857 --> 00:36:33,567
+[alarm blaring]
+
+605
+00:36:48,832 --> 00:36:50,793
+[♪ Foreboding music playing]
+
+606
+00:36:55,130 --> 00:36:56,965
+[cryo-fuel hissing]
+
+607
+00:36:58,509 --> 00:36:59,510
+[squelching]
+
+608
+00:37:02,721 --> 00:37:04,348
+Shit. It's stuck.
+
+609
+00:37:06,975 --> 00:37:08,894
+It's so hot in here, man.
+
+610
+00:37:09,812 --> 00:37:11,814
+[♪ Ominous music playing]
+
+611
+00:37:33,669 --> 00:37:34,711
+Whoa.
+
+612
+00:37:36,463 --> 00:37:37,464
+Sick.
+
+613
+00:37:37,631 --> 00:37:38,882
+Yeah, maybe try not to touch
+anything in here.
+
+614
+00:37:39,049 --> 00:37:40,050
+[Navarro] Yeah, okay, Mom.
+
+615
+00:37:42,052 --> 00:37:43,053
+[yelps]
+
+616
+00:37:43,429 --> 00:37:44,513
+[synthetic screeching]
+
+617
+00:37:44,596 --> 00:37:45,889
+Help me! Help!
+
+618
+00:37:46,056 --> 00:37:47,057
+Oh, no! What do I do?
+
+619
+00:37:47,224 --> 00:37:48,684
+The module. Take it out!
+
+620
+00:37:52,813 --> 00:37:54,148
+[both panting]
+
+621
+00:37:54,314 --> 00:37:55,441
+You okay?
+
+622
+00:37:56,859 --> 00:37:58,068
+That was fucked up.
+
+623
+00:37:58,235 --> 00:37:59,236
+Here.
+
+624
+00:37:59,778 --> 00:38:00,863
+[Rain] Let me see.
+
+625
+00:38:02,781 --> 00:38:03,866
+Yes, okay.
+
+626
+00:38:04,491 --> 00:38:05,534
+[Tyler] All right.
+
+627
+00:38:05,701 --> 00:38:07,536
+- Got it.
+- [Rain] Hey.
+
+628
+00:38:07,703 --> 00:38:08,704
+Rain.
+
+629
+00:38:09,997 --> 00:38:11,707
+This is from that synthetic.
+
+630
+00:38:13,000 --> 00:38:14,710
+Try putting it
+on Andy's module.
+
+631
+00:38:19,006 --> 00:38:20,007
+I'm so sorry.
+
+632
+00:38:21,091 --> 00:38:22,301
+Let's just get outta here.
+
+633
+00:38:24,011 --> 00:38:25,012
+Andy?
+
+634
+00:38:27,639 --> 00:38:28,932
+All right, let's see.
+
+635
+00:38:32,269 --> 00:38:33,270
+Okay.
+
+636
+00:38:37,524 --> 00:38:39,276
+- [Andy gasps]
+- Fuck.
+
+637
+00:38:39,443 --> 00:38:41,403
+Rain, did I do something
+wrong? He's just frozen up.
+
+638
+00:38:41,570 --> 00:38:42,863
+[Rain] He's just rebooting.
+
+639
+00:38:43,030 --> 00:38:44,781
+It's gonna take
+a couple of minutes.
+
+640
+00:38:50,871 --> 00:38:52,789
+[squeaking]
+
+641
+00:38:55,667 --> 00:38:57,628
+[squelching]
+
+642
+00:39:07,846 --> 00:39:09,473
+[Tyler] Here, let me get you
+something for those fingers.
+
+643
+00:39:15,938 --> 00:39:17,397
+[water splashes]
+
+644
+00:39:17,481 --> 00:39:18,774
+The fuck was that?
+
+645
+00:39:22,027 --> 00:39:23,445
+All right,
+stay there a second.
+
+646
+00:39:27,574 --> 00:39:28,575
+[Rain] Tyler?
+
+647
+00:39:33,330 --> 00:39:34,665
+[Navarro] Hey,
+what are you guys doing?
+
+648
+00:39:40,462 --> 00:39:41,838
+[creature chittering]
+
+649
+00:39:43,590 --> 00:39:44,925
+[gasps] Bjorn?
+
+650
+00:39:45,676 --> 00:39:46,927
+Stop playing around, man.
+Just get up.
+
+651
+00:39:47,094 --> 00:39:48,095
+[Bjorn] I'm not
+playing around.
+
+652
+00:39:48,178 --> 00:39:49,263
+There's something
+in the water.
+
+653
+00:39:49,346 --> 00:39:50,389
+[Navarro] What do you mean?
+What is it?
+
+654
+00:39:50,514 --> 00:39:51,557
+I don't know.
+I don't know what it is.
+
+655
+00:39:51,640 --> 00:39:52,766
+There's something
+in the fuckin' water.
+
+656
+00:39:53,600 --> 00:39:54,685
+[screams]
+
+657
+00:39:55,686 --> 00:39:56,812
+[grunting]
+
+658
+00:39:57,521 --> 00:39:58,522
+Bjorn!
+
+659
+00:40:01,191 --> 00:40:02,859
+- [gasps]
+- [Navarro gasps] Fuck!
+
+660
+00:40:03,151 --> 00:40:04,152
+[Navarro] What the fuck
+was that?
+
+661
+00:40:06,238 --> 00:40:07,990
+[Tyler gasping]
+
+662
+00:40:09,700 --> 00:40:10,701
+Andy!
+
+663
+00:40:11,201 --> 00:40:12,286
+[grunting]
+
+664
+00:40:12,995 --> 00:40:13,996
+Bjorn!
+
+665
+00:40:14,580 --> 00:40:15,956
+[grunting]
+
+666
+00:40:16,039 --> 00:40:17,624
+[♪ Tense music playing]
+
+667
+00:40:20,335 --> 00:40:22,170
+Bjorn, help him! Do something!
+
+668
+00:40:22,337 --> 00:40:23,380
+[Tyler] Bjorn!
+
+669
+00:40:23,463 --> 00:40:24,548
+[Taser crackling]
+
+670
+00:40:28,010 --> 00:40:29,553
+- [Rain] Tyler!
+- I'm sorry. I'm sorry.
+
+671
+00:40:30,345 --> 00:40:31,346
+[grunts]
+
+672
+00:40:31,888 --> 00:40:32,889
+Come on!
+
+673
+00:40:33,307 --> 00:40:35,225
+- Come on! Help me!
+- No, stop. Stop. Don't...
+
+674
+00:40:35,392 --> 00:40:37,019
+- No! Navarro!
+- Those things will get out.
+
+675
+00:40:37,102 --> 00:40:38,895
+If they come in here...
+If they come in...
+
+676
+00:40:39,021 --> 00:40:40,147
+- If they come...
+- [Rain] No!
+
+677
+00:40:44,026 --> 00:40:45,235
+Fuck. Fuck.
+
+678
+00:40:50,657 --> 00:40:52,409
+[chittering]
+
+679
+00:40:57,998 --> 00:40:59,124
+[exhales sharply, gasps]
+
+680
+00:40:59,833 --> 00:41:00,834
+[creature screeching]
+
+681
+00:41:06,798 --> 00:41:08,425
+[creature screeching]
+
+682
+00:41:11,803 --> 00:41:13,388
+[Tyler] Andy! Let's go!
+
+683
+00:41:15,557 --> 00:41:16,558
+Go! Bjorn!
+
+684
+00:41:16,725 --> 00:41:17,726
+Andy, the door!
+
+685
+00:41:18,769 --> 00:41:19,770
+- Bjorn!
+- [Rain] Come on, come on.
+
+686
+00:41:19,936 --> 00:41:20,937
+Come on, come on, come on!
+
+687
+00:41:23,523 --> 00:41:24,566
+[Navarro] Get out of there!
+
+688
+00:41:24,650 --> 00:41:25,734
+[Rain] Come on, come on,
+come on!
+
+689
+00:41:25,817 --> 00:41:27,402
+- Come on, come on, come on!
+- [Tyler] Go, go, go!
+
+690
+00:41:27,486 --> 00:41:28,737
+Get out of there!
+Get out of there!
+
+691
+00:41:32,199 --> 00:41:33,659
+Go! Go!
+
+692
+00:41:34,534 --> 00:41:36,536
+- [Navarro] Bjorn, come on!
+- [Tyler] Go! Go!
+
+693
+00:41:36,703 --> 00:41:37,913
+[glass thudding, cracking]
+
+694
+00:41:38,914 --> 00:41:40,666
+[Navarro shouting]
+
+695
+00:41:42,000 --> 00:41:43,377
+[Rain] Andy, the door!
+
+696
+00:41:45,671 --> 00:41:46,797
+[Navarro screaming]
+
+697
+00:41:51,176 --> 00:41:52,260
+[muffled screaming]
+
+698
+00:41:52,427 --> 00:41:53,428
+[Tyler] Stay still.
+Stay still.
+
+699
+00:41:53,512 --> 00:41:54,888
+[Bjorn] I know!
+Whoa, whoa, whoa!
+
+700
+00:41:55,222 --> 00:41:56,932
+[muffled grunting]
+
+701
+00:41:57,099 --> 00:41:58,141
+[Rain] It's choking her.
+
+702
+00:41:58,767 --> 00:42:00,102
+Stop! You gotta stop! Hey!
+
+703
+00:42:00,477 --> 00:42:01,478
+- It's choking her!
+- [Tyler] Shit.
+
+704
+00:42:02,062 --> 00:42:03,522
+Stop! Bjorn!
+
+705
+00:42:03,689 --> 00:42:05,273
+Bjorn, stop!
+For fuck's sake, stop!
+
+706
+00:42:05,399 --> 00:42:06,608
+- Stop!
+- What's it doin'?
+
+707
+00:42:06,692 --> 00:42:07,734
+Is it fuckin' killin' her?
+
+708
+00:42:07,901 --> 00:42:10,153
+[Andy] I do not believe that's
+what the creature is doing.
+
+709
+00:42:10,612 --> 00:42:11,613
+No.
+
+710
+00:42:12,114 --> 00:42:13,115
+[Rain] Andy?
+
+711
+00:42:14,741 --> 00:42:16,493
+Based on the rhythmic
+dilatation of those bladders,
+
+712
+00:42:16,660 --> 00:42:18,954
+and its synchronization
+to her breathing patterns,
+
+713
+00:42:19,121 --> 00:42:21,790
+I'd surmise it's feeding her
+oxygen to keep her alive.
+
+714
+00:42:22,332 --> 00:42:24,126
+For what purpose,
+I do not know.
+
+715
+00:42:25,877 --> 00:42:27,421
+Sorry, who the fuck are you?
+
+716
+00:42:29,673 --> 00:42:32,050
+I'm an ND-255
+Weyland-Yutani synthetic.
+
+717
+00:42:32,509 --> 00:42:34,720
+Originally built for mining
+and safety tasks.
+
+718
+00:42:35,846 --> 00:42:36,888
+You guys call me Andy.
+
+719
+00:42:37,055 --> 00:42:38,306
+It's that module.
+
+720
+00:42:40,142 --> 00:42:41,143
+Yes.
+
+721
+00:42:42,769 --> 00:42:45,063
+That new module didn't
+just upgrade my credentials.
+
+722
+00:42:45,355 --> 00:42:46,857
+It substantially
+updated my AI,
+
+723
+00:42:47,023 --> 00:42:49,735
+and it's mending my motor
+systems as we speak.
+
+724
+00:42:50,986 --> 00:42:52,821
+A most overdue upgrade,
+I must say.
+
+725
+00:42:52,988 --> 00:42:53,989
+Shit. I'mma fucking
+fry this thing.
+
+726
+00:42:54,114 --> 00:42:55,115
+- [Rain] Okay, wait.
+- Don't!
+
+727
+00:42:55,240 --> 00:42:56,700
+- Why not?
+- That amount of current
+
+728
+00:42:56,783 --> 00:42:58,076
+will violently
+contract its tail flexors
+
+729
+00:42:58,243 --> 00:42:59,327
+and will break her neck.
+
+730
+00:42:59,494 --> 00:43:00,704
+So what,
+you got a better idea?
+
+731
+00:43:00,871 --> 00:43:02,038
+What should we
+fucking do then, huh?
+
+732
+00:43:02,205 --> 00:43:03,206
+Hey, hey. Hey! Hey, hey.
+
+733
+00:43:04,040 --> 00:43:05,792
+Andy, do you know
+how to help her?
+
+734
+00:43:06,835 --> 00:43:07,919
+I'm afraid my
+knowledge database
+
+735
+00:43:08,003 --> 00:43:09,212
+has not really changed.
+
+736
+00:43:09,588 --> 00:43:10,922
+I do not know
+what this creature is
+
+737
+00:43:11,006 --> 00:43:12,507
+or how to remove it safely.
+
+738
+00:43:15,552 --> 00:43:17,554
+But there's someone
+in this room who might.
+
+739
+00:43:25,729 --> 00:43:27,439
+[machine powering up]
+
+740
+00:43:36,740 --> 00:43:38,325
+[cable clicks]
+
+741
+00:43:41,244 --> 00:43:42,662
+[synthetic powering up]
+
+742
+00:43:42,746 --> 00:43:44,080
+[synthetic glitching]
+
+743
+00:43:48,001 --> 00:43:50,253
+I need to secure
+Z-01 compound.
+
+744
+00:43:50,420 --> 00:43:52,255
+Mission's priority. All other
+priorities rescinded.
+
+745
+00:43:52,422 --> 00:43:54,049
+Must complete the mission.
+
+746
+00:43:54,424 --> 00:43:55,550
+I'm sorry...
+
+747
+00:43:55,801 --> 00:43:57,302
+but your mission has failed.
+
+748
+00:43:57,469 --> 00:43:59,513
+[synthetic] What? No, I...
+
+749
+00:44:04,976 --> 00:44:07,062
+Can you tell us
+what we can do to help her?
+
+750
+00:44:08,313 --> 00:44:10,607
+You don't help her. You run.
+
+751
+00:44:11,483 --> 00:44:13,318
+Get out, however you got in.
+
+752
+00:44:13,485 --> 00:44:14,694
+[Bjorn] No, no, no.
+Wait, whoa, whoa.
+
+753
+00:44:15,153 --> 00:44:17,197
+Nah, we're not fuckin' leavin'
+her, okay? You understand?
+
+754
+00:44:17,364 --> 00:44:19,491
+Then have mercy
+and end her life now.
+
+755
+00:44:20,075 --> 00:44:22,786
+If not, you all die.
+
+756
+00:44:24,913 --> 00:44:26,456
+[Bjorn] So what the fuck
+is he ea yin'?
+
+757
+00:44:26,623 --> 00:44:27,874
+What's it doing to her?
+
+758
+00:44:28,041 --> 00:44:29,167
+The parasitoid is implanting
+
+759
+00:44:29,251 --> 00:44:30,794
+the Plagiarus Praepotens
+in her.
+
+760
+00:44:30,961 --> 00:44:32,128
+I beg your pardon?
+
+761
+00:44:32,295 --> 00:44:35,006
+A seed that will amalgamate
+with her DNA
+
+762
+00:44:35,090 --> 00:44:36,341
+and rapidly grow out of her.
+
+763
+00:44:36,508 --> 00:44:37,926
+What's gonna grow out of her?
+
+764
+00:44:40,720 --> 00:44:42,472
+[♪ Dramatic music playing]
+
+765
+00:44:49,646 --> 00:44:52,440
+XX121 Xenomorph.
+
+766
+00:44:53,316 --> 00:44:54,442
+One of our towing ships
+
+767
+00:44:54,526 --> 00:44:57,904
+first made contact with this
+specimen two decades ago.
+
+768
+00:44:58,071 --> 00:44:59,281
+Of the seven crew members
+
+769
+00:44:59,364 --> 00:45:01,408
+aboard the <i>USS Nostromo,</i>
+only one survived,
+
+770
+00:45:01,575 --> 00:45:03,618
+blowing the creature
+out of the airlock.
+
+771
+00:45:04,411 --> 00:45:06,580
+We've been searching
+for it ever since.
+
+772
+00:45:07,289 --> 00:45:10,542
+170 days ago,
+our search came to an end
+
+773
+00:45:10,709 --> 00:45:12,752
+and the body of the Xenomorph
+was brought on board...
+
+774
+00:45:13,420 --> 00:45:14,921
+presumed dead.
+
+775
+00:45:15,088 --> 00:45:16,381
+But of course,
+
+776
+00:45:16,548 --> 00:45:20,385
+lack of oxygen and food is
+of no true consequence to this
+
+777
+00:45:20,552 --> 00:45:21,970
+perfect organism.
+
+778
+00:45:22,137 --> 00:45:24,139
+Yet nothing is truly immortal.
+
+779
+00:45:25,891 --> 00:45:26,933
+Clearly.
+
+780
+00:45:27,434 --> 00:45:30,145
+It wreaked havoc
+over this station,
+
+781
+00:45:30,812 --> 00:45:33,398
+until what was left of our
+security forces shot it dead.
+
+782
+00:45:33,565 --> 00:45:36,151
+Only to trigger its swan song.
+
+783
+00:45:37,193 --> 00:45:38,194
+Acid for blood?
+
+784
+00:45:38,361 --> 00:45:40,071
+Sulfuric and hydrofluoric.
+
+785
+00:45:40,238 --> 00:45:41,907
+I sealed the station back up,
+but it was too late.
+
+786
+00:45:42,073 --> 00:45:43,241
+[Bjorn] Hey, shut up!
+
+787
+00:45:43,408 --> 00:45:44,993
+Nobody cares about your
+fucking ship anymore.
+
+788
+00:45:45,160 --> 00:45:46,328
+Okay, okay. Okay.
+
+789
+00:45:46,995 --> 00:45:49,122
+What if we use the cryo-fuel
+
+790
+00:45:49,205 --> 00:45:50,957
+to freeze
+the root of the tail?
+
+791
+00:45:51,917 --> 00:45:54,753
+Maybe if it's frozen,
+it won't choke her.
+
+792
+00:45:56,004 --> 00:45:57,130
+That could work.
+
+793
+00:46:01,551 --> 00:46:03,094
+[♪ Tense music playing]
+
+794
+00:46:03,219 --> 00:46:04,721
+[cryo-fuel hisses]
+
+795
+00:46:10,602 --> 00:46:12,145
+[parasitoid squelching]
+
+796
+00:46:14,230 --> 00:46:15,231
+[sighs shakily]
+
+797
+00:46:19,277 --> 00:46:21,112
+[parasitoid screeching]
+
+798
+00:46:22,030 --> 00:46:23,031
+[squelching]
+
+799
+00:46:26,117 --> 00:46:27,494
+[Tyler] All right, get it off!
+Get it off!
+
+800
+00:46:33,541 --> 00:46:35,293
+- [parasitoid squealing]
+- [Tyler grunts]
+
+801
+00:46:42,092 --> 00:46:43,259
+[Tyler panting]
+
+802
+00:46:46,137 --> 00:46:47,138
+[Navarro screaming]
+
+803
+00:46:49,224 --> 00:46:51,101
+[Rain] It's gone. It's off
+of you. It's off of you.
+
+804
+00:46:51,226 --> 00:46:52,602
+[Rain shushing]
+
+805
+00:46:52,686 --> 00:46:54,312
+It's off. It's off. It's off.
+
+806
+00:46:54,479 --> 00:46:56,022
+- [Rain shushing]
+- You're okay. You're okay.
+
+807
+00:46:56,189 --> 00:46:57,524
+[synthetic]
+I wouldn't be so sure.
+
+808
+00:47:03,029 --> 00:47:04,030
+What are the odds?
+
+809
+00:47:04,197 --> 00:47:06,533
+60 to 40 against your friend.
+
+810
+00:47:06,700 --> 00:47:07,867
+What are the odds on what?
+
+811
+00:47:09,703 --> 00:47:11,413
+That the creature's
+finished its job already.
+
+812
+00:47:13,873 --> 00:47:15,125
+[weakly] What is he
+talking about?
+
+813
+00:47:17,002 --> 00:47:18,253
+[synthetic] Listen to me.
+
+814
+00:47:18,586 --> 00:47:21,089
+Humans go through
+too many emotional stages
+
+815
+00:47:21,256 --> 00:47:23,341
+before accepting the cold,
+
+816
+00:47:23,425 --> 00:47:25,510
+yet rational - sometimes
+hardest - path.
+
+817
+00:47:25,802 --> 00:47:27,554
+You must help them.
+
+818
+00:47:27,721 --> 00:47:28,722
+You must help them.
+
+819
+00:47:28,888 --> 00:47:30,056
+[indistinct chatter]
+
+820
+00:47:33,977 --> 00:47:34,978
+[Rain] Andy?
+
+821
+00:47:35,979 --> 00:47:36,980
+- What's going on?
+- I'm sorry
+
+822
+00:47:37,147 --> 00:47:38,565
+but we can't let her back
+on the ship.
+
+823
+00:47:38,732 --> 00:47:40,483
+- Oh, yeah? That is a problem.
+- What're you doing?
+
+824
+00:47:40,650 --> 00:47:41,735
+- You must understand.
+- [Bjorn] You see?
+
+825
+00:47:41,901 --> 00:47:42,986
+That's what I mean
+by "funny ideas"!
+
+826
+00:47:43,153 --> 00:47:44,195
+[Rain] What're you talking
+about? No, he's...
+
+827
+00:47:45,155 --> 00:47:46,406
+- [Rain] No! No!
+- You fuckin' bitch!
+
+828
+00:47:46,781 --> 00:47:47,991
+Hey! Andy! Andy!
+
+829
+00:47:48,158 --> 00:47:49,159
+[Bjorn] We're gonna go.
+
+830
+00:47:49,325 --> 00:47:50,452
+[Rain] Hey, hey, hey!
+I'm right here.
+
+831
+00:47:50,618 --> 00:47:52,120
+Let's go, let's go. Come on.
+
+832
+00:47:54,330 --> 00:47:55,331
+Tyler, let's go, man! Come on!
+
+833
+00:47:55,498 --> 00:47:56,499
+- [Rain] I'm here.
+- [Tyler] Bjorn! No.
+
+834
+00:47:56,583 --> 00:47:58,376
+Bjorn, we're not leaving
+without them!
+
+835
+00:47:58,543 --> 00:47:59,544
+- [Rain] I'm here.
+- [Tyler] Bjorn!
+
+836
+00:47:59,753 --> 00:48:00,754
+[♪ Tense music playing]
+
+837
+00:48:01,880 --> 00:48:03,298
+- Where are they?
+- You need to listen.
+
+838
+00:48:03,465 --> 00:48:04,466
+We have to start the ship,
+okay?
+
+839
+00:48:04,632 --> 00:48:05,633
+- Just go and start the ship.
+- Where's Rain? How...
+
+840
+00:48:05,800 --> 00:48:06,801
+Forgive me.
+
+841
+00:48:07,719 --> 00:48:10,013
+I've been nothing
+but a burden to you.
+
+842
+00:48:10,180 --> 00:48:12,974
+Today, I can finally help.
+
+843
+00:48:13,391 --> 00:48:15,727
+And you won't see me
+as a child anymore.
+
+844
+00:48:17,771 --> 00:48:18,772
+[Rain] What?
+
+845
+00:48:19,564 --> 00:48:20,565
+Andy!
+
+846
+00:48:20,690 --> 00:48:23,943
+[♪ Suspenseful music playing]
+
+847
+00:48:28,490 --> 00:48:30,075
+- [metal straining]
+- [Bjorn grunts]
+
+848
+00:48:30,241 --> 00:48:31,242
+- [Rain] Hey!
+- [Tyler] Bjorn!
+
+849
+00:48:33,119 --> 00:48:34,537
+[panting]
+
+850
+00:48:36,331 --> 00:48:38,083
+[Bjorn grunting]
+
+851
+00:48:44,881 --> 00:48:45,882
+[panting]
+
+852
+00:48:54,933 --> 00:48:55,934
+[Navarro] Fuck, fuck, fuck.
+
+853
+00:48:56,601 --> 00:48:57,936
+Navarro, undock!
+
+854
+00:48:58,103 --> 00:48:59,270
+<i>Undock the ship!</i>
+
+855
+00:49:02,023 --> 00:49:04,400
+[automated voice]
+<i>Undocking initiated.</i>
+
+856
+00:49:04,567 --> 00:49:06,986
+<i>Please clear the airlock.</i>
+
+857
+00:49:07,153 --> 00:49:08,154
+[alarm blaring]
+
+858
+00:49:19,124 --> 00:49:20,208
+What the fuck is he doing?
+
+859
+00:49:20,291 --> 00:49:21,459
+They can't
+just leave without us.
+
+860
+00:49:21,626 --> 00:49:23,419
+He thinks Andy's
+trying to kill Navarro.
+
+861
+00:49:25,088 --> 00:49:26,089
+What?
+
+862
+00:49:27,423 --> 00:49:28,550
+Wait, is he?
+
+863
+00:49:32,428 --> 00:49:33,596
+I don't know.
+
+864
+00:49:37,016 --> 00:49:38,977
+[Rain] Andy? Andy?
+
+865
+00:49:39,144 --> 00:49:40,353
+[Rain knocking on door]
+
+866
+00:49:40,436 --> 00:49:41,604
+Andy, open the door.
+
+867
+00:49:47,527 --> 00:49:50,155
+I'm sorry.
+I couldn't stop them.
+
+868
+00:49:51,197 --> 00:49:52,198
+Bjorn?
+
+869
+00:49:52,365 --> 00:49:53,408
+[over comms]
+<i>Bjorn, what are you doing?</i>
+
+870
+00:49:53,491 --> 00:49:54,576
+<i>You can't just leave us here.</i>
+
+871
+00:49:54,659 --> 00:49:55,785
+<i>You gotta come back
+and get us.</i>
+
+872
+00:49:55,952 --> 00:49:58,413
+Sorry, I can't do that until
+she turns that psychopath off.
+
+873
+00:50:00,665 --> 00:50:01,833
+[Kay] What's going on?
+
+874
+00:50:02,000 --> 00:50:03,126
+[Navarro] Andy, uh...
+
+875
+00:50:04,794 --> 00:50:07,172
+- Andy, he's glitchy.
+- [Kay] What?
+
+876
+00:50:07,630 --> 00:50:08,631
+[Navarro] I just need
+to get away
+
+877
+00:50:08,715 --> 00:50:10,049
+from this airlock right now.
+I just need...
+
+878
+00:50:12,302 --> 00:50:13,303
+[Kay] Navarro?
+
+879
+00:50:13,469 --> 00:50:14,596
+Are you all right?
+
+880
+00:50:15,430 --> 00:50:16,723
+What's wrong?
+What do you need?
+
+881
+00:50:16,806 --> 00:50:18,224
+[breathes shakily]
+
+882
+00:50:23,354 --> 00:50:24,355
+[Kay] Navarro?
+
+883
+00:50:26,900 --> 00:50:27,901
+[groaning]
+
+884
+00:50:28,568 --> 00:50:30,153
+- [bones cracking]
+- [Navarro grunts]
+
+885
+00:50:31,696 --> 00:50:33,198
+[Kay gasps]
+
+886
+00:50:33,281 --> 00:50:34,449
+[weakly] Oh, God.
+
+887
+00:50:34,616 --> 00:50:36,201
+[Kay] Oh, my God,
+what is that?
+
+888
+00:50:39,495 --> 00:50:41,289
+Navarro, please.
+Navarro! Navarro!
+
+889
+00:50:41,456 --> 00:50:42,665
+Hey, hey, hey.
+
+890
+00:50:42,874 --> 00:50:43,875
+[Navarro choking]
+
+891
+00:50:43,958 --> 00:50:46,002
+I don't know what to do,
+I'm sorry. I don't know.
+
+892
+00:50:47,295 --> 00:50:48,296
+[engines powering up]
+
+893
+00:50:52,008 --> 00:50:53,009
+- Someone talk to me!
+- [Kay sobbing over comms]
+
+894
+00:50:53,176 --> 00:50:55,136
+[Tyler] Kay, Bjorn, Navarro,
+what's going on?
+
+895
+00:51:04,187 --> 00:51:05,480
+[grunting]
+
+896
+00:51:05,730 --> 00:51:06,731
+[Kay] Help!
+
+897
+00:51:07,649 --> 00:51:09,025
+- Help!
+- [Navarro] Kay!
+
+898
+00:51:10,193 --> 00:51:12,862
+[Kay] What's happening?
+What's happening?
+
+899
+00:51:15,281 --> 00:51:17,200
+[weakly]
+Please don't let me die.
+
+900
+00:51:20,119 --> 00:51:21,120
+[Kay] Someone help!
+
+901
+00:51:21,287 --> 00:51:22,830
+[Navarro grunting]
+
+902
+00:51:23,748 --> 00:51:25,250
+[screaming]
+
+903
+00:51:33,007 --> 00:51:34,092
+[screaming]
+
+904
+00:51:36,344 --> 00:51:37,637
+[gasps]
+
+905
+00:51:41,474 --> 00:51:42,934
+- [grunts]
+- [gasps]
+
+906
+00:51:43,017 --> 00:51:44,519
+- [explosion]
+- [station rumbling]
+
+907
+00:52:00,034 --> 00:52:01,035
+[gasps]
+
+908
+00:52:06,499 --> 00:52:07,792
+[squealing]
+
+909
+00:52:13,673 --> 00:52:14,799
+[panting]
+
+910
+00:52:27,895 --> 00:52:29,522
+- [screams]
+- [metal screeching]
+
+911
+00:52:34,485 --> 00:52:36,279
+[grunts, screams]
+
+912
+00:52:41,534 --> 00:52:43,119
+[Tyler gasping]
+
+913
+00:52:49,709 --> 00:52:50,752
+[air whooshing]
+
+914
+00:53:06,768 --> 00:53:07,769
+Bjorn?
+
+915
+00:53:08,227 --> 00:53:09,228
+Kay?
+
+916
+00:53:09,395 --> 00:53:10,563
+We have to go get them.
+
+917
+00:53:11,272 --> 00:53:16,277
+[automated voice] <i>T-minus-47
+minutes to impact event.</i>
+
+918
+00:53:17,904 --> 00:53:18,905
+Doesn't make any sense.
+
+919
+00:53:19,072 --> 00:53:20,782
+No, I thought you said
+we had hours.
+
+920
+00:53:20,948 --> 00:53:22,575
+The explosion pushed
+the station's axis off
+
+921
+00:53:22,658 --> 00:53:24,035
+by a few degrees,
+
+922
+00:53:24,369 --> 00:53:26,454
+just enough to hit the
+asteroid belt a lot sooner.
+
+923
+00:53:26,829 --> 00:53:28,081
+[Rain] Where did they crash?
+
+924
+00:53:28,790 --> 00:53:29,874
+Romulus Hangar Bay,
+
+925
+00:53:29,957 --> 00:53:31,000
+on the other side
+of the station.
+
+926
+00:53:31,167 --> 00:53:32,377
+- Okay.
+- [Tyler] Let's go.
+
+927
+00:53:41,010 --> 00:53:46,015
+[automated voice] <i>T-minus-45
+minutes to impact event.</i>
+
+928
+00:53:50,103 --> 00:53:53,314
+Mother. What's the integrity
+of Compound Z-01 ?
+
+929
+00:53:59,862 --> 00:54:01,280
+There's still hope.
+
+930
+00:54:09,997 --> 00:54:11,082
+[Tyler] We need to find a way
+
+931
+00:54:11,165 --> 00:54:12,583
+to cross
+to the Romulus module.
+
+932
+00:54:17,255 --> 00:54:18,256
+- [Rain gasps]
+- [parasitoid screeching]
+
+933
+00:54:21,467 --> 00:54:22,468
+[Tyler] No, no, no.
+
+934
+00:54:22,635 --> 00:54:24,303
+[Rain] They must've spread
+from the lab.
+
+935
+00:54:28,141 --> 00:54:29,434
+[Tyler] I don't see
+another way.
+
+936
+00:54:29,600 --> 00:54:30,685
+Andy, can...
+
+937
+00:54:34,605 --> 00:54:36,190
+[Andy] I heard your voice
+in my head.
+
+938
+00:54:36,357 --> 00:54:37,400
+Calling.
+
+939
+00:54:37,900 --> 00:54:40,778
+[synthetic] ND-255
+artificial person.
+
+940
+00:54:41,112 --> 00:54:42,864
+Your model
+was once the backbone
+
+941
+00:54:42,947 --> 00:54:44,490
+of our colonization efforts,
+
+942
+00:54:44,657 --> 00:54:46,451
+and it's an honor to be
+in your presence.
+
+943
+00:54:46,617 --> 00:54:48,536
+Please allow me
+to introduce myself.
+
+944
+00:54:49,537 --> 00:54:51,205
+I'm Science Officer Rook,
+
+945
+00:54:51,747 --> 00:54:54,041
+and I humbly request
+your services now.
+
+946
+00:54:54,750 --> 00:54:56,961
+I'm afraid I have
+just one directive.
+
+947
+00:54:57,545 --> 00:55:00,548
+To do what's best for...
+
+948
+00:55:01,924 --> 00:55:04,260
+Your upgrade came
+with a new directive.
+
+949
+00:55:04,844 --> 00:55:06,262
+It overrides the old one.
+
+950
+00:55:06,929 --> 00:55:07,972
+I see.
+
+951
+00:55:09,265 --> 00:55:10,808
+What's required of me...
+
+952
+00:55:11,142 --> 00:55:12,143
+Sir?
+
+953
+00:55:12,685 --> 00:55:14,061
+To finish our mission.
+
+954
+00:55:15,563 --> 00:55:17,523
+[♪ Ominous music playing]
+
+955
+00:55:22,278 --> 00:55:23,529
+- [Rain] Andy!
+- [Tyler] Andy!
+
+956
+00:55:24,655 --> 00:55:25,656
+Andy.
+
+957
+00:55:25,823 --> 00:55:27,200
+[Andy] My apologies.
+
+958
+00:55:27,575 --> 00:55:29,660
+I was consulting my friend
+about our situation.
+
+959
+00:55:29,827 --> 00:55:30,828
+Follow me.
+
+960
+00:55:32,497 --> 00:55:34,040
+[Tyler] What? Our situation?
+How do you...
+
+961
+00:55:34,207 --> 00:55:36,167
+Andy! Andy!
+
+962
+00:55:40,296 --> 00:55:41,839
+[electricity crackling]
+
+963
+00:55:44,383 --> 00:55:45,843
+[Andy] The parasitoids
+have no eyes.
+
+964
+00:55:46,427 --> 00:55:48,012
+They track you by sound,
+
+965
+00:55:48,221 --> 00:55:49,931
+but primarily,
+by heat signature.
+
+966
+00:55:50,097 --> 00:55:51,182
+What?
+
+967
+00:55:51,849 --> 00:55:52,850
+Your body temperature.
+
+968
+00:55:53,017 --> 00:55:54,018
+[Tyler] Right.
+
+969
+00:55:54,227 --> 00:55:55,937
+If we raise the temperature
+in the room
+
+970
+00:55:56,020 --> 00:55:57,355
+to match our bodies,
+
+971
+00:55:57,522 --> 00:55:59,482
+would that make us
+invisible to them?
+
+972
+00:55:59,732 --> 00:56:01,275
+If we're quiet enough?
+
+973
+00:56:02,068 --> 00:56:03,653
+Just one way to find out.
+
+974
+00:56:11,244 --> 00:56:12,245
+Hey.
+
+975
+00:56:15,122 --> 00:56:16,415
+This is all my fault.
+
+976
+00:56:17,625 --> 00:56:19,252
+[Tyler sighs deeply]
+
+977
+00:56:19,418 --> 00:56:20,670
+Yeah, it is.
+
+978
+00:56:22,964 --> 00:56:25,258
+Yours, mine,
+and everyone else's.
+
+979
+00:56:27,927 --> 00:56:29,971
+We all decided
+to do this together.
+
+980
+00:56:34,559 --> 00:56:35,893
+We'll get to them.
+
+981
+00:56:36,936 --> 00:56:38,688
+[alarm blaring]
+
+982
+00:56:38,771 --> 00:56:43,776
+[automated voice] <i>T-minus
+40 minutes to impact event.</i>
+
+983
+00:56:44,986 --> 00:56:46,237
+[breathing weakly]
+
+984
+00:56:55,788 --> 00:56:57,248
+[whimpering]
+
+985
+00:57:00,376 --> 00:57:01,627
+[distorted beeping]
+
+986
+00:57:15,099 --> 00:57:16,183
+[Andy] The hallway's
+temperature
+
+987
+00:57:16,267 --> 00:57:17,643
+is now equal to your bodies,
+
+988
+00:57:17,810 --> 00:57:19,770
+so the creatures should not
+be able to see you.
+
+989
+00:57:19,937 --> 00:57:23,482
+But stress, fear, panic will
+spike your temperature
+
+990
+00:57:23,649 --> 00:57:24,984
+and you'll be exposed.
+
+991
+00:57:25,151 --> 00:57:26,902
+Sweat, goosebumps.
+
+992
+00:57:27,069 --> 00:57:29,196
+That's your skin trying to
+cool your body down.
+
+993
+00:57:29,363 --> 00:57:30,823
+So watch out for those.
+
+994
+00:57:31,741 --> 00:57:34,619
+Now, stay calm and stay quiet.
+
+995
+00:57:36,829 --> 00:57:38,623
+[parasitoids scuttling]
+
+996
+00:57:41,334 --> 00:57:43,002
+[parasitoids chittering]
+
+997
+00:58:04,899 --> 00:58:05,983
+- [parasitoids scuttling]
+- [gasps softly]
+
+998
+00:58:19,914 --> 00:58:21,624
+[electricity crackling]
+
+999
+00:58:26,712 --> 00:58:28,464
+- [loud electric crackling]
+- [gasps softly]
+
+1000
+00:58:34,261 --> 00:58:35,346
+[Tyler shushing softly]
+
+1001
+00:58:55,449 --> 00:58:56,992
+[breathing shakily]
+
+1002
+00:59:19,306 --> 00:59:20,307
+- [loud bang]
+- [gasps softly]
+
+1003
+00:59:20,391 --> 00:59:21,559
+[electricity buzzing]
+
+1004
+00:59:26,731 --> 00:59:27,732
+[squelching]
+
+1005
+00:59:36,657 --> 00:59:37,908
+[liquid dripping]
+
+1006
+00:59:43,622 --> 00:59:44,623
+[breathing shakily]
+
+1007
+00:59:47,293 --> 00:59:48,294
+[muffled gasp]
+
+1008
+00:59:50,129 --> 00:59:52,047
+[squelching]
+
+1009
+01:00:15,529 --> 01:00:16,989
+[cable clicks]
+
+1010
+01:00:17,072 --> 01:00:18,783
+[machinery powering up]
+
+1011
+01:00:21,202 --> 01:00:22,912
+[crackling]
+
+1012
+01:00:25,206 --> 01:00:26,207
+[squelching]
+
+1013
+01:00:28,292 --> 01:00:29,627
+- [muffled crackling]
+- [grunting]
+
+1014
+01:00:30,252 --> 01:00:32,213
+- [muffled screeching]
+- Come on. Come on!
+
+1015
+01:00:32,588 --> 01:00:35,925
+Come on! Come on!
+
+1016
+01:00:39,804 --> 01:00:41,263
+[gasping]
+
+1017
+01:00:41,388 --> 01:00:42,807
+[Xenomorph screeching]
+
+1018
+01:00:45,142 --> 01:00:46,602
+[Kay] Okay. Okay.
+
+1019
+01:00:46,769 --> 01:00:48,771
+Bjorn, let's go. Let's go.
+
+1020
+01:00:49,939 --> 01:00:50,981
+[sizzling]
+
+1021
+01:00:52,149 --> 01:00:53,150
+[panting]
+
+1022
+01:00:58,280 --> 01:00:59,406
+- [screams]
+- [gasps]
+
+1023
+01:01:01,534 --> 01:01:02,535
+Fuck!
+
+1024
+01:01:02,952 --> 01:01:04,119
+Stay back, stay back, please.
+
+1025
+01:01:06,163 --> 01:01:08,666
+- [flesh sizzling]
+- [groaning]
+
+1026
+01:01:09,083 --> 01:01:10,125
+Fuck!
+
+1027
+01:01:11,877 --> 01:01:13,379
+- [flesh sizzling]
+- [groans]
+
+1028
+01:01:13,587 --> 01:01:15,256
+No! Fuck!
+
+1029
+01:01:15,381 --> 01:01:17,258
+[♪ Tense music playing]
+
+1030
+01:01:21,095 --> 01:01:22,388
+[continues groaning]
+
+1031
+01:01:24,390 --> 01:01:25,391
+[grunts]
+
+1032
+01:01:29,645 --> 01:01:31,647
+[♪ Foreboding music playing]
+
+1033
+01:01:35,818 --> 01:01:37,361
+[breath trembling]
+
+1034
+01:01:41,115 --> 01:01:42,116
+[whimpering]
+
+1035
+01:01:43,325 --> 01:01:44,618
+[squelching]
+
+1036
+01:01:46,871 --> 01:01:48,873
+[breathing shakily]
+
+1037
+01:01:50,416 --> 01:01:51,417
+[Kay over comms] <i>Tyler.</i>
+
+1038
+01:01:53,085 --> 01:01:54,086
+<i>Come on.</i>
+
+1039
+01:01:55,462 --> 01:01:56,672
+[scuttling nearby]
+
+1040
+01:02:01,510 --> 01:02:02,511
+[whispers] Kay...
+
+1041
+01:02:04,763 --> 01:02:06,223
+[sobbing] Oh, my God, Tyler...
+
+1042
+01:02:06,390 --> 01:02:08,058
+[Tyler whispers]
+Kay, I'm here. I'm here.
+
+1043
+01:02:08,642 --> 01:02:10,769
+[Kay] <i>Please, Tyler, help me.</i>
+
+1044
+01:02:10,936 --> 01:02:12,980
+<i>Everyone's dead.
+I can't open this door.</i>
+
+1045
+01:02:13,439 --> 01:02:14,440
+Please.
+
+1046
+01:02:19,069 --> 01:02:20,112
+[gasps]
+
+1047
+01:02:20,279 --> 01:02:21,906
+[whispers] The lever
+with the red button,
+
+1048
+01:02:22,072 --> 01:02:23,490
+there's a key to the left.
+
+1049
+01:02:25,409 --> 01:02:26,410
+[Kay] <i>Help.</i>
+
+1050
+01:02:26,577 --> 01:02:27,661
+I can't find it.
+
+1051
+01:02:27,828 --> 01:02:29,288
+There's not a key.
+There isn't a key, Tyler.
+
+1052
+01:02:31,957 --> 01:02:33,375
+[Tyler whispers] <i>It'll be
+there. It has to be there.</i>
+
+1053
+01:02:33,542 --> 01:02:35,127
+A key. Okay, okay.
+
+1054
+01:02:36,545 --> 01:02:37,546
+[grunts]
+
+1055
+01:02:46,305 --> 01:02:47,932
+Uh... [whimpers]
+
+1056
+01:02:48,933 --> 01:02:51,018
+[♪ Menacing music plays]
+
+1057
+01:02:54,855 --> 01:02:56,398
+I have the key.
+I have the key.
+
+1058
+01:03:01,487 --> 01:03:02,488
+Oh, my God.
+
+1059
+01:03:02,696 --> 01:03:03,948
+[grunting]
+
+1060
+01:03:06,951 --> 01:03:07,952
+[screaming]
+
+1061
+01:03:09,954 --> 01:03:11,080
+[thud echoes]
+
+1062
+01:03:23,801 --> 01:03:24,802
+Run.
+
+1063
+01:03:26,220 --> 01:03:27,554
+[Tyler] Go! Go!
+
+1064
+01:03:27,721 --> 01:03:29,056
+[Rain and Tyler panting]
+
+1065
+01:03:29,139 --> 01:03:30,599
+[♪ Tense music playing]
+
+1066
+01:03:40,234 --> 01:03:41,235
+[Rain yelps]
+
+1067
+01:03:42,111 --> 01:03:43,112
+[Rain shouting indistinctly]
+
+1068
+01:03:51,787 --> 01:03:52,788
+[Rain] Wait!
+
+1069
+01:03:53,247 --> 01:03:54,248
+[Tyler] Wait!
+
+1070
+01:03:54,915 --> 01:03:56,792
+- Come on!
+- [grunts]
+
+1071
+01:03:59,545 --> 01:04:01,380
+[both panting]
+
+1072
+01:04:05,509 --> 01:04:07,386
+You almost closed
+the door on him.
+
+1073
+01:04:07,553 --> 01:04:10,431
+Yes, but I didn't.
+
+1074
+01:04:10,597 --> 01:04:11,974
+I calculated
+the timing perfectly
+
+1075
+01:04:12,057 --> 01:04:13,517
+with more success
+than last time.
+
+1076
+01:04:14,685 --> 01:04:15,686
+Won't you agree?
+
+1077
+01:04:16,854 --> 01:04:18,397
+We're getting close.
+
+1078
+01:04:18,564 --> 01:04:19,773
+Let's move.
+
+1079
+01:04:21,025 --> 01:04:26,196
+[automated voice] <i>T-minus
+30 minutes to impact event.</i>
+
+1080
+01:04:45,132 --> 01:04:46,341
+[groans]
+
+1081
+01:04:48,427 --> 01:04:49,553
+[pipe clanks]
+
+1082
+01:04:57,436 --> 01:04:58,896
+[groaning]
+
+1083
+01:05:08,363 --> 01:05:10,949
+[breathing heavily]
+
+1084
+01:05:15,579 --> 01:05:16,580
+[whimpers]
+
+1085
+01:05:19,750 --> 01:05:21,418
+- [metal creaking]
+- [grunts]
+
+1086
+01:05:30,969 --> 01:05:32,096
+- [thudding]
+- [gasps]
+
+1087
+01:05:33,263 --> 01:05:34,473
+[breathing shakily]
+
+1088
+01:05:37,434 --> 01:05:38,685
+[metal thudding]
+
+1089
+01:05:39,478 --> 01:05:41,313
+[hissing and snarling]
+
+1090
+01:05:57,663 --> 01:05:59,081
+[metal thudding]
+
+1091
+01:06:03,752 --> 01:06:05,212
+[metal thudding]
+
+1092
+01:06:53,010 --> 01:06:55,012
+[automated voice]
+<i>Access denied.</i>
+
+1093
+01:06:55,679 --> 01:06:58,307
+[alarm blaring]
+
+1094
+01:06:58,390 --> 01:06:59,766
+[panting]
+
+1095
+01:07:00,726 --> 01:07:02,519
+- [door thuds]
+- [muffled] Kay...
+
+1096
+01:07:03,937 --> 01:07:05,022
+We're here. We're here.
+It's all right,
+
+1097
+01:07:05,147 --> 01:07:06,148
+it's all right,
+it's all right.
+
+1098
+01:07:06,315 --> 01:07:07,316
+Andy, open the door.
+
+1099
+01:07:07,858 --> 01:07:08,942
+It's all right.
+
+1100
+01:07:10,027 --> 01:07:11,111
+We're gonna get you out.
+
+1101
+01:07:11,695 --> 01:07:12,863
+[muffled] Tyler,
+open the door.
+
+1102
+01:07:13,030 --> 01:07:14,489
+Open the door. Come on.
+
+1103
+01:07:16,116 --> 01:07:17,284
+Oh, my God.
+
+1104
+01:07:17,451 --> 01:07:18,660
+[Tyler] Look at me. Kay,
+Kay, Kay. Look at me.
+
+1105
+01:07:18,827 --> 01:07:20,037
+- [Rain] Andy, open the door.
+- Kay, look at me. Look at me.
+
+1106
+01:07:20,120 --> 01:07:21,163
+It's all right.
+I'm gonna get you out.
+
+1107
+01:07:21,330 --> 01:07:22,873
+Andy, open the door.
+Stop fucking around.
+
+1108
+01:07:22,956 --> 01:07:24,041
+- [Rain] What are you doing?
+- [Tyler] Don't look
+
+1109
+01:07:24,124 --> 01:07:26,585
+- over there. Andy.
+- [Kay]Tyler, what's wrong?
+
+1110
+01:07:26,752 --> 01:07:28,670
+Hey, I need you to open
+that door right now, okay?
+
+1111
+01:07:28,837 --> 01:07:30,839
+That's what the creature's
+waiting for us to do.
+
+1112
+01:07:31,840 --> 01:07:34,343
+- [Kay] Open it, please.
+- [snarling]
+
+1113
+01:07:34,426 --> 01:07:35,552
+[Tyler] Andy.
+Andy, open the door.
+
+1114
+01:07:35,636 --> 01:07:36,845
+Listen to me.
+Listen to me. She's pregnant.
+
+1115
+01:07:36,929 --> 01:07:39,723
+[Kay] Just, please.
+Guys, please. Come on.
+
+1116
+01:07:39,890 --> 01:07:41,642
+[Rain] She's gonna
+have a baby. Okay?
+
+1117
+01:07:41,808 --> 01:07:43,685
+- Do you hear what I'm saying?
+- [Andy] It takes that door
+
+1118
+01:07:43,769 --> 01:07:45,020
+two seconds to open,
+another two to fully close.
+
+1119
+01:07:45,187 --> 01:07:47,022
+[Kay] What are you doing?
+What are you doing?
+
+1120
+01:07:47,773 --> 01:07:48,941
+Come on,
+what are you doing? Please...
+
+1121
+01:07:49,191 --> 01:07:51,360
+That's plenty of time for the
+creature to get in here.
+
+1122
+01:07:51,526 --> 01:07:54,071
+[Kay] Please, please,
+please open the door.
+
+1123
+01:07:54,238 --> 01:07:56,365
+- Why won't you help me?
+- [muffled] Listen, listen.
+
+1124
+01:07:56,531 --> 01:07:57,658
+- Come on, help me, please.
+- You have to run right now.
+
+1125
+01:07:57,824 --> 01:07:58,909
+- Please, please.
+- Run. Run.
+
+1126
+01:07:59,076 --> 01:08:00,118
+You're one of us, man.
+You're one of us!
+
+1127
+01:08:00,244 --> 01:08:01,245
+[Rain] Kay, it's the only way.
+
+1128
+01:08:01,328 --> 01:08:02,371
+- Open the fucking door. Andy!
+- [Rain] You have to
+
+1129
+01:08:02,454 --> 01:08:03,747
+- fucking run. All right?
+- [Tyler] Andy, please!
+
+1130
+01:08:03,830 --> 01:08:04,915
+- [Rain] It's the only way.
+- [Tyler] Andy!
+
+1131
+01:08:05,082 --> 01:08:06,333
+- [Rain] You have to run!
+- [Kay] Please!
+
+1132
+01:08:06,500 --> 01:08:07,960
+- [Tyler] Open the fucking...
+- [muffled scream]
+
+1133
+01:08:08,627 --> 01:08:11,505
+- [Xenomorph screeching]
+- [Tyler] Kay! Kay!
+
+1134
+01:08:12,714 --> 01:08:14,049
+No, no, no.
+
+1135
+01:08:14,216 --> 01:08:15,217
+Kay!
+
+1136
+01:08:15,926 --> 01:08:17,344
+[Tyler sobbing]
+
+1137
+01:08:23,016 --> 01:08:24,101
+[yells]
+
+1138
+01:08:26,395 --> 01:08:27,437
+[Tyler mumbling] I'll open it.
+
+1139
+01:08:28,355 --> 01:08:29,648
+She's all right. She's moving.
+
+1140
+01:08:29,815 --> 01:08:31,483
+No. It's all right.
+
+1141
+01:08:32,734 --> 01:08:33,777
+[Rain sobbing]
+
+1142
+01:08:39,074 --> 01:08:40,659
+[Tyler] Andy,
+open the door, please.
+
+1143
+01:08:41,285 --> 01:08:43,829
+Andy, I need to go
+and get her.
+
+1144
+01:08:44,830 --> 01:08:46,290
+I'm truly sorry.
+
+1145
+01:08:46,707 --> 01:08:48,292
+There was nothing I could
+have done to save her.
+
+1146
+01:08:48,458 --> 01:08:51,003
+You could have opened
+the fucking door! [yells]
+
+1147
+01:08:51,169 --> 01:08:52,879
+We'd all be dead if I had.
+
+1148
+01:08:55,132 --> 01:08:56,466
+We need to move
+before the creature
+
+1149
+01:08:56,550 --> 01:08:57,592
+finds its way into this room.
+
+1150
+01:08:57,759 --> 01:08:58,802
+[Rain] Andy...
+
+1151
+01:09:01,013 --> 01:09:03,181
+what's your prime directive?
+
+1152
+01:09:04,850 --> 01:09:06,560
+I'm afraid
+I have a new directive.
+
+1153
+01:09:07,602 --> 01:09:09,730
+To do what's best
+for the company.
+
+1154
+01:09:09,896 --> 01:09:11,189
+[breathing shakily]
+
+1155
+01:09:12,024 --> 01:09:14,151
+I need to remove that module.
+
+1156
+01:09:14,943 --> 01:09:17,404
+I'm afraid that's not in the
+best interest of the company.
+
+1157
+01:09:24,411 --> 01:09:25,579
+We need to move.
+
+1158
+01:09:26,413 --> 01:09:27,414
+Now.
+
+1159
+01:09:37,299 --> 01:09:39,009
+How could you do that?
+
+1160
+01:09:40,260 --> 01:09:41,261
+What?
+
+1161
+01:09:42,012 --> 01:09:43,638
+Leave someone behind?
+
+1162
+01:09:48,226 --> 01:09:49,519
+Where are we going?
+
+1163
+01:09:51,605 --> 01:09:54,107
+To finish a task Rook
+has entrusted upon me.
+
+1164
+01:09:54,941 --> 01:09:56,860
+When completed,
+he'll clear the <i>Corbelan</i>
+
+1165
+01:09:56,943 --> 01:09:58,862
+for departure and open
+the docking bay doors.
+
+1166
+01:09:59,738 --> 01:10:01,740
+You will be free to continue
+to Yvaga together.
+
+1167
+01:10:02,157 --> 01:10:03,867
+And I'll return to Jackson.
+
+1168
+01:10:04,159 --> 01:10:05,202
+And stay in Jackson.
+
+1169
+01:10:09,456 --> 01:10:12,125
+That is, assuming
+we make it out of here alive.
+
+1170
+01:10:23,303 --> 01:10:24,304
+We're here.
+
+1171
+01:10:28,225 --> 01:10:29,726
+[door levers cranking]
+
+1172
+01:10:31,895 --> 01:10:33,897
+[♪ Dramatic music playing]
+
+1173
+01:10:49,037 --> 01:10:51,540
+[automated voice]
+<i>Romulus Beta Lab.</i>
+
+1174
+01:10:51,706 --> 01:10:56,545
+<i>All personnel require
+A-1 security clearance.</i>
+
+1175
+01:10:58,713 --> 01:10:59,965
+[Rain] What is that?
+
+1176
+01:11:00,132 --> 01:11:02,843
+Probably some fucked up
+bio-weapon, I'm sure.
+
+1177
+01:11:03,343 --> 01:11:04,719
+[Rook over monitor]
+<i>Actually, quite the opposite.</i>
+
+1178
+01:11:06,721 --> 01:11:07,848
+<i>Andy, tell them.</i>
+
+1179
+01:11:08,557 --> 01:11:10,183
+<i>Tell them what I told you.</i>
+
+1180
+01:11:10,350 --> 01:11:11,852
+[Andy] Our colonies are dying.
+
+1181
+01:11:12,018 --> 01:11:15,188
+Unbearable temperatures,
+novel diseases every cycle.
+
+1182
+01:11:15,856 --> 01:11:17,065
+Toxic mine fumes.
+
+1183
+01:11:17,232 --> 01:11:20,235
+It's all one unforeseen
+tragedy after the other.
+
+1184
+01:11:20,402 --> 01:11:23,738
+<i>Mankind was never truly suited
+for space colonization.</i>
+
+1185
+01:11:23,905 --> 01:11:26,032
+<i>They're simply too fragile.</i>
+
+1186
+01:11:27,784 --> 01:11:28,869
+<i>They're too weak.</i>
+
+1187
+01:11:30,579 --> 01:11:32,789
+The work of this station
+aimed to change that.
+
+1188
+01:11:32,998 --> 01:11:34,666
+"The perfect organism."
+
+1189
+01:11:34,749 --> 01:11:36,626
+That's how we should
+refer to human beings.
+
+1190
+01:11:37,919 --> 01:11:40,922
+<i>So, I set this wrong right.</i>
+
+1191
+01:11:41,631 --> 01:11:44,718
+<i>I took its gift for humanity.</i>
+
+1192
+01:11:47,137 --> 01:11:49,848
+Inside the parasitoids
+I bio engineered
+
+1193
+01:11:49,931 --> 01:11:51,308
+from the Xenomorph's DNA,
+
+1194
+01:11:51,475 --> 01:11:53,727
+I discovered a unique
+non-Newtonian fluid.
+
+1195
+01:11:54,603 --> 01:11:55,604
+<i>Life.</i>
+
+1196
+01:11:56,813 --> 01:12:00,233
+<i>In its most primal,
+unadulterated form.</i>
+
+1197
+01:12:00,400 --> 01:12:02,152
+<i>This microorganism
+can be the most</i>
+
+1198
+01:12:02,235 --> 01:12:04,571
+<i>destructive pathogen
+ever observed.</i>
+
+1199
+01:12:05,197 --> 01:12:08,033
+<i>But acetylated
+and synthesized in our lab,</i>
+
+1200
+01:12:08,200 --> 01:12:09,659
+<i>I've turned it
+into the miracle</i>
+
+1201
+01:12:09,743 --> 01:12:11,953
+<i>Mr. Weyland died
+searching for.</i>
+
+1202
+01:12:12,996 --> 01:12:14,456
+Prometheus fire.
+
+1203
+01:12:15,540 --> 01:12:18,418
+The divine gift to humanity.
+
+1204
+01:12:20,337 --> 01:12:22,964
+<i>Z-01 contains
+the genome responsible</i>
+
+1205
+01:12:23,131 --> 01:12:25,008
+<i>for the Xeno's ability
+to accelerate</i>
+
+1206
+01:12:25,091 --> 01:12:27,302
+<i>and slow down
+its metabolism at will.</i>
+
+1207
+01:12:27,719 --> 01:12:30,972
+<i>Its symbiotic capableness
+easily rewrites</i>
+
+1208
+01:12:31,056 --> 01:12:32,807
+<i>the host's DNA
+through its blood.</i>
+
+1209
+01:12:35,852 --> 01:12:40,065
+<i>This is a much needed and well
+overdue upgrade for humanity.</i>
+
+1210
+01:12:40,649 --> 01:12:43,735
+<i>We simply cannot wait
+for evolution anymore.</i>
+
+1211
+01:12:44,277 --> 01:12:46,321
+Yeah, can we
+get out of here now?
+
+1212
+01:12:47,030 --> 01:12:48,615
+My mission is to take
+this back to the colony
+
+1213
+01:12:48,698 --> 01:12:49,866
+for further development.
+
+1214
+01:12:50,825 --> 01:12:52,285
+Rook is tracking the compound.
+
+1215
+01:12:53,245 --> 01:12:54,412
+When detected inside our ship,
+
+1216
+01:12:54,538 --> 01:12:55,664
+he'll open
+the docking bay doors
+
+1217
+01:12:55,830 --> 01:12:57,749
+and set the hauler on
+autopilot back to the colony.
+
+1218
+01:12:59,167 --> 01:13:00,168
+Wait.
+
+1219
+01:13:02,921 --> 01:13:03,964
+Do you see it?
+
+1220
+01:13:08,635 --> 01:13:09,636
+There.
+
+1221
+01:13:10,387 --> 01:13:11,888
+The fucking thing's
+huntin' us.
+
+1222
+01:13:13,348 --> 01:13:15,308
+[Andy] Right. New plan.
+
+1223
+01:13:16,101 --> 01:13:17,352
+Can you manage yourself
+with a gun?
+
+1224
+01:13:19,187 --> 01:13:20,855
+Yes, I fucking can.
+
+1225
+01:13:27,070 --> 01:13:29,364
+Right, this is an
+F44AA pulse rifle.
+
+1226
+01:13:29,531 --> 01:13:31,324
+It's rotating breech,
+electronic pulse action.
+
+1227
+01:13:31,491 --> 01:13:32,784
+It's what the
+Colonial Marines used.
+
+1228
+01:13:32,951 --> 01:13:34,619
+AA stands for Aiming Assist.
+
+1229
+01:13:34,786 --> 01:13:36,371
+So, right,
+you put that under your arm.
+
+1230
+01:13:38,164 --> 01:13:39,541
+[rifle clicks]
+
+1231
+01:13:39,624 --> 01:13:41,167
+That's it.
+Right, this hand here.
+
+1232
+01:13:44,379 --> 01:13:45,547
+All right.
+Aim it towards Andy.
+
+1233
+01:13:46,214 --> 01:13:47,382
+Pull the trigger haltway.
+
+1234
+01:13:48,550 --> 01:13:49,759
+Don't worry, the safety's on.
+
+1235
+01:13:53,221 --> 01:13:54,389
+[rifle chiming, clicks]
+
+1236
+01:13:54,556 --> 01:13:55,557
+See?
+
+1237
+01:13:55,932 --> 01:13:57,475
+Aiming assistance.
+
+1238
+01:13:57,642 --> 01:13:58,810
+If that thing
+comes towards you,
+
+1239
+01:13:58,977 --> 01:14:00,979
+you point it in its general
+direction, you'll never miss.
+
+1240
+01:14:01,730 --> 01:14:03,523
+- Where'd you learn all this?
+- Uh...
+
+1241
+01:14:04,899 --> 01:14:06,234
+Games and magazines.
+
+1242
+01:14:07,110 --> 01:14:08,987
+You've just got one mag.
+That's it.
+
+1243
+01:14:09,446 --> 01:14:10,655
+450 rounds.
+
+1244
+01:14:11,114 --> 01:14:12,824
+[Andy] And you mustn't fire
+a single one.
+
+1245
+01:14:14,409 --> 01:14:16,828
+Acid for blood. Remember?
+
+1246
+01:14:17,954 --> 01:14:19,789
+We're on the bottom floor
+of the station.
+
+1247
+01:14:19,956 --> 01:14:21,583
+Below our feet
+is the vacuum of space.
+
+1248
+01:14:21,750 --> 01:14:23,043
+You shoot that creature
+
+1249
+01:14:23,209 --> 01:14:25,587
+and it's a guaranteed
+instant decompression.
+
+1250
+01:14:26,129 --> 01:14:27,172
+And we all die.
+
+1251
+01:14:27,339 --> 01:14:28,715
+So what's the point
+in giving us the guns?
+
+1252
+01:14:28,882 --> 01:14:30,717
+Because the creature
+may see it as a threat,
+
+1253
+01:14:30,884 --> 01:14:33,178
+and maybe won't charge at us
+dead on.
+
+1254
+01:14:33,803 --> 01:14:34,804
+Maybe.
+
+1255
+01:14:35,138 --> 01:14:36,306
+Big maybe.
+
+1256
+01:14:37,432 --> 01:14:39,184
+I found us a way
+through the conveyor belt.
+
+1257
+01:14:39,768 --> 01:14:40,935
+This way.
+
+1258
+01:14:44,481 --> 01:14:45,649
+Andy.
+
+1259
+01:14:47,275 --> 01:14:48,568
+Are you there?
+
+1260
+01:15:12,717 --> 01:15:14,511
+[rat squeaking]
+
+1261
+01:15:20,684 --> 01:15:25,689
+[automated voice] <i>T-minus
+20 minutes to impact event.</i>
+
+1262
+01:15:37,659 --> 01:15:39,536
+[Andy] There's a lift
+at the end of this corridor.
+
+1263
+01:15:39,703 --> 01:15:41,496
+It will take us
+directly to our ship.
+
+1264
+01:15:54,467 --> 01:15:56,010
+[Rain] There's more
+of those things.
+
+1265
+01:15:56,177 --> 01:15:57,762
+Yeah, that's not good.
+
+1266
+01:15:58,179 --> 01:16:00,515
+[Andy] They seem to have been
+here for quite some time.
+
+1267
+01:16:07,981 --> 01:16:08,982
+[Rain] Andy?
+
+1268
+01:16:15,488 --> 01:16:16,990
+[lever clicks]
+
+1269
+01:16:18,783 --> 01:16:19,951
+[Rain breathing shakily]
+
+1270
+01:16:20,034 --> 01:16:22,495
+[lights switching on]
+
+1271
+01:16:26,875 --> 01:16:28,460
+[gasps]
+
+1272
+01:16:28,543 --> 01:16:30,336
+[softly] Jesus Christ.
+
+1273
+01:16:32,922 --> 01:16:34,174
+[♪ Sinister music playing]
+
+1274
+01:16:35,258 --> 01:16:36,926
+[Andy] Busy little creatures.
+
+1275
+01:16:49,522 --> 01:16:51,775
+I think we better go back
+and find another way.
+
+1276
+01:16:51,941 --> 01:16:53,485
+That might be a good idea.
+
+1277
+01:16:56,029 --> 01:16:57,614
+[Rain] Andy,
+see if you can open this gate.
+
+1278
+01:16:57,739 --> 01:16:59,282
+- [heavy breathing in distance]
+- [Tyler] Stop.
+
+1279
+01:17:00,950 --> 01:17:01,993
+[Rain] What?
+
+1280
+01:17:12,128 --> 01:17:14,631
+[groaning echoing]
+
+1281
+01:17:14,798 --> 01:17:15,799
+Kay!
+
+1282
+01:17:16,132 --> 01:17:17,717
+[Rain] Hey!
+
+1283
+01:17:17,884 --> 01:17:18,885
+Tyler!
+
+1284
+01:17:20,094 --> 01:17:21,095
+Tyler!
+
+1285
+01:17:21,262 --> 01:17:22,263
+[Tyler] Kay!
+
+1286
+01:17:25,058 --> 01:17:26,059
+Kay!
+
+1287
+01:17:31,189 --> 01:17:32,190
+Kay!
+
+1288
+01:17:32,774 --> 01:17:34,192
+[gasping]
+
+1289
+01:17:36,444 --> 01:17:38,530
+[♪ Eerie music playing]
+
+1290
+01:17:45,286 --> 01:17:46,287
+[Tyler] Kay!
+
+1291
+01:17:47,288 --> 01:17:48,331
+I got her, I got her.
+
+1292
+01:17:51,751 --> 01:17:53,545
+It's all right. We got you.
+
+1293
+01:17:53,711 --> 01:17:54,838
+She's alive.
+
+1294
+01:18:01,928 --> 01:18:03,596
+[Tyler and Rain grunting]
+
+1295
+01:18:03,763 --> 01:18:05,014
+[Tyler] Okay, we got you,
+we got you.
+
+1296
+01:18:05,223 --> 01:18:06,641
+[Rain] Hold on.
+
+1297
+01:18:06,933 --> 01:18:08,017
+[Tyler grunts] Okay.
+
+1298
+01:18:08,184 --> 01:18:09,561
+[Kay groaning weakly]
+
+1299
+01:18:11,646 --> 01:18:12,647
+[Tyler] We're here,
+we're here.
+
+1300
+01:18:12,814 --> 01:18:14,315
+Tyler, she's losing
+a lot of blood.
+
+1301
+01:18:14,482 --> 01:18:16,484
+[Andy] Maybe that's why
+she hasn't been implanted yet.
+
+1302
+01:18:17,610 --> 01:18:18,611
+[Tyler]How do you know?
+
+1303
+01:18:18,862 --> 01:18:21,072
+There's no dead
+parasitoid by her feet.
+
+1304
+01:18:21,573 --> 01:18:23,491
+Andy, this is on you.
+So you do something.
+
+1305
+01:18:24,367 --> 01:18:25,827
+Please! Andy!
+
+1306
+01:18:30,874 --> 01:18:33,543
+[Andy] 25% of the human genome
+is shared with rats.
+
+1307
+01:18:34,210 --> 01:18:35,670
+And it worked on the rat.
+
+1308
+01:18:37,255 --> 01:18:38,548
+[breathing weakly]
+
+1309
+01:18:40,466 --> 01:18:41,467
+[Tyler] Come on, Kay.
+
+1310
+01:18:44,846 --> 01:18:45,847
+[Rain] Don't.
+
+1311
+01:18:46,139 --> 01:18:47,265
+What choice do I have?
+
+1312
+01:18:48,224 --> 01:18:49,475
+We take her back to the hauler
+
+1313
+01:18:49,559 --> 01:18:51,269
+and we put her
+in the cryo-pod. Okay?
+
+1314
+01:18:51,436 --> 01:18:52,896
+That will keep her alive
+long enough to
+
+1315
+01:18:52,979 --> 01:18:54,314
+get her proper treatment
+back at the colony.
+
+1316
+01:18:54,814 --> 01:18:56,357
+I don't trust this.
+
+1317
+01:18:56,524 --> 01:18:57,692
+Andy, will she make it?
+
+1318
+01:18:57,859 --> 01:18:59,193
+If we hurry.
+
+1319
+01:19:06,075 --> 01:19:07,201
+[screeching]
+
+1320
+01:19:08,453 --> 01:19:09,829
+[distant screeching]
+
+1321
+01:19:11,539 --> 01:19:12,874
+[rifle powering up]
+
+1322
+01:19:16,878 --> 01:19:18,588
+[♪ Tense music playing]
+
+1323
+01:19:18,671 --> 01:19:19,672
+[Rain] Go! Go!
+
+1324
+01:19:26,638 --> 01:19:27,722
+[Rain] I see it. I see it.
+
+1325
+01:19:27,847 --> 01:19:29,098
+[Tyler] This is it,
+this is it.
+
+1326
+01:19:29,182 --> 01:19:30,558
+[Rain] I got her.
+I got her. I got her.
+
+1327
+01:19:31,142 --> 01:19:32,769
+[Rain] You're okay.
+You're okay.
+
+1328
+01:19:32,936 --> 01:19:34,729
+We're so close.
+We're so close.
+
+1329
+01:19:35,688 --> 01:19:37,273
+[Kay wincing and groaning]
+
+1330
+01:19:37,440 --> 01:19:38,942
+Hey. Hey, you're okay.
+
+1331
+01:19:39,108 --> 01:19:41,402
+Hey, we're almost there.
+We're almost there.
+
+1332
+01:19:41,569 --> 01:19:42,570
+You see, you're so close.
+
+1333
+01:19:42,737 --> 01:19:44,155
+You just gotta hang in there.
+
+1334
+01:19:48,409 --> 01:19:49,410
+[Tyler] Watch out!
+
+1335
+01:19:49,744 --> 01:19:50,745
+- [Xenomorph screeching]
+- [gasps]
+
+1336
+01:19:53,748 --> 01:19:54,749
+[Tyler groans]
+
+1337
+01:19:55,124 --> 01:19:56,125
+[Rain] Tyler?
+
+1338
+01:19:56,250 --> 01:19:57,752
+- [Kay whimpering]
+- Tyler!
+
+1339
+01:19:59,671 --> 01:20:00,797
+- [Andy grunts]
+- [Rain wails]
+
+1340
+01:20:04,092 --> 01:20:05,760
+[Tyler screaming]
+
+1341
+01:20:08,888 --> 01:20:10,348
+[Tyler screaming]
+
+1342
+01:20:13,685 --> 01:20:15,520
+[Xenomorph hissing]
+
+1343
+01:20:21,150 --> 01:20:22,902
+[Xenomorphs snarling]
+
+1344
+01:20:23,945 --> 01:20:25,238
+[yelling]
+
+1345
+01:20:27,949 --> 01:20:29,659
+Is that all you got?
+Is that all you got?
+
+1346
+01:20:29,742 --> 01:20:30,994
+[snarling]
+
+1347
+01:20:31,119 --> 01:20:32,453
+[Tyler yelling]
+
+1348
+01:20:34,205 --> 01:20:35,331
+[both gasping]
+
+1349
+01:20:36,582 --> 01:20:37,625
+- [Rain] Andy!
+- [Xenomorph snarling]
+
+1350
+01:20:37,959 --> 01:20:38,960
+[gasping]
+
+1351
+01:20:41,963 --> 01:20:43,131
+[shuddering]
+
+1352
+01:20:45,591 --> 01:20:47,218
+No! Tyler!
+
+1353
+01:20:57,687 --> 01:20:58,688
+[grunting]
+
+1354
+01:21:04,068 --> 01:21:05,069
+[elevator whirring]
+
+1355
+01:21:13,578 --> 01:21:14,787
+[sobbing]
+
+1356
+01:21:15,580 --> 01:21:17,623
+[♪ Somber music playing]
+
+1357
+01:21:33,389 --> 01:21:34,640
+[Andy shuddering]
+
+1358
+01:21:55,411 --> 01:21:56,954
+[elevator stops]
+
+1359
+01:21:57,038 --> 01:22:00,208
+Kay, Kay, listen to me, okay?
+
+1360
+01:22:00,374 --> 01:22:02,210
+This goes
+straight to our ship.
+
+1361
+01:22:02,376 --> 01:22:05,546
+I need you to take this.
+And get into a cryo-pod.
+
+1362
+01:22:05,713 --> 01:22:08,216
+And autopilot will fly you
+back to our colony.
+
+1363
+01:22:09,383 --> 01:22:10,593
+Can you do that?
+
+1364
+01:22:11,010 --> 01:22:12,345
+[Kay sniffling]
+
+1365
+01:22:13,971 --> 01:22:14,972
+Yes?
+
+1366
+01:22:15,139 --> 01:22:16,474
+What about you?
+
+1367
+01:22:17,725 --> 01:22:19,143
+I'll find a way back.
+
+1368
+01:22:20,186 --> 01:22:21,229
+[sniffles]
+
+1369
+01:22:30,863 --> 01:22:32,198
+[Kay sobbing]
+
+1370
+01:22:34,200 --> 01:22:36,369
+[elevator starts]
+
+1371
+01:22:44,961 --> 01:22:46,045
+[sobbing]
+
+1372
+01:22:50,049 --> 01:22:51,050
+[winces]
+
+1373
+01:23:12,655 --> 01:23:14,115
+[autoinjector clicks]
+
+1374
+01:23:24,542 --> 01:23:25,877
+[lever clanks]
+
+1375
+01:23:34,093 --> 01:23:36,095
+[♪ Dramatic music playing]
+
+1376
+01:23:41,976 --> 01:23:43,019
+[gasps]
+
+1377
+01:23:44,854 --> 01:23:46,147
+[distant screeching]
+
+1378
+01:23:51,694 --> 01:23:53,196
+[gasps]
+
+1379
+01:23:53,779 --> 01:23:55,531
+[Andy whimpering]
+
+1380
+01:24:04,832 --> 01:24:06,125
+[shuddering]
+
+1381
+01:24:14,217 --> 01:24:15,551
+Let me take it out.
+
+1382
+01:24:16,594 --> 01:24:18,471
+And I'll fix you in return.
+
+1383
+01:24:23,726 --> 01:24:24,977
+Listen to me.
+
+1384
+01:24:25,770 --> 01:24:27,605
+You'll die in here
+
+1385
+01:24:27,772 --> 01:24:29,065
+and that's not
+in the best interest
+
+1386
+01:24:29,148 --> 01:24:31,400
+of the company or mine.
+
+1387
+01:24:48,292 --> 01:24:49,877
+- [module shuts down]
+- [Andy whimpering]
+
+1388
+01:24:56,842 --> 01:24:58,261
+[device cranking, beeping]
+
+1389
+01:25:01,889 --> 01:25:02,890
+[whimpering stops]
+
+1390
+01:25:03,766 --> 01:25:07,687
+Come on. Andy, please.
+
+1391
+01:25:08,646 --> 01:25:09,814
+[alarm blares]
+
+1392
+01:25:10,273 --> 01:25:15,444
+[automated voice] <i>T-minus
+10 minutes to impact event.</i>
+
+1393
+01:25:15,611 --> 01:25:16,612
+Rain?
+
+1394
+01:25:21,242 --> 01:25:22,243
+Andy.
+
+1395
+01:25:24,036 --> 01:25:26,831
+- I'm so, so sorry.
+- No, no.
+
+1396
+01:25:27,540 --> 01:25:30,293
+No, I'm sorry.
+
+1397
+01:25:35,631 --> 01:25:37,174
+[Xenomorph screeching nearby]
+
+1398
+01:25:37,591 --> 01:25:38,926
+[Xenomorph screeching]
+
+1399
+01:25:40,761 --> 01:25:42,638
+[rifle powering up]
+
+1400
+01:25:49,812 --> 01:25:51,522
+[Rain] It won't
+hold them off for long.
+
+1401
+01:25:53,065 --> 01:25:54,734
+[screeching]
+
+1402
+01:25:54,817 --> 01:25:56,652
+[Xenomorphs screeching]
+
+1403
+01:26:10,499 --> 01:26:12,001
+[Xenomorphs screeching]
+
+1404
+01:26:16,589 --> 01:26:18,049
+[grunting]
+
+1405
+01:26:18,215 --> 01:26:19,216
+Come on.
+
+1406
+01:26:20,134 --> 01:26:21,427
+[Rook] <i>You're
+wasting your time.</i>
+
+1407
+01:26:21,552 --> 01:26:23,804
+Hey. Hey. Please help us.
+
+1408
+01:26:25,765 --> 01:26:26,807
+Open the door.
+
+1409
+01:26:27,350 --> 01:26:29,060
+<i>I'm afraid
+I must deny your petition.</i>
+
+1410
+01:26:29,602 --> 01:26:32,021
+<i>I just can't risk
+compromising the compound.</i>
+
+1411
+01:26:32,188 --> 01:26:34,440
+<i>But know that I'm grateful
+for the invaluable help</i>
+
+1412
+01:26:34,607 --> 01:26:36,108
+<i>you two have provided
+to the company.</i>
+
+1413
+01:26:37,276 --> 01:26:38,277
+[grunting]
+
+1414
+01:26:38,611 --> 01:26:39,612
+[Rain] Son of a bitch!
+
+1415
+01:26:45,034 --> 01:26:46,952
+- [button clicking]
+- Andy, open it.
+
+1416
+01:26:47,119 --> 01:26:48,120
+- [Andy] Here.
+- [Rain] Open.
+
+1417
+01:26:48,996 --> 01:26:49,997
+- It's not working.
+- [yells]
+
+1418
+01:26:50,164 --> 01:26:51,374
+God damn it!
+
+1419
+01:26:51,540 --> 01:26:52,792
+- [Xenomorphs screeching]
+- [Rain gasps]
+
+1420
+01:26:57,755 --> 01:26:59,632
+<i>I can't lie
+about your chances,</i>
+
+1421
+01:27:00,341 --> 01:27:01,884
+<i>but you have my sympathies.</i>
+
+1422
+01:27:04,136 --> 01:27:06,430
+- [Rain gasps]
+- [Xenomorphs screeching]
+
+1423
+01:27:07,807 --> 01:27:09,433
+[Kay groaning]
+
+1424
+01:27:15,064 --> 01:27:16,857
+[wheezing]
+
+1425
+01:27:21,612 --> 01:27:22,613
+- [button beeping]
+- [Rook] <i>Press it,</i>
+
+1426
+01:27:23,155 --> 01:27:25,574
+<i>so I can take control of your
+ship and fly you out of here.</i>
+
+1427
+01:27:28,577 --> 01:27:29,620
+[weakly] Who are you?
+
+1428
+01:27:29,870 --> 01:27:30,996
+<i>A friend.</i>
+
+1429
+01:27:32,957 --> 01:27:35,751
+<i>Your companions died
+so you could live.</i>
+
+1430
+01:27:35,918 --> 01:27:37,002
+<i>Press the button...</i>
+
+1431
+01:27:37,753 --> 01:27:39,505
+<i>and let me
+honor their sacrifice.</i>
+
+1432
+01:27:48,764 --> 01:27:51,308
+Andy, can you tell me
+one of your jokes?
+
+1433
+01:27:53,602 --> 01:27:55,479
+Why don't monsters eat clowns?
+
+1434
+01:27:55,563 --> 01:27:57,189
+[Xenomorphs approaching]
+
+1435
+01:27:58,232 --> 01:28:00,067
+- 'Cause they taste funny.
+- They taste funny.
+
+1436
+01:28:00,776 --> 01:28:02,695
+I don't understand
+cloning at all.
+
+1437
+01:28:03,821 --> 01:28:05,030
+That makes two of us.
+
+1438
+01:28:06,449 --> 01:28:09,243
+I read a great book
+about zero gravity.
+
+1439
+01:28:09,410 --> 01:28:11,412
+- I just couldn't put it down.
+- Couldn't put it down.
+
+1440
+01:28:14,498 --> 01:28:15,499
+Rain?
+
+1441
+01:28:16,208 --> 01:28:17,209
+Rain?
+
+1442
+01:28:18,210 --> 01:28:19,211
+Rain, what are you doing?
+
+1443
+01:28:20,129 --> 01:28:21,505
+I'm turning off
+the gravity generator.
+
+1444
+01:28:23,340 --> 01:28:27,470
+[automated voice]
+<i>Ten, nine, eight, seven,</i>
+
+1445
+01:28:27,636 --> 01:28:29,680
+<i>six, five,</i>
+
+1446
+01:28:29,847 --> 01:28:31,849
+<i>four, three,</i>
+
+1447
+01:28:32,016 --> 01:28:33,601
+<i>two, one.</i>
+
+1448
+01:28:34,477 --> 01:28:35,936
+[gravity generators warbling]
+
+1449
+01:28:39,064 --> 01:28:40,524
+[snarling]
+
+1450
+01:28:40,608 --> 01:28:42,109
+Rain, are you sure about this?
+
+1451
+01:28:43,194 --> 01:28:44,445
+Only one way to find out.
+
+1452
+01:28:44,904 --> 01:28:45,988
+[target locking]
+
+1453
+01:28:51,368 --> 01:28:52,411
+It works.
+
+1454
+01:28:55,164 --> 01:28:56,415
+[rifle firing]
+
+1455
+01:29:06,008 --> 01:29:07,384
+[Xenomorphs screeching]
+
+1456
+01:29:11,138 --> 01:29:13,224
+- [Andy] Rain! You're at 40%.
+- [Rain yells]
+
+1457
+01:29:24,652 --> 01:29:25,653
+[Andy] 20%.
+
+1458
+01:29:25,736 --> 01:29:27,238
+[gunfire]
+
+1459
+01:29:31,784 --> 01:29:33,869
+[Xenomorphs screeching]
+
+1460
+01:29:37,081 --> 01:29:39,041
+- [parasitoid chittering]
+- Rain!
+
+1461
+01:29:49,552 --> 01:29:51,011
+Oh, fuck.
+
+1462
+01:29:51,929 --> 01:29:53,347
+[blood sizzling]
+
+1463
+01:29:59,311 --> 01:30:00,688
+Stay behind me.
+
+1464
+01:30:06,360 --> 01:30:07,361
+Andy, be careful.
+
+1465
+01:30:20,958 --> 01:30:22,501
+[blood sizzling]
+
+1466
+01:30:33,053 --> 01:30:34,513
+Rain!
+
+1467
+01:30:51,280 --> 01:30:52,573
+Andy, you okay?
+
+1468
+01:30:53,782 --> 01:30:54,992
+[panting]
+
+1469
+01:30:58,829 --> 01:31:00,581
+We need
+to get to the elevator.
+
+1470
+01:31:14,928 --> 01:31:17,181
+The elevator won't work
+without gravity.
+
+1471
+01:31:17,264 --> 01:31:19,099
+[whirring]
+
+1472
+01:31:34,156 --> 01:31:35,157
+[Rain] Ready?
+
+1473
+01:31:39,912 --> 01:31:41,163
+[grunting]
+
+1474
+01:31:42,456 --> 01:31:44,083
+- [gasps]
+- [Xenomorph snarling]
+
+1475
+01:31:45,209 --> 01:31:47,086
+- [Andy] Rain!
+- [grunts]
+
+1476
+01:31:48,837 --> 01:31:50,464
+[Rain yelling]
+
+1477
+01:31:52,716 --> 01:31:54,593
+[grunting, screams]
+
+1478
+01:31:54,760 --> 01:31:56,261
+- [♪ Tense music playing]
+- [sizzling]
+
+1479
+01:31:58,681 --> 01:32:00,265
+[grunting] Fuck.
+
+1480
+01:32:03,477 --> 01:32:04,520
+[Andy grunts]
+
+1481
+01:32:14,905 --> 01:32:15,906
+No.
+
+1482
+01:32:19,493 --> 01:32:21,495
+[alarm blaring]
+
+1483
+01:32:27,167 --> 01:32:28,419
+[Andy] It's a gravity purge!
+
+1484
+01:32:39,054 --> 01:32:40,139
+Andy!
+
+1485
+01:32:40,431 --> 01:32:41,432
+Come on.
+
+1486
+01:32:44,476 --> 01:32:45,728
+[gasping]
+
+1487
+01:32:47,438 --> 01:32:49,106
+[Rain screaming]
+
+1488
+01:33:01,535 --> 01:33:02,745
+[gasping]
+
+1489
+01:33:06,665 --> 01:33:08,584
+- [Xenomorph snarling]
+- [whimpers]
+
+1490
+01:33:08,667 --> 01:33:10,878
+- [hissing]
+- [♪ sinister music playing]
+
+1491
+01:33:17,468 --> 01:33:18,802
+[sizzling]
+
+1492
+01:33:20,554 --> 01:33:21,764
+[explosion]
+
+1493
+01:33:21,847 --> 01:33:22,848
+[♪ Tense music playing]
+
+1494
+01:33:22,931 --> 01:33:23,932
+[air whooshing]
+
+1495
+01:33:34,026 --> 01:33:36,528
+- [grunts]
+- [screeching]
+
+1496
+01:33:42,451 --> 01:33:43,869
+[gasps]
+
+1497
+01:33:47,581 --> 01:33:48,916
+- [grunts]
+- [elevator thudding]
+
+1498
+01:33:58,467 --> 01:33:59,843
+[snarling]
+
+1499
+01:34:03,013 --> 01:34:04,014
+[Rain] Andy!
+
+1500
+01:34:04,097 --> 01:34:05,516
+[♪ Dramatic music playing]
+
+1501
+01:34:15,108 --> 01:34:16,318
+[screeching]
+
+1502
+01:34:16,401 --> 01:34:17,778
+[yelping]
+
+1503
+01:34:26,703 --> 01:34:27,704
+[gunshot]
+
+1504
+01:34:31,250 --> 01:34:32,501
+[yelps]
+
+1505
+01:34:34,962 --> 01:34:35,963
+Get away from her.
+
+1506
+01:34:36,129 --> 01:34:37,130
+[screeching]
+
+1507
+01:34:42,010 --> 01:34:44,012
+You bitch.
+
+1508
+01:34:45,848 --> 01:34:47,683
+[♪ Triumphant music playing]
+
+1509
+01:34:51,186 --> 01:34:52,271
+[chuckles softly]
+
+1510
+01:35:00,445 --> 01:35:04,366
+[automated voice]
+<i>impact event in 10,</i>
+
+1511
+01:35:04,533 --> 01:35:06,368
+<i>nine, eight,</i>
+
+1512
+01:35:06,952 --> 01:35:09,079
+<i>seven, six,</i>
+
+1513
+01:35:09,621 --> 01:35:10,789
+<i>five,</i>
+
+1514
+01:35:10,956 --> 01:35:12,499
+- <i>four, three...</i>
+- Come on.
+
+1515
+01:35:13,458 --> 01:35:15,335
+<i>...two, one.</i>
+
+1516
+01:35:21,174 --> 01:35:22,175
+[Rain] Kay.
+
+1517
+01:35:24,386 --> 01:35:25,554
+[panting]
+
+1518
+01:35:26,930 --> 01:35:28,390
+What took you so long?
+
+1519
+01:35:28,557 --> 01:35:29,766
+Let's get you outta here.
+
+1520
+01:35:31,184 --> 01:35:33,061
+<i>I'm glad to see
+you two made it.</i>
+
+1521
+01:35:53,081 --> 01:35:54,833
+[boosters roaring]
+
+1522
+01:36:02,716 --> 01:36:04,468
+[metal groaning]
+
+1523
+01:36:31,495 --> 01:36:32,704
+[Rain] I got you.
+Watch your head.
+
+1524
+01:36:34,706 --> 01:36:37,000
+- Thank you.
+- You're gonna be just fine.
+
+1525
+01:36:37,918 --> 01:36:39,002
+Both of you.
+
+1526
+01:36:48,762 --> 01:36:50,722
+<i>The company
+couldn't be prouder</i>
+
+1527
+01:36:50,806 --> 01:36:52,057
+<i>of what's been
+accomplished here today.</i>
+
+1528
+01:36:52,975 --> 01:36:54,893
+<i>I've sent
+a message back to HQ.</i>
+
+1529
+01:36:55,060 --> 01:36:56,228
+<i>When received in six months,</i>
+
+1530
+01:36:56,311 --> 01:36:57,396
+<i>they'll travel
+to Jackson's Star</i>
+
+1531
+01:36:57,562 --> 01:36:59,481
+<i>to retrieve the compound from
+you for further development.</i>
+
+1532
+01:37:06,321 --> 01:37:07,406
+<i>What are you doing?</i>
+
+1533
+01:37:08,699 --> 01:37:10,117
+Change of plans.
+
+1534
+01:37:12,327 --> 01:37:14,246
+<i>Andy, stop her.</i>
+
+1535
+01:37:14,788 --> 01:37:16,123
+<i>Reconnect us now.</i>
+
+1536
+01:37:19,042 --> 01:37:20,752
+<i>No, no, no.
+You two cannot do this.</i>
+
+1537
+01:37:20,919 --> 01:37:22,379
+<i>The compound must be delivered
+to the company.</i>
+
+1538
+01:37:23,171 --> 01:37:25,173
+<i>I'm afraid
+I must deny your petition.</i>
+
+1539
+01:37:25,549 --> 01:37:27,551
+- <i>Have a nice day.</i>
+- [static]
+
+1540
+01:37:27,634 --> 01:37:29,970
+Now you better listen to me
+here, now, you two.
+
+1541
+01:37:30,137 --> 01:37:33,098
+You are insignificant in the
+great scheme of things. You...
+
+1542
+01:37:34,433 --> 01:37:35,767
+[station rumbling]
+
+1543
+01:37:39,938 --> 01:37:40,939
+No.
+
+1544
+01:37:56,288 --> 01:37:58,999
+This will keep your systems
+online until we get to Yvaga.
+
+1545
+01:38:01,043 --> 01:38:03,045
+- But I thought that...
+- I don't care.
+
+1546
+01:38:03,211 --> 01:38:04,963
+You're coming with me.
+All right?
+
+1547
+01:38:06,548 --> 01:38:08,050
+If that's
+what's best for Rain.
+
+1548
+01:38:10,844 --> 01:38:12,846
+Andy, I have
+a new directive for you.
+
+1549
+01:38:14,723 --> 01:38:16,349
+Do what's best for us.
+
+1550
+01:38:19,936 --> 01:38:20,937
+Done.
+
+1551
+01:38:22,314 --> 01:38:23,315
+Good.
+
+1552
+01:38:29,404 --> 01:38:31,323
+[cryo-fuel hissing]
+
+1553
+01:38:36,995 --> 01:38:37,996
+[alarm chiming]
+
+1554
+01:38:43,543 --> 01:38:44,544
+No.
+
+1555
+01:38:46,630 --> 01:38:47,881
+[grunting]
+
+1556
+01:38:48,215 --> 01:38:50,050
+[gasps] Kay. Kay.
+
+1557
+01:38:51,093 --> 01:38:52,177
+What's wrong?
+
+1558
+01:38:53,929 --> 01:38:55,222
+- [squelching]
+- Oh, no, no.
+
+1559
+01:38:55,514 --> 01:38:56,598
+[yells in agony]
+
+1560
+01:38:57,182 --> 01:38:58,183
+[♪ Tense music playing]
+
+1561
+01:38:59,101 --> 01:39:02,354
+[Kay screaming]
+
+1562
+01:39:08,026 --> 01:39:09,486
+[screaming]
+
+1563
+01:39:10,487 --> 01:39:11,655
+[squelching]
+
+1564
+01:39:11,822 --> 01:39:12,823
+[gasping]
+
+1565
+01:39:12,989 --> 01:39:14,032
+[screaming]
+
+1566
+01:39:25,085 --> 01:39:27,254
+Get it away from me.
+
+1567
+01:39:32,134 --> 01:39:33,218
+[wailing]
+
+1568
+01:39:45,981 --> 01:39:47,065
+[grunts]
+
+1569
+01:39:47,732 --> 01:39:49,025
+[sizzling]
+
+1570
+01:39:52,863 --> 01:39:53,864
+[grunting]
+
+1571
+01:40:07,586 --> 01:40:09,379
+- [gasps softly]
+- [baby cooing]
+
+1572
+01:40:22,559 --> 01:40:24,144
+[engine powers down]
+
+1573
+01:40:34,738 --> 01:40:35,822
+[gasps]
+
+1574
+01:40:35,906 --> 01:40:37,407
+[alarm blaring]
+
+1575
+01:40:47,000 --> 01:40:48,001
+[grunts]
+
+1576
+01:41:50,897 --> 01:41:52,107
+[softly] Oh, my God.
+
+1577
+01:41:57,821 --> 01:41:59,281
+[♪ Eerie music playing]
+
+1578
+01:42:13,044 --> 01:42:14,504
+[electricity crackling]
+
+1579
+01:42:14,587 --> 01:42:15,880
+[Kay groaning weakly]
+
+1580
+01:42:19,592 --> 01:42:21,344
+[cryo-pod whirring]
+
+1581
+01:42:36,526 --> 01:42:38,528
+- [gasping softly]
+- [♪ tense music intensifies]
+
+1582
+01:42:45,201 --> 01:42:46,202
+[♪ Music stops]
+
+1583
+01:42:46,286 --> 01:42:47,579
+[alarm blaring faintly]
+
+1584
+01:42:47,662 --> 01:42:48,788
+[whimpering]
+
+1585
+01:42:48,872 --> 01:42:50,749
+[footsteps thudding]
+
+1586
+01:42:51,833 --> 01:42:55,086
+[metal thudding]
+
+1587
+01:43:01,217 --> 01:43:02,719
+[bones cracking]
+
+1588
+01:43:09,893 --> 01:43:11,227
+- [snarling]
+- [gasps]
+
+1589
+01:43:11,770 --> 01:43:13,355
+[Kay screaming]
+
+1590
+01:43:13,438 --> 01:43:14,647
+- [♪ Tense music resumes]
+- [gasps]
+
+1591
+01:43:16,232 --> 01:43:17,233
+[Rain] Kay.
+
+1592
+01:43:18,693 --> 01:43:20,111
+[crying]
+
+1593
+01:43:30,747 --> 01:43:32,749
+No. Please, please.
+
+1594
+01:43:39,172 --> 01:43:41,466
+- [sniffing]
+- [Kay sobbing]
+
+1595
+01:43:46,304 --> 01:43:47,639
+[hissing]
+
+1596
+01:43:48,431 --> 01:43:49,682
+[Kay wailing]
+
+1597
+01:43:56,022 --> 01:43:57,023
+[Andy whimpering]
+
+1598
+01:43:57,982 --> 01:43:59,734
+[Rain] Andy! Andy!
+
+1599
+01:44:01,611 --> 01:44:02,737
+No, no, no.
+
+1600
+01:44:03,196 --> 01:44:05,448
+Rain. Rain. Help her.
+
+1601
+01:44:11,621 --> 01:44:12,622
+[coughs]
+
+1602
+01:44:21,881 --> 01:44:23,883
+- [alarm continues blaring]
+- [♪ tense music continues]
+
+1603
+01:44:26,094 --> 01:44:27,554
+[flesh squelching]
+
+1604
+01:44:30,056 --> 01:44:31,057
+[gasping]
+
+1605
+01:44:34,477 --> 01:44:36,146
+[clicking]
+
+1606
+01:44:38,440 --> 01:44:39,441
+[whimpers]
+
+1607
+01:44:42,819 --> 01:44:44,696
+No! [screams]
+
+1608
+01:44:46,406 --> 01:44:47,407
+No!
+
+1609
+01:44:47,782 --> 01:44:48,825
+[snarling]
+
+1610
+01:44:50,493 --> 01:44:51,661
+[grunts]
+
+1611
+01:44:53,830 --> 01:44:54,914
+[grunting]
+
+1612
+01:44:59,836 --> 01:45:00,837
+[coughs]
+
+1613
+01:45:01,754 --> 01:45:03,381
+Andy! Come on!
+
+1614
+01:45:05,925 --> 01:45:07,135
+Please get up!
+
+1615
+01:45:09,596 --> 01:45:10,680
+[grunts]
+
+1616
+01:45:14,058 --> 01:45:15,059
+[coughs]
+
+1617
+01:45:15,685 --> 01:45:16,686
+No!
+
+1618
+01:45:20,815 --> 01:45:22,066
+Come on!
+
+1619
+01:45:24,486 --> 01:45:25,612
+[wheezing]
+
+1620
+01:46:04,984 --> 01:46:06,194
+[wheezing heavily]
+
+1621
+01:46:07,737 --> 01:46:08,738
+[suit chimes]
+
+1622
+01:46:08,821 --> 01:46:09,948
+[oxygen hissing]
+
+1623
+01:46:12,450 --> 01:46:13,451
+[breathes deeply]
+
+1624
+01:46:14,911 --> 01:46:16,704
+[doors creaking]
+
+1625
+01:46:29,551 --> 01:46:30,718
+[roars]
+
+1626
+01:46:46,442 --> 01:46:49,279
+"Manual Cargo Release.
+Pull the four levers."
+
+1627
+01:46:49,737 --> 01:46:52,949
+Okay. Yes.
+The four levers. Okay.
+
+1628
+01:47:01,040 --> 01:47:02,041
+One.
+
+1629
+01:47:03,751 --> 01:47:04,752
+Two.
+
+1630
+01:47:13,761 --> 01:47:15,054
+[rope whirring]
+
+1631
+01:47:15,138 --> 01:47:16,347
+[panting]
+
+1632
+01:47:23,521 --> 01:47:24,856
+[machinery cranking]
+
+1633
+01:47:27,817 --> 01:47:28,818
+Three.
+
+1634
+01:47:42,206 --> 01:47:43,499
+[grunts]
+
+1635
+01:47:56,554 --> 01:47:58,473
+[automated voice]
+<i>Pull up. Pull up.</i>
+
+1636
+01:47:59,015 --> 01:48:00,308
+[breathing laboriously]
+
+1637
+01:48:10,026 --> 01:48:11,152
+[sizzling]
+
+1638
+01:48:20,870 --> 01:48:22,205
+[shrieking]
+
+1639
+01:48:23,122 --> 01:48:24,290
+[Rain grunts]
+
+1640
+01:48:34,634 --> 01:48:36,010
+[air whooshing]
+
+1641
+01:48:47,897 --> 01:48:49,190
+[breathing deeply]
+
+1642
+01:49:04,163 --> 01:49:05,164
+- [screeching]
+- [Rain gasps]
+
+1643
+01:49:06,499 --> 01:49:08,626
+[Rain screaming]
+
+1644
+01:49:13,423 --> 01:49:14,465
+[Rain whimpering]
+
+1645
+01:49:29,814 --> 01:49:31,107
+[helmet thuds]
+
+1646
+01:49:36,279 --> 01:49:38,114
+[over helmet]
+<i>Die, motherfucker!</i>
+
+1647
+01:49:41,325 --> 01:49:43,327
+[♪ Triumphant music playing]
+
+1648
+01:50:37,799 --> 01:50:39,383
+[♪ Solemn music playing]
+
+1649
+01:50:58,402 --> 01:50:59,737
+I'll fix you.
+
+1650
+01:51:15,878 --> 01:51:16,963
+[Rain] <i>This is the cryo-log</i>
+
+1651
+01:51:17,046 --> 01:51:18,923
+<i>for the mining hauler</i>
+Corbelan.
+
+1652
+01:51:20,633 --> 01:51:22,593
+<i>I set course
+to the Yvaga system</i>
+
+1653
+01:51:22,677 --> 01:51:24,720
+<i>without knowing
+if I'll ever reach it,</i>
+
+1654
+01:51:24,887 --> 01:51:26,889
+<i>or what fate is to find me.</i>
+
+1655
+01:51:28,015 --> 01:51:31,269
+<i>But whatever comes,
+I'll face it.</i>
+
+1656
+01:51:32,603 --> 01:51:33,938
+<i>This is Rain Carradine,</i>
+
+1657
+01:51:34,105 --> 01:51:35,648
+<i>last survivor
+of the</i> Corbelan...
+
+1658
+01:51:36,232 --> 01:51:37,400
+<i>signing off</i>
+
+1659
+01:51:38,442 --> 01:51:39,652
+[♪ music soars]
+
+1660
+01:51:48,369 --> 01:51:49,370
+[♪ Music fades]
+
+1661
+01:51:59,505 --> 01:52:01,507
+[♪ Tense music playing]
+
+1662
+01:53:08,115 --> 01:53:10,159
+[♪ Suspenseful music playing]
+
+1663
+01:58:48,747 --> 01:58:49,748
+[♪ Music fades]
+

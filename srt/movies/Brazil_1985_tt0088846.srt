@@ -1,0 +1,5476 @@
+1
+00:01:01,609 --> 00:01:03,486
+<i>Central Services</i>
+
+2
+00:01:03,694 --> 00:01:06,530
+<i>We do the work, you do the pleasure</i>
+
+3
+00:01:06,656 --> 00:01:09,784
+<i>Hi, there. I want to talk to you about ducts.</i>
+
+4
+00:01:10,660 --> 00:01:13,329
+<i>Do your ducts seem old-fashioned,</i>
+
+5
+00:01:13,746 --> 00:01:15,248
+<i>out-of-date?</i>
+
+6
+00:01:15,498 --> 00:01:18,459
+<i>Central Services' new duct designs</i>
+
+7
+00:01:18,542 --> 00:01:21,879
+<i>are now available
+in hundreds of different colors</i>
+
+8
+00:01:21,963 --> 00:01:24,340
+<i>to suit your individual taste.</i>
+
+9
+00:01:24,799 --> 00:01:29,804
+<i>Hurry now, while stocks last, to your
+nearest Central Services showroom.</i>
+
+10
+00:01:30,805 --> 00:01:34,600
+<i>Designer colors
+to suit your demanding taste.</i>
+
+11
+00:01:55,329 --> 00:01:58,040
+<i>We have with us
+from the Ministry of Information</i>
+
+12
+00:01:58,124 --> 00:02:00,918
+<i>Deputy Minister, Eugene Helpmann.</i>
+
+13
+00:02:01,127 --> 00:02:03,004
+<i>Good evening, David.</i>
+
+14
+00:02:03,337 --> 00:02:07,508
+<i>What do you believe is behind
+this recent increase in terrorist bombings?</i>
+
+15
+00:02:07,717 --> 00:02:09,510
+<i>Bad sportsmanship.</i>
+
+16
+00:02:09,885 --> 00:02:12,013
+<i>A ruthless minority of people</i>
+
+17
+00:02:12,096 --> 00:02:15,975
+<i>seems to have forgotten
+certain good old-fashioned virtues.</i>
+
+18
+00:02:16,309 --> 00:02:19,687
+<i>They just can't stand seeing
+the other fellow win.</i>
+
+19
+00:02:19,812 --> 00:02:22,315
+<i>If these people would just play the game</i>
+
+20
+00:02:22,565 --> 00:02:24,400
+<i>they'd get a lot more out of life.</i>
+
+21
+00:02:24,483 --> 00:02:27,403
+<i>Nevertheless, Mr. Helpmann,
+there are those who maintain</i>
+
+22
+00:02:27,486 --> 00:02:31,198
+<i>that the Ministry of Information
+has become too large and unwieldy.</i>
+
+23
+00:02:31,282 --> 00:02:33,993
+<i>In free society,
+information is the name of the game.</i>
+
+24
+00:02:34,076 --> 00:02:36,829
+<i>You can't win the game
+if you're a man short.</i>
+
+25
+00:02:36,912 --> 00:02:41,375
+<i>The cost of it all, seven percent
+of the gross national product.</i>
+
+26
+00:02:41,459 --> 00:02:44,920
+<i>I understand this concern
+on behalf of the taxpayers.</i>
+
+27
+00:02:45,004 --> 00:02:48,382
+<i>People want value for money.
+That is why we always insist</i>
+
+28
+00:02:48,466 --> 00:02:52,011
+<i>on the principle
+of Information Retrieval Charges.</i>
+
+29
+00:02:53,346 --> 00:02:55,264
+<i>It's absolutely right and fair</i>
+
+30
+00:02:55,348 --> 00:02:58,768
+<i>that those found guilty
+should pay for their periods of detention</i>
+
+31
+00:02:59,310 --> 00:03:03,731
+<i>and for the information retrieval
+procedures used in their interrogation.</i>
+
+32
+00:03:04,148 --> 00:03:07,401
+<i>Do you believe that the government
+is winning against terrorists?</i>
+
+33
+00:03:07,485 --> 00:03:08,819
+<i>Oh, yes.</i>
+
+34
+00:03:11,238 --> 00:03:14,325
+<i>We're fielding all their strokes,
+running all of them out</i>
+
+35
+00:03:14,408 --> 00:03:17,286
+<i>and pretty consistently
+knocking them for six.</i>
+
+36
+00:03:20,081 --> 00:03:21,999
+<i>I'd say they're nearly out of the game.</i>
+
+37
+00:03:33,969 --> 00:03:37,556
+<i>Mr. Helpmann, the bombing campaign
+is now in its 13th year.</i>
+
+38
+00:03:38,265 --> 00:03:39,975
+<i>Beginner's luck.</i>
+
+39
+00:03:41,227 --> 00:03:43,104
+<i>Thank you very much, Deputy Minister.</i>
+
+40
+00:03:43,604 --> 00:03:47,733
+<i>Thank you, David.
+And a very merry Christmas to you all.</i>
+
+41
+00:03:50,403 --> 00:03:52,696
+"Scrooge was better than his word.
+
+42
+00:03:52,780 --> 00:03:55,741
+"He did it all, and infinitely more.
+
+43
+00:03:55,991 --> 00:03:59,036
+"And to Tiny Tim, who did not die
+
+44
+00:03:59,412 --> 00:04:01,997
+"he became a second father.
+
+45
+00:04:02,248 --> 00:04:06,293
+"He became as good a friend,
+in the good old world.
+
+46
+00:04:07,002 --> 00:04:09,630
+"And so, as Tiny Tim observed
+
+47
+00:04:10,172 --> 00:04:12,842
+"God bless us, everyone."
+
+48
+00:04:17,555 --> 00:04:19,306
+<i>Are you boys giving me the runaround?</i>
+
+49
+00:04:19,390 --> 00:04:22,351
+<i>Now, I have to say, "Hey, hey."</i>
+
+50
+00:04:22,768 --> 00:04:25,354
+<i>Don't throw that.
+That's only for long distance.</i>
+
+51
+00:04:26,772 --> 00:04:29,358
+<i>- I'm sorry, we haven't got any vacancies.
+- No vacancies?</i>
+
+52
+00:04:29,442 --> 00:04:30,860
+<i>We've got plenty of rooms.</i>
+
+53
+00:04:43,122 --> 00:04:44,623
+Who's there?
+
+54
+00:04:47,751 --> 00:04:49,253
+Who is that?
+
+55
+00:04:50,087 --> 00:04:53,883
+Father Christmas can't come
+if we haven't got a chimney.
+
+56
+00:04:53,966 --> 00:04:55,426
+You'll see.
+
+57
+00:05:45,267 --> 00:05:47,853
+"I hereby inform you,
+under powers entrusted to me
+
+58
+00:05:47,937 --> 00:05:51,941
+"under Section 47, Paragraph 7
+of Council Order Number 438476
+
+59
+00:05:52,024 --> 00:05:56,111
+"that Mr. Buttle, Archibald, residing
+in 412 North Tower, Shangri-La Towers
+
+60
+00:05:56,195 --> 00:05:59,323
+"is invited to assist
+the Ministry of Information with inquiries.
+
+61
+00:05:59,448 --> 00:06:03,077
+"And that he is liable
+to financial obligations as specified in
+
+62
+00:06:03,160 --> 00:06:07,206
+"Council Order RB/CZ/907/X."
+
+63
+00:06:07,289 --> 00:06:08,374
+Sign here, please.
+
+64
+00:06:11,710 --> 00:06:13,837
+Where are you taking him?
+
+65
+00:06:14,463 --> 00:06:15,714
+There.
+
+66
+00:06:17,633 --> 00:06:19,009
+Thank you.
+
+67
+00:06:19,468 --> 00:06:20,970
+Same again, please.
+
+68
+00:06:22,054 --> 00:06:24,390
+Press harder this time. Good.
+
+69
+00:06:25,224 --> 00:06:27,059
+What is this all about?
+
+70
+00:06:27,810 --> 00:06:30,771
+That is your receipt for your husband.
+Thank you.
+
+71
+00:06:30,854 --> 00:06:33,482
+This is my receipt for your receipt.
+
+72
+00:06:33,566 --> 00:06:35,317
+Mrs. Buttle, are you okay?
+
+73
+00:06:39,363 --> 00:06:42,825
+We're Department of Works!
+Department of Works up here.
+
+74
+00:06:43,659 --> 00:06:46,579
+- Careful with those bloody things.
+- Sure.
+
+75
+00:06:47,204 --> 00:06:49,081
+Don't take any notice of them.
+
+76
+00:06:49,164 --> 00:06:51,584
+Don't touch me!
+Why don't you just get out of here.
+
+77
+00:06:51,667 --> 00:06:54,670
+Don't you worry.
+We'll have everything shipshape in a jiffy.
+
+78
+00:06:55,129 --> 00:06:56,338
+Nothing to worry about.
+
+79
+00:06:56,422 --> 00:06:59,008
+It's Tuttle downstairs who can worry.
+
+80
+00:06:59,341 --> 00:07:02,344
+Tuttle? His name's Buttle.
+There must be some mistake.
+
+81
+00:07:02,678 --> 00:07:05,556
+Mistake? We don't make mistakes.
+
+82
+00:07:08,517 --> 00:07:12,563
+Bloody typical. They've gone back
+to metric without telling us.
+
+83
+00:07:12,688 --> 00:07:15,024
+Mrs. Buttle, are you all right?
+
+84
+00:07:15,107 --> 00:07:16,400
+Yes...
+
+85
+00:08:47,449 --> 00:08:48,617
+Buttle.
+
+86
+00:08:51,787 --> 00:08:53,956
+Buttle, Archibald.
+
+87
+00:09:02,798 --> 00:09:04,133
+Oh, shit!
+
+88
+00:09:06,385 --> 00:09:07,803
+Mister...
+
+89
+00:09:10,472 --> 00:09:13,392
+Mr. Lowry, would you step in here, please.
+
+90
+00:09:49,845 --> 00:09:51,847
+Has anybody seen Lowry?
+
+91
+00:09:54,850 --> 00:09:57,644
+Has anybody seen
+
+92
+00:09:57,728 --> 00:09:59,646
+Sam Lowry?
+
+93
+00:10:35,724 --> 00:10:36,892
+Sam.
+
+94
+00:11:13,971 --> 00:11:15,848
+<i>Hello? Sam. Where are you?</i>
+
+95
+00:11:15,931 --> 00:11:17,182
+- Hello?
+<i>- It's 11:00.</i>
+
+96
+00:11:18,183 --> 00:11:20,185
+- What?
+<i>- It's 11:00.</i>
+
+97
+00:11:20,435 --> 00:11:22,020
+Mr. Kurtzmann.
+
+98
+00:11:23,814 --> 00:11:25,440
+You're up late.
+
+99
+00:11:26,191 --> 00:11:27,526
+Is it?
+
+100
+00:11:33,031 --> 00:11:36,326
+- The electrics here are up the spout.
+<i>- Yeah, I know.</i>
+
+101
+00:11:36,451 --> 00:11:37,953
+- Yours, too?
+<i>- Yes.</i>
+
+102
+00:11:39,454 --> 00:11:42,499
+I'll be there as soon as I can.
+Yes, thanks. 'Bye.
+
+103
+00:12:44,895 --> 00:12:47,022
+This is not the only statue.
+
+104
+00:12:48,482 --> 00:12:50,609
+What's this gun for?
+
+105
+00:12:50,692 --> 00:12:54,279
+This one, Sister,
+is a nine millimeter submachine gun
+
+106
+00:12:54,363 --> 00:12:57,991
+used for close-quarter combat fighting.
+Very effective weapon.
+
+107
+00:12:58,075 --> 00:12:59,076
+Would you like to see it?
+
+108
+00:13:29,815 --> 00:13:30,983
+Sam!
+
+109
+00:13:32,776 --> 00:13:33,986
+Jack!
+
+110
+00:13:36,321 --> 00:13:38,073
+Long time no see.
+
+111
+00:13:39,574 --> 00:13:40,867
+What are you doing here?
+
+112
+00:13:40,951 --> 00:13:43,453
+Didn't expect to see you
+slumming it in Records.
+
+113
+00:13:43,578 --> 00:13:45,664
+- What's the problem?
+- Problem? No problem.
+
+114
+00:13:45,747 --> 00:13:47,332
+Everything's fine. Marvelous.
+
+115
+00:13:47,666 --> 00:13:50,919
+Alison's in great shape, kids are fine.
+I'm on Security Level 5
+
+116
+00:13:51,003 --> 00:13:54,214
+so Mr. Helpmann relies on me
+more and more. It's been a great year.
+
+117
+00:13:54,756 --> 00:13:55,924
+You sound worried.
+
+118
+00:13:56,133 --> 00:13:59,011
+Worried? Me?
+If I'm worried about anyone, Sam, it's you.
+
+119
+00:14:01,013 --> 00:14:02,431
+Sam, whatever happened to you?
+
+120
+00:14:02,931 --> 00:14:04,266
+Records.
+
+121
+00:14:16,528 --> 00:14:17,779
+Sam?
+
+122
+00:14:20,323 --> 00:14:23,702
+Jack, it's great to see you.
+I'm going to be late.
+
+123
+00:14:23,952 --> 00:14:27,164
+Sam, let a friend tell you
+your life is going wrong.
+
+124
+00:14:27,289 --> 00:14:30,584
+Records is a dead-end department.
+No security that's worth a damn.
+
+125
+00:14:30,667 --> 00:14:34,004
+- It's impossible to get noticed.
+- I know. Wonderful.
+
+126
+00:14:34,129 --> 00:14:36,465
+Marvelous. Perfect.
+
+127
+00:14:36,548 --> 00:14:39,760
+See you, Jack.
+Give my regards to Alison and the twins.
+
+128
+00:14:39,843 --> 00:14:41,720
+- Triplets.
+- Triplets?
+
+129
+00:14:41,928 --> 00:14:44,598
+God, how time flies.
+
+130
+00:14:46,308 --> 00:14:50,145
+A very clear delineation of picture, is it not?
+Mobile.
+
+131
+00:14:50,645 --> 00:14:51,813
+Next!
+
+132
+00:14:56,651 --> 00:14:59,321
+I want to report a wrongful arrest.
+
+133
+00:14:59,696 --> 00:15:02,783
+You want Information Adjustments.
+Different department.
+
+134
+00:15:02,866 --> 00:15:05,911
+I've been to Information Adjustments.
+They sent me here.
+
+135
+00:15:05,994 --> 00:15:08,038
+They said you have a form I need to fill out.
+
+136
+00:15:08,747 --> 00:15:11,541
+- Have you got an arrest receipt?
+- Yeah.
+
+137
+00:15:13,335 --> 00:15:14,669
+Is it stamped?
+
+138
+00:15:15,504 --> 00:15:16,838
+Stamped?
+
+139
+00:15:18,840 --> 00:15:21,510
+No, there's no stamp on it, you see.
+
+140
+00:15:22,135 --> 00:15:25,347
+I can't let you have the form
+until this is stamped.
+
+141
+00:15:25,472 --> 00:15:26,723
+Where do I get it stamped?
+
+142
+00:15:27,265 --> 00:15:29,351
+Information Adjustments.
+
+143
+00:15:42,239 --> 00:15:43,365
+It's nothing.
+
+144
+00:15:46,576 --> 00:15:49,996
+It keeps picking up old films.
+That can't be right, can it?
+
+145
+00:15:50,539 --> 00:15:52,791
+Perhaps the machine's on the blink.
+
+146
+00:15:52,874 --> 00:15:53,917
+No, it's not the machine.
+
+147
+00:15:54,000 --> 00:15:56,294
+There's a mismatch
+on the personnel code numbers.
+
+148
+00:15:56,711 --> 00:16:01,216
+Tuttle should've had £31.06
+debited against his account, not Buttle.
+
+149
+00:16:01,341 --> 00:16:04,219
+- My God, a mistake!
+- At least it's not ours.
+
+150
+00:16:04,553 --> 00:16:06,513
+Isn't it? Whose is it?
+
+151
+00:16:06,596 --> 00:16:09,099
+- Information Retrieval.
+- Good.
+
+152
+00:16:09,224 --> 00:16:12,477
+Expediting has put in
+for electrical procedures in respect of
+
+153
+00:16:12,561 --> 00:16:15,355
+Buttle, Archibald, shoe-repair operative.
+
+154
+00:16:15,438 --> 00:16:19,609
+But Security has invoiced Admin.
+for Tuttle, Archibald, heating engineer.
+
+155
+00:16:19,776 --> 00:16:22,737
+What a relief. Well, finish your tea, Sam.
+
+156
+00:16:23,947 --> 00:16:25,240
+Thanks.
+
+157
+00:16:26,408 --> 00:16:29,327
+I don't know what I'd do
+if you ever got promoted.
+
+158
+00:16:29,411 --> 00:16:33,456
+- God, don't worry about that.
+- But if they did promote you.
+
+159
+00:16:34,875 --> 00:16:37,544
+I've told you before. I'd turn it down.
+
+160
+00:16:37,627 --> 00:16:39,880
+- Would you, really?
+- Really.
+
+161
+00:16:41,089 --> 00:16:42,090
+You've been promoted.
+
+162
+00:16:46,761 --> 00:16:50,098
+It's your mother, isn't it?
+Pulling strings again.
+
+163
+00:16:54,603 --> 00:16:58,607
+Sam, it's time for you to grow up
+and accept responsibility.
+
+164
+00:16:58,773 --> 00:17:02,777
+Your poor father would be appalled
+at your lack of promotion.
+
+165
+00:17:03,612 --> 00:17:06,823
+Mother, I just wish
+you would stop interfering.
+
+166
+00:17:07,282 --> 00:17:10,535
+I don't want promotion.
+I'm happy where I am.
+
+167
+00:17:10,619 --> 00:17:13,955
+No, you're not. Jack Lint is a lesson to you.
+
+168
+00:17:14,080 --> 00:17:17,209
+He doesn't have your brains,
+but he's got the ambition.
+
+169
+00:17:17,292 --> 00:17:22,172
+You haven't got the ambition. Luckily,
+you've got me and the Deputy Minister.
+
+170
+00:17:22,297 --> 00:17:24,299
+Mr. Helpmann was very close
+to your father.
+
+171
+00:17:24,382 --> 00:17:27,594
+Now please, Mrs. Lowry. Don't get upset.
+
+172
+00:17:27,677 --> 00:17:30,722
+Mr. Lowry, please wait in the reception.
+You're giving her wrinkles.
+
+173
+00:17:30,805 --> 00:17:32,557
+- You see?
+- God!
+
+174
+00:17:32,641 --> 00:17:34,768
+Just try and relax, Mrs. Lowry.
+
+175
+00:17:35,352 --> 00:17:37,187
+I'll make you 20 years younger.
+
+176
+00:17:37,979 --> 00:17:40,523
+Dr. Jaffe, you are a genius.
+
+177
+00:17:40,649 --> 00:17:43,068
+Would you like to be Surgeon General?
+
+178
+00:17:43,151 --> 00:17:45,862
+I know simply everybody.
+
+179
+00:17:45,987 --> 00:17:49,282
+They won't know you
+when I've finished with you.
+
+180
+00:17:50,533 --> 00:17:51,868
+First,
+
+181
+00:17:52,118 --> 00:17:54,329
+we remove the excess derma.
+
+182
+00:17:57,290 --> 00:18:01,169
+Now the flaccid tissues under the eyes
+and forehead.
+
+183
+00:18:05,340 --> 00:18:07,884
+Now, I lift
+
+184
+00:18:08,843 --> 00:18:11,263
+the wrinkles and the worry lines
+
+185
+00:18:11,346 --> 00:18:14,349
+right up into the wig, into the hairline.
+
+186
+00:18:16,851 --> 00:18:18,478
+Now the template.
+
+187
+00:18:20,397 --> 00:18:23,775
+Now, a bit of sticky.<i> Comme ça!</i>
+
+188
+00:18:24,192 --> 00:18:27,570
+Already she's twice as beautiful
+as she was before.
+
+189
+00:18:27,654 --> 00:18:28,655
+<i>Voilà!</i>
+
+190
+00:18:30,490 --> 00:18:33,201
+Mr. Helpmann
+was very close to your poor father.
+
+191
+00:18:33,326 --> 00:18:36,663
+He was close to me. He still is.
+
+192
+00:18:38,540 --> 00:18:42,711
+He'll take you under his wing
+when you get to Information Retrieval.
+
+193
+00:18:42,836 --> 00:18:44,713
+You'll like it there.
+
+194
+00:18:44,879 --> 00:18:47,132
+You're not listening to me, Mother.
+
+195
+00:18:51,720 --> 00:18:53,555
+What the hell is this, lady?
+
+196
+00:18:53,680 --> 00:18:56,558
+It's a present for my son. Really!
+
+197
+00:18:57,392 --> 00:19:00,353
+I hope you like it. It's very exclusive.
+
+198
+00:19:02,439 --> 00:19:04,065
+What on Earth is it?
+
+199
+00:19:04,190 --> 00:19:07,068
+Something for an executive.
+
+200
+00:19:10,572 --> 00:19:14,617
+Madam Lowry! You look exquisite today.
+Merry Christmas.
+
+201
+00:19:14,743 --> 00:19:17,078
+Hello, Spiro. Merry Christmas.
+
+202
+00:19:17,704 --> 00:19:20,540
+- You remember my son, Samuel?
+- Of course.
+
+203
+00:19:20,623 --> 00:19:22,459
+We're joining Mrs. Terrain.
+
+204
+00:19:22,584 --> 00:19:24,294
+Yes, they're waiting.
+
+205
+00:19:31,301 --> 00:19:34,763
+- Mother, I thought we'd be able to talk.
+- We will.
+
+206
+00:19:34,888 --> 00:19:38,391
+- Ida!
+- God. She's got what's-her-name with her.
+
+207
+00:19:40,602 --> 00:19:43,396
+Well, Alma, how are you?
+
+208
+00:19:43,480 --> 00:19:45,648
+You look wonderful.
+
+209
+00:19:45,940 --> 00:19:47,817
+Hello, Shirley.
+
+210
+00:19:48,443 --> 00:19:50,153
+Thank you, Spiro.
+
+211
+00:19:51,071 --> 00:19:52,655
+- Salt?
+- Not yet.
+
+212
+00:19:53,281 --> 00:19:55,950
+Sam, Happy Christmas.
+
+213
+00:19:57,994 --> 00:20:00,330
+- So sorry we're late.
+- Thanks.
+
+214
+00:20:00,455 --> 00:20:02,290
+Now, Alma
+
+215
+00:20:02,749 --> 00:20:04,376
+what are you going to have?
+
+216
+00:20:04,459 --> 00:20:08,046
+I can't make up my mind whether to have
+the number one or the number two.
+
+217
+00:20:08,129 --> 00:20:09,798
+What do you recommend, Spiro?
+
+218
+00:20:09,923 --> 00:20:12,008
+Between you and me, <i>madame,</i>
+
+219
+00:20:12,133 --> 00:20:14,928
+-today the number two.
+- Thank you, Spiro.
+
+220
+00:20:15,011 --> 00:20:17,180
+Shirley, what are you going to have?
+
+221
+00:20:17,305 --> 00:20:21,351
+Between you and me, <i>mademoiselle,
+</i>today the number one.
+
+222
+00:20:21,684 --> 00:20:23,269
+Madam Lowry?
+
+223
+00:20:23,520 --> 00:20:27,774
+To hell with the diet!
+I'm going to have a number eight, please.
+
+224
+00:20:27,857 --> 00:20:30,944
+- A most perceptive choice, if I may say so.
+- Oh, Ida.
+
+225
+00:20:31,027 --> 00:20:33,196
+<i>- Monsieur?
+</i>-Steak, please, rare. Mother...
+
+226
+00:20:33,321 --> 00:20:35,949
+<i>- Monsieur, quel numéro?
+</i>-I don't know which number.
+
+227
+00:20:36,032 --> 00:20:38,159
+- Mother, please...
+- That one. There.
+
+228
+00:20:38,284 --> 00:20:39,744
+Thanks. Mother, will you...
+
+229
+00:20:39,828 --> 00:20:43,915
+Alma! You wicked girl.
+You've started your treatments.
+
+230
+00:20:43,998 --> 00:20:46,668
+- Say the number, please.
+- You noticed.
+
+231
+00:20:46,835 --> 00:20:49,170
+- You have to say the number!
+- Go away!
+
+232
+00:20:49,295 --> 00:20:51,131
+I must tell you all about it.
+
+233
+00:20:51,214 --> 00:20:52,799
+Number three.
+
+234
+00:20:55,009 --> 00:20:58,805
+- Mother, will you listen to me?
+<i>- Numéro huit.</i>
+
+235
+00:20:59,973 --> 00:21:04,060
+Braised veal in wine sauce.
+
+236
+00:21:06,563 --> 00:21:11,317
+It's too exciting.
+I've left Dr. Jaffe and gone to Dr. Chapman.
+
+237
+00:21:11,401 --> 00:21:13,695
+<i>Numéro deux,</i> duck <i>à l'orange.</i>
+
+238
+00:21:13,820 --> 00:21:15,947
+- Chapman?
+<i>- Excusez-moi.</i>
+
+239
+00:21:16,030 --> 00:21:18,324
+The acid man?
+
+240
+00:21:18,575 --> 00:21:22,162
+Really, Ida. Just because
+his techniques are revolutionary.
+
+241
+00:21:22,245 --> 00:21:25,373
+I don't go around calling
+Dr. Jaffe "the knife man."
+
+242
+00:21:25,498 --> 00:21:28,209
+<i>Numéro un, crevettes à la mayonnaise.</i>
+
+243
+00:21:28,334 --> 00:21:29,961
+I am sorry, Alma.
+
+244
+00:21:30,044 --> 00:21:32,964
+- I didn't mean to...
+- It's all right, Ida.
+
+245
+00:21:33,047 --> 00:21:35,758
+Steak.<i> Numéro trois!</i>
+
+246
+00:21:38,052 --> 00:21:39,888
+<i>Mesdames, monsieur</i>
+
+247
+00:21:40,597 --> 00:21:42,765
+<i>bon appétit!</i>
+
+248
+00:21:42,891 --> 00:21:44,684
+<i>- Merci!
+- Merci!</i>
+
+249
+00:21:44,767 --> 00:21:49,481
+Acid, on the other hand, can be used
+for such wonderfully subtle shading
+
+250
+00:21:49,564 --> 00:21:51,649
+such delicate nuances.
+
+251
+00:21:51,733 --> 00:21:55,153
+Like a Rembrandt etching.
+And it is so much quicker.
+
+252
+00:21:55,236 --> 00:21:59,199
+If it wasn't for this complication,
+it could've happened to anybody,
+
+253
+00:21:59,282 --> 00:22:02,410
+I'd have had this dressing off yesterday.
+
+254
+00:22:03,203 --> 00:22:04,454
+Shirley.
+
+255
+00:22:05,580 --> 00:22:06,581
+Salt?
+
+256
+00:22:30,396 --> 00:22:31,731
+What were we saying?
+
+257
+00:22:31,814 --> 00:22:33,733
+God, this isn't rare.
+
+258
+00:22:34,150 --> 00:22:39,113
+By the by, I saw the most wonderful idea
+for Christmas presents at the chemist's.
+
+259
+00:22:39,239 --> 00:22:41,741
+Gift tokens. Medical gift tokens.
+
+260
+00:22:41,824 --> 00:22:43,743
+That sounds marvelous!
+
+261
+00:22:43,826 --> 00:22:47,580
+It's good at any doctor's
+and most of the major hospitals.
+
+262
+00:22:47,664 --> 00:22:51,376
+It's also accepted
+for gynecological examinations
+
+263
+00:22:51,459 --> 00:22:53,795
+including Caesarian sections.
+
+264
+00:22:54,170 --> 00:22:56,339
+- Spiro.
+- Madam, I don't know what to say.
+
+265
+00:22:56,464 --> 00:23:00,635
+This never happens to us. I'm going
+to do something about it straightaway.
+
+266
+00:23:01,469 --> 00:23:04,806
+Sam, can't you do something
+about these terrorists?
+
+267
+00:23:05,265 --> 00:23:07,016
+It's my lunch hour.
+
+268
+00:23:08,309 --> 00:23:10,144
+Besides, it's not my department.
+
+269
+00:23:10,270 --> 00:23:15,024
+Actually, Alma, that's one of
+the little things I've been dying to tell you.
+
+270
+00:23:15,483 --> 00:23:19,445
+Sam's being promoted
+to Information Retrieval.
+
+271
+00:23:19,529 --> 00:23:23,616
+Why, that's wonderful!
+Congratulations, Sam.
+
+272
+00:23:23,825 --> 00:23:28,371
+Stop it! I'm not being promoted.
+I'm not going to Information Retrieval.
+
+273
+00:23:28,496 --> 00:23:31,499
+If I wanted to upset you, Mother,
+I'd tell you where to stick it.
+
+274
+00:23:35,628 --> 00:23:36,879
+Pepper?
+
+275
+00:23:39,132 --> 00:23:40,133
+I've got to go.
+
+276
+00:23:41,009 --> 00:23:43,094
+You haven't had your dessert.
+
+277
+00:23:43,177 --> 00:23:45,888
+I don't want dessert,
+promotion or anything!
+
+278
+00:23:46,014 --> 00:23:50,351
+Of course you want something.
+You must have hopes, wishes, dreams?
+
+279
+00:23:50,560 --> 00:23:52,729
+No, nothing. Not even dreams.
+
+280
+00:24:03,865 --> 00:24:05,033
+Sam.
+
+281
+00:24:37,815 --> 00:24:38,983
+Sam!
+
+282
+00:25:20,066 --> 00:25:21,401
+Oh, God!
+
+283
+00:25:44,465 --> 00:25:46,801
+Hello. Central Services?
+
+284
+00:25:47,218 --> 00:25:50,054
+I'm at 579B, Block 19,
+Northwestern Section D.
+
+285
+00:25:50,138 --> 00:25:53,391
+Exit 1 on Green Pastures Highway
+at the Orange Blossom Flyover.
+
+286
+00:25:53,474 --> 00:25:56,728
+I've got trouble with my air conditioning.
+It's an emergency.
+
+287
+00:25:56,811 --> 00:26:00,815
+<i>Thank you for calling Central Services.
+I'm sorry, due to staff shortages</i>
+
+288
+00:26:00,940 --> 00:26:05,319
+<i>Central Services cannot take service calls
+between 2300 and 0900 hours.</i>
+
+289
+00:26:05,445 --> 00:26:07,822
+<i>Have a nice day.
+This has not been a recording.</i>
+
+290
+00:26:07,905 --> 00:26:09,574
+This is an emergency!
+
+291
+00:26:09,657 --> 00:26:14,328
+<i>- Thank you for calling Central Services.</i>
+- Look, I've got to have a heating engineer.
+
+292
+00:26:14,454 --> 00:26:17,331
+<i>- Thank you for calling Central Services.</i>
+- Oh, shit!
+
+293
+00:26:42,106 --> 00:26:43,357
+Hello.
+
+294
+00:26:53,034 --> 00:26:54,827
+- Hello.
+<i>- Hello.</i>
+
+295
+00:27:04,545 --> 00:27:06,297
+<i>Hello, Mr. Lowry.</i>
+
+296
+00:27:06,380 --> 00:27:08,132
+Yes, who is this?
+
+297
+00:27:08,716 --> 00:27:11,719
+<i>Put the phone down and raise your hands.</i>
+
+298
+00:27:12,136 --> 00:27:13,888
+What? Who is this?
+
+299
+00:27:17,558 --> 00:27:19,393
+Nice and easy, now.
+
+300
+00:27:25,483 --> 00:27:28,402
+Just keep your hands where I can see them.
+
+301
+00:27:53,845 --> 00:27:55,429
+What are you doing?
+
+302
+00:27:59,725 --> 00:28:03,020
+Harry Tuttle, heating engineer,
+at your service.
+
+303
+00:28:06,774 --> 00:28:08,067
+Tuttle?
+
+304
+00:28:09,861 --> 00:28:11,404
+Are you from Central Services?
+
+305
+00:28:17,618 --> 00:28:19,287
+I called Central Services.
+
+306
+00:28:19,412 --> 00:28:20,788
+They're overworked these days.
+
+307
+00:28:21,372 --> 00:28:23,916
+Luckily, I intercepted your call.
+
+308
+00:28:24,792 --> 00:28:26,252
+You did...
+
+309
+00:28:27,795 --> 00:28:30,798
+Just a minute.
+What was that business with the gun?
+
+310
+00:28:31,591 --> 00:28:33,593
+Just a precaution, sir.
+
+311
+00:28:35,219 --> 00:28:37,972
+I've had traps set for me before now.
+
+312
+00:28:38,431 --> 00:28:43,394
+Plenty of people in Central Services would
+love to get their hands on Harry Tuttle.
+
+313
+00:28:45,271 --> 00:28:47,273
+Are you telling me that this is illegal?
+
+314
+00:28:54,071 --> 00:28:55,364
+Well, yes and no.
+
+315
+00:28:55,448 --> 00:28:57,992
+Officially, only Central Services
+can touch this stuff.
+
+316
+00:28:58,075 --> 00:28:59,577
+Would you hold this, please?
+
+317
+00:28:59,660 --> 00:29:02,413
+But nowadays,
+with all the new rules and regulations
+
+318
+00:29:02,496 --> 00:29:04,498
+they can't get decent staff anymore.
+
+319
+00:29:04,582 --> 00:29:07,168
+They turn a blind eye as long as I'm careful.
+
+320
+00:29:07,293 --> 00:29:10,671
+But if they could prove that I've been
+working on their equipment
+
+321
+00:29:10,796 --> 00:29:13,007
+that's a plate of a different color.
+
+322
+00:29:13,090 --> 00:29:15,760
+- Wouldn't it be simpler just to...
+- Hold this, please.
+
+323
+00:29:15,843 --> 00:29:17,178
+Sorry, yes.
+
+324
+00:29:17,303 --> 00:29:20,765
+I was saying, wouldn't it be simpler
+to work with Central Services?
+
+325
+00:29:20,848 --> 00:29:22,808
+I couldn't stand the...
+
+326
+00:29:24,268 --> 00:29:26,687
+- It's getting warm.
+- You couldn't stand the what?
+
+327
+00:29:26,812 --> 00:29:28,689
+I couldn't stand the paperwork.
+
+328
+00:29:28,773 --> 00:29:30,191
+Listen,
+
+329
+00:29:30,274 --> 00:29:33,611
+this system of yours could be on fire,
+and I couldn't turn on a kitchen tap
+
+330
+00:29:33,694 --> 00:29:36,405
+without filling out a 27B/6.
+
+331
+00:29:36,864 --> 00:29:38,616
+Bloody paperwork.
+
+332
+00:29:39,200 --> 00:29:41,535
+I suppose one has to expect
+a certain amount.
+
+333
+00:29:41,702 --> 00:29:44,455
+Why? I came into this
+for the action, the excitement.
+
+334
+00:29:44,538 --> 00:29:49,043
+Go anywhere, travel light. Get in, get out,
+wherever there's trouble. A man alone.
+
+335
+00:29:50,378 --> 00:29:51,754
+They've got the whole country
+sectioned off.
+
+336
+00:29:51,837 --> 00:29:53,798
+Can't make a move without a form.
+
+337
+00:30:10,690 --> 00:30:13,067
+Found it. There's your problem.
+
+338
+00:30:13,359 --> 00:30:15,319
+- Can you fix it?
+- No, I can't.
+
+339
+00:30:15,403 --> 00:30:19,073
+But I can bypass it with one of these.
+
+340
+00:30:21,534 --> 00:30:22,994
+Fine by me.
+
+341
+00:30:27,915 --> 00:30:29,750
+- Are you expecting anyone?
+- No.
+
+342
+00:30:35,423 --> 00:30:37,174
+Wait here. Wait.
+
+343
+00:30:43,848 --> 00:30:46,267
+The flashlight.
+
+344
+00:30:49,437 --> 00:30:51,355
+- Central Services.
+- Central Services.
+
+345
+00:30:51,439 --> 00:30:54,442
+- Yes.
+- You rang, sir.
+
+346
+00:30:54,567 --> 00:30:57,111
+Trouble with your air conditioning?
+
+347
+00:30:57,278 --> 00:30:58,779
+No, it's all right.
+
+348
+00:31:01,782 --> 00:31:02,867
+It's fixed.
+
+349
+00:31:03,284 --> 00:31:04,618
+It's fixed?
+
+350
+00:31:05,036 --> 00:31:08,748
+Yes. I mean, it fixed itself.
+
+351
+00:31:09,040 --> 00:31:10,708
+Fixed itself, did it?
+
+352
+00:31:11,751 --> 00:31:12,877
+Yes.
+
+353
+00:31:14,628 --> 00:31:16,964
+Machines don't fix themselves.
+
+354
+00:31:17,965 --> 00:31:20,134
+He's tampered with it.
+
+355
+00:31:21,802 --> 00:31:24,221
+Sorry you had a wasted journey.
+
+356
+00:31:25,598 --> 00:31:28,059
+I think we ought to have a look.
+
+357
+00:31:30,936 --> 00:31:32,897
+Have you got a 27B/6?
+
+358
+00:31:32,980 --> 00:31:34,315
+A 27B/6?
+
+359
+00:31:42,490 --> 00:31:43,991
+Now look what you've done to him.
+
+360
+00:31:46,243 --> 00:31:48,162
+Have you got a 27B/6?
+
+361
+00:31:48,579 --> 00:31:50,581
+Not as such.
+
+362
+00:31:52,625 --> 00:31:54,418
+But we'll get one.
+
+363
+00:31:55,836 --> 00:31:57,755
+It's all right, it's all right.
+
+364
+00:31:58,297 --> 00:32:01,342
+Sorry. I'm a bit of a stickler for paperwork.
+
+365
+00:32:01,425 --> 00:32:04,345
+Where would we be
+if we didn't stick to the correct procedures?
+
+366
+00:32:04,428 --> 00:32:06,013
+We'll be back.
+
+367
+00:32:07,014 --> 00:32:08,557
+We'll be back!
+
+368
+00:32:14,021 --> 00:32:15,272
+Thanks for coming.
+
+369
+00:32:15,356 --> 00:32:17,650
+We'll be back, you clever bastard!
+
+370
+00:32:18,025 --> 00:32:20,444
+- Thank you.
+- We'll show you.
+
+371
+00:32:27,868 --> 00:32:31,372
+Thanks, Lowry.
+You're a good man in a tight corner.
+
+372
+00:32:40,548 --> 00:32:43,134
+I just happen to work
+at the Ministry of Information.
+
+373
+00:32:43,217 --> 00:32:44,218
+What?
+
+374
+00:32:45,886 --> 00:32:48,222
+I just happen to know that
+
+375
+00:32:48,722 --> 00:32:52,726
+Information Retrieval
+are looking for an Archibald Tuttle,
+
+376
+00:32:52,810 --> 00:32:54,562
+heating engineer.
+
+377
+00:32:57,314 --> 00:33:00,067
+You wouldn't by any chance... Would you?
+
+378
+00:33:02,528 --> 00:33:04,905
+My good friends call me Harry.
+
+379
+00:33:06,740 --> 00:33:08,701
+Information Retrieval?
+
+380
+00:33:09,410 --> 00:33:10,911
+The big boys.
+
+381
+00:33:16,417 --> 00:33:18,627
+What do they want you for?
+
+382
+00:33:23,674 --> 00:33:25,134
+Time to go.
+
+383
+00:33:25,759 --> 00:33:27,219
+How's that?
+
+384
+00:33:32,725 --> 00:33:35,519
+You really must let me give you something.
+
+385
+00:33:39,565 --> 00:33:42,109
+How much will it be for the work?
+
+386
+00:33:43,944 --> 00:33:47,615
+Come on. You did me a favor.
+Just check the corridor.
+
+387
+00:33:50,910 --> 00:33:52,161
+Thanks.
+
+388
+00:33:52,244 --> 00:33:55,080
+Listen, kid. We're all in this together.
+
+389
+00:33:55,247 --> 00:33:56,498
+Go on.
+
+390
+00:34:10,721 --> 00:34:11,847
+All clear.
+
+391
+00:34:40,834 --> 00:34:43,337
+I think Kurtzmann is getting suspicious.
+
+392
+00:34:46,632 --> 00:34:48,550
+What's playing today?
+
+393
+00:34:49,218 --> 00:34:50,678
+<i>Casablanca.</i>
+
+394
+00:34:50,761 --> 00:34:53,222
+<i>Mr. Lowry, step in here, please.</i>
+
+395
+00:34:57,101 --> 00:34:58,352
+<i>Lowry!</i>
+
+396
+00:35:00,187 --> 00:35:02,189
+<i>Now, Mr. Lowry!</i>
+
+397
+00:35:14,994 --> 00:35:18,247
+Thank God you're here.
+We're in terrible trouble.
+
+398
+00:35:26,338 --> 00:35:27,673
+Look at this.
+
+399
+00:35:27,756 --> 00:35:30,759
+- It's a check.
+- It's the refund for Tuttle.
+
+400
+00:35:30,843 --> 00:35:32,136
+Tuttle?
+
+401
+00:35:33,637 --> 00:35:35,597
+Buttle. I mean Buttle.
+
+402
+00:35:35,973 --> 00:35:38,100
+It's been confusion from the word go.
+
+403
+00:35:38,183 --> 00:35:41,103
+He was overcharged
+for Information Retrieval procedures.
+
+404
+00:35:41,186 --> 00:35:44,106
+And someone, somewhere,
+is trying to make us carry the can.
+
+405
+00:35:44,189 --> 00:35:47,818
+Can I have a look?
+I've never seen a refund check before.
+
+406
+00:35:47,901 --> 00:35:49,945
+I'll bet it's Jeffries.
+
+407
+00:35:51,864 --> 00:35:53,032
+Yes.
+
+408
+00:35:53,240 --> 00:35:56,410
+He believes that people
+should pay more for their interrogation.
+
+409
+00:35:56,493 --> 00:35:58,537
+And B: he loathes me.
+
+410
+00:35:58,704 --> 00:36:00,456
+We've got to get rid of it.
+
+411
+00:36:00,539 --> 00:36:03,792
+Send it to somebody else.
+Better still, send it to Buttle.
+
+412
+00:36:03,876 --> 00:36:05,461
+After all, it's his check.
+
+413
+00:36:05,544 --> 00:36:07,880
+I've tried that. Look at this.
+
+414
+00:36:08,130 --> 00:36:09,173
+You see?
+
+415
+00:36:09,256 --> 00:36:12,426
+The population census
+has got him down as dormanted.
+
+416
+00:36:12,509 --> 00:36:16,096
+The Central Collective Storehouse
+computer has got him down as deleted.
+
+417
+00:36:16,180 --> 00:36:17,181
+Hang on.
+
+418
+00:36:17,264 --> 00:36:19,641
+Information Retrieval's
+got him inoperative.
+
+419
+00:36:19,725 --> 00:36:22,394
+Security has got him down as excised.
+
+420
+00:36:22,478 --> 00:36:25,230
+- Administration's got him as completed.
+- He's dead.
+
+421
+00:36:27,649 --> 00:36:28,817
+Dead?
+
+422
+00:36:31,278 --> 00:36:33,197
+Well, that's awful.
+
+423
+00:36:37,618 --> 00:36:40,579
+We'll never get rid of the damn thing now.
+
+424
+00:36:41,288 --> 00:36:43,248
+What are we going to do, Sam?
+
+425
+00:36:43,916 --> 00:36:45,459
+Could try the next of kin.
+
+426
+00:36:53,467 --> 00:36:56,053
+There we go. "Buttle, Veronica, Mrs."
+
+427
+00:36:56,136 --> 00:36:57,513
+Veronica?
+
+428
+00:36:58,472 --> 00:37:00,766
+What's the number on the check?
+
+429
+00:37:00,849 --> 00:37:04,144
+27156789
+
+430
+00:37:06,271 --> 00:37:09,775
+/074328K.
+
+431
+00:37:12,778 --> 00:37:14,571
+Right into memory.
+
+432
+00:37:16,281 --> 00:37:17,950
+Central Banking.
+
+433
+00:37:19,326 --> 00:37:21,120
+Veronica Buttle
+
+434
+00:37:21,912 --> 00:37:23,080
+Mrs.
+
+435
+00:37:24,206 --> 00:37:25,541
+Deposit.
+
+436
+00:37:40,639 --> 00:37:42,433
+Thank God for that.
+
+437
+00:37:42,683 --> 00:37:44,435
+Would you like some tea?
+
+438
+00:37:54,695 --> 00:37:56,363
+There's a problem.
+
+439
+00:37:56,447 --> 00:37:58,907
+She doesn't have a bank account.
+
+440
+00:38:02,911 --> 00:38:04,830
+Well, that's it then.
+
+441
+00:38:06,039 --> 00:38:09,084
+I might just as well
+go and hang myself now.
+
+442
+00:38:11,795 --> 00:38:16,341
+This could never have happened
+before the stupid 7th tier reorganization.
+
+443
+00:38:16,425 --> 00:38:18,051
+That's Simmons' doing.
+
+444
+00:38:18,135 --> 00:38:20,554
+He and Jeffries
+always sit together at lunch.
+
+445
+00:38:20,637 --> 00:38:21,972
+Bastards!
+
+446
+00:38:28,312 --> 00:38:32,441
+Perhaps we could lose the thing
+behind a filing cabinet or something
+
+447
+00:38:32,524 --> 00:38:35,986
+-or burn it, eat it...
+- Look. There is one solution.
+
+448
+00:38:36,069 --> 00:38:38,113
+- What?
+- Drive out to Mrs. Buttle
+
+449
+00:38:38,197 --> 00:38:41,658
+let her sign at the back of the check.
+She can cash it at the corner sweet shop.
+
+450
+00:38:43,785 --> 00:38:45,704
+That's brilliant, Sam.
+
+451
+00:38:45,787 --> 00:38:47,372
+I'll even do it for you.
+
+452
+00:38:47,456 --> 00:38:49,791
+Here, authorize the check.
+What's the address?
+
+453
+00:38:49,875 --> 00:38:51,793
+Everything's in here.
+
+454
+00:38:55,297 --> 00:38:56,590
+What shall I do next?
+
+455
+00:38:59,176 --> 00:39:00,594
+Pink and blue receipts.
+
+456
+00:39:00,677 --> 00:39:04,306
+Sign there, there and there.
+And sign the check there.
+
+457
+00:39:10,103 --> 00:39:12,314
+I think I've broken a bone.
+
+458
+00:39:12,648 --> 00:39:16,485
+My wrist is all limp.
+What a pathetic creature I am!
+
+459
+00:39:19,488 --> 00:39:21,323
+I'll do it for you.
+
+460
+00:39:40,217 --> 00:39:42,344
+Right. I'll be on my way.
+
+461
+00:39:45,222 --> 00:39:46,390
+Sam?
+
+462
+00:39:49,810 --> 00:39:51,478
+You are good to me, you know.
+
+463
+00:39:52,437 --> 00:39:55,524
+<i>- Here's looking at you, kid.</i>
+- Here's looking at you.
+
+464
+00:40:14,001 --> 00:40:17,045
+<i>We interrupt this program
+to bring you news of a terrorist bombing</i>
+
+465
+00:40:17,129 --> 00:40:18,672
+<i>at the Blue Lagoon...</i>
+
+466
+00:40:59,671 --> 00:41:01,632
+Hello. I wonder if you could tell me where...
+
+467
+00:41:01,715 --> 00:41:03,425
+Piss off!
+
+468
+00:41:08,221 --> 00:41:09,473
+Hello.
+
+469
+00:41:11,224 --> 00:41:13,060
+I'll never confess!
+
+470
+00:41:19,024 --> 00:41:21,652
+Come on, you've got to interrogate me.
+
+471
+00:41:47,803 --> 00:41:49,304
+Mrs. Buttle?
+
+472
+00:41:53,767 --> 00:41:55,268
+Mrs. Buttle?
+
+473
+00:42:04,194 --> 00:42:06,029
+Are you Mrs. Buttle?
+
+474
+00:42:13,286 --> 00:42:15,038
+My name is Lowry.
+
+475
+00:42:16,790 --> 00:42:18,208
+Sam Lowry.
+
+476
+00:42:21,044 --> 00:42:23,755
+I'm from the Ministry of Information.
+
+477
+00:42:26,758 --> 00:42:29,136
+I've come to give you a check.
+
+478
+00:42:34,391 --> 00:42:37,519
+It's a refund, actually. There was a mistake.
+
+479
+00:42:38,103 --> 00:42:39,438
+Mistake?
+
+480
+00:42:39,521 --> 00:42:43,024
+Yes. Not my department, of course.
+I'm only Records.
+
+481
+00:42:45,152 --> 00:42:50,115
+I'll tell you what it is. It seems Mr. Buttle
+was overcharged by Information Retrieval.
+
+482
+00:42:50,991 --> 00:42:53,952
+They don't usually make mistakes
+
+483
+00:42:54,619 --> 00:42:56,788
+but I suppose we're all human.
+
+484
+00:43:01,501 --> 00:43:03,587
+What happened to the...
+
+485
+00:43:08,008 --> 00:43:10,844
+Actually, my coming here
+is rather unorthodox.
+
+486
+00:43:10,927 --> 00:43:15,682
+Bringing you this check. Any payments are
+normally made through Central Computer
+
+487
+00:43:15,849 --> 00:43:18,143
+but as there were certain
+
+488
+00:43:18,810 --> 00:43:22,314
+difficulties, we thought,
+rather than cause delay
+
+489
+00:43:22,898 --> 00:43:25,025
+we'd let you have it now.
+
+490
+00:43:25,317 --> 00:43:27,611
+It being Christmas and all.
+
+491
+00:43:28,612 --> 00:43:30,906
+My husband's dead, isn't he?
+
+492
+00:43:33,617 --> 00:43:37,078
+I do assure you, Mrs. Buttle,
+the Ministry is very scrupulous
+
+493
+00:43:37,162 --> 00:43:39,956
+about following up
+and eradicating any error.
+
+494
+00:43:40,040 --> 00:43:42,751
+But if you do have any complaints
+you wish to make,
+
+495
+00:43:42,834 --> 00:43:46,963
+I'd be only too happy
+to send you the appropriate forms.
+
+496
+00:43:47,297 --> 00:43:49,841
+What have you done with his body?
+
+497
+00:43:56,807 --> 00:44:00,268
+I don't know anything about that.
+I'm really just
+
+498
+00:44:00,352 --> 00:44:02,562
+delivering the check. So if...
+
+499
+00:44:02,646 --> 00:44:06,650
+Look, if you wouldn't mind
+just signing these two receipts,
+
+500
+00:44:07,359 --> 00:44:11,363
+I'd be only too happy to leave you in peace.
+
+501
+00:44:11,530 --> 00:44:13,615
+He hadn't done anything.
+
+502
+00:44:14,032 --> 00:44:15,534
+He was good!
+
+503
+00:44:17,160 --> 00:44:21,623
+What have you done with his body?
+
+504
+00:44:28,797 --> 00:44:31,424
+It isn't being very helpful, is it?
+
+505
+00:44:38,932 --> 00:44:42,269
+I didn't have to come here,
+you know, Mrs. Buttle.
+
+506
+00:44:43,603 --> 00:44:45,772
+I'll kill you, you bastard!
+
+507
+00:44:47,649 --> 00:44:48,984
+Stop it!
+
+508
+00:44:59,744 --> 00:45:01,538
+Are you all right?
+
+509
+00:45:02,914 --> 00:45:04,708
+Are you all right?
+
+510
+00:45:09,588 --> 00:45:11,506
+Mrs. Buttle, are you all right?
+
+511
+00:45:11,590 --> 00:45:12,716
+It's you.
+
+512
+00:45:13,717 --> 00:45:15,635
+Wait, stop! Don't go!
+
+513
+00:46:28,416 --> 00:46:32,045
+Stop! I had nothing to do with it. Wait!
+
+514
+00:46:32,128 --> 00:46:33,338
+Stop!
+
+515
+00:46:56,569 --> 00:46:58,863
+- Go away.
+- Her name's Jill.
+
+516
+00:46:59,739 --> 00:47:00,907
+What?
+
+517
+00:47:01,324 --> 00:47:02,492
+Jill?
+
+518
+00:47:02,909 --> 00:47:04,244
+Jill who?
+
+519
+00:47:04,744 --> 00:47:05,787
+Jill who?
+
+520
+00:47:07,122 --> 00:47:08,248
+Layton.
+
+521
+00:47:10,542 --> 00:47:12,002
+Jill Layton.
+
+522
+00:47:13,211 --> 00:47:15,505
+You're a very good little girl.
+
+523
+00:47:15,588 --> 00:47:18,591
+- What are you doing here?
+- Waiting for my daddy.
+
+524
+00:47:18,758 --> 00:47:21,469
+He will be pleased when he gets home.
+
+525
+00:48:06,931 --> 00:48:10,226
+Sam, I've just had
+the transport pool onto me.
+
+526
+00:48:10,310 --> 00:48:13,730
+You don't know anything about a personnel
+transporter gone missing, do you?
+
+527
+00:48:13,813 --> 00:48:15,523
+Personnel transporter?
+
+528
+00:48:15,940 --> 00:48:16,941
+What?
+
+529
+00:48:17,567 --> 00:48:20,361
+The pranets, I had a personal transporter.
+
+530
+00:48:20,445 --> 00:48:22,822
+I'll do the paperwork in the morning.
+
+531
+00:48:24,199 --> 00:48:26,910
+Is it all right about Mrs. Tuttle...
+
+532
+00:48:27,077 --> 00:48:28,995
+Buttle's check?
+
+533
+00:48:30,080 --> 00:48:31,748
+Can I forget it?
+
+534
+00:48:32,332 --> 00:48:35,251
+What a relief. I'm gonna have nightmares.
+
+535
+00:48:38,463 --> 00:48:39,547
+Damn! Blast!
+
+536
+00:48:40,799 --> 00:48:42,550
+What's the matter?
+
+537
+00:48:43,134 --> 00:48:46,596
+You don't happen to know
+how to get round an IRQ/3, do you?
+
+538
+00:48:47,222 --> 00:48:49,766
+All information
+on third level suspects is classified.
+
+539
+00:48:49,974 --> 00:48:54,312
+All inquiries through Information Retrieval.
+That's hopeless, they'll tell you nothing.
+
+540
+00:48:54,395 --> 00:48:57,524
+Come the time they want something
+from us, yes.
+
+541
+00:48:57,732 --> 00:49:00,026
+There's one way I could get round it.
+
+542
+00:49:00,193 --> 00:49:03,988
+- I could accept my mother's promotion.
+- Yes.
+
+543
+00:49:04,239 --> 00:49:05,323
+No!
+
+544
+00:49:06,950 --> 00:49:08,701
+You can't. You turned it down.
+
+545
+00:49:09,536 --> 00:49:10,954
+I didn't sign the form.
+
+546
+00:49:12,747 --> 00:49:14,040
+I did it for you.
+
+547
+00:49:15,500 --> 00:49:17,293
+- You didn't?
+- I did.
+
+548
+00:49:18,711 --> 00:49:19,712
+You didn't!
+
+549
+00:49:20,630 --> 00:49:21,840
+I did.
+
+550
+00:49:22,215 --> 00:49:25,969
+- Why did you do that?
+- That's what you wanted, isn't it?
+
+551
+00:49:27,512 --> 00:49:29,013
+I don't know.
+
+552
+00:49:29,722 --> 00:49:31,808
+I don't know what I want.
+
+553
+00:49:33,351 --> 00:49:35,895
+Come on, before they turn the lights out.
+
+554
+00:49:52,954 --> 00:49:54,205
+<i>There is one way around it.</i>
+
+555
+00:49:55,039 --> 00:49:58,376
+<i>I could accept promotion
+to Information Retrieval.</i>
+
+556
+00:52:16,931 --> 00:52:18,725
+What are you doing?
+
+557
+00:52:18,975 --> 00:52:20,727
+My God, what's going on?
+
+558
+00:52:20,810 --> 00:52:22,687
+Emergency procedures.
+
+559
+00:52:24,188 --> 00:52:26,357
+I haven't got an emergency.
+
+560
+00:52:26,441 --> 00:52:27,984
+<i>This is an emergency.</i>
+
+561
+00:52:28,067 --> 00:52:30,820
+<i>Have a nice day.
+This has not been a recording.</i>
+
+562
+00:52:33,072 --> 00:52:34,741
+Here. Sign that.
+
+563
+00:52:36,451 --> 00:52:37,660
+What is it?
+
+564
+00:52:37,744 --> 00:52:41,122
+It's a 27B/6. What do you think it is?
+Where is he?
+
+565
+00:52:41,414 --> 00:52:43,750
+Spoor, come here. I found it.
+
+566
+00:52:45,418 --> 00:52:47,128
+Spoor, come here!
+
+567
+00:52:47,295 --> 00:52:50,840
+Look there, a bypass valve
+on the transformer.
+
+568
+00:53:03,644 --> 00:53:05,646
+You've had that scab Tuttle here.
+
+569
+00:53:06,189 --> 00:53:07,190
+What are you talking about?
+
+570
+00:53:08,483 --> 00:53:10,693
+Who fixed your ducts?
+
+571
+00:53:11,736 --> 00:53:14,655
+I told you before, they fixed themselves.
+
+572
+00:53:15,281 --> 00:53:17,742
+Where did this come from,
+out of your nostril?
+
+573
+00:53:23,539 --> 00:53:25,291
+Central Services.
+
+574
+00:53:27,794 --> 00:53:30,380
+They don't take kindly to sabotage.
+
+575
+00:53:34,550 --> 00:53:37,053
+This place is in a terrible state.
+
+576
+00:53:38,012 --> 00:53:41,140
+Just a minute. You're not gonna
+leave it like this, are you?
+
+577
+00:53:41,391 --> 00:53:42,517
+Why not?
+
+578
+00:53:42,600 --> 00:53:46,104
+All you got to do is blow your nose
+and it's fixed, isn't it?
+
+579
+00:54:24,684 --> 00:54:27,478
+<i>What have you done with his body?</i>
+
+580
+00:57:46,302 --> 00:57:49,805
+<i>Mrs. Ida Lowry requests the pleasure
+of your company</i>
+
+581
+00:57:49,889 --> 00:57:52,850
+<i>at her apartment tonight from 8:30</i>
+
+582
+00:57:55,978 --> 00:57:57,563
+<i>to midnight</i>
+
+583
+00:57:58,064 --> 00:58:00,316
+<i>To celebrate the completion</i>
+
+584
+00:58:00,399 --> 00:58:02,735
+<i>of her recent cosmetic</i>
+
+585
+00:58:03,069 --> 00:58:05,446
+<i>surgery</i>
+
+586
+00:58:25,174 --> 00:58:26,425
+Thanks.
+
+587
+00:58:26,717 --> 00:58:28,386
+It's reply paid.
+
+588
+00:58:28,719 --> 00:58:29,929
+Is it?
+
+589
+00:58:34,350 --> 00:58:35,685
+Two, three.
+
+590
+00:58:35,768 --> 00:58:39,105
+<i>Mother, I'm sorry but I am unable
+to come to your party</i>
+
+591
+00:58:39,230 --> 00:58:41,357
+You don't have to sing it.
+
+592
+00:58:41,440 --> 00:58:42,775
+I don't?
+
+593
+00:58:49,949 --> 00:58:52,785
+Aren't you a bit late?
+The party started an hour ago.
+
+594
+00:58:52,910 --> 00:58:55,663
+Yes, it's backlog. Everybody complains.
+
+595
+00:58:56,288 --> 00:58:58,457
+Was it all right otherwise?
+
+596
+00:59:07,591 --> 00:59:11,303
+<i>Mr. Helpmann, I'm keen
+to get into Information Retrieval.</i>
+
+597
+00:59:11,512 --> 00:59:14,640
+<i>Mr. Helpmann,
+I'm dying to get at this woman.</i>
+
+598
+00:59:24,316 --> 00:59:26,193
+Where's your invitation?
+
+599
+00:59:26,318 --> 00:59:28,487
+Don't shoot! Mother!
+
+600
+00:59:30,781 --> 00:59:34,160
+Sam, I'm so glad you came.
+
+601
+00:59:35,453 --> 00:59:36,704
+Come in.
+
+602
+00:59:37,455 --> 00:59:38,664
+Mother?
+
+603
+00:59:41,000 --> 00:59:43,461
+Oh, God, Mother, is that you?
+
+604
+00:59:43,544 --> 00:59:46,380
+Of course. Isn't it wonderful?
+
+605
+00:59:46,797 --> 00:59:49,675
+The bandages came off just this afternoon.
+
+606
+00:59:50,050 --> 00:59:52,303
+Come on, darling, join in the fun.
+
+607
+00:59:52,386 --> 00:59:54,722
+Simply everybody's here.
+
+608
+00:59:54,847 --> 00:59:57,641
+- Is Mr. Helpmann here? Stop shoving!
+- He is.
+
+609
+00:59:57,725 --> 01:00:01,020
+Mr. Helpmann is here,
+and he wants to talk to you.
+
+610
+01:00:01,145 --> 01:00:03,314
+Good. I want to talk to him.
+
+611
+01:00:03,397 --> 01:00:07,234
+He says you're the first person
+ever to refuse a promotion.
+
+612
+01:00:07,359 --> 01:00:11,322
+- He thinks you should see a doctor.
+- Actually, Mother, I've decided...
+
+613
+01:00:12,072 --> 01:00:13,866
+Louis, you know Sam.
+
+614
+01:00:14,700 --> 01:00:16,494
+Can you believe it?
+
+615
+01:00:16,869 --> 01:00:19,371
+It's just me and my little knife.
+
+616
+01:00:19,497 --> 01:00:20,748
+Snip.
+
+617
+01:00:21,040 --> 01:00:22,249
+Slice.
+
+618
+01:00:22,917 --> 01:00:25,628
+- Can you believe it?
+- Congratulations.
+
+619
+01:00:25,711 --> 01:00:28,297
+- But this is just the beginning.
+- Really?
+
+620
+01:00:28,380 --> 01:00:31,175
+Of course, yes.
+You've seen her with her clothes off.
+
+621
+01:00:31,258 --> 01:00:34,386
+Faces are a doddle
+compared to tits and ass.
+
+622
+01:00:34,470 --> 01:00:38,390
+- No hairlines.
+- Really, Louis!
+
+623
+01:00:38,891 --> 01:00:41,602
+I've been looking for you everywhere.
+
+624
+01:00:46,232 --> 01:00:49,068
+Mother, I have to talk to Mr. Helpmann.
+
+625
+01:00:49,568 --> 01:00:51,821
+- You stupid sod.
+- Dear boy
+
+626
+01:00:52,822 --> 01:00:55,407
+what do you think of your mother now?
+
+627
+01:00:55,491 --> 01:00:57,243
+It will never last.
+
+628
+01:00:59,703 --> 01:01:01,080
+Excuse me.
+
+629
+01:01:01,247 --> 01:01:03,415
+Dr. Chapman, did you say something?
+
+630
+01:01:03,541 --> 01:01:05,876
+That technique, I've tried it.
+
+631
+01:01:06,585 --> 01:01:09,421
+A nice effect, but highly unstable.
+
+632
+01:01:10,089 --> 01:01:13,259
+In six months,
+she'll look like Grandma Moses.
+
+633
+01:01:13,759 --> 01:01:15,594
+See here, Chapman.
+
+634
+01:01:15,678 --> 01:01:19,598
+At least mine don't end up looking
+like they've been mugged.
+
+635
+01:01:24,603 --> 01:01:28,858
+<i>What have you done with his body?</i>
+
+636
+01:01:33,404 --> 01:01:36,949
+- What happened to you?
+- There's a little complication.
+
+637
+01:01:37,032 --> 01:01:41,620
+Dr. Chapman says it often happens
+with a delicate skin like mine.
+
+638
+01:01:42,246 --> 01:01:44,123
+Nothing to worry about.
+
+639
+01:01:44,248 --> 01:01:47,626
+He's promised these bandages
+will be off in a jiffy.
+
+640
+01:01:47,751 --> 01:01:51,130
+- Actually, there's someone I want to meet.
+- I know.
+
+641
+01:01:54,967 --> 01:01:56,427
+Here we are.
+
+642
+01:01:58,053 --> 01:02:01,140
+I'm going to leave you two lovebirds
+in peace.
+
+643
+01:02:03,392 --> 01:02:05,144
+Hello, Shirley.
+
+644
+01:02:07,146 --> 01:02:08,439
+Come on.
+
+645
+01:02:09,064 --> 01:02:10,900
+Do you want a drink?
+
+646
+01:02:17,156 --> 01:02:18,741
+Chase those years away.
+
+647
+01:02:18,824 --> 01:02:20,492
+Listen, Shirley.
+
+648
+01:02:21,076 --> 01:02:24,663
+Look, your mother and my mother
+have the idea that...
+
+649
+01:02:25,831 --> 01:02:27,416
+Look, I'm very flattered.
+
+650
+01:02:27,499 --> 01:02:31,170
+And, well, I just don't want you
+to be under any false impressions.
+
+651
+01:02:31,253 --> 01:02:32,838
+It's all right.
+
+652
+01:02:33,130 --> 01:02:35,174
+I don't like you, either.
+
+653
+01:02:37,676 --> 01:02:38,761
+Sam!
+
+654
+01:02:40,012 --> 01:02:42,473
+Jack! Excuse me, Shirley.
+
+655
+01:02:43,807 --> 01:02:45,351
+I'm sorry.
+
+656
+01:02:48,354 --> 01:02:50,356
+- Do you remember Alison?
+- Good evening.
+
+657
+01:02:50,481 --> 01:02:52,942
+Alison, Sam Lowry, an old friend.
+
+658
+01:02:53,025 --> 01:02:55,027
+Alison, yes, of course.
+
+659
+01:02:55,861 --> 01:02:58,364
+- You look different.
+- I'm two years older.
+
+660
+01:02:58,489 --> 01:03:01,617
+And she's been to Dr. Jaffe.
+She doesn't like me telling people.
+
+661
+01:03:01,700 --> 01:03:03,702
+But, in fact, she's really pleased.
+
+662
+01:03:03,827 --> 01:03:07,623
+- I knew there was something different.
+- Remember how they used to stick out?
+
+663
+01:03:07,706 --> 01:03:08,874
+What?
+
+664
+01:03:09,041 --> 01:03:11,377
+Yes, well, rather.
+
+665
+01:03:11,961 --> 01:03:15,798
+- I always used to wonder if they were real.
+- What, my ears?
+
+666
+01:03:18,550 --> 01:03:21,720
+- Dr. Jaffe pinned her ears back.
+- Yes, that's...
+
+667
+01:03:22,638 --> 01:03:25,015
+I always wondered if she wore falsies.
+
+668
+01:03:25,099 --> 01:03:26,600
+Mr. Helpmann.
+
+669
+01:03:27,726 --> 01:03:29,103
+False ears.
+
+670
+01:03:30,604 --> 01:03:33,065
+- Hello, Jack.
+- You remember my wife, Alison?
+
+671
+01:03:33,190 --> 01:03:36,568
+Of course, Barbara, isn't it? How are you?
+
+672
+01:03:36,694 --> 01:03:39,196
+Barbara's very well. How are you?
+
+673
+01:03:39,405 --> 01:03:40,906
+- Fine, thanks.
+- Good.
+
+674
+01:03:41,031 --> 01:03:45,119
+Hello, Sam. Ida said you might be here.
+Have you got a minute?
+
+675
+01:03:45,452 --> 01:03:47,287
+Would you excuse us?
+
+676
+01:03:47,871 --> 01:03:50,708
+Of course. Come on, Alison. Barbara.
+
+677
+01:03:52,876 --> 01:03:53,919
+Sam,
+
+678
+01:03:58,257 --> 01:03:59,925
+I need your help.
+
+679
+01:04:23,157 --> 01:04:24,742
+Thanks very much.
+
+680
+01:04:24,825 --> 01:04:27,202
+Mr. Helpmann, I'm glad to be of help.
+
+681
+01:04:27,286 --> 01:04:29,455
+And if I can help you...
+
+682
+01:04:35,627 --> 01:04:38,130
+Your father and I were very close.
+
+683
+01:04:38,672 --> 01:04:42,801
+Of course, Jeremiah was senior to me,
+but we were close friends.
+
+684
+01:04:43,010 --> 01:04:45,304
+Especially after the bombing.
+
+685
+01:04:46,680 --> 01:04:50,309
+And now I keep his name alive
+at the office every day.
+
+686
+01:04:51,477 --> 01:04:54,271
+It's as though he's there
+still speaking to me.
+
+687
+01:04:54,605 --> 01:04:56,106
+"'Ere I am
+
+688
+01:04:57,858 --> 01:04:59,026
+"J.H."
+
+689
+01:05:01,987 --> 01:05:04,031
+The ghost in the machine.
+
+690
+01:05:06,658 --> 01:05:09,495
+I know he would've wanted me to help you.
+
+691
+01:05:12,164 --> 01:05:14,291
+And I promised your mother
+
+692
+01:05:14,666 --> 01:05:18,462
+that I'd take you onto the team
+at Information Retrieval.
+
+693
+01:05:19,171 --> 01:05:21,840
+- But I gather that you...
+- Well,
+
+694
+01:05:22,549 --> 01:05:25,677
+actually, Mr. Helpmann,
+I've changed my mind.
+
+695
+01:05:26,470 --> 01:05:29,181
+I've decided I'd accept the transfer.
+
+696
+01:05:30,015 --> 01:05:31,850
+If I'm not too late.
+
+697
+01:05:32,893 --> 01:05:34,228
+Too late?
+
+698
+01:05:34,478 --> 01:05:36,355
+That's for me to say.
+
+699
+01:05:37,731 --> 01:05:39,525
+Well, then I am...
+
+700
+01:05:42,319 --> 01:05:44,822
+Welcome to Information Retrieval.
+
+701
+01:06:18,272 --> 01:06:19,940
+My name's Lowry.
+
+702
+01:06:21,400 --> 01:06:22,734
+Sam Lowry.
+
+703
+01:06:23,735 --> 01:06:26,613
+I've been told to report to Mr. Warren.
+
+704
+01:06:27,239 --> 01:06:29,074
+Thirtieth floor, sir.
+
+705
+01:06:29,241 --> 01:06:30,909
+You're expected.
+
+706
+01:06:35,080 --> 01:06:37,833
+- Don't you want to search me?
+- No, sir.
+
+707
+01:06:40,252 --> 01:06:42,754
+- Want to see my ID?
+- No need, sir.
+
+708
+01:06:45,090 --> 01:06:48,302
+- But I could be anybody.
+- No, you couldn't, sir.
+
+709
+01:06:48,427 --> 01:06:50,762
+This is Information Retrieval.
+
+710
+01:06:52,014 --> 01:06:54,099
+The lift's arrived, sir.
+
+711
+01:08:42,249 --> 01:08:45,127
+Half as terrorists, rest as victims.
+
+712
+01:08:46,128 --> 01:08:47,504
+Definitely, no.
+
+713
+01:08:47,587 --> 01:08:50,090
+My name's Lowry, Mr. Warren.
+Sam Lowry.
+
+714
+01:08:50,173 --> 01:08:53,427
+Yes. No. Cancel that. Okay.
+
+715
+01:08:54,720 --> 01:08:56,847
+Glad to have you on board.
+
+716
+01:08:58,890 --> 01:09:01,184
+Don't be ridiculous, Jenkins.
+
+717
+01:09:01,643 --> 01:09:02,769
+Yes.
+
+718
+01:09:03,061 --> 01:09:05,439
+You'll like it up here.
+
+719
+01:09:05,564 --> 01:09:09,026
+We've got a crack team of...
+Are they kidding?...decision makers.
+
+720
+01:09:09,109 --> 01:09:13,363
+In triplicate. I'm expecting big things...
+Two copies to Finance!...of you.
+
+721
+01:09:17,284 --> 01:09:19,202
+Between you and me, Lowry,
+
+722
+01:09:19,453 --> 01:09:22,789
+this department is about to be upgraded.
+
+723
+01:09:25,625 --> 01:09:27,044
+Here we are.
+
+724
+01:09:27,252 --> 01:09:29,921
+Your very own number
+on your very own door.
+
+725
+01:09:30,130 --> 01:09:32,966
+And behind that door, your very own office.
+
+726
+01:09:33,050 --> 01:09:36,219
+Congratulations, DZ/015.
+
+727
+01:09:36,595 --> 01:09:38,221
+Welcome to the team.
+
+728
+01:09:38,388 --> 01:09:40,724
+Yes. No. Cancel that.
+
+729
+01:09:40,932 --> 01:09:43,101
+Send two copies to Finance.
+
+730
+01:11:16,278 --> 01:11:20,031
+You can't borrow any more chairs!
+There's only one left in here now
+
+731
+01:11:20,115 --> 01:11:22,617
+-and I need that to sit on!
+- What?
+
+732
+01:11:25,662 --> 01:11:26,872
+Sorry.
+
+733
+01:11:28,206 --> 01:11:29,666
+Who are you?
+
+734
+01:11:30,375 --> 01:11:32,544
+My name's Lowry. Sam Lowry.
+
+735
+01:11:32,711 --> 01:11:35,505
+Oh, yes, the new boy from next door.
+
+736
+01:11:37,174 --> 01:11:39,426
+My name's Lime. Harvey Lime.
+
+737
+01:11:40,135 --> 01:11:41,928
+Welcome to Expediting.
+
+738
+01:11:42,053 --> 01:11:45,474
+Would you mind
+if I borrowed your computer console?
+
+739
+01:11:45,557 --> 01:11:48,310
+I'll let you have it back in 10 minutes.
+
+740
+01:11:48,393 --> 01:11:51,480
+You want to take my console
+into your office?
+
+741
+01:11:51,855 --> 01:11:54,107
+Yes, just for a few minutes.
+
+742
+01:11:54,274 --> 01:11:55,984
+I'll tell you what,
+
+743
+01:11:56,067 --> 01:11:59,404
+you tell me what you want,
+and I'll do it for you.
+
+744
+01:12:00,572 --> 01:12:02,866
+I'm a bit of a whiz on that thing.
+
+745
+01:12:05,577 --> 01:12:06,953
+All right.
+
+746
+01:12:08,872 --> 01:12:12,459
+- I need information on a woman named...
+- A woman?
+
+747
+01:12:13,043 --> 01:12:14,503
+- I see.
+- Yes.
+
+748
+01:12:14,836 --> 01:12:18,840
+I know her age and distinguishing marks,
+but I need an address, her place of work.
+
+749
+01:12:18,924 --> 01:12:21,176
+This your dream girl, is it?
+
+750
+01:12:24,054 --> 01:12:26,348
+Look, let me use your console.
+
+751
+01:12:26,765 --> 01:12:28,558
+You must be joking.
+
+752
+01:12:28,892 --> 01:12:32,479
+When there's a woman involved,
+there's no stopping me.
+
+753
+01:12:33,438 --> 01:12:35,357
+Let's have that sheet.
+
+754
+01:12:44,574 --> 01:12:46,409
+Sod it, it's broken!
+
+755
+01:12:46,618 --> 01:12:49,037
+But you haven't switched it on.
+
+756
+01:12:49,704 --> 01:12:50,956
+Oh, yes.
+
+757
+01:12:55,210 --> 01:12:57,337
+You're putting me off standing there.
+Go back to your office.
+
+758
+01:12:57,420 --> 01:13:00,340
+I'll give you a knock when I've finished.
+
+759
+01:13:00,966 --> 01:13:03,760
+Go on, I'm not going to elope with her.
+
+760
+01:13:05,095 --> 01:13:06,471
+All right.
+
+761
+01:13:42,173 --> 01:13:43,341
+Sam!
+
+762
+01:14:06,656 --> 01:14:07,782
+Sam.
+
+763
+01:14:11,202 --> 01:14:12,537
+Don't go.
+
+764
+01:14:14,831 --> 01:14:16,041
+Please.
+
+765
+01:14:29,012 --> 01:14:30,180
+Well?
+
+766
+01:14:31,222 --> 01:14:34,392
+- Computers are my forte.
+- Let me see.
+
+767
+01:14:35,644 --> 01:14:39,981
+"Gillian Layton. Coloring: white.
+Hair: blonde. Eyes: blue. Height: 5'4".
+
+768
+01:14:40,065 --> 01:14:42,567
+"Distinguishing scar on left..."
+
+769
+01:14:43,652 --> 01:14:44,736
+Is this all you've got?
+
+770
+01:14:45,153 --> 01:14:48,907
+Best to take things slowly
+where some women are concerned.
+
+771
+01:14:49,199 --> 01:14:50,575
+Let me see.
+
+772
+01:14:51,701 --> 01:14:53,411
+Hey, that's mine!
+
+773
+01:14:54,663 --> 01:14:55,997
+"Layton.
+
+774
+01:14:57,374 --> 01:14:59,584
+"Truck driver. All inquiries
+
+775
+01:14:59,668 --> 01:15:03,421
+"reference officer 412/L. Room 5001."
+
+776
+01:15:06,716 --> 01:15:08,093
+Lowry, glad I caught you.
+
+777
+01:15:08,218 --> 01:15:11,680
+Send that back. Settling down?
+I want this order rescinded.
+
+778
+01:15:11,763 --> 01:15:15,517
+There's a query about a personnel
+transporter you took out from the pool.
+
+779
+01:15:15,600 --> 01:15:18,520
+Or was it a personnel carrier you took?
+
+780
+01:15:18,603 --> 01:15:23,066
+Send that up to Security.
+Anyway, tidy it up, there's a good chap.
+
+781
+01:15:23,358 --> 01:15:25,902
+Get a new suit. You want the lift?
+
+782
+01:16:43,354 --> 01:16:44,981
+Can I help you?
+
+783
+01:16:52,030 --> 01:16:54,115
+I'm looking for Officer 412/L.
+
+784
+01:16:54,532 --> 01:16:56,659
+He won't be very long now.
+
+785
+01:17:00,205 --> 01:17:01,206
+I thought so.
+
+786
+01:17:07,879 --> 01:17:09,589
+You may go in now.
+
+787
+01:17:14,928 --> 01:17:17,096
+Not that one. That one.
+
+788
+01:17:18,139 --> 01:17:19,224
+Yes.
+
+789
+01:17:27,065 --> 01:17:29,567
+Excuse me, are you officer 412/L?
+
+790
+01:17:36,574 --> 01:17:37,951
+Excuse me!
+
+791
+01:17:40,495 --> 01:17:41,496
+Jack!
+
+792
+01:17:44,833 --> 01:17:48,002
+I heard you were coming aboard.
+Congratulations.
+
+793
+01:17:48,086 --> 01:17:50,421
+- DZ/015.
+- Thanks.
+
+794
+01:17:51,089 --> 01:17:52,632
+Are you officer 412/L?
+
+795
+01:17:54,092 --> 01:17:55,927
+That's me. For Sam.
+
+796
+01:17:56,094 --> 01:17:58,972
+- A very happy Christmas.
+- Thanks, Jack.
+
+797
+01:17:59,264 --> 01:18:02,141
+- You're settling in all right?
+- Yes, fine.
+
+798
+01:18:02,934 --> 01:18:04,102
+I need some information.
+
+799
+01:18:04,602 --> 01:18:08,314
+This is Information Retrieval,
+not Information Dispersal.
+
+800
+01:18:08,606 --> 01:18:11,359
+Amy, don't throw the ball around in here.
+
+801
+01:18:11,651 --> 01:18:15,363
+- I'm not Amy, I'm Holly.
+- Did I call you Amy, darling? I am sorry.
+
+802
+01:18:15,446 --> 01:18:17,282
+- A triplet?
+- One of them, I think.
+
+803
+01:18:17,365 --> 01:18:20,535
+Barbara's taken
+the other two Christmas shopping.
+
+804
+01:18:20,618 --> 01:18:23,413
+You're not gonna
+keep calling her Barbara, are you?
+
+805
+01:18:23,496 --> 01:18:27,250
+Why not? Barbara's a perfectly good name,
+isn't it? Don't you like it?
+
+806
+01:18:28,877 --> 01:18:30,628
+Yes, it's fine.
+
+807
+01:18:31,713 --> 01:18:34,299
+Come on, let's get these together.
+
+808
+01:18:36,801 --> 01:18:38,636
+I need to find out about a woman.
+
+809
+01:18:38,720 --> 01:18:42,223
+Come on, Chloe, let's show Uncle Sam
+how we make the word "cat."
+
+810
+01:18:42,307 --> 01:18:44,017
+- Shall we?
+- I'm Holly.
+
+811
+01:18:44,142 --> 01:18:45,727
+Sorry, love. So you are.
+
+812
+01:18:45,810 --> 01:18:47,312
+This is her.
+
+813
+01:18:49,230 --> 01:18:51,357
+Layton. Oh, shit.
+
+814
+01:18:54,527 --> 01:18:56,821
+- How much do you know about this?
+- Not much.
+
+815
+01:18:56,905 --> 01:18:59,699
+- What does B58/732 mean to you?
+- Buttle.
+
+816
+01:19:01,492 --> 01:19:04,329
+I knew it. You always were bloody quick.
+
+817
+01:19:05,580 --> 01:19:06,915
+Who else knows?
+
+818
+01:19:06,998 --> 01:19:08,750
+Warren? Helpmann?
+
+819
+01:19:09,083 --> 01:19:11,419
+I don't know.
+I only know you got the wrong man.
+
+820
+01:19:12,128 --> 01:19:14,380
+Information Transit got the wrong man.
+
+821
+01:19:14,464 --> 01:19:18,009
+I got the right man. The wrong man
+was delivered to me as the right man.
+
+822
+01:19:18,092 --> 01:19:21,220
+I accepted him on good faith
+as the right man.
+
+823
+01:19:21,387 --> 01:19:22,388
+Was I wrong?
+
+824
+01:19:23,139 --> 01:19:24,390
+You killed Buttle?
+
+825
+01:19:26,434 --> 01:19:30,021
+There are rigid parameters laid down
+to prevent such things happening.
+
+826
+01:19:30,104 --> 01:19:33,816
+It wasn't my fault that Buttle's
+heart condition wasn't on Tuttle's file.
+
+827
+01:19:33,900 --> 01:19:35,568
+How are you getting on?
+
+828
+01:19:38,529 --> 01:19:40,698
+- I really need to know about...
+- Tuttle?
+
+829
+01:19:40,782 --> 01:19:42,742
+We'll bring Tuttle in
+
+830
+01:19:42,825 --> 01:19:46,412
+and interrogate him
+at the same voltage as Mr. Buttle.
+
+831
+01:19:46,537 --> 01:19:48,706
+And juggle the books in electrical banking.
+
+832
+01:19:49,040 --> 01:19:52,919
+- What has Tuttle done?
+- We suspect him of freelance subversion.
+
+833
+01:19:53,378 --> 01:19:54,712
+Freelance subversive?
+
+834
+01:19:54,796 --> 01:19:58,466
+Then all I need to wrap up the case
+is the Layton woman.
+
+835
+01:19:58,925 --> 01:20:02,762
+- What has she done?
+- She witnessed the Tuttle... Buttle arrest.
+
+836
+01:20:02,845 --> 01:20:05,974
+Since then she's been going around
+making wild allegations
+
+837
+01:20:06,057 --> 01:20:07,767
+trying to exploit the situation.
+
+838
+01:20:07,850 --> 01:20:10,228
+She's working for someone,
+and I don't think it's us.
+
+839
+01:20:11,479 --> 01:20:12,855
+Terrorist?
+
+840
+01:20:15,733 --> 01:20:18,111
+<i>Mr. Lint, the next customer
+has been delivered.</i>
+
+841
+01:20:18,194 --> 01:20:20,655
+- Thank you, Myrtle.
+- What're you gonna do about Layton?
+
+842
+01:20:21,072 --> 01:20:24,951
+I put her on the detention list.
+Security should have her here before 6:00.
+
+843
+01:20:26,119 --> 01:20:27,537
+What, here?
+
+844
+01:20:27,745 --> 01:20:30,915
+So that she can spill the beans
+inside the department?
+
+845
+01:20:30,999 --> 01:20:32,250
+Don't do that.
+
+846
+01:20:33,793 --> 01:20:36,963
+Why don't I try and get to her for you? I'll...
+
+847
+01:20:37,422 --> 01:20:40,383
+- I'll deactivate her.
+- What does that mean?
+
+848
+01:20:40,466 --> 01:20:42,427
+I want nothing unsavory.
+
+849
+01:20:42,760 --> 01:20:44,220
+Trust me, Jack.
+
+850
+01:20:45,388 --> 01:20:47,724
+Come on, put these away.
+Mommy will be back.
+
+851
+01:20:47,807 --> 01:20:48,808
+Let me have her file.
+
+852
+01:20:51,561 --> 01:20:53,146
+Trust me, Jack.
+
+853
+01:20:54,480 --> 01:20:55,857
+All right.
+
+854
+01:20:58,693 --> 01:21:01,571
+But for Christ's sake, don't lose it.
+
+855
+01:21:03,823 --> 01:21:05,283
+You sit down there, darling.
+
+856
+01:21:07,201 --> 01:21:08,661
+Don't worry, I'll get to her.
+
+857
+01:21:08,745 --> 01:21:11,039
+You'll never get anywhere
+in a suit like that.
+
+858
+01:21:12,915 --> 01:21:14,083
+Here.
+
+859
+01:21:16,210 --> 01:21:17,545
+Try this.
+
+860
+01:21:18,463 --> 01:21:20,048
+- Bye-bye.
+-'Bye.
+
+861
+01:21:22,091 --> 01:21:23,676
+But, Jack, I...
+
+862
+01:21:25,261 --> 01:21:28,890
+Put it on, big boy. I won't look at your willy.
+
+863
+01:21:40,109 --> 01:21:41,527
+Let him go.
+
+864
+01:23:24,172 --> 01:23:25,256
+Shit!
+
+865
+01:23:40,271 --> 01:23:41,397
+Oi!
+
+866
+01:23:41,606 --> 01:23:43,524
+- Come out of there.
+- What?
+
+867
+01:23:43,608 --> 01:23:46,110
+That's the Deputy Minister's lift.
+
+868
+01:23:46,444 --> 01:23:48,362
+Sorry, I'm in a hurry.
+
+869
+01:23:48,779 --> 01:23:51,699
+Come here, sonny. Let's see your ID card.
+
+870
+01:23:51,782 --> 01:23:52,950
+My ID?
+
+871
+01:23:53,242 --> 01:23:54,452
+Oh, God!
+
+872
+01:23:55,953 --> 01:23:57,496
+This isn't my suit.
+
+873
+01:23:57,788 --> 01:24:00,249
+Look, my name's Lowry, Sam Lowry.
+
+874
+01:24:00,625 --> 01:24:03,419
+- Look, really, can't this wait?
+- No, sir.
+
+875
+01:24:03,961 --> 01:24:06,297
+I'm going to have to fill in a report on this.
+
+876
+01:24:06,422 --> 01:24:08,966
+Now, then, what is the date today?
+
+877
+01:24:09,467 --> 01:24:11,636
+It's the... Oh, God, it'll have to wait!
+
+878
+01:24:11,719 --> 01:24:13,304
+You, stop!
+
+879
+01:24:45,503 --> 01:24:46,545
+Stop!
+
+880
+01:25:00,559 --> 01:25:03,187
+Well done, men. Quick thinking.
+
+881
+01:25:04,188 --> 01:25:05,815
+Excellent work.
+
+882
+01:25:07,984 --> 01:25:10,027
+I'll take charge of her now.
+
+883
+01:25:10,152 --> 01:25:11,362
+Good.
+
+884
+01:25:13,531 --> 01:25:14,699
+Okay.
+
+885
+01:25:16,742 --> 01:25:20,079
+It's a classified matter.
+
+886
+01:25:21,872 --> 01:25:26,711
+I'll include your fine handling
+of the situation in my report.
+
+887
+01:25:27,712 --> 01:25:28,921
+Great.
+
+888
+01:25:31,424 --> 01:25:33,509
+Merry Christmas, Dawson.
+
+889
+01:25:34,010 --> 01:25:36,178
+Come along with me, please.
+
+890
+01:25:36,262 --> 01:25:38,764
+Okay, thanks. Well done, men.
+
+891
+01:25:39,432 --> 01:25:42,560
+Excellent. Good turnout.
+Very good, thank you.
+
+892
+01:26:03,414 --> 01:26:04,874
+Just keep moving.
+
+893
+01:26:04,957 --> 01:26:06,375
+Hey, stop!
+
+894
+01:26:08,377 --> 01:26:09,920
+Come back here.
+
+895
+01:26:10,254 --> 01:26:12,089
+Pick up all these things.
+
+896
+01:26:12,423 --> 01:26:14,300
+Come on, pick them up.
+
+897
+01:26:15,634 --> 01:26:17,094
+Disgraceful.
+
+898
+01:26:18,220 --> 01:26:19,889
+Can't you even...
+
+899
+01:26:19,972 --> 01:26:21,974
+You illiterate foreign pig!
+
+900
+01:26:22,099 --> 01:26:25,311
+You come over here
+from your own filthy country
+
+901
+01:26:27,313 --> 01:26:29,398
+and mess up our streets.
+
+902
+01:26:30,274 --> 01:26:31,442
+God!
+
+903
+01:26:46,665 --> 01:26:48,667
+Well done! Let's go!
+
+904
+01:26:53,547 --> 01:26:56,967
+What are you doing?
+For Christ's sake, keep moving!
+
+905
+01:26:58,636 --> 01:27:00,179
+Get out of my cab.
+
+906
+01:27:00,304 --> 01:27:02,056
+What? Just drive!
+
+907
+01:27:04,141 --> 01:27:07,728
+- You've touched me. Nobody touches me.
+- What do you...
+
+908
+01:27:08,521 --> 01:27:11,524
+Please, drive on! Drive on, will you?
+
+909
+01:27:11,649 --> 01:27:13,234
+Shit. Move over, I'll drive.
+
+910
+01:27:13,317 --> 01:27:16,153
+Don't touch that! Don't touch anything!
+
+911
+01:27:19,865 --> 01:27:23,536
+It's okay, Officer. Thank you.
+I've got everything under control.
+
+912
+01:27:24,036 --> 01:27:25,538
+Oh, shit!
+
+913
+01:27:26,205 --> 01:27:30,668
+Listen, please drive. Trust me.
+You are in terrible danger.
+
+914
+01:27:30,876 --> 01:27:32,545
+You're an embarrassment.
+
+915
+01:27:32,878 --> 01:27:34,839
+Please drive. Trust me.
+
+916
+01:27:35,172 --> 01:27:37,299
+Drive and I'll explain everything.
+
+917
+01:27:37,383 --> 01:27:40,386
+Please, get out of my cab.
+
+918
+01:27:42,721 --> 01:27:44,098
+I'm sorry, I...
+
+919
+01:27:44,306 --> 01:27:48,602
+Okay, you've asked for it.
+I'm Information Retrieval Officer
+
+920
+01:27:50,020 --> 01:27:52,773
+DZ/105 and I'm arresting you so
+
+921
+01:27:53,607 --> 01:27:56,777
+drive on, or I'll blast your fucking head off!
+
+922
+01:27:59,363 --> 01:28:00,364
+Go!
+
+923
+01:28:19,925 --> 01:28:25,055
+Look, I'm sorry about that.
+I mean, touching you without permission.
+
+924
+01:28:26,223 --> 01:28:29,477
+Hello, my name's Lowry. Sam Lowry.
+
+925
+01:28:29,935 --> 01:28:32,438
+I've been...
+
+926
+01:28:36,692 --> 01:28:40,696
+You won't believe this.
+I know it will sound incredible
+
+927
+01:28:41,280 --> 01:28:43,824
+but I've been dreaming about you.
+
+928
+01:28:44,450 --> 01:28:47,411
+No, not like that. I mean, I love you.
+
+929
+01:28:47,953 --> 01:28:51,290
+I mean, in my dreams, I love you and...
+
+930
+01:28:53,667 --> 01:28:55,711
+Extraordinary, isn't it?
+
+931
+01:28:59,465 --> 01:29:00,799
+Anyway.
+
+932
+01:29:06,472 --> 01:29:08,766
+You don't believe me, do you?
+
+933
+01:29:10,643 --> 01:29:15,356
+You probably think I'm bonkers, right?
+Mad, raving.
+
+934
+01:29:17,024 --> 01:29:20,110
+No! I think you're very attractive.
+
+935
+01:29:22,571 --> 01:29:23,739
+What?
+
+936
+01:29:24,448 --> 01:29:27,368
+Yeah. Sit back. Let me have a look at you.
+
+937
+01:29:35,584 --> 01:29:36,919
+Oh, yeah.
+
+938
+01:29:37,962 --> 01:29:40,464
+Good looking, sexy. Just my type.
+
+939
+01:29:43,759 --> 01:29:45,594
+I don't believe you.
+
+940
+01:29:46,345 --> 01:29:47,638
+Why not?
+
+941
+01:29:48,222 --> 01:29:51,350
+Well, I just don't deserve such terrific luck.
+
+942
+01:29:53,018 --> 01:29:54,728
+You're damn right.
+
+943
+01:31:42,127 --> 01:31:44,004
+You don't trust me, do you?
+
+944
+01:32:19,373 --> 01:32:23,377
+- Oh, my God, we shouldn't have come here!
+- I've got a job to do.
+
+945
+01:32:23,919 --> 01:32:25,713
+But they'll be lying in wait!
+
+946
+01:32:25,796 --> 01:32:29,299
+Christ, you're paranoid.
+You got no sense of reality.
+
+947
+01:32:29,925 --> 01:32:31,093
+Wait!
+
+948
+01:32:35,472 --> 01:32:39,059
+- We should take the lorry and get away!
+- Yeah, where to?
+
+949
+01:32:39,143 --> 01:32:42,563
+- Anywhere. As fast as possible.
+- There isn't anywhere.
+
+950
+01:32:42,646 --> 01:32:45,649
+- Just far away.
+- It's not far enough.
+
+951
+01:33:03,000 --> 01:33:04,168
+Jill!
+
+952
+01:33:57,471 --> 01:33:59,306
+What's in the parcel?
+
+953
+01:34:00,849 --> 01:34:02,601
+A Christmas present.
+
+954
+01:34:10,734 --> 01:34:12,194
+It's heavy.
+
+955
+01:34:13,195 --> 01:34:15,155
+Heavy Christmas present.
+
+956
+01:34:15,239 --> 01:34:17,533
+If you don't trust me, open it.
+
+957
+01:34:17,616 --> 01:34:19,952
+No, it's fine.
+
+958
+01:34:21,411 --> 01:34:23,413
+I'd spoil the wrapping.
+
+959
+01:34:23,872 --> 01:34:28,585
+Anyway, if I want you to trust me,
+it's only fair that I should trust you.
+
+960
+01:34:35,717 --> 01:34:40,430
+Doesn't it bother you, the sort of things
+you do at Information Retrieval?
+
+961
+01:34:42,432 --> 01:34:45,102
+Suppose you'd rather have terrorists.
+
+962
+01:34:49,439 --> 01:34:52,651
+How many actual terrorists
+have you met, Sam?
+
+963
+01:34:56,113 --> 01:34:58,240
+- Actual terrorists?
+- Yeah.
+
+964
+01:35:03,161 --> 01:35:04,454
+It's only my first day.
+
+965
+01:35:18,093 --> 01:35:19,511
+A roadblock.
+
+966
+01:35:20,971 --> 01:35:23,348
+- What're we gonna do?
+- Stay calm.
+
+967
+01:35:23,473 --> 01:35:26,518
+Don't slow down! Don't stop!
+
+968
+01:35:26,602 --> 01:35:29,813
+Please, do as I say. Go straight ahead. Go!
+
+969
+01:35:31,773 --> 01:35:34,526
+What the fuck are you doing, you stupid...
+
+970
+01:35:46,788 --> 01:35:50,208
+We did it! We broke right through them!
+
+971
+01:35:58,008 --> 01:36:00,886
+Faster! Don't let them see you. Just go!
+
+972
+01:36:03,764 --> 01:36:05,307
+Keep going! Faster!
+
+973
+01:36:07,225 --> 01:36:10,354
+- Please, get your foot down!
+- Stay off of me!
+
+974
+01:36:43,971 --> 01:36:45,389
+Go faster!
+
+975
+01:36:51,478 --> 01:36:54,815
+- What if we lose the house?
+- Don't touch anything!
+
+976
+01:36:55,774 --> 01:36:57,484
+Don't touch that!
+
+977
+01:37:19,923 --> 01:37:24,428
+We did it! We did it!
+
+978
+01:37:31,101 --> 01:37:32,269
+Oh, no!
+
+979
+01:37:47,367 --> 01:37:49,703
+What would you like for Christmas?
+
+980
+01:37:49,786 --> 01:37:51,580
+My own credit card.
+
+981
+01:38:02,924 --> 01:38:05,343
+- Why have we come here?
+- Go away.
+
+982
+01:38:05,844 --> 01:38:08,930
+- Why don't we go back to my flat?
+- Forget it.
+
+983
+01:38:09,014 --> 01:38:10,223
+You don't trust me?
+
+984
+01:38:10,307 --> 01:38:13,643
+Trust you? A man who hijacks my truck,
+loses me my job
+
+985
+01:38:13,727 --> 01:38:16,396
+has every security man in town
+looking for me? Of course I do.
+
+986
+01:38:16,480 --> 01:38:18,732
+- I was only trying to help.
+- Yeah!
+
+987
+01:38:19,399 --> 01:38:22,611
+I don't trust you either.
+What's in that parcel?
+
+988
+01:38:23,320 --> 01:38:25,864
+You saved it from the lorry.
+It must be very special.
+
+989
+01:38:25,947 --> 01:38:29,201
+I saved you from the lorry.
+You're not very special.
+
+990
+01:38:29,284 --> 01:38:31,870
+- I'm gonna open it.
+- Don't touch it.
+
+991
+01:38:41,630 --> 01:38:42,756
+Sam!
+
+992
+01:38:42,923 --> 01:38:44,424
+It's me
+
+993
+01:38:44,841 --> 01:38:46,301
+and Shirley.
+
+994
+01:38:48,887 --> 01:38:50,388
+Mrs. Terrain!
+
+995
+01:38:54,559 --> 01:38:56,686
+- That should hold it.
+- Sam?
+
+996
+01:38:57,229 --> 01:38:58,772
+Hello, Shirley.
+
+997
+01:39:02,609 --> 01:39:04,152
+What's happened to you now?
+
+998
+01:39:04,236 --> 01:39:07,697
+My complication had a little complication.
+
+999
+01:39:08,156 --> 01:39:11,368
+But Dr. Chapman says I'll soon be up
+
+1000
+01:39:11,493 --> 01:39:14,371
+and bounding about like a young gazelle.
+
+1001
+01:39:15,122 --> 01:39:18,041
+You buying a Christmas present
+for your mother?
+
+1002
+01:39:20,877 --> 01:39:22,921
+Yes, a little something.
+
+1003
+01:39:23,130 --> 01:39:26,466
+Shirley and I come here regular-larly.
+
+1004
+01:39:27,759 --> 01:39:29,803
+We love romantic lingerie.
+
+1005
+01:39:33,515 --> 01:39:35,350
+Picture me in these.
+
+1006
+01:39:41,439 --> 01:39:42,691
+Oh, my God!
+
+1007
+01:39:42,858 --> 01:39:45,235
+Sam, where are you going?
+
+1008
+01:39:57,330 --> 01:39:58,498
+Jill?
+
+1009
+01:40:21,771 --> 01:40:23,523
+Are you all right?
+
+1010
+01:40:26,526 --> 01:40:28,570
+You don't deserve to be!
+
+1011
+01:40:29,112 --> 01:40:31,281
+What a bloody stupid thing!
+
+1012
+01:40:31,865 --> 01:40:33,742
+How could you? Look at these people!
+
+1013
+01:40:33,825 --> 01:40:35,076
+My God!
+
+1014
+01:40:35,869 --> 01:40:38,038
+It was a bomb!
+
+1015
+01:40:38,288 --> 01:40:41,708
+I should've opened it.
+I sat there with it next...
+
+1016
+01:40:43,210 --> 01:40:45,378
+There's your bomb, asshole!
+
+1017
+01:40:49,591 --> 01:40:52,802
+A bribe for official monkeys like you.
+
+1018
+01:40:56,723 --> 01:40:58,600
+Make yourself useful.
+
+1019
+01:41:05,440 --> 01:41:06,608
+Here!
+
+1020
+01:41:11,905 --> 01:41:14,157
+Don't touch her! She's hurt.
+
+1021
+01:41:17,494 --> 01:41:19,162
+Don't touch her!
+
+1022
+01:41:22,916 --> 01:41:24,084
+Stop!
+
+1023
+01:41:32,509 --> 01:41:33,802
+Sam, no!
+
+1024
+01:41:47,857 --> 01:41:50,610
+These helmets make your scalp itch.
+
+1025
+01:41:50,694 --> 01:41:53,655
+Don't mention it.
+And they make you sweat.
+
+1026
+01:41:54,114 --> 01:41:56,866
+Half the time I can never see
+where I'm going.
+
+1027
+01:41:56,992 --> 01:42:00,287
+It's a great Niagara of perspiration
+coming down.
+
+1028
+01:42:00,954 --> 01:42:04,457
+I'm lucky. I've got these thick eyebrows.
+
+1029
+01:42:04,833 --> 01:42:08,044
+That keeps it up
+and channels it out to the ears.
+
+1030
+01:42:08,128 --> 01:42:09,129
+Jill!
+
+1031
+01:42:09,212 --> 01:42:10,297
+Who's he?
+
+1032
+01:42:10,380 --> 01:42:13,633
+I don't know,
+somebody from Information Retrieval.
+
+1033
+01:42:13,717 --> 01:42:15,969
+They're always hanging around in lingerie.
+
+1034
+01:42:16,052 --> 01:42:17,137
+Where is she?
+
+1035
+01:42:20,390 --> 01:42:22,183
+Jill, is that you?
+
+1036
+01:42:23,018 --> 01:42:26,021
+Excuse me, sir.
+That is government property.
+
+1037
+01:42:31,151 --> 01:42:33,486
+Jill! Answer me!
+
+1038
+01:42:35,238 --> 01:42:37,991
+I'm looking for a girl with blonde hair.
+
+1039
+01:42:38,074 --> 01:42:40,493
+She's medium height, green eyes.
+
+1040
+01:42:40,577 --> 01:42:43,830
+I don't know, sir.
+They check all that at the depot.
+
+1041
+01:42:43,913 --> 01:42:48,084
+We can't allow that.
+It's more than our job's worth.
+
+1042
+01:42:48,710 --> 01:42:50,587
+Jill, you must be here.
+
+1043
+01:42:50,670 --> 01:42:53,923
+You can fill in an application form
+if you're a relative.
+
+1044
+01:42:54,049 --> 01:42:56,092
+Now do stop, sir, please.
+
+1045
+01:43:03,892 --> 01:43:05,769
+Sorry about that, sir.
+
+1046
+01:43:06,269 --> 01:43:07,729
+Regulations.
+
+1047
+01:43:14,235 --> 01:43:16,529
+This is a black eye
+for the department, Lowry.
+
+1048
+01:43:16,613 --> 01:43:18,865
+I don't care how you behaved at Records.
+
+1049
+01:43:18,948 --> 01:43:21,368
+Informational Retrieval
+is an executive branch.
+
+1050
+01:43:21,785 --> 01:43:24,371
+We're proud of our reputation
+and we protect it.
+
+1051
+01:43:24,454 --> 01:43:28,333
+That convoy of personnel carriers
+is still not accounted for!
+
+1052
+01:43:28,458 --> 01:43:31,503
+I thought I told you to deal with it.
+And what is this mess?
+
+1053
+01:43:31,753 --> 01:43:34,798
+An empty desk is an efficient desk!
+Good God!
+
+1054
+01:43:34,964 --> 01:43:38,551
+Queries from Security. Searches
+from Central Banking about a check.
+
+1055
+01:43:38,635 --> 01:43:42,055
+Clarification notices from Accounting
+about unreturned receipts!
+
+1056
+01:43:42,138 --> 01:43:45,100
+- Mr. Warren, I have to find out...
+- Shut up!
+
+1057
+01:43:45,475 --> 01:43:48,353
+I don't know what's going on here, Lowry.
+
+1058
+01:43:49,145 --> 01:43:54,067
+But don't think you can intimidate us
+with your friends in high places!
+
+1059
+01:43:54,150 --> 01:43:55,652
+Now shape up!
+
+1060
+01:43:59,864 --> 01:44:02,951
+Lime, I have to use your computer.
+
+1061
+01:44:03,034 --> 01:44:05,495
+Sorry, a bit busy at the moment.
+
+1062
+01:44:05,829 --> 01:44:09,457
+You seem to have rather a lot
+to get on with yourself.
+
+1063
+01:44:16,214 --> 01:44:17,257
+Shit!
+
+1064
+01:44:18,341 --> 01:44:19,759
+Come off it, Jack.
+
+1065
+01:44:19,843 --> 01:44:22,595
+Of course you can check
+to see if she's been arrested.
+
+1066
+01:44:22,679 --> 01:44:27,851
+Sorry, Sam, this case has become
+more complicated since last we talked.
+
+1067
+01:44:28,184 --> 01:44:31,563
+But she's innocent, Jack.
+She's done nothing wrong.
+
+1068
+01:44:31,688 --> 01:44:34,899
+Tell that to the wives of the men
+she blew up this afternoon.
+
+1069
+01:44:35,024 --> 01:44:37,026
+She's not alone in all this.
+
+1070
+01:44:37,152 --> 01:44:39,112
+We just had a report in that Tuttle
+
+1071
+01:44:39,195 --> 01:44:42,907
+has wrecked an entire flat
+and sabotaged adjacent Central Services.
+
+1072
+01:44:43,032 --> 01:44:45,452
+As a matter of fact,
+it looks like in your block.
+
+1073
+01:44:45,535 --> 01:44:48,705
+I'd keep my eyes open if I were you. 'Bye.
+
+1074
+01:44:50,039 --> 01:44:53,793
+But, Jack, you don't think Tuttle
+and the girl are in league, do you?
+
+1075
+01:44:53,877 --> 01:44:57,005
+I do. Everything's connected.
+All along the line.
+
+1076
+01:44:57,088 --> 01:44:59,424
+Cause and effect, that's the beauty of it.
+
+1077
+01:44:59,549 --> 01:45:03,261
+Our job is to trace the connections
+and then reveal them.
+
+1078
+01:45:05,388 --> 01:45:09,642
+This whole Buttle-Tuttle confusion
+was obviously planned from the inside.
+
+1079
+01:45:09,726 --> 01:45:11,394
+But, Jack...
+
+1080
+01:45:12,312 --> 01:45:14,147
+She's innocent, Jack.
+
+1081
+01:45:16,274 --> 01:45:19,569
+- We've always been close, haven't we?
+- Yes, Jack.
+
+1082
+01:45:19,736 --> 01:45:23,072
+Until this all blows over,
+just stay away from me.
+
+1083
+01:47:36,205 --> 01:47:37,373
+It's you!
+
+1084
+01:47:37,540 --> 01:47:40,710
+What's happening?
+
+1085
+01:47:41,377 --> 01:47:44,130
+Your thermostat's gone, and then some.
+
+1086
+01:47:45,298 --> 01:47:47,175
+What happened to my flat?
+
+1087
+01:47:47,258 --> 01:47:48,968
+Hello? What?
+
+1088
+01:47:49,719 --> 01:47:51,220
+It's for you, but,
+
+1089
+01:47:51,721 --> 01:47:53,473
+as you don't live here anymore.
+
+1090
+01:47:53,556 --> 01:47:54,974
+- What?
+- Absolutely.
+
+1091
+01:47:55,058 --> 01:47:56,643
+Do you know what this is?
+
+1092
+01:47:56,726 --> 01:47:59,729
+This is an H2206
+
+1093
+01:48:00,104 --> 01:48:04,442
+authorizing the compulsory,
+temporary requisitioning of this flat
+
+1094
+01:48:04,567 --> 01:48:06,611
+for our necessary repairs.
+
+1095
+01:48:10,406 --> 01:48:12,533
+Don't forget your receipt!
+
+1096
+01:48:14,869 --> 01:48:17,914
+I'm sorry, but I'm a bit of a stickler
+for paperwork.
+
+1097
+01:48:21,834 --> 01:48:23,169
+Bastards!
+
+1098
+01:48:36,307 --> 01:48:38,101
+What are you doing?
+
+1099
+01:49:25,940 --> 01:49:28,067
+It's getting cold in here.
+
+1100
+01:49:30,278 --> 01:49:31,487
+Oh, God!
+
+1101
+01:49:32,238 --> 01:49:33,906
+It smells badly.
+
+1102
+01:49:34,782 --> 01:49:37,535
+It's shit! We're filling up with shit!
+
+1103
+01:49:53,801 --> 01:49:55,094
+Oh, shit.
+
+1104
+01:49:57,472 --> 01:49:59,807
+We're all in it together, kid.
+
+1105
+01:50:11,944 --> 01:50:14,238
+Jill!
+
+1106
+01:50:19,076 --> 01:50:20,828
+Are you all right?
+
+1107
+01:50:21,579 --> 01:50:25,249
+- What happened to you after...
+- Your face. Are you hurt?
+
+1108
+01:50:27,126 --> 01:50:28,628
+No, I'm fine.
+
+1109
+01:50:32,590 --> 01:50:35,092
+I've been worried sick about you.
+
+1110
+01:50:48,272 --> 01:50:51,067
+- Who was that?
+- That's a friend of mine.
+
+1111
+01:50:52,819 --> 01:50:54,529
+Oh, God! Holy shit!
+
+1112
+01:50:54,862 --> 01:50:56,823
+We better get out of here, quick. Come on.
+
+1113
+01:51:02,537 --> 01:51:04,497
+Thank God! Here, take it.
+
+1114
+01:51:06,833 --> 01:51:08,459
+It's not so big.
+
+1115
+01:52:00,511 --> 01:52:02,346
+Are you sure this is all right?
+
+1116
+01:52:02,430 --> 01:52:03,931
+Yes, certain.
+
+1117
+01:52:05,349 --> 01:52:07,727
+My mother's away for Christmas.
+
+1118
+01:52:08,811 --> 01:52:11,772
+She's spending it at the plastic surgeon's.
+
+1119
+01:52:14,859 --> 01:52:17,069
+The wraps come off tomorrow.
+
+1120
+01:52:57,568 --> 01:53:01,322
+Lock the door after me.
+Don't answer the phone to anyone.
+
+1121
+01:53:01,906 --> 01:53:03,574
+I won't be long.
+
+1122
+01:53:05,242 --> 01:53:07,912
+- Where're you going?
+- I know a way to save you.
+
+1123
+01:53:07,995 --> 01:53:10,122
+Trust me. I can do it.
+
+1124
+01:53:10,206 --> 01:53:11,916
+You can't go without me!
+
+1125
+01:53:47,535 --> 01:53:50,621
+Excuse me, Dawson, could you
+put me through to Mr. Helpmann's office?
+
+1126
+01:53:50,705 --> 01:53:54,834
+I'm afraid I can't, sir. You have
+to go through the proper channels.
+
+1127
+01:53:54,917 --> 01:53:57,586
+And you can't tell me what
+the proper channels are
+
+1128
+01:53:57,670 --> 01:54:00,423
+because that's classified information.
+
+1129
+01:54:01,048 --> 01:54:05,720
+I'm glad to see the Ministry's continuing
+its tradition of recruiting the brightest.
+
+1130
+01:54:06,470 --> 01:54:08,180
+Thank you, Dawson.
+
+1131
+01:54:15,312 --> 01:54:18,190
+- Goodnight, Mr. Lime.
+- Goodnight, Dawson.
+
+1132
+01:54:49,096 --> 01:54:52,850
+No, no, Arthur. You're flat on the G!
+
+1133
+01:54:52,933 --> 01:54:56,562
+It's your breathing.
+Take a deep breath after "Noel."
+
+1134
+01:54:56,645 --> 01:54:58,606
+Ready, one, two, three.
+
+1135
+01:55:10,242 --> 01:55:13,746
+<i>"'Ere I am, J.H."</i>
+
+1136
+01:55:14,830 --> 01:55:16,665
+<i>The ghost in the machine.</i>
+
+1137
+01:55:43,984 --> 01:55:45,486
+Mr. Helpmann?
+
+1138
+01:56:23,274 --> 01:56:24,775
+Mr. Helpmann?
+
+1139
+01:57:48,150 --> 01:57:49,318
+Jill.
+
+1140
+01:58:41,161 --> 01:58:42,162
+Who's there?
+
+1141
+01:58:51,171 --> 01:58:52,923
+What do you think?
+
+1142
+01:58:53,966 --> 01:58:55,301
+Is it me?
+
+1143
+01:59:01,974 --> 01:59:03,142
+What?
+
+1144
+01:59:08,689 --> 01:59:10,733
+You don't exist anymore.
+
+1145
+01:59:11,692 --> 01:59:13,360
+I've killed you.
+
+1146
+01:59:18,157 --> 01:59:19,992
+Jill Layton is dead.
+
+1147
+01:59:28,751 --> 01:59:31,086
+Care for a little necrophilia?
+
+1148
+02:00:34,858 --> 02:00:36,527
+Merry Christmas.
+
+1149
+02:00:50,040 --> 02:00:52,209
+Something for an executive?
+
+1150
+02:01:10,561 --> 02:01:11,979
+She's dead.
+
+1151
+02:01:12,396 --> 02:01:14,481
+This is a friend of mine.
+
+1152
+02:01:17,234 --> 02:01:18,277
+No!
+
+1153
+02:01:19,736 --> 02:01:20,863
+Sam!
+
+1154
+02:01:27,786 --> 02:01:31,373
+93/HKS/608, you are charged
+with the following:
+
+1155
+02:01:31,457 --> 02:01:33,876
+"Giving aid and comfort
+to the enemies of society.
+
+1156
+02:01:33,959 --> 02:01:36,253
+"Attempting to conceal a fugitive
+from justice.
+
+1157
+02:01:36,336 --> 02:01:39,923
+"Passing confidential documents
+to unauthorized personnel.
+
+1158
+02:01:40,007 --> 02:01:43,177
+"Destroying government property,
+viz. several personnel carriers.
+
+1159
+02:01:43,260 --> 02:01:46,096
+"Taking possession under false pretenses
+of said carriers.
+
+1160
+02:01:46,180 --> 02:01:48,932
+"Forging the signature
+of the Head of Records.
+
+1161
+02:01:49,016 --> 02:01:52,478
+"Misdirecting funds in the form
+of a check to A. Buttle
+
+1162
+02:01:52,561 --> 02:01:54,354
+"through unauthorized channels.
+
+1163
+02:01:54,438 --> 02:01:56,482
+"Tampering with Central Services'
+supply ducts.
+
+1164
+02:01:56,565 --> 02:01:59,359
+"Obstructing forces of law and order.
+
+1165
+02:01:59,443 --> 02:02:01,778
+"Disgracing the good name
+of the government
+
+1166
+02:02:01,862 --> 02:02:04,323
+"and the Department
+of Information Retrieval.
+
+1167
+02:02:04,406 --> 02:02:08,202
+"Disrupting the Ministry's
+internal communicating system.
+
+1168
+02:02:08,952 --> 02:02:11,371
+"Wasting Ministry time and paper."
+
+1169
+02:02:12,331 --> 02:02:15,834
+Now, either you can plead guilty
+to seven or eight of the charges
+
+1170
+02:02:15,918 --> 02:02:19,254
+which will help keep costs down
+within your means
+
+1171
+02:02:19,338 --> 02:02:23,592
+or borrow a sum to be negotiated
+from us at a very competitive rate.
+
+1172
+02:02:24,092 --> 02:02:27,262
+We can offer you something
+at eleven-and-a-half percent over 30 years
+
+1173
+02:02:27,346 --> 02:02:30,432
+but you will have to buy insurance
+to qualify for this scheme.
+
+1174
+02:02:30,641 --> 02:02:32,768
+If you prefer something more specific
+
+1175
+02:02:32,851 --> 02:02:35,646
+say, against electrical charges over £70...
+
+1176
+02:02:35,812 --> 02:02:38,607
+All you're requested to do now
+is sign this form.
+
+1177
+02:02:38,982 --> 02:02:40,567
+Think carefully before you sign.
+
+1178
+02:02:40,651 --> 02:02:43,987
+Thinking ahead in financial matters
+is always a wise course.
+
+1179
+02:02:44,238 --> 02:02:45,531
+Plead guilty.
+
+1180
+02:02:45,614 --> 02:02:47,115
+It's cheaper.
+
+1181
+02:02:51,912 --> 02:02:55,123
+Sam, what are we going to do with you?
+
+1182
+02:02:58,210 --> 02:02:59,711
+Where's Jill?
+
+1183
+02:03:01,255 --> 02:03:03,131
+I've got to find her.
+
+1184
+02:03:03,590 --> 02:03:06,510
+Please, you've got to get me out of here.
+
+1185
+02:03:06,802 --> 02:03:10,514
+I understand, Sam.
+I know exactly how you feel
+
+1186
+02:03:10,847 --> 02:03:13,809
+so I brought you a bottle of barley water.
+
+1187
+02:03:14,268 --> 02:03:16,311
+Please help me.
+
+1188
+02:03:16,937 --> 02:03:20,065
+I assure you,
+I'm doing everything within my power.
+
+1189
+02:03:20,148 --> 02:03:23,026
+But the rules of the game are laid down.
+
+1190
+02:03:23,402 --> 02:03:26,446
+We all have to play by them. Even me.
+
+1191
+02:03:28,073 --> 02:03:31,702
+It's all a mistake.
+You've got to understand that.
+
+1192
+02:03:32,578 --> 02:03:37,249
+From the Department's point of view,
+there was certainly a bit of an own goal.
+
+1193
+02:03:37,332 --> 02:03:39,167
+I'm not a terrorist.
+
+1194
+02:03:39,793 --> 02:03:42,671
+You know that. Please get me out of here!
+
+1195
+02:03:43,171 --> 02:03:46,008
+Sam, Information Retrieval is expensive.
+
+1196
+02:03:46,508 --> 02:03:49,595
+You're running up an enormous bill
+by not cooperating.
+
+1197
+02:03:52,014 --> 02:03:53,890
+Please, Mr. Helpmann,
+
+1198
+02:03:54,850 --> 02:03:56,643
+help me find Jill.
+
+1199
+02:04:02,190 --> 02:04:04,693
+Sam, I think I ought to tell you.
+
+1200
+02:04:05,819 --> 02:04:09,615
+I'm afraid she's upped stumps
+and retired to the pavilion.
+
+1201
+02:04:12,159 --> 02:04:13,994
+Thrown in the towel.
+
+1202
+02:04:15,412 --> 02:04:16,580
+Dead?
+
+1203
+02:04:17,748 --> 02:04:18,874
+Yes.
+
+1204
+02:04:19,666 --> 02:04:24,129
+It's all a bit confusing, but it seems
+she was killed resisting arrest.
+
+1205
+02:04:29,509 --> 02:04:31,887
+No, it's all right. I did that.
+
+1206
+02:04:35,223 --> 02:04:38,101
+The odd thing is
+it appears to have happened twice.
+
+1207
+02:04:38,185 --> 02:04:40,896
+A bit of a disputed call, I'm afraid.
+
+1208
+02:04:43,023 --> 02:04:44,232
+Twice?
+
+1209
+02:04:45,484 --> 02:04:49,738
+There you are. All I can say is
+don't fall at the last fence.
+
+1210
+02:04:50,072 --> 02:04:53,241
+The finish is in sight.
+See you in the paddock.
+
+1211
+02:04:53,575 --> 02:04:56,161
+Do cooperate. Think of your mother.
+
+1212
+02:04:56,370 --> 02:04:58,747
+Good luck. Keep your eye on the ball.
+
+1213
+02:04:58,830 --> 02:05:01,917
+Got to go. Can't keep the orphans waiting.
+
+1214
+02:05:11,510 --> 02:05:12,552
+No!
+
+1215
+02:05:30,862 --> 02:05:34,449
+Don't fight it, son. Confess. Quickly.
+
+1216
+02:05:35,784 --> 02:05:40,038
+If you hold out too long,
+you could jeopardize your credit rating.
+
+1217
+02:06:30,881 --> 02:06:32,007
+Jack?
+
+1218
+02:06:41,141 --> 02:06:42,434
+Shut up!
+
+1219
+02:06:44,853 --> 02:06:47,439
+Jack, I'm innocent. Please help me.
+
+1220
+02:06:47,814 --> 02:06:49,107
+Bastard!
+
+1221
+02:06:51,651 --> 02:06:54,529
+Jack, this is all a mistake. Please, Jack.
+
+1222
+02:06:54,613 --> 02:06:56,406
+Take that mask off.
+
+1223
+02:07:01,745 --> 02:07:03,538
+You stupid bastard!
+
+1224
+02:07:05,499 --> 02:07:07,417
+How could you do this to me?
+
+1225
+02:07:07,584 --> 02:07:09,169
+Jack, I'm frightened.
+
+1226
+02:07:09,252 --> 02:07:11,797
+How do you think I feel? You shit!
+
+1227
+02:07:11,880 --> 02:07:13,548
+- Jack...
+- Shut up!
+
+1228
+02:07:18,261 --> 02:07:22,474
+This is a professional relationship.
+
+1229
+02:07:26,478 --> 02:07:28,021
+You can't!
+
+1230
+02:07:30,273 --> 02:07:31,942
+No, Jack, please!
+
+1231
+02:08:21,408 --> 02:08:22,742
+You okay?
+
+1232
+02:08:22,868 --> 02:08:24,119
+Tuttle!
+
+1233
+02:08:24,661 --> 02:08:26,204
+Call me Harry.
+
+1234
+02:09:14,127 --> 02:09:15,462
+Let's go!
+
+1235
+02:14:25,688 --> 02:14:29,484
+Mr. Lowry, so pleased you could make it.
+
+1236
+02:14:29,776 --> 02:14:31,527
+Right this way.
+
+1237
+02:14:36,991 --> 02:14:38,660
+It's a sad loss.
+
+1238
+02:14:39,452 --> 02:14:41,621
+Your mother was with her at the end.
+
+1239
+02:14:46,084 --> 02:14:49,963
+Mrs. Terrain has just received
+that most wonderful of gifts.
+
+1240
+02:14:51,172 --> 02:14:53,508
+She came to us physically new.
+
+1241
+02:14:54,175 --> 02:14:57,387
+She goes hence from us
+not so physically new.
+
+1242
+02:14:57,470 --> 02:14:59,847
+But the spirit never grows old.
+
+1243
+02:15:01,432 --> 02:15:02,976
+Madam Lowry!
+
+1244
+02:15:07,480 --> 02:15:08,731
+Mother!
+
+1245
+02:15:10,358 --> 02:15:11,567
+Sam!
+
+1246
+02:15:13,444 --> 02:15:14,862
+Mother?
+
+1247
+02:15:16,739 --> 02:15:18,574
+Stop calling me that.
+
+1248
+02:15:20,743 --> 02:15:23,663
+Mother, please!
+
+1249
+02:15:24,163 --> 02:15:26,291
+Is this guy bothering you?
+
+1250
+02:15:27,500 --> 02:15:28,543
+Mother!
+
+1251
+02:15:30,086 --> 02:15:33,965
+Go away. This is a very sacred moment.
+
+1252
+02:18:43,821 --> 02:18:45,781
+He's got away from us, Jack.
+
+1253
+02:18:45,865 --> 02:18:49,160
+I'm afraid you're right, Mr. Helpmann.
+He's gone.
+
+1254
+02:19:30,618 --> 02:19:34,163
+<i>Tomorrow was another day</i>
+
+1255
+02:19:35,623 --> 02:19:39,544
+<i>The morning found me miles away</i>
+
+1256
+02:19:40,836 --> 02:19:45,132
+<i>With still a million things to say</i>
+
+1257
+02:19:48,636 --> 02:19:50,888
+<i>Now</i>
+
+1258
+02:19:51,597 --> 02:19:55,893
+<i>As twilight beams the sky above</i>
+
+1259
+02:19:56,936 --> 02:20:00,356
+<i>Recalling thrills of our love</i>
+
+1260
+02:20:02,400 --> 02:20:06,404
+<i>There's one thing I'm certain of</i>
+
+1261
+02:20:07,154 --> 02:20:11,909
+<i>Return I will</i>
+
+1262
+02:20:13,744 --> 02:20:19,750
+<i>To old Brazil</i>
+
+1263
+02:23:18,345 --> 02:23:19,346
+English - US
+

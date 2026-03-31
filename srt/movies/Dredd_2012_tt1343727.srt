@@ -1,0 +1,3803 @@
+1
+00:01:05,627 --> 00:01:08,714
+<i>America is an irradiated wasteland.</i>
+
+2
+00:01:10,465 --> 00:01:12,426
+<i>Within it lies a city.</i>
+
+3
+00:01:14,386 --> 00:01:17,514
+<i>Outside the boundary walls a desert.</i>
+
+4
+00:01:17,598 --> 00:01:19,308
+<i>A cursed earth.</i>
+
+5
+00:01:20,809 --> 00:01:24,313
+<i>Inside the walls a cursed city,</i>
+
+6
+00:01:24,396 --> 00:01:27,774
+<i>stretching from Boston to Washington, D.C.</i>
+
+7
+00:01:28,901 --> 00:01:31,570
+<i>An unbroken concrete landscape.</i>
+
+8
+00:01:33,322 --> 00:01:34,740
+<i>800 million people</i>
+
+9
+00:01:34,823 --> 00:01:37,784
+<i>living in the ruin of the old world</i>
+
+10
+00:01:38,452 --> 00:01:41,121
+<i>and the mega structures of the new one.</i>
+
+11
+00:01:43,415 --> 00:01:46,752
+<i>Mega blocks. Mega highways.</i>
+
+12
+00:01:48,170 --> 00:01:50,088
+<i>Mega City One.</i>
+
+13
+00:01:58,847 --> 00:02:01,934
+<i>Convulsing. Choking.</i>
+
+14
+00:02:04,519 --> 00:02:06,980
+<i>Breaking under its own weight.</i>
+
+15
+00:02:11,109 --> 00:02:13,779
+<i>Citizens in fear of the street.</i>
+
+16
+00:02:14,321 --> 00:02:17,991
+<i>The gun. The gang.</i>
+
+17
+00:02:22,371 --> 00:02:25,707
+<i>Only one thing fighting
+for order in the chaos,</i>
+
+18
+00:02:26,959 --> 00:02:29,795
+<i>the men and women of the Hall of Justice.</i>
+
+19
+00:02:34,049 --> 00:02:35,467
+<i>Juries.</i>
+
+20
+00:02:37,636 --> 00:02:39,179
+<i>Executioners.</i>
+
+21
+00:02:41,890 --> 00:02:43,016
+<i>Judges.</i>
+
+22
+00:02:52,317 --> 00:02:55,654
+<i>Responders needed
+at a square at 1117.</i>
+
+23
+00:02:55,737 --> 00:02:56,822
+<i>Code 10-10.</i>
+
+24
+00:02:56,905 --> 00:02:57,990
+<i>Leisure complex.</i>
+
+25
+00:02:58,073 --> 00:02:59,116
+<i>Shots fired.</i>
+
+26
+00:02:59,199 --> 00:03:00,575
+<i>Out of vehicle, in pursuit.</i>
+
+27
+00:03:00,659 --> 00:03:02,119
+<i>Request aerial surveillance.</i>
+
+28
+00:03:02,202 --> 00:03:03,245
+<i>I have a control drone</i>
+
+29
+00:03:03,328 --> 00:03:05,414
+flagging three perps.
+
+30
+00:03:05,831 --> 00:03:08,834
+Responders needed
+in Sub-Sector 20, Flyover 5.
+
+31
+00:03:08,917 --> 00:03:11,253
+We have a positive ID on three suspects
+
+32
+00:03:11,336 --> 00:03:12,504
+wanted on multiple counts.
+
+33
+00:03:12,587 --> 00:03:14,172
+Any Judges, please respond.
+
+34
+00:03:15,924 --> 00:03:20,429
+Dredd to Control.
+In pursuit of vehicle, Sector 13.
+
+35
+00:03:22,264 --> 00:03:23,348
+Driving erratic.
+
+36
+00:03:23,432 --> 00:03:26,268
+Suspects are under the
+influence of narcotics.
+
+37
+00:03:49,458 --> 00:03:53,628
+Got a Judge on our tail.
+
+38
+00:03:55,297 --> 00:03:56,298
+What?
+
+39
+00:03:56,465 --> 00:03:58,216
+I said, we got a Judge on our tail!
+
+40
+00:03:58,300 --> 00:04:00,635
+Take him out or we're dead fucking meat!
+
+41
+00:04:03,263 --> 00:04:04,306
+Fuck!
+
+42
+00:04:05,974 --> 00:04:07,309
+Do you require backup?
+
+43
+00:04:07,601 --> 00:04:08,602
+No.
+
+44
+00:04:11,813 --> 00:04:13,315
+Fucker!
+
+45
+00:04:18,820 --> 00:04:21,323
+I can't get him! Straighten the fuck out!
+
+46
+00:04:35,670 --> 00:04:36,755
+<i>Be advised.</i>
+
+47
+00:04:36,838 --> 00:04:37,923
+<i>We have lost visual.</i>
+
+48
+00:04:43,303 --> 00:04:45,472
+Fuck, he's right on us!
+
+49
+00:04:45,972 --> 00:04:49,142
+Oh, man, we're dead. We're fucking dead!
+
+50
+00:05:00,779 --> 00:05:03,115
+Control. Perps just wiped out an innocent.
+
+51
+00:05:03,198 --> 00:05:05,117
+I'm taking them down.
+
+52
+00:05:24,553 --> 00:05:26,680
+Bike. Activate crowd control.
+
+53
+00:05:26,805 --> 00:05:29,391
+<i>Activated.
+Citizens, be calm.</i>
+
+54
+00:05:29,474 --> 00:05:31,309
+<i>Step back from the crime scene.</i>
+
+55
+00:05:31,393 --> 00:05:35,147
+<i>Interference carries
+an automatic five-year sentence</i>
+
+56
+00:05:35,230 --> 00:05:36,398
+<i>in the iso-cubes.</i>
+
+57
+00:05:46,700 --> 00:05:48,743
+Hey, fucking get out of here!
+
+58
+00:06:08,930 --> 00:06:11,516
+Control. Paramedics to my GPS.
+
+59
+00:06:11,600 --> 00:06:13,602
+Multiple wounded and bodies for Resyk.
+
+60
+00:06:13,935 --> 00:06:15,604
+<i>Copy, Dredd.</i>
+
+61
+00:06:17,272 --> 00:06:18,523
+<i>All shoppers are reminded</i>
+
+62
+00:06:18,607 --> 00:06:21,443
+<i>to avoid the level 1 food courts
+until further notice.</i>
+
+63
+00:06:21,568 --> 00:06:23,361
+<i>Alternative refreshments can be found...</i>
+
+64
+00:06:23,445 --> 00:06:25,530
+Shut the fuck up.
+
+65
+00:06:43,298 --> 00:06:46,218
+- Let's talk.
+- Talk about what, Judge?
+
+66
+00:06:47,802 --> 00:06:50,222
+Release the hostage unharmed,
+
+67
+00:06:50,305 --> 00:06:52,224
+and I guarantee you a sentence of life
+
+68
+00:06:52,307 --> 00:06:54,976
+in an iso-cube without parole.
+
+69
+00:06:55,477 --> 00:06:56,978
+Life without parole?
+
+70
+00:06:57,103 --> 00:06:58,383
+That's the deal you're offering?
+
+71
+00:06:58,396 --> 00:07:00,148
+Only if you comply.
+
+72
+00:07:00,649 --> 00:07:02,984
+Your crimes include multiple homicide
+
+73
+00:07:03,068 --> 00:07:05,487
+and the attempted murder of a judge.
+
+74
+00:07:05,654 --> 00:07:09,491
+If you do not comply,
+the sentence is death.
+
+75
+00:07:09,824 --> 00:07:11,993
+You aren't a very good negotiator, Judge.
+
+76
+00:07:12,077 --> 00:07:14,329
+You know why?
+You got no fucking leverage!
+
+77
+00:07:14,412 --> 00:07:16,248
+- Here's the deal.
+
+78
+00:07:16,331 --> 00:07:19,125
+You let me walk or I blow
+her fucking brains out. Okay?
+
+79
+00:07:22,128 --> 00:07:23,797
+Negotiation's over.
+
+80
+00:07:23,922 --> 00:07:25,340
+What are you doing?
+
+81
+00:07:25,423 --> 00:07:27,343
+Didn't you hear what I said?
+I'll kill the bitch!
+
+82
+00:07:28,301 --> 00:07:30,095
+Yeah, I heard you, hotshot.
+
+83
+00:07:30,178 --> 00:07:31,179
+What?
+
+84
+00:07:31,263 --> 00:07:33,265
+I said "hotshot."
+
+85
+00:07:57,497 --> 00:07:59,499
+<i>Control to Dredd. Come in.</i>
+
+86
+00:08:00,000 --> 00:08:02,877
+<i>- Is your pursuit resolved?</i>
+- Affirmative.
+
+87
+00:08:02,961 --> 00:08:04,629
+<i>Report back to the Hall of Justice.</i>
+
+88
+00:08:04,713 --> 00:08:06,673
+<i>The Chief Judge wants to see you.</i>
+
+89
+00:08:10,051 --> 00:08:11,678
+Thank you, Judge.
+
+90
+00:08:12,971 --> 00:08:14,139
+<i>The level 1 food court</i>
+
+91
+00:08:14,222 --> 00:08:17,267
+<i>will reopen in 30 minutes.
+Thank you for your patience.</i>
+
+92
+00:08:32,657 --> 00:08:34,993
+<i>Cassandra Anderson.
+Twenty-one.</i>
+
+93
+00:08:35,702 --> 00:08:39,414
+<i>Born in a block 100 meters
+from the radiation boundary wall.</i>
+
+94
+00:08:39,539 --> 00:08:41,333
+<i>At age seven, she lost both parents</i>
+
+95
+00:08:41,416 --> 00:08:43,626
+<i>to residual-fallout cancer.</i>
+
+96
+00:08:43,710 --> 00:08:45,170
+<i>As is usual with orphans,</i>
+
+97
+00:08:45,253 --> 00:08:48,506
+she was given a Judge aptitude test
+at age nine.
+
+98
+00:08:48,590 --> 00:08:50,508
+It classified her as unsuitable,
+
+99
+00:08:50,592 --> 00:08:52,177
+but she was entered into the Academy
+
+100
+00:08:52,260 --> 00:08:53,928
+on special instruction.
+
+101
+00:08:54,929 --> 00:08:57,891
+In the Academy, her record was never
+better than borderline.
+
+102
+00:08:58,016 --> 00:08:59,476
+Her final Academy score
+
+103
+00:08:59,559 --> 00:09:02,062
+put her three percentile
+points below a pass.
+
+104
+00:09:02,145 --> 00:09:03,938
+So what's she doing in a uniform?
+
+105
+00:09:09,903 --> 00:09:11,654
+<i>- Rookie Anderson.</i>
+- Sir.
+
+106
+00:09:11,780 --> 00:09:13,656
+<i>How many people are observing you?</i>
+
+107
+00:09:17,077 --> 00:09:18,203
+Two.
+
+108
+00:09:18,620 --> 00:09:21,289
+What can you tell me
+about the person I'm with?
+
+109
+00:09:22,624 --> 00:09:25,627
+Male. Another Judge.
+
+110
+00:09:27,629 --> 00:09:32,675
+<i>I can feel anger. And control. But</i>
+
+111
+00:09:34,302 --> 00:09:35,970
+there's something else.
+
+112
+00:09:36,304 --> 00:09:39,808
+<i>Something behind the control. Something</i>
+
+113
+00:09:41,309 --> 00:09:43,770
+almost...
+- Okay, Anderson.
+
+114
+00:09:44,479 --> 00:09:45,814
+<i>That Will do.</i>
+
+115
+00:09:46,481 --> 00:09:47,982
+She's a mutant.
+
+116
+00:09:48,608 --> 00:09:51,152
+The Judges Council have chosen
+to overlook her status.
+
+117
+00:09:51,486 --> 00:09:52,654
+So you will, too.
+
+118
+00:09:53,405 --> 00:09:55,115
+She's the most powerful psychic
+
+119
+00:09:55,198 --> 00:09:57,409
+we've ever come across by a huge margin.
+
+120
+00:09:58,159 --> 00:10:00,662
+The Judges are losing the war for the city.
+
+121
+00:10:00,745 --> 00:10:02,664
+We believe she could be a major asset.
+
+122
+00:10:03,331 --> 00:10:06,626
+As I said, her final score
+was only three points below a pass.
+
+123
+00:10:06,709 --> 00:10:07,919
+It's marginal.
+
+124
+00:10:08,002 --> 00:10:10,046
+It's not marginal. She failed.
+
+125
+00:10:10,130 --> 00:10:11,923
+The girl's getting one more chance.
+
+126
+00:10:13,633 --> 00:10:16,428
+I want you to take her out,
+give her one day in the field.
+
+127
+00:10:16,511 --> 00:10:17,846
+Supervised.
+
+128
+00:10:18,138 --> 00:10:19,681
+See if she makes the grade.
+
+129
+00:10:20,432 --> 00:10:23,643
+Sink or swim. Chuck her in the deep end.
+
+130
+00:10:26,104 --> 00:10:27,939
+It's all the deep end.
+
+131
+00:10:29,774 --> 00:10:31,109
+<i>Personnel are required</i>
+
+132
+00:10:31,192 --> 00:10:32,819
+<i>to carry identification at all times.</i>
+
+133
+00:10:32,944 --> 00:10:34,112
+A rookie judge on assessment
+
+134
+00:10:34,195 --> 00:10:36,030
+is likely to be involved in armed combat.
+
+135
+00:10:36,114 --> 00:10:38,032
+One in five don't survive the first day.
+
+136
+00:10:38,199 --> 00:10:39,909
+You may be required to carry out
+
+137
+00:10:39,993 --> 00:10:41,786
+on-the-spot executions of convicted felons.
+
+138
+00:10:41,870 --> 00:10:42,912
+Yes, sir.
+
+139
+00:10:42,996 --> 00:10:45,874
+Incorrect sentencing is an automatic fail.
+
+140
+00:10:45,957 --> 00:10:48,376
+Disobeying a direct order
+from your assessment officer
+
+141
+00:10:48,460 --> 00:10:50,128
+is an automatic fail.
+
+142
+00:10:50,545 --> 00:10:54,340
+Losing your primary weapon or having it
+taken from you is an automatic fail.
+
+143
+00:10:54,424 --> 00:10:55,467
+Yes, sir.
+
+144
+00:10:55,550 --> 00:10:57,218
+Are you ready, rookie?
+
+145
+00:10:57,302 --> 00:10:58,720
+I am.
+
+146
+00:10:58,887 --> 00:11:00,638
+<i>Mandatory vehicle checks...</i>
+
+147
+00:11:00,722 --> 00:11:02,140
+Your assessment starts now.
+
+148
+00:12:28,726 --> 00:12:29,978
+Ma.
+
+149
+00:12:39,571 --> 00:12:41,239
+We got trouble.
+
+150
+00:12:46,494 --> 00:12:49,831
+They were selling Sternhammer product
+on my level.
+
+151
+00:12:50,248 --> 00:12:52,584
+I warned them off with a beating
+a couple of weeks ago.
+
+152
+00:12:52,667 --> 00:12:53,835
+Guess it didn't work.
+
+153
+00:12:54,127 --> 00:12:55,670
+You can't deal with it yourself?
+
+154
+00:12:56,129 --> 00:12:57,630
+I can deal with it.
+
+155
+00:12:57,922 --> 00:13:00,203
+The question is whether you
+wanna make an example of them.
+
+156
+00:13:04,345 --> 00:13:07,473
+Skin them. Toss them over the balcony.
+
+157
+00:13:08,016 --> 00:13:09,892
+Hit them with a little slo-mo first?
+
+158
+00:13:11,311 --> 00:13:12,353
+Sure.
+
+159
+00:13:19,694 --> 00:13:21,112
+- Eat this, fucker!
+
+160
+00:13:21,529 --> 00:13:22,864
+Hold him down!
+
+161
+00:13:23,823 --> 00:13:25,825
+Please. Oh, please.
+
+162
+00:14:09,869 --> 00:14:11,996
+<i>Responders in
+the vicinity of Peach Trees.</i>
+
+163
+00:14:12,080 --> 00:14:14,123
+<i>We have a report of a triple homicide.</i>
+
+164
+00:14:14,207 --> 00:14:17,960
+<i>The paramedic is on site
+and is cordoning off the area.</i>
+
+165
+00:14:25,885 --> 00:14:28,680
+12 serious crimes
+reported every minute.
+
+166
+00:14:28,763 --> 00:14:30,181
+17,000 per day.
+
+167
+00:14:30,765 --> 00:14:32,684
+We can respond to around 6%.
+
+168
+00:14:32,767 --> 00:14:33,768
+Which 6%?
+
+169
+00:14:34,602 --> 00:14:36,771
+Your show, rookie.
+You tell me.
+
+170
+00:14:38,398 --> 00:14:40,400
+Peach Trees.
+Multiple homicide.
+
+171
+00:14:40,608 --> 00:14:42,777
+Dredd to Control.
+We'll take Peach Trees.
+
+172
+00:14:43,277 --> 00:14:44,737
+<i>Copy that.</i>
+
+173
+00:15:08,094 --> 00:15:10,054
+Hey, Joey,
+show us what you've got.
+
+174
+00:15:15,101 --> 00:15:16,144
+Okay, rookie.
+
+175
+00:15:16,227 --> 00:15:17,812
+What do you know
+about Peach Trees?
+
+176
+00:15:17,895 --> 00:15:21,107
+Sir. Peach Trees houses
+75,000 registered citizens.
+
+177
+00:15:21,190 --> 00:15:23,234
+It has the highest
+crime rate in Sector 13.
+
+178
+00:15:23,317 --> 00:15:25,361
+Unemployment rate of 96%.
+
+179
+00:15:25,445 --> 00:15:27,286
+And more than half the
+residential levels here
+
+180
+00:15:27,321 --> 00:15:28,614
+are classed as slums.
+
+181
+00:15:32,618 --> 00:15:33,745
+Rookie.
+
+182
+00:15:35,246 --> 00:15:36,247
+Judgment.
+
+183
+00:15:36,330 --> 00:15:38,249
+Vagrancy, three weeks, iso-cubes.
+
+184
+00:15:38,332 --> 00:15:39,751
+But prioritize murders?
+
+185
+00:15:39,834 --> 00:15:42,670
+Correct. Don't be here when we get back.
+
+186
+00:15:42,754 --> 00:15:44,380
+Yes. Thanks, Judge.
+
+187
+00:15:46,340 --> 00:15:49,010
+<i>Please remain behind the security tape.</i>
+
+188
+00:15:50,094 --> 00:15:52,096
+So why do you wanna be a judge?
+
+189
+00:15:52,180 --> 00:15:54,891
+Sir. I want to protect and serve the city.
+
+190
+00:15:54,974 --> 00:15:56,434
+To make a difference.
+
+191
+00:15:56,517 --> 00:15:58,686
+Make a difference to a block like this?
+
+192
+00:15:59,312 --> 00:16:01,189
+It's yours if you want it.
+
+193
+00:16:01,564 --> 00:16:03,691
+I was born and raised in a block like this
+
+194
+00:16:03,775 --> 00:16:05,735
+before the Justice Department took me.
+
+195
+00:16:05,818 --> 00:16:07,779
+I know there are good people inside,
+
+196
+00:16:07,862 --> 00:16:10,823
+good families just trying to get by.
+
+197
+00:16:12,283 --> 00:16:14,577
+Yes, I believe I can make a difference.
+
+198
+00:16:16,704 --> 00:16:18,039
+Admirable.
+
+199
+00:16:19,332 --> 00:16:21,292
+<i>The mall will be closing today at 10:00.</i>
+
+200
+00:16:21,375 --> 00:16:23,419
+<i>Plenty of time
+to make your purchases.</i>
+
+201
+00:16:26,339 --> 00:16:27,381
+What have you got?
+
+202
+00:16:27,465 --> 00:16:30,384
+Three stiffs
+in a somewhat fucked-up condition.
+
+203
+00:16:31,344 --> 00:16:33,638
+Oh, did you get a picture of that?
+
+204
+00:16:33,721 --> 00:16:34,972
+You based in Peach Trees?
+
+205
+00:16:35,056 --> 00:16:36,849
+Med Center, level 25.
+
+206
+00:16:36,974 --> 00:16:38,601
+- You ID'd them?
+- Mostly.
+
+207
+00:16:38,684 --> 00:16:40,311
+These two are registered to this block.
+
+208
+00:16:40,394 --> 00:16:41,437
+And him?
+
+209
+00:16:41,521 --> 00:16:43,815
+I'll have to run his blood
+through a DNA profiler.
+
+210
+00:16:43,898 --> 00:16:45,900
+If I can figure out which blood is his.
+
+211
+00:16:52,907 --> 00:16:54,228
+What do you make of this, rookie?
+
+212
+00:16:56,369 --> 00:16:57,578
+I don't know, sir.
+
+213
+00:17:03,167 --> 00:17:05,169
+It's a cold-burn from a slo-mo inhaler.
+
+214
+00:17:05,837 --> 00:17:06,963
+Slo-mo?
+
+215
+00:17:07,380 --> 00:17:10,633
+Only just hit the grid,
+but it's making big waves.
+
+216
+00:17:10,716 --> 00:17:11,926
+Makes the brain feel as if
+
+217
+00:17:12,009 --> 00:17:14,512
+time is passing at 1% its normal speed.
+
+218
+00:17:16,264 --> 00:17:18,516
+Guess it felt like a long way down.
+
+219
+00:17:32,905 --> 00:17:34,490
+Positive on your IDs.
+
+220
+00:17:34,991 --> 00:17:37,702
+All showing convictions for
+possession of narcotics.
+
+221
+00:17:38,411 --> 00:17:39,537
+Transmitting data now.
+
+222
+00:17:41,414 --> 00:17:44,458
+Small-time perps. Junkies.
+No known gang affiliation.
+
+223
+00:17:44,542 --> 00:17:45,793
+What's your analysis?
+
+224
+00:17:47,753 --> 00:17:50,131
+Drugged. Skinned.
+Displayed in public.
+
+225
+00:17:50,631 --> 00:17:52,550
+I think it's a punishment killing.
+
+226
+00:17:52,633 --> 00:17:54,552
+Someone's trying to send a message.
+
+227
+00:17:54,635 --> 00:17:57,805
+Yeah. Don't fuck with the Ma-Ma Clan.
+
+228
+00:17:59,307 --> 00:18:00,641
+Ma-Ma Clan?
+
+229
+00:18:04,645 --> 00:18:07,398
+We have her
+on record from her whoring days.
+
+230
+00:18:07,481 --> 00:18:09,358
+The picture's pretty old
+
+231
+00:18:09,442 --> 00:18:13,988
+but that's her.
+Madeline Madrigal, aka Ma-Ma.
+
+232
+00:18:14,655 --> 00:18:17,199
+Ex-hooker from the S-9 pleasure district.
+
+233
+00:18:17,992 --> 00:18:20,494
+Quit working when she got
+sliced up by her pimp.
+
+234
+00:18:20,786 --> 00:18:22,163
+She got her own back.
+
+235
+00:18:22,622 --> 00:18:25,249
+Block legend says
+she feminized the guy with her teeth.
+
+236
+00:18:26,167 --> 00:18:29,670
+Took over his business interests
+and never looked back.
+
+237
+00:18:30,421 --> 00:18:32,673
+Anyone else, you'd say
+it was bullshit, right?
+
+238
+00:18:33,674 --> 00:18:36,844
+<i>Not with Ma-Ma.
+Her trademark is violence.</i>
+
+239
+00:18:41,140 --> 00:18:43,768
+<i>Not so long ago
+there were three main gangs</i>
+
+240
+00:18:43,851 --> 00:18:46,020
+<i>hustling for control of Peach Trees.</i>
+
+241
+00:18:46,646 --> 00:18:50,358
+The Peyote Kings,
+the Red Dragons, the Judged.
+
+242
+00:18:51,150 --> 00:18:52,526
+<i>Then Ma-Ma arrived.</i>
+
+243
+00:18:58,991 --> 00:19:00,034
+What the fuck?
+
+244
+00:19:02,036 --> 00:19:03,287
+Let's go!
+
+245
+00:19:04,956 --> 00:19:06,557
+<i>Took over the top floor of the block</i>
+
+246
+00:19:06,624 --> 00:19:08,376
+<i>and started working her way down.</i>
+
+247
+00:19:10,211 --> 00:19:13,547
+Nine months later,
+she had control of everything.
+
+248
+00:19:13,714 --> 00:19:15,967
+Levels 1 to 200
+
+249
+00:19:16,801 --> 00:19:18,135
+<i>are hers.</i>
+
+250
+00:19:19,053 --> 00:19:20,388
+How did she get away with it?
+
+251
+00:19:20,471 --> 00:19:23,724
+You know how often we get
+a judge up in Peach Trees?
+
+252
+00:19:24,642 --> 00:19:26,268
+Well, you got one now.
+
+253
+00:19:27,561 --> 00:19:31,065
+The victims are registered
+to apartments on level 39.
+
+254
+00:19:31,399 --> 00:19:33,109
+Likely killed over a turf issue,
+
+255
+00:19:33,359 --> 00:19:35,319
+so perps will be in the vicinity.
+
+256
+00:19:37,071 --> 00:19:38,364
+Rookie.
+
+257
+00:19:38,864 --> 00:19:42,076
+Find out where the Clan
+operate on this level, and hit it hard.
+
+258
+00:19:45,830 --> 00:19:47,248
+That would be here.
+
+259
+00:20:56,484 --> 00:20:58,736
+Take it this is
+your first time in non-sim combat.
+
+260
+00:20:58,819 --> 00:21:00,237
+Yes, sir.
+
+261
+00:21:00,321 --> 00:21:01,989
+Been wondering when you'd remember
+
+262
+00:21:02,073 --> 00:21:03,616
+you left your helmet behind.
+
+263
+00:21:03,741 --> 00:21:06,702
+Sir, a helmet can interfere
+with my psychic abilities.
+
+264
+00:21:08,120 --> 00:21:10,456
+Think a bullet might
+interfere with them more.
+
+265
+00:21:22,093 --> 00:21:23,302
+Are you ready?
+
+266
+00:21:23,385 --> 00:21:24,512
+Yes, sir.
+
+267
+00:21:26,347 --> 00:21:27,765
+You don't look ready.
+
+268
+00:21:27,848 --> 00:21:29,517
+Just adrenaline, sir.
+
+269
+00:22:48,012 --> 00:22:49,096
+Rookie.
+
+270
+00:22:50,848 --> 00:22:52,474
+Anderson. Judgment.
+
+271
+00:22:53,434 --> 00:22:55,769
+Crime, possession and use
+of controlled substances.
+
+272
+00:22:55,853 --> 00:22:57,938
+Sentence: two years iso-cubes.
+
+273
+00:22:58,939 --> 00:23:00,858
+No, don't tell me. Tell Control.
+
+274
+00:23:02,735 --> 00:23:03,861
+Anderson to Control.
+
+275
+00:23:03,944 --> 00:23:04,987
+<i>Copy.</i>
+
+276
+00:23:05,070 --> 00:23:07,364
+Requesting meat wagon to
+Peach Trees, level 39.
+
+277
+00:23:07,448 --> 00:23:08,657
+We have
+
+278
+00:23:08,741 --> 00:23:12,328
+four bodies for Resyk
+and eight live for the iso-cubes.
+
+279
+00:23:12,411 --> 00:23:14,413
+<i>Copy that. Meat wagon inbound.</i>
+
+280
+00:23:15,122 --> 00:23:16,957
+All right. Let's get them cuffed.
+
+281
+00:23:17,458 --> 00:23:18,500
+Move. Up.
+
+282
+00:23:25,799 --> 00:23:28,010
+Sir, this one's a gang member. He...
+
+283
+00:23:35,100 --> 00:23:36,685
+Sir, it's him.
+
+284
+00:23:36,769 --> 00:23:38,395
+Him who?
+
+285
+00:23:38,479 --> 00:23:40,280
+The man who murdered
+the people in the atrium.
+
+286
+00:23:42,316 --> 00:23:43,317
+You're sure?
+
+287
+00:23:46,278 --> 00:23:47,529
+99%.
+
+288
+00:23:50,658 --> 00:23:53,285
+Can't execute a perp on 99%.
+
+289
+00:23:57,831 --> 00:24:01,543
+Save me a lot of paperwork
+if you just confess right now.
+
+290
+00:24:05,005 --> 00:24:07,132
+We'll take him in.
+
+291
+00:24:07,216 --> 00:24:10,094
+See how he holds up
+after a few hours of interrogation.
+
+292
+00:24:36,829 --> 00:24:38,038
+Oh, shit.
+
+293
+00:24:39,832 --> 00:24:42,501
+Judges. No, no, no...
+
+294
+00:24:45,004 --> 00:24:48,716
+Uh, Caleb?
+There's a problem on level 39.
+
+295
+00:24:49,049 --> 00:24:51,529
+Judges hit the distribution point
+and shot the place up.
+
+296
+00:24:51,593 --> 00:24:53,095
+Took out a few of the boys.
+
+297
+00:24:53,178 --> 00:24:54,888
+So what? We're overdue a bust.
+
+298
+00:24:55,055 --> 00:24:56,366
+It's just the judges showing their faces,
+
+299
+00:24:56,390 --> 00:24:57,891
+reminding the citizens they exist.
+
+300
+00:24:57,975 --> 00:24:59,852
+No, Ma. They picked up Kay.
+
+301
+00:24:59,935 --> 00:25:00,978
+Executed?
+
+302
+00:25:01,061 --> 00:25:03,355
+Interrogation.
+They're taking him in right now.
+
+303
+00:25:03,439 --> 00:25:04,440
+Fuck.
+
+304
+00:25:04,982 --> 00:25:06,066
+If Kay talks...
+
+305
+00:25:06,233 --> 00:25:08,527
+If they're taking him in, he'll talk.
+
+306
+00:25:11,155 --> 00:25:12,406
+What are we gonna do?
+
+307
+00:25:44,104 --> 00:25:45,939
+That one's still breathing.
+
+308
+00:25:49,109 --> 00:25:50,569
+Control room is secure.
+
+309
+00:25:58,118 --> 00:26:00,287
+Router's in. You're good to go.
+
+310
+00:26:03,457 --> 00:26:04,917
+<i>Sector Control.</i>
+
+311
+00:26:05,959 --> 00:26:08,045
+Sector Control. This is
+Peach Tree's control.
+
+312
+00:26:08,128 --> 00:26:09,773
+I just wanna check you were notified about
+
+313
+00:26:09,797 --> 00:26:11,799
+the def-con systems test today.
+
+314
+00:26:11,882 --> 00:26:13,384
+<i>Copy that.</i>
+
+315
+00:26:13,467 --> 00:26:15,528
+<i>Peach Trees, we don't have
+you down for a def-con test.</i>
+
+316
+00:26:15,552 --> 00:26:17,221
+Yeah, we must be. If you check the...
+
+317
+00:26:17,304 --> 00:26:18,639
+<i>I've got nothing.</i>
+
+318
+00:26:21,642 --> 00:26:23,435
+God fucking damn it, Sector!
+
+319
+00:26:23,519 --> 00:26:26,855
+I put in the notification
+myself three fucking times!
+
+320
+00:26:27,147 --> 00:26:28,399
+We are good to go right now!
+
+321
+00:26:28,482 --> 00:26:31,902
+I've got my supervisor
+breathing down my neck.
+
+322
+00:26:31,985 --> 00:26:34,321
+<i>Hold fire, Peach Trees.
+Let me get on this.</i>
+
+323
+00:26:34,988 --> 00:26:37,199
+<i>Okay. I put you on the system.</i>
+
+324
+00:26:37,282 --> 00:26:39,326
+<i>Hall of Justice and all emergency services</i>
+
+325
+00:26:39,410 --> 00:26:41,078
+<i>are notified to ignore your status.</i>
+
+326
+00:26:41,161 --> 00:26:43,330
+<i>You can run the test any time you like.</i>
+
+327
+00:26:43,497 --> 00:26:45,040
+Appreciate that, Sector.
+
+328
+00:26:45,290 --> 00:26:47,334
+You just saved my ass over here.
+
+329
+00:26:47,668 --> 00:26:49,169
+<i>You're welcome, Peach Trees.</i>
+
+330
+00:26:59,012 --> 00:27:01,640
+Sir, he's thinking about
+making a move for your gun.
+
+331
+00:27:02,349 --> 00:27:03,517
+Yeah.
+
+332
+00:27:04,685 --> 00:27:06,645
+He just changed his mind.
+
+333
+00:27:07,146 --> 00:27:08,147
+Yeah.
+
+334
+00:27:13,110 --> 00:27:14,778
+<i>Then enter the pass key</i>
+
+335
+00:27:14,862 --> 00:27:16,321
+<i>and you should be inside.</i>
+
+336
+00:27:18,866 --> 00:27:20,868
+<i>Security protocols accessed.</i>
+
+337
+00:27:22,369 --> 00:27:24,163
+<i>War protocol accessed.</i>
+
+338
+00:27:25,706 --> 00:27:27,499
+<i>Blast shield initiated.</i>
+
+339
+00:27:33,172 --> 00:27:35,716
+Warned you. Get up.
+You're headed for the cubes.
+
+340
+00:27:35,799 --> 00:27:37,319
+<i>Stand clear of doors.</i>
+
+341
+00:27:40,804 --> 00:27:43,015
+<i>All residents remain calm.</i>
+
+342
+00:27:45,392 --> 00:27:47,478
+<i>All residents remain calm.</i>
+
+343
+00:27:49,396 --> 00:27:51,106
+<i>All residents remain calm.</i>
+
+344
+00:28:23,847 --> 00:28:25,098
+What's going on?
+
+345
+00:28:34,024 --> 00:28:35,943
+<i>Lockdown complete.</i>
+
+346
+00:28:48,747 --> 00:28:50,415
+You're patched in.
+
+347
+00:29:06,306 --> 00:29:07,558
+Peach Trees.
+
+348
+00:29:08,642 --> 00:29:09,977
+<i>This is Ma-Ma.</i>
+
+349
+00:29:13,730 --> 00:29:16,233
+<i>Somewhere in this block are two judges.</i>
+
+350
+00:29:18,819 --> 00:29:20,195
+<i>I want them dead.</i>
+
+351
+00:29:22,281 --> 00:29:24,825
+<i>Until I get what I want,
+the block is locked down.</i>
+
+352
+00:29:27,327 --> 00:29:31,206
+<i>All Clan, every level,
+hunt the judges down.</i>
+
+353
+00:29:32,916 --> 00:29:34,751
+Everyone else, clear the corridors
+
+354
+00:29:34,835 --> 00:29:37,421
+and stay the fuck out of our way
+until the shooting stops.
+
+355
+00:29:41,174 --> 00:29:42,884
+<i>If I hear of anyone helping the judges,</i>
+
+356
+00:29:42,968 --> 00:29:46,179
+<i>I will kill them and the next
+generation of their family.</i>
+
+357
+00:29:53,020 --> 00:29:54,938
+<i>As for the judges...</i>
+
+358
+00:29:55,022 --> 00:29:56,773
+We better move.
+
+359
+00:29:56,857 --> 00:29:59,192
+<i>...sit tight, or run.</i>
+
+360
+00:30:02,988 --> 00:30:05,198
+Makes no difference. You're mine.
+
+361
+00:30:24,509 --> 00:30:25,802
+Control, we have a situation
+
+362
+00:30:25,886 --> 00:30:27,888
+developing in Peach Trees.
+Do you copy?
+
+363
+00:30:29,890 --> 00:30:31,475
+Control, do you copy?
+
+364
+00:30:31,558 --> 00:30:33,268
+My comms are down too.
+
+365
+00:30:33,352 --> 00:30:35,228
+Shielding must be blocking
+our transmissions.
+
+366
+00:30:36,229 --> 00:30:37,981
+We'll head for the Med Center.
+
+367
+00:30:43,028 --> 00:30:44,404
+They're here!
+
+368
+00:30:45,989 --> 00:30:47,282
+- Call it.
+- Sir?
+
+369
+00:30:47,366 --> 00:30:49,201
+You're on assessment, Rookie. Call it.
+
+370
+00:30:50,577 --> 00:30:52,221
+Multiple armed targets.
+Obstructed line of sight.
+
+371
+00:30:52,245 --> 00:30:53,747
+- Gas grenades.
+- Respirators.
+
+372
+00:30:55,832 --> 00:30:57,334
+Advise you hold your breath.
+
+373
+00:31:56,893 --> 00:32:00,063
+I want the North and East
+corridor totally covered.
+
+374
+00:32:00,147 --> 00:32:01,898
+Sal's got the West and the South.
+
+375
+00:32:02,315 --> 00:32:03,817
+And spread out your hardware.
+
+376
+00:32:04,401 --> 00:32:07,154
+We're gonna hand these judges
+back to Ma-Ma on a plate.
+
+377
+00:32:11,825 --> 00:32:13,744
+Stay fucking focused.
+
+378
+00:32:13,827 --> 00:32:15,829
+Judges got it coming!
+
+379
+00:32:27,591 --> 00:32:29,111
+Judge, come and get me.
+
+380
+00:32:29,176 --> 00:32:31,303
+We're gonna have to go through them.
+
+381
+00:32:32,679 --> 00:32:34,264
+Stun grenade.
+
+382
+00:32:38,310 --> 00:32:40,270
+Kill that motherfucker.
+
+383
+00:32:40,353 --> 00:32:42,063
+Let's give them the good news.
+
+384
+00:32:47,527 --> 00:32:49,780
+Man up that corridor, man.
+
+385
+00:32:49,863 --> 00:32:51,072
+Fuck up the judges.
+
+386
+00:32:51,156 --> 00:32:52,449
+Fuck them.
+
+387
+00:32:52,532 --> 00:32:56,203
+Citizens of Peach Trees. This is the law.
+
+388
+00:32:56,328 --> 00:32:58,205
+Who do you think you are
+coming up in here?
+
+389
+00:32:58,538 --> 00:32:59,998
+Disperse immediately,
+
+390
+00:33:00,081 --> 00:33:02,918
+or we will use lethal
+force to clear the area.
+
+391
+00:33:03,084 --> 00:33:04,211
+Where's that coming from?
+
+392
+00:33:04,461 --> 00:33:06,505
+Over there. Access corridor.
+
+393
+00:33:07,130 --> 00:33:09,216
+<i>You have been warned.</i>
+
+394
+00:33:10,383 --> 00:33:13,053
+You now have 20 seconds to comply.
+
+395
+00:33:13,470 --> 00:33:15,430
+It's you doing the complying, Judge.
+
+396
+00:33:15,889 --> 00:33:18,141
+There's 10 of us, only two of you.
+
+397
+00:33:19,059 --> 00:33:21,061
+Why don't you step out
+from behind that doorway
+
+398
+00:33:21,186 --> 00:33:22,663
+or we're gonna blow the fuck out of you.
+
+399
+00:33:22,687 --> 00:33:24,356
+Ten seconds to comply.
+
+400
+00:33:24,689 --> 00:33:26,900
+- Fuck you, Judge.
+- You got five.
+
+401
+00:33:27,734 --> 00:33:29,194
+Thanks for the heads-up.
+
+402
+00:33:49,089 --> 00:33:50,215
+Please.
+
+403
+00:33:51,424 --> 00:33:53,176
+What are you waiting for, rookie?
+
+404
+00:33:53,552 --> 00:33:55,679
+His crime is attempted murder of a Judge.
+
+405
+00:33:55,762 --> 00:33:57,472
+His sentence is death.
+
+406
+00:33:59,766 --> 00:34:00,934
+Yes, sir.
+
+407
+00:34:27,627 --> 00:34:28,962
+Open up.
+
+408
+00:34:30,130 --> 00:34:31,256
+<i>Open Up!</i>
+
+409
+00:34:32,716 --> 00:34:33,800
+<i>Negative, Judge.</i>
+
+410
+00:34:33,967 --> 00:34:35,677
+<i>You know what's going on out here.</i>
+
+411
+00:34:35,886 --> 00:34:37,345
+We need a place we can defend.
+
+412
+00:34:37,429 --> 00:34:39,097
+<i>Then you better find someplace else.</i>
+
+413
+00:34:39,180 --> 00:34:41,308
+<i>This is a medical facility. Neutral ground.</i>
+
+414
+00:34:41,474 --> 00:34:44,978
+Neutral? You're not neutral.
+You're choosing sides.
+
+415
+00:34:45,312 --> 00:34:46,992
+<i>Peach Trees has been sealed by blast doors</i>
+
+416
+00:34:47,022 --> 00:34:48,607
+<i>designed to withstand attack.</i>
+
+417
+00:34:48,690 --> 00:34:50,901
+<i>No one's getting out. No one's coming in.</i>
+
+418
+00:34:51,401 --> 00:34:54,487
+<i>And you have every clan affiliate
+in the block after your blood.</i>
+
+419
+00:34:55,447 --> 00:34:58,575
+There are no sides. You're already dead.
+
+420
+00:35:19,179 --> 00:35:21,848
+Looks like
+the Med Center's closed early today.
+
+421
+00:35:22,349 --> 00:35:24,017
+Switch weapon to silencer mode.
+
+422
+00:35:24,351 --> 00:35:26,353
+Our best bet now is to go covert.
+
+423
+00:35:26,853 --> 00:35:28,355
+Conserve ammunition.
+
+424
+00:35:28,855 --> 00:35:30,690
+And don't shoot unless you're gonna hit.
+
+425
+00:35:33,276 --> 00:35:34,819
+Sir, what about the prisoner?
+
+426
+00:35:35,445 --> 00:35:36,446
+Explain.
+
+427
+00:35:36,863 --> 00:35:39,282
+Under the circumstances,
+he could be a liability.
+
+428
+00:35:39,616 --> 00:35:41,701
+Also a prime suspect in three homicides.
+
+429
+00:35:44,037 --> 00:35:47,207
+What do you say, rookie?
+Wanna out him loose?
+
+430
+00:35:48,458 --> 00:35:49,542
+No, sir.
+
+431
+00:36:02,013 --> 00:36:03,348
+Get up!
+
+432
+00:36:23,618 --> 00:36:25,453
+Go, go, go, go!
+
+433
+00:36:44,681 --> 00:36:45,807
+Hold up.
+
+434
+00:37:00,613 --> 00:37:01,698
+Move!
+
+435
+00:37:01,781 --> 00:37:03,616
+Keep your eyes peeled.
+
+436
+00:37:03,700 --> 00:37:05,861
+Man, stop telling me what to fucking do!
+
+437
+00:37:16,588 --> 00:37:18,631
+I know that new shit...
+
+438
+00:37:26,181 --> 00:37:27,307
+Cathy?
+
+439
+00:37:28,183 --> 00:37:30,268
+<i>- Who's there?</i>
+- Cathy, open the door.
+
+440
+00:37:37,650 --> 00:37:39,152
+We're not gonna hurt you.
+
+441
+00:37:54,125 --> 00:37:55,126
+Clear.
+
+442
+00:37:56,336 --> 00:37:58,456
+Secure the woman somewhere
+she can't raise any alarms.
+
+443
+00:37:59,798 --> 00:38:00,965
+We can't.
+
+444
+00:38:02,092 --> 00:38:05,595
+She has a baby. Asleep in the next room.
+
+445
+00:38:06,513 --> 00:38:08,741
+We can't secure her if we don't know
+when she'll be freed.
+
+446
+00:38:08,765 --> 00:38:10,266
+Is there a father?
+
+447
+00:38:10,809 --> 00:38:13,061
+He's out there. Looking for us.
+
+448
+00:38:15,688 --> 00:38:17,607
+Say that. What you were just thinking.
+
+449
+00:38:18,149 --> 00:38:19,692
+How did you...
+
+450
+00:38:19,776 --> 00:38:21,236
+It's okay. Go ahead.
+
+451
+00:38:24,531 --> 00:38:26,533
+I'm not raising any alarms.
+
+452
+00:38:27,033 --> 00:38:30,453
+If the men out there don't know where
+you are, you won't be killing them.
+
+453
+00:38:30,537 --> 00:38:31,538
+Go on.
+
+454
+00:38:33,123 --> 00:38:35,041
+There's a service elevator near here.
+
+455
+00:38:35,959 --> 00:38:38,211
+The sign says it's broken, but
+
+456
+00:38:41,756 --> 00:38:44,884
+it works as long as you're hitting
+a button above level 75.
+
+457
+00:38:45,885 --> 00:38:49,013
+I just want you off my level.
+Away from my family.
+
+458
+00:39:21,546 --> 00:39:22,964
+- Cathy, I...
+- Don't thank me.
+
+459
+00:39:23,882 --> 00:39:27,677
+It's not for you.
+I just don't wanna see you again.
+
+460
+00:39:31,890 --> 00:39:33,057
+You won't.
+
+461
+00:40:03,046 --> 00:40:05,882
+<i>This drug shifts like
+nothing I've ever seen.</i>
+
+462
+00:40:05,965 --> 00:40:08,801
+<i>If we play this right,
+we could take the whole fucking city.</i>
+
+463
+00:40:09,510 --> 00:40:11,930
+The only danger is we expand too fast.
+
+464
+00:40:13,139 --> 00:40:16,100
+In the last few days, we've added
+distribution to three new blocks.
+
+465
+00:40:16,184 --> 00:40:20,271
+And pretty soon, we're looking at
+making inroads into Sectors 9 and 15.
+
+466
+00:40:20,355 --> 00:40:22,482
+Fifteen is still Red territory.
+
+467
+00:40:24,609 --> 00:40:26,110
+Ma, you better come quick.
+
+468
+00:40:27,820 --> 00:40:29,906
+Okay. We got one here,
+
+469
+00:40:29,989 --> 00:40:32,575
+maybe 11 outside the Med Center.
+
+470
+00:40:32,659 --> 00:40:35,995
+There's eight in the stairwell
+and another five on level 18.
+
+471
+00:40:36,079 --> 00:40:39,332
+They've downed 30 plus
+and haven't even taken a scratch.
+
+472
+00:40:39,999 --> 00:40:41,125
+Where are they now?
+
+473
+00:40:41,209 --> 00:40:43,729
+I don't know, but they seem
+to be moving their way up the block.
+
+474
+00:40:44,045 --> 00:40:45,755
+No, wait, wait. I just picked them up.
+
+475
+00:40:45,838 --> 00:40:48,007
+They're on level 76, West Quadrant.
+
+476
+00:40:48,091 --> 00:40:49,851
+Do you want me to patch you back
+into the PA?
+
+477
+00:40:49,926 --> 00:40:52,762
+We could get level 60 through 80
+converging on them.
+
+478
+00:40:52,845 --> 00:40:55,348
+No. Can you seal them in there?
+
+479
+00:40:55,431 --> 00:40:58,434
+Sure. War override gives me
+total control of the building.
+
+480
+00:41:20,707 --> 00:41:21,833
+That's not good.
+
+481
+00:41:22,375 --> 00:41:24,168
+Full lockdown. They're going nowhere.
+
+482
+00:41:26,379 --> 00:41:29,299
+I tried to do this clean, but they wouldn't
+let me. So now we do it messy.
+
+483
+00:41:32,969 --> 00:41:34,345
+Too late, Judge.
+
+484
+00:41:38,141 --> 00:41:39,559
+Caleb, come in.
+
+485
+00:41:39,851 --> 00:41:41,060
+<i>Ma.</i>
+
+486
+00:41:42,103 --> 00:41:43,438
+We've got them cornered.
+
+487
+00:41:43,521 --> 00:41:45,356
+We're taking them down right now.
+
+488
+00:41:52,989 --> 00:41:54,907
+We'd need oxyacetylene to cut through.
+
+489
+00:41:55,408 --> 00:41:56,617
+They know where we are.
+
+490
+00:41:56,701 --> 00:41:58,161
+Why aren't they coming after us?
+
+491
+00:41:59,078 --> 00:42:00,747
+That's what worries me.
+
+492
+00:42:05,251 --> 00:42:07,170
+Take him back to the main lobby.
+
+493
+00:42:07,253 --> 00:42:09,255
+Hold position behind the elevator shaft.
+
+494
+00:42:10,089 --> 00:42:11,299
+Be a good place to defend.
+
+495
+00:42:12,967 --> 00:42:14,177
+Where are you going?
+
+496
+00:42:15,553 --> 00:42:17,764
+If I don't come back, and you get cornered,
+
+497
+00:42:19,807 --> 00:42:21,247
+you might not wanna get taken alive.
+
+498
+00:42:24,437 --> 00:42:25,438
+Your call.
+
+499
+00:42:26,773 --> 00:42:27,774
+Sir.
+
+500
+00:42:59,347 --> 00:43:01,057
+Get away from the door!
+
+501
+00:43:10,775 --> 00:43:12,110
+Sit down!
+
+502
+00:43:32,463 --> 00:43:34,006
+He's right, you know.
+
+503
+00:43:35,383 --> 00:43:37,510
+About not wanting to be taken alive.
+
+504
+00:43:39,470 --> 00:43:42,098
+The stuff the Clan would do
+to a girl like you...
+
+505
+00:43:45,434 --> 00:43:46,435
+Nasty.
+
+506
+00:43:58,322 --> 00:44:01,284
+We had a girl one time,
+girl about your age and...
+
+507
+00:44:07,248 --> 00:44:09,000
+Well, anyway...
+
+508
+00:44:10,710 --> 00:44:13,713
+I'm just saying,
+save the last bullet for yourself.
+
+509
+00:44:14,172 --> 00:44:16,174
+Yeah, and I'll save
+the second to last one for you.
+
+510
+00:44:16,716 --> 00:44:17,842
+Sure.
+
+511
+00:44:22,013 --> 00:44:23,306
+So you're a mutant?
+
+512
+00:44:24,724 --> 00:44:28,561
+Most of you poor fuckers
+got three stumpy arms, or no arms.
+
+513
+00:44:29,979 --> 00:44:35,067
+But I guess you lucked out.
+You fit together pretty well.
+
+514
+00:44:39,947 --> 00:44:41,282
+Psychic.
+
+515
+00:44:41,365 --> 00:44:43,659
+So fucked up.
+
+516
+00:44:45,661 --> 00:44:47,413
+Yeah, I heard about your kind.
+
+517
+00:44:48,664 --> 00:44:50,541
+Kind of hard to believe it's real.
+
+518
+00:44:53,753 --> 00:44:55,379
+Like what am I thinking about right now?
+
+519
+00:45:02,261 --> 00:45:05,097
+You're picturing a violent sexual liaison
+between the two of us
+
+520
+00:45:05,181 --> 00:45:07,558
+in a pointless attempt to shock me.
+
+521
+00:45:10,019 --> 00:45:12,355
+You're good.
+But I wasn't trying to shock you.
+
+522
+00:45:12,438 --> 00:45:13,689
+If I was trying to shock you,
+
+523
+00:45:13,773 --> 00:45:15,274
+I'd have been thinking about this.
+
+524
+00:45:17,318 --> 00:45:19,195
+What are you thinking about now, huh?
+
+525
+00:45:36,796 --> 00:45:38,965
+- What the fuck was that?
+- Get back inside.
+
+526
+00:45:42,843 --> 00:45:44,512
+Hurry the fuck up.
+
+527
+00:45:45,388 --> 00:45:47,390
+Move your fucking asses.
+
+528
+00:46:06,867 --> 00:46:08,703
+Move! Move!
+
+529
+00:46:11,998 --> 00:46:14,875
+Back in the house.
+Get in the house, now!
+
+530
+00:46:20,006 --> 00:46:21,048
+Shit!
+
+531
+00:46:21,424 --> 00:46:22,591
+Fire!
+
+532
+00:46:32,435 --> 00:46:34,395
+Frank! Frankie! Let's go!
+
+533
+00:47:05,718 --> 00:47:06,719
+Move.
+
+534
+00:47:33,662 --> 00:47:35,081
+Get back!
+
+535
+00:47:42,588 --> 00:47:44,048
+Concentrate the fire.
+
+536
+00:47:57,770 --> 00:47:59,188
+High ex!
+
+537
+00:48:01,649 --> 00:48:02,650
+Move!
+
+538
+00:49:13,679 --> 00:49:15,723
+There's no way they survived.
+
+539
+00:49:17,141 --> 00:49:19,185
+They're not dead till we find them dead.
+
+540
+00:49:23,355 --> 00:49:24,857
+Or part of them anyway.
+
+541
+00:49:41,207 --> 00:49:43,000
+Comms are back on.
+
+542
+00:49:44,210 --> 00:49:45,961
+Control. Do you copy?
+
+543
+00:49:46,253 --> 00:49:47,463
+<i>Affirmative.</i>
+
+544
+00:49:47,546 --> 00:49:51,675
+10-24 on my GPS.
+Request immediate assistance.
+
+545
+00:49:51,759 --> 00:49:54,678
+<i>Copy, 10-24. Judges under fire.</i>
+
+546
+00:49:54,762 --> 00:49:57,806
+<i>Showing your location as Peach Trees,
+Sector 13.</i>
+
+547
+00:49:57,890 --> 00:49:58,974
+<i>Confirm.</i>
+
+548
+00:49:59,058 --> 00:50:02,061
+Confirm. Be advised,
+blast door defenses have been triggered.
+
+549
+00:50:04,104 --> 00:50:05,606
+<i>Can you hold your current GPS?</i>
+
+550
+00:50:09,610 --> 00:50:10,945
+Negative.
+
+551
+00:50:12,071 --> 00:50:14,365
+If they come for us,
+we've got nowhere to go.
+
+552
+00:50:14,782 --> 00:50:18,452
+<i>Copy that. Backup is on its way.
+Just stay alive.</i>
+
+553
+00:50:20,913 --> 00:50:22,581
+We gotta go back in.
+
+554
+00:50:54,280 --> 00:50:56,991
+God damn it, man! What the fuck?
+
+555
+00:51:00,077 --> 00:51:01,787
+No! No, no!
+
+556
+00:51:34,987 --> 00:51:37,031
+Your gang locks down the whole block.
+
+557
+00:51:38,657 --> 00:51:41,827
+Massacres an entire quadrant of men,
+women and children,
+
+558
+00:51:41,952 --> 00:51:43,662
+just to take out two Judges.
+
+559
+00:51:44,455 --> 00:51:46,665
+Sound like overkill to you?
+
+560
+00:51:59,219 --> 00:52:00,679
+I'll tell you what I think.
+
+561
+00:52:01,555 --> 00:52:03,349
+I think if we'd executed you at the bust,
+
+562
+00:52:03,515 --> 00:52:05,809
+Ma-Ma would have let us walk out of here.
+
+563
+00:52:09,021 --> 00:52:12,566
+What she doesn't want
+is you taken back to the Sector house.
+
+564
+00:52:12,650 --> 00:52:14,443
+She doesn't want you interrogated.
+
+565
+00:52:14,526 --> 00:52:16,820
+She's afraid of what you might say.
+
+566
+00:52:17,863 --> 00:52:19,490
+And that's got me curious.
+
+567
+00:52:23,327 --> 00:52:24,370
+Spin it!
+
+568
+00:52:24,578 --> 00:52:25,704
+FUCK you!
+
+569
+00:52:30,376 --> 00:52:31,460
+Sir.
+
+570
+00:52:32,836 --> 00:52:33,879
+Sir!
+
+571
+00:52:35,047 --> 00:52:37,466
+If you leave it to me,
+he doesn't have to speak.
+
+572
+00:52:53,190 --> 00:52:56,026
+What are you up to, bitch?
+
+573
+00:52:59,947 --> 00:53:02,074
+Welcome to the inside of your head.
+
+574
+00:53:05,077 --> 00:53:06,620
+It's kind of empty in here.
+
+575
+00:53:07,538 --> 00:53:11,333
+I don't know what kind
+of mutant shit this is,
+
+576
+00:53:11,417 --> 00:53:12,876
+but if my hands weren't cuffed...
+
+577
+00:53:12,960 --> 00:53:15,087
+You aren't cuffed, if you don't wanna be.
+
+578
+00:53:21,260 --> 00:53:23,679
+My head. Do what I like?
+
+579
+00:53:23,762 --> 00:53:24,847
+Sure.
+
+580
+00:53:28,767 --> 00:53:31,854
+<i>Thinking about hurting
+me doesn't actually hurt me.</i>
+
+581
+00:53:31,937 --> 00:53:34,106
+<i>Yeah. Points to you.</i>
+
+582
+00:53:34,982 --> 00:53:38,068
+<i>Except there is that thing.</i>
+
+583
+00:53:38,777 --> 00:53:40,279
+<i>What thing was that?</i>
+
+584
+00:53:40,404 --> 00:53:42,114
+That I know how to freak you the fuck out.
+
+585
+00:53:43,073 --> 00:53:46,118
+<i>See, if you're talking about
+my fucked-up head</i>
+
+586
+00:53:47,244 --> 00:53:49,621
+versus your fucked-up head,
+
+587
+00:53:51,957 --> 00:53:54,126
+your fucked-up head is gonna lose.
+
+588
+00:53:58,422 --> 00:54:00,215
+I figured that would shut you up.
+
+589
+00:54:00,632 --> 00:54:03,135
+Hey. I can play mind games, too.
+
+590
+00:54:05,804 --> 00:54:09,266
+You fucking bitch! You sick fucking bitch!
+
+591
+00:54:09,641 --> 00:54:11,143
+We haven't even started.
+
+592
+00:54:26,158 --> 00:54:27,284
+Got it.
+
+593
+00:54:32,998 --> 00:54:34,917
+Peach Trees is the manufacturing base
+
+594
+00:54:35,000 --> 00:54:37,544
+for all the Slo-Mo in Mega City One.
+
+595
+00:54:37,628 --> 00:54:38,855
+Ma-Ma's controlling the production
+
+596
+00:54:38,879 --> 00:54:40,839
+and distribution across the whole city.
+
+597
+00:54:43,467 --> 00:54:44,802
+Interesting.
+
+598
+00:54:56,063 --> 00:54:57,689
+Peach Trees. Can I help you?
+
+599
+00:54:58,065 --> 00:54:59,316
+<i>We're responding to a report of</i>
+
+600
+00:54:59,399 --> 00:55:01,039
+<i>Judges under fire from within this block.</i>
+
+601
+00:55:01,109 --> 00:55:03,946
+Judges under fire?
+I'm unaware of any such activity.
+
+602
+00:55:04,196 --> 00:55:06,657
+We're actually undergoing
+a scheduled war defense test.
+
+603
+00:55:07,115 --> 00:55:11,036
+Not any more, you're not.
+Open the blast door right now.
+
+604
+00:55:11,119 --> 00:55:14,540
+Yes, sir. The problem is
+we've had a software malfunction
+
+605
+00:55:14,623 --> 00:55:16,542
+and I've lost control of the system.
+
+606
+00:55:18,085 --> 00:55:20,379
+We've had a fire on level 76.
+
+607
+00:55:24,633 --> 00:55:26,234
+<i>You better get control fast.</i>
+
+608
+00:55:26,260 --> 00:55:29,137
+<i>Or I'm slapping you
+with an obstruction of justice charge.</i>
+
+609
+00:55:29,221 --> 00:55:31,974
+<i>Five years in the cubes, mandatory.</i>
+
+610
+00:55:32,057 --> 00:55:34,393
+Will do, sir. I'm on it right now.
+Thank you.
+
+611
+00:55:43,694 --> 00:55:45,404
+We have new intel about Ma-Ma,
+
+612
+00:55:45,487 --> 00:55:47,865
+and we've managed to get
+a 10-24 to Control.
+
+613
+00:55:47,948 --> 00:55:49,700
+Parameters are shifting.
+
+614
+00:55:49,783 --> 00:55:51,243
+What are the options, Anderson?
+
+615
+00:55:51,326 --> 00:55:55,497
+Keep moving and attempt to avoid further
+detection, or find a place to defend.
+
+616
+00:55:55,581 --> 00:55:57,621
+Same as before, except now
+we know backup's inbound.
+
+617
+00:55:58,375 --> 00:56:00,919
+You're giving us two options.
+Defend or hide.
+
+618
+00:56:01,169 --> 00:56:02,504
+Yes, sir.
+
+619
+00:56:03,171 --> 00:56:05,757
+What about we attack.
+Head straight for Ma-Ma.
+
+620
+00:56:06,633 --> 00:56:08,051
+Is that an option?
+
+621
+00:56:08,719 --> 00:56:11,263
+Well, she's guilty. We're Judges.
+
+622
+00:56:11,930 --> 00:56:13,575
+With backup inbound, I think we should wait
+
+623
+00:56:13,599 --> 00:56:15,267
+until the odds have shifted in our favor.
+
+624
+00:56:18,770 --> 00:56:20,022
+Wrong answer?
+
+625
+00:56:21,064 --> 00:56:22,399
+You're the psychic.
+
+626
+00:56:34,036 --> 00:56:35,037
+Clear.
+
+627
+00:56:45,464 --> 00:56:47,132
+Why didn't you shoot him?
+
+628
+00:56:47,257 --> 00:56:50,594
+What do you mean, why didn't I shoot him?
+Why didn't you?
+
+629
+00:56:52,054 --> 00:56:54,723
+- Okay, we could do it now.
+- Do it.
+
+630
+00:56:57,559 --> 00:56:59,311
+Shit! Shit!
+
+631
+00:57:00,228 --> 00:57:02,189
+Why did it have to be us who found him?
+
+632
+00:57:03,106 --> 00:57:05,317
+All right. Come on. Come on.
+
+633
+00:57:10,447 --> 00:57:12,908
+Info terminal.
+Let's check the schematics.
+
+634
+00:57:34,137 --> 00:57:35,347
+Freeze!
+
+635
+00:57:40,268 --> 00:57:41,311
+Why?
+
+636
+00:57:44,564 --> 00:57:45,607
+Why what?
+
+637
+00:57:48,276 --> 00:57:49,653
+Well, why should I freeze?
+
+638
+00:57:52,906 --> 00:57:55,742
+Because otherwise I'll shoot you.
+
+639
+00:57:57,577 --> 00:57:58,787
+With the safety on?
+
+640
+00:58:00,914 --> 00:58:01,915
+It isn't.
+
+641
+00:58:08,422 --> 00:58:12,384
+How do you want it, kids?
+Body bags or juve-cubes?
+
+642
+00:58:12,467 --> 00:58:14,094
+Makes no difference to me.
+
+643
+00:58:17,556 --> 00:58:19,057
+Fuck!
+
+644
+00:58:22,019 --> 00:58:23,103
+Stun!
+
+645
+00:58:46,168 --> 00:58:47,627
+You are so fucked.
+
+646
+00:59:05,437 --> 00:59:07,522
+- Blondie.
+- Come on!
+
+647
+00:59:07,606 --> 00:59:09,441
+Come on, you bitch.
+
+648
+00:59:12,819 --> 00:59:14,488
+Hold her down, man.
+
+649
+00:59:22,746 --> 00:59:23,830
+Jesus.
+
+650
+00:59:23,955 --> 00:59:25,391
+Now then, what am I gonna do with you?
+
+651
+00:59:25,415 --> 00:59:26,958
+You're going to do nothing.
+
+652
+00:59:31,338 --> 00:59:32,964
+All this trouble is your doing.
+
+653
+00:59:34,091 --> 00:59:36,510
+When you got busted,
+you should have killed the Judges
+
+654
+00:59:36,593 --> 00:59:38,011
+or been killed yourself.
+
+655
+00:59:39,971 --> 00:59:41,515
+But instead you let yourself get taken
+
+656
+00:59:41,598 --> 00:59:43,100
+like the dumb fuck you are.
+
+657
+00:59:46,812 --> 00:59:48,480
+Shut the fuck up.
+
+658
+00:59:50,649 --> 00:59:52,729
+I'd kill you myself,
+but I already lost plenty today.
+
+659
+00:59:52,776 --> 00:59:54,319
+I can't afford to lose more.
+
+660
+01:00:03,703 --> 01:00:05,288
+Sooner or later the Justice Department
+
+661
+01:00:05,372 --> 01:00:08,542
+is gonna come through
+the blast doors looking for their judges.
+
+662
+01:00:10,669 --> 01:00:12,504
+They'll find their bodies all shot up.
+
+663
+01:00:13,630 --> 01:00:15,382
+One on level 25,
+
+664
+01:00:16,508 --> 01:00:19,845
+one in the Slo-Mo den.
+Just a bust that went wrong.
+
+665
+01:00:21,304 --> 01:00:23,306
+That means no torture.
+
+666
+01:00:23,807 --> 01:00:25,142
+No raping, no skinning.
+
+667
+01:00:25,225 --> 01:00:27,602
+Just a bunch of bullets
+to the head and chest.
+
+668
+01:00:27,936 --> 01:00:29,646
+- Do you understand me?
+- Yes.
+
+669
+01:00:29,729 --> 01:00:30,897
+Do you fucking understand me?
+
+670
+01:00:30,981 --> 01:00:32,566
+Yes.
+
+671
+01:00:32,649 --> 01:00:33,733
+Ma.
+
+672
+01:00:36,278 --> 01:00:37,445
+He's back.
+
+673
+01:00:48,415 --> 01:00:50,041
+The other judge has patched himself
+
+674
+01:00:50,125 --> 01:00:51,668
+into one of the terminals.
+
+675
+01:00:51,751 --> 01:00:53,295
+I think he's trying to access the PA.
+
+676
+01:00:53,837 --> 01:00:55,380
+Can't you stop him?
+
+677
+01:00:55,463 --> 01:00:56,691
+I can shut down the whole system,
+
+678
+01:00:56,715 --> 01:00:58,175
+but if you let him talk,
+
+679
+01:00:58,258 --> 01:00:59,843
+I can trace which terminal he's using.
+
+680
+01:01:01,761 --> 01:01:03,388
+We'll know exactly where he is.
+
+681
+01:01:16,276 --> 01:01:18,695
+<i>Inhabitants of Peach Trees.</i>
+
+682
+01:01:19,529 --> 01:01:21,406
+This is Judge Dredd.
+
+683
+01:01:23,700 --> 01:01:25,035
+Let him talk.
+
+684
+01:01:25,869 --> 01:01:27,913
+<i>In case you people have forgotten,</i>
+
+685
+01:01:29,080 --> 01:01:31,082
+<i>this block operates under the same rules</i>
+
+686
+01:01:31,166 --> 01:01:32,792
+<i>as the rest of the city.</i>
+
+687
+01:01:34,085 --> 01:01:35,795
+<i>Ma-Ma is not the law.</i>
+
+688
+01:01:37,088 --> 01:01:38,423
+I am the law.
+
+689
+01:01:40,008 --> 01:01:42,344
+<i>Ma-Ma is a common criminal.</i>
+
+690
+01:01:44,012 --> 01:01:45,972
+<i>Guilty of murder.</i>
+
+691
+01:01:46,973 --> 01:01:49,059
+<i>Guilty of the manufacture and distribution</i>
+
+692
+01:01:49,142 --> 01:01:51,144
+<i>of the narcotic known as Slo-Mo.</i>
+
+693
+01:01:51,937 --> 01:01:55,273
+<i>And as of now, under sentence of death.</i>
+
+694
+01:01:56,983 --> 01:01:58,902
+<i>Any who obstruct me in carrying out my duty</i>
+
+695
+01:01:58,985 --> 01:02:01,696
+<i>will be treated as an
+accessory to her crimes.</i>
+
+696
+01:02:03,156 --> 01:02:05,158
+<i>You have been warned.</i>
+
+697
+01:02:06,993 --> 01:02:08,995
+<i>And as for you, Ma-Ma...</i>
+
+698
+01:02:11,289 --> 01:02:12,958
+Judgment time.
+
+699
+01:02:16,461 --> 01:02:18,463
+I got him. He's only 10 levels below us.
+
+700
+01:02:18,546 --> 01:02:20,423
+South quad balcony. Terminal 5.
+
+701
+01:02:21,800 --> 01:02:23,134
+Motherfucker.
+
+702
+01:02:44,739 --> 01:02:46,992
+Fucker still hasn't gone down.
+
+703
+01:03:08,680 --> 01:03:10,265
+It's not him.
+
+704
+01:03:14,227 --> 01:03:15,687
+Incendiary.
+
+705
+01:03:54,684 --> 01:03:56,811
+How the fuck
+are we gonna stop this guy?
+
+706
+01:04:00,857 --> 01:04:01,983
+Call 911.
+
+707
+01:04:31,513 --> 01:04:33,807
+Got a 10-24 from this block.
+
+708
+01:04:33,932 --> 01:04:38,228
+Two judges under fire, requesting urgent
+assistance and you're standing outside.
+
+709
+01:04:38,478 --> 01:04:39,729
+Block's under lockdown.
+
+710
+01:04:39,813 --> 01:04:41,940
+Malfunction with their defense system.
+
+711
+01:04:47,737 --> 01:04:49,072
+Open up. Now!
+
+712
+01:04:55,703 --> 01:04:57,122
+You're relieved.
+
+713
+01:05:12,470 --> 01:05:14,222
+So what have we got?
+
+714
+01:05:14,347 --> 01:05:16,099
+Two Judges trigger a turf war.
+
+715
+01:05:16,182 --> 01:05:17,851
+Judges die in pursuit of duty.
+
+716
+01:05:17,976 --> 01:05:19,416
+And the perps who killed the Judges?
+
+717
+01:05:19,436 --> 01:05:20,770
+Laid out here.
+
+718
+01:05:20,854 --> 01:05:22,730
+- Sounds right.
+- Excuse me.
+
+719
+01:05:25,442 --> 01:05:26,693
+It's not what's happened.
+
+720
+01:05:26,776 --> 01:05:28,403
+I've been here from the start.
+
+721
+01:05:28,486 --> 01:05:31,406
+This killing's all about one gang.
+The Ma-Ma Clan.
+
+722
+01:05:31,489 --> 01:05:33,158
+And from the sound of gunfire,
+
+723
+01:05:33,241 --> 01:05:35,493
+I'd say at least one of your two judges
+is still alive.
+
+724
+01:05:36,161 --> 01:05:37,620
+Are you prepared to testify to that?
+
+725
+01:05:37,704 --> 01:05:38,872
+Sure.
+
+726
+01:06:03,771 --> 01:06:04,939
+One million credits.
+
+727
+01:06:06,399 --> 01:06:07,609
+A million?
+
+728
+01:06:07,734 --> 01:06:09,068
+You have a problem with a Judge.
+
+729
+01:06:09,152 --> 01:06:10,487
+You know who he is?
+
+730
+01:06:10,570 --> 01:06:11,696
+No.
+
+731
+01:06:12,405 --> 01:06:14,491
+I do. One million.
+
+732
+01:06:16,075 --> 01:06:17,160
+Fine.
+
+733
+01:06:17,243 --> 01:06:19,329
+Kaplan, protection detail on client.
+
+734
+01:06:19,412 --> 01:06:22,248
+Chan, Alvarez, we're flushing him out.
+
+735
+01:06:22,332 --> 01:06:23,625
+You got it.
+
+736
+01:06:24,292 --> 01:06:25,877
+Where's the other one? The rookie.
+
+737
+01:06:25,960 --> 01:06:27,212
+We got her here.
+
+738
+01:06:27,295 --> 01:06:28,796
+Dead or alive?
+
+739
+01:06:28,880 --> 01:06:30,048
+Alive.
+
+740
+01:06:30,757 --> 01:06:32,050
+Make her dead.
+
+741
+01:08:15,153 --> 01:08:17,488
+You, there. Identify yourself.
+
+742
+01:08:18,948 --> 01:08:20,325
+Chan. Sector 9.
+
+743
+01:08:20,408 --> 01:08:21,951
+Dredd. Sector 13.
+
+744
+01:08:23,578 --> 01:08:25,496
+Responding to your 10-24.
+
+745
+01:08:31,669 --> 01:08:33,296
+Good to see you, Dredd.
+
+746
+01:08:33,963 --> 01:08:36,174
+Likewise. You alone?
+
+747
+01:08:36,257 --> 01:08:37,884
+Negative. Three man squad.
+
+748
+01:08:37,967 --> 01:08:39,594
+Closing on my vector right now.
+
+749
+01:08:41,179 --> 01:08:42,513
+So relax.
+
+750
+01:08:42,889 --> 01:08:44,599
+Cavalry's here.
+
+751
+01:08:47,060 --> 01:08:48,144
+Two.
+
+752
+01:08:49,062 --> 01:08:50,146
+Two?
+
+753
+01:08:51,105 --> 01:08:53,191
+Two of us called in the 10-24.
+
+754
+01:08:54,901 --> 01:08:57,820
+Wondering why
+you didn't ask about the other one.
+
+755
+01:08:59,572 --> 01:09:00,698
+Lex, move it!
+
+756
+01:09:08,581 --> 01:09:10,208
+Choke on it, Dredd.
+
+757
+01:09:24,138 --> 01:09:25,431
+Choke on that.
+
+758
+01:09:40,697 --> 01:09:42,365
+LEXI Oh, shit!
+
+759
+01:10:05,555 --> 01:10:09,559
+Bet you thought you were gonna
+make your family proud, huh?
+
+760
+01:10:11,686 --> 01:10:13,146
+Not much chance of that now.
+
+761
+01:10:15,273 --> 01:10:18,443
+Now this, I always wanted one of these.
+This is...
+
+762
+01:10:18,526 --> 01:10:19,527
+Ooh!
+
+763
+01:10:20,111 --> 01:10:23,614
+You were shit out of luck
+when you ran into the Ma-Ma clan.
+
+764
+01:10:23,698 --> 01:10:25,283
+But don't feel too bad.
+
+765
+01:10:25,533 --> 01:10:27,535
+I seen a lot of Judges in my time,
+
+766
+01:10:27,618 --> 01:10:29,620
+and you're just not cut out for this.
+
+767
+01:10:30,621 --> 01:10:32,957
+I mean, if you didn't get killed today,
+
+768
+01:10:33,040 --> 01:10:34,417
+it was gonna be tomorrow.
+
+769
+01:10:34,500 --> 01:10:36,502
+Or it was gonna be the day after that.
+
+770
+01:10:38,671 --> 01:10:39,797
+Anyway,
+
+771
+01:10:40,965 --> 01:10:42,717
+today it is.
+
+772
+01:10:46,637 --> 01:10:48,931
+You got any last words, bitch?
+
+773
+01:10:53,686 --> 01:10:54,896
+That's funny.
+
+774
+01:10:56,022 --> 01:10:57,607
+I was gonna ask you that.
+
+775
+01:10:58,816 --> 01:10:59,984
+Bitch.
+
+776
+01:11:47,114 --> 01:11:48,699
+Kay's dead.
+
+777
+01:11:49,116 --> 01:11:50,368
+Find somewhere to hide.
+
+778
+01:11:50,451 --> 01:11:51,911
+Where are you going?
+
+779
+01:11:51,994 --> 01:11:55,456
+I've got the girl cold.
+I see her first, I shoot her.
+
+780
+01:11:55,540 --> 01:11:57,792
+She sees me first, she hesitates,
+
+781
+01:11:57,875 --> 01:11:59,544
+then I shoot her.
+
+782
+01:13:33,012 --> 01:13:35,139
+What's the price of a judge these days?
+
+783
+01:13:37,266 --> 01:13:38,601
+Million.
+
+784
+01:13:43,856 --> 01:13:45,650
+Split four ways.
+
+785
+01:13:50,571 --> 01:13:51,989
+Three ways now.
+
+786
+01:13:53,199 --> 01:13:54,367
+Suits me.
+
+787
+01:13:58,996 --> 01:14:00,665
+Doesn't sound like much.
+
+788
+01:14:04,377 --> 01:14:05,628
+To betray the law.
+
+789
+01:14:12,885 --> 01:14:14,512
+Betray the city.
+
+790
+01:14:18,391 --> 01:14:20,184
+Save that shit for the rookies.
+
+791
+01:14:21,435 --> 01:14:23,646
+Twenty years I've been on the streets.
+
+792
+01:14:25,898 --> 01:14:28,567
+You know what Mega City One is, Dredd?
+
+793
+01:14:30,027 --> 01:14:32,446
+It's a fucking meat grinder.
+
+794
+01:14:33,239 --> 01:14:34,740
+People go in one end.
+
+795
+01:14:41,789 --> 01:14:43,541
+And meat comes out the other.
+
+796
+01:14:48,838 --> 01:14:50,589
+All we do
+
+797
+01:14:51,340 --> 01:14:52,800
+is turn the handle.
+
+798
+01:15:03,853 --> 01:15:04,895
+Rapid fire.
+
+799
+01:15:06,814 --> 01:15:08,691
+Incendiary. Armor piercing.
+
+800
+01:15:10,067 --> 01:15:11,318
+High ex.
+
+801
+01:15:15,906 --> 01:15:17,283
+Motherfucker.
+
+802
+01:15:22,038 --> 01:15:23,289
+Two-way split.
+
+803
+01:15:23,956 --> 01:15:25,875
+Yeah, I'd be breaking a sweat,
+
+804
+01:15:25,958 --> 01:15:27,585
+if you hadn't just run out of bullets.
+
+805
+01:15:44,143 --> 01:15:46,604
+Lower your gun, rookie. I'm your backup.
+
+806
+01:16:08,751 --> 01:16:10,002
+Armor piercing.
+
+807
+01:16:45,871 --> 01:16:46,872
+Wait.
+
+808
+01:16:49,875 --> 01:16:50,876
+Wait?
+
+809
+01:16:52,503 --> 01:16:55,422
+Are you kidding me?
+Did you just say "wait"?
+
+810
+01:16:58,467 --> 01:17:00,052
+Judge Dredd,
+
+811
+01:17:01,804 --> 01:17:03,722
+the Judge Dredd
+
+812
+01:17:04,557 --> 01:17:07,393
+finally gets on the wrong end of a gun,
+
+813
+01:17:07,518 --> 01:17:10,479
+and what he says is "wait."
+
+814
+01:17:12,106 --> 01:17:15,860
+You know what? I expected more of you.
+
+815
+01:17:16,569 --> 01:17:20,573
+I mean, wait for what?
+Wait for me to change my mind?
+
+816
+01:17:20,906 --> 01:17:22,551
+Wait for another two or
+three seconds of life
+
+817
+01:17:22,575 --> 01:17:24,285
+because you're so fucking weak
+
+818
+01:17:24,368 --> 01:17:26,078
+you can't stand to see it end?
+
+819
+01:17:27,246 --> 01:17:28,247
+No.
+
+820
+01:17:35,963 --> 01:17:37,548
+Wait for her to shoot you.
+
+821
+01:17:43,637 --> 01:17:44,889
+Okay.
+
+822
+01:17:45,431 --> 01:17:47,016
+Basic field dressing.
+
+823
+01:18:08,454 --> 01:18:09,788
+Reload.
+
+824
+01:18:17,755 --> 01:18:18,756
+Ready?
+
+825
+01:18:19,256 --> 01:18:20,341
+Yeah.
+
+826
+01:18:21,133 --> 01:18:22,426
+You look ready.
+
+827
+01:18:55,501 --> 01:18:58,963
+No, don't shoot! Please don't shoot me!
+
+828
+01:18:59,046 --> 01:19:02,591
+I'm not armed. I'm not armed.
+I can help you.
+
+829
+01:19:02,675 --> 01:19:03,676
+How?
+
+830
+01:19:04,426 --> 01:19:05,761
+Ma-Ma's in her private quarters,
+
+831
+01:19:05,844 --> 01:19:08,889
+but it's behind 10 inches of steel.
+
+832
+01:19:08,973 --> 01:19:11,267
+So you can't get in there
+without the keypad combination.
+
+833
+01:19:11,350 --> 01:19:13,310
+I can give that to you.
+
+834
+01:19:14,603 --> 01:19:15,763
+I don't need your cooperation
+
+835
+01:19:15,771 --> 01:19:17,606
+to get the combination from you.
+
+836
+01:19:20,025 --> 01:19:21,568
+I'm sorry.
+
+837
+01:19:30,953 --> 01:19:31,996
+Go.
+
+838
+01:19:33,122 --> 01:19:34,790
+Get out of here.
+
+839
+01:19:40,963 --> 01:19:42,589
+Mind explaining yourself, rookie?
+
+840
+01:19:42,673 --> 01:19:45,926
+Abetting a felon is not just a
+fail offense. It's a crime.
+
+841
+01:19:46,010 --> 01:19:49,763
+I already picked up the fail
+when I lost my primary weapon.
+
+842
+01:19:49,847 --> 01:19:50,931
+I'm not gonna be a Judge,
+
+843
+01:19:51,015 --> 01:19:53,475
+and I don't need to be
+a mind-reader to know it.
+
+844
+01:19:53,600 --> 01:19:54,768
+He's a victim, not a perp.
+
+845
+01:19:54,852 --> 01:19:56,603
+And until my assessment is formally over,
+
+846
+01:19:56,687 --> 01:19:58,772
+I'm still entitled to dispense justice.
+
+847
+01:19:58,856 --> 01:20:00,691
+And that's what I just
+did by letting him go.
+
+848
+01:20:02,443 --> 01:20:05,112
+Maybe that'll be
+the one difference I do make.
+
+849
+01:20:05,195 --> 01:20:09,116
+The code to Ma-Ma's chambers is 4-9-4-3-6.
+
+850
+01:20:09,199 --> 01:20:10,534
+Let's finish this.
+
+851
+01:21:39,581 --> 01:21:41,208
+You're a piece of work, Dredd.
+
+852
+01:21:44,086 --> 01:21:45,796
+But then so am I.
+
+853
+01:21:46,964 --> 01:21:48,882
+You think I didn't know
+I'd get busted some day?
+
+854
+01:21:48,966 --> 01:21:50,592
+Goes with the territory.
+
+855
+01:21:51,802 --> 01:21:55,639
+This entire level is rigged
+with enough high explosives
+
+856
+01:21:55,722 --> 01:21:57,724
+to take out the top 50 stories.
+
+857
+01:21:59,059 --> 01:22:01,728
+If they go, the rest go, too.
+
+858
+01:22:05,899 --> 01:22:07,151
+Like the jewelry?
+
+859
+01:22:10,279 --> 01:22:12,656
+It's a transmitter synched
+to my heart beat.
+
+860
+01:22:13,991 --> 01:22:15,993
+My heart stops beating,
+
+861
+01:22:16,952 --> 01:22:21,165
+the building blows. Everyone in it, ash.
+
+862
+01:22:25,502 --> 01:22:27,045
+You got no way out, Judge.
+
+863
+01:22:30,007 --> 01:22:31,508
+Put your gun down.
+
+864
+01:22:33,760 --> 01:22:37,181
+Do you know
+how many people live in this block?
+
+865
+01:22:37,848 --> 01:22:42,352
+This isn't a negotiation.
+The sentence is death.
+
+866
+01:22:43,854 --> 01:22:45,689
+You can't afford to take the risk.
+
+867
+01:23:24,228 --> 01:23:25,979
+We're a kilometer above ground.
+
+868
+01:23:27,397 --> 01:23:30,067
+What do you figure
+the range is on that thing?
+
+869
+01:23:31,485 --> 01:23:33,487
+Could it get through 100
+levels of concrete?
+
+870
+01:23:34,905 --> 01:23:36,532
+How about 200?
+
+871
+01:23:37,574 --> 01:23:39,243
+Let's find out.
+
+872
+01:23:53,674 --> 01:23:57,636
+Citizen Ma-Ma.
+Your crimes are multiple homicide
+
+873
+01:23:57,719 --> 01:24:00,597
+and the manufacture
+and distribution of narcotics.
+
+874
+01:24:01,056 --> 01:24:02,432
+How do you plead?
+
+875
+01:24:09,565 --> 01:24:10,816
+Defense noted.
+
+876
+01:26:37,045 --> 01:26:38,088
+Yeah!
+
+877
+01:27:36,229 --> 01:27:37,355
+Anderson.
+
+878
+01:27:38,648 --> 01:27:39,733
+Victims first.
+
+879
+01:27:39,816 --> 01:27:42,110
+Let the perps lay where they lie, huh?
+
+880
+01:27:44,404 --> 01:27:45,906
+Your assessment's now over.
+
+881
+01:28:02,005 --> 01:28:03,006
+Sir.
+
+882
+01:28:09,638 --> 01:28:11,598
+When I heard you'd called in a 10-24,
+
+883
+01:28:11,681 --> 01:28:13,266
+I thought I'd better check it out.
+
+884
+01:28:13,350 --> 01:28:15,268
+Seeing as I forced the rookie on you.
+
+885
+01:28:15,936 --> 01:28:17,854
+So, what happened in there?
+
+886
+01:28:17,938 --> 01:28:19,272
+Drug bust.
+
+887
+01:28:19,356 --> 01:28:21,274
+Look like you been through it.
+
+888
+01:28:21,358 --> 01:28:22,984
+Perps were uncooperative.
+
+889
+01:28:24,027 --> 01:28:25,445
+So how did she do?
+
+890
+01:28:26,696 --> 01:28:28,865
+She a pass or a fail?
+
+891
+01:28:32,285 --> 01:28:33,829
+Let's take a look, huh?
+
+892
+01:28:34,663 --> 01:28:36,331
+She's a pass.
+
+893
+01:28:37,624 --> 01:28:39,084
+I knew she would be.
+
+894
+01:28:44,297 --> 01:28:45,882
+No time to waste. Let's move.
+
+895
+01:28:45,966 --> 01:28:47,133
+Tell them to go to the back
+
+896
+01:28:47,217 --> 01:28:49,094
+and we will take the front entrance.
+
+897
+01:28:57,853 --> 01:28:59,688
+<i>Mega City One.</i>
+
+898
+01:29:01,147 --> 01:29:02,399
+<i>800 million people</i>
+
+899
+01:29:02,482 --> 01:29:05,277
+<i>living in the ruin of the old world</i>
+
+900
+01:29:05,360 --> 01:29:07,821
+<i>and the mega structures of the new one.</i>
+
+901
+01:29:09,906 --> 01:29:13,535
+<i>Only one thing
+fighting for order in the chaos,</i>
+
+902
+01:29:15,078 --> 01:29:16,413
+<i>Judges.</i>
+
