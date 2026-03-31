@@ -39,7 +39,9 @@ TMDB images are constructed from three components:
 
 No separate API call is needed. The existing `poster_path` and `backdrop_path` fields already stored in the `movies` and `tv_series` tables contain the relative file paths. Images are fetched via direct HTTP GET to the constructed URL.
 
-**Authentication**: TMDB image CDN does **not** require an API key. Image URLs are publicly accessible.
+**Authentication**: TMDB image CDN does **not** require an API key. Image URLs are publicly accessible. (Verified: `curl -sI https://image.tmdb.org/t/p/w342/...` returns `200 OK` with no auth.)
+
+**Content-Type**: TMDB CDN may return images as `image/jpeg`, `image/png`, or `image/webp` depending on the original upload and CDN optimization. The caching layer must preserve the actual Content-Type from the response, not assume JPEG.
 
 **Rate Limits**: TMDB does not enforce strict rate limits on image downloads from `image.tmdb.org`. However, bulk downloads should be throttled to ~10 requests/second to be respectful.
 
@@ -62,7 +64,7 @@ CREATE TABLE image_cache (
   size        TEXT    NOT NULL,   -- TMDB size identifier (e.g., 'w342', 'w780')
   tmdb_path   TEXT,               -- Original TMDB relative path (e.g., '/abc123.jpg')
   image_data  BLOB    NOT NULL,   -- Binary image data (JPEG/PNG)
-  content_type TEXT   NOT NULL DEFAULT 'image/jpeg',  -- MIME type
+  content_type TEXT   NOT NULL,                       -- MIME type (image/jpeg, image/webp, image/png)
   file_size   INTEGER NOT NULL DEFAULT 0,             -- Size in bytes
   fetched_at  TEXT    NOT NULL DEFAULT CURRENT_TIMESTAMP,
   UNIQUE(media_type, media_id, image_type, size)
@@ -97,18 +99,16 @@ export const imageCache = sqliteTable("image_cache", {
   size: text("size").notNull(),                     // 'w342', 'w780', etc.
   tmdb_path: text("tmdb_path"),                     // Original TMDB relative path
   image_data: blob("image_data", { mode: "buffer" }).notNull(),
-  content_type: text("content_type").notNull().default("image/jpeg"),
+  content_type: text("content_type").notNull(),     // image/jpeg, image/webp, image/png
   file_size: integer("file_size").notNull().default(0),
   fetched_at: text("fetched_at").default("CURRENT_TIMESTAMP"),
-}, (t) => ({
-  lookup: unique().on(t.media_type, t.media_id, t.image_type, t.size),
-}));
-
-export const insertImageCacheSchema = createInsertSchema(imageCache).omit({
-  id: true,
-  fetched_at: true,
 });
-export type InsertImageCache = z.infer<typeof insertImageCacheSchema>;
+
+// Note: The UNIQUE constraint on (media_type, media_id, image_type, size) is enforced
+// via raw SQL in the table creation since Drizzle's composite unique constraints 
+// require the uniqueIndex helper. The storage layer uses INSERT OR REPLACE keyed
+// on these four columns.
+
 export type ImageCache = typeof imageCache.$inferSelect;
 ```
 
