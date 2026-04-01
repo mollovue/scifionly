@@ -65,7 +65,8 @@ class ContentRepository {
       final sql = '''
         SELECT m.id, m.tmdb_id, m.title, m.original_title, m.overview,
                m.poster_path, m.backdrop_path, m.release_date, m.status,
-               m.vote_average, m.vote_count, m.popularity, m.original_language
+               m.vote_average, m.vote_count, m.popularity, m.original_language,
+               m.title as sort_title, m.release_date as sort_date
         FROM movies m ${movieWhere.clause}
         ORDER BY $sortSuffix
         LIMIT ? OFFSET ?
@@ -78,7 +79,8 @@ class ContentRepository {
       final sql = '''
         SELECT t.id, t.tmdb_id, t.name, t.original_name, t.overview,
                t.poster_path, t.backdrop_path, t.first_air_date, t.status,
-               t.vote_average, t.vote_count, t.popularity, t.original_language
+               t.vote_average, t.vote_count, t.popularity, t.original_language,
+               t.name as sort_title, t.first_air_date as sort_date
         FROM tv_series t ${tvWhere.clause}
         ORDER BY $sortSuffix
         LIMIT ? OFFSET ?
